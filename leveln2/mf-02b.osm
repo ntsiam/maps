@@ -1,0 +1,239 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2635396907' version='1' lat='48.1610556' lon='11.5862427' />
+  <node id='2635396908' version='1' lat='48.1610623' lon='11.5861422' />
+  <node id='2635396909' version='1' lat='48.1610718' lon='11.5860833' />
+  <node id='2635396910' version='1' lat='48.1610752' lon='11.5859813' />
+  <node id='2635396994' version='1' lat='48.1621517' lon='11.5867821' />
+  <node id='2635396995' version='1' lat='48.1621878' lon='11.5865506' />
+  <node id='2635396998' version='1' lat='48.1621972' lon='11.5864915' />
+  <node id='2635397001' version='1' lat='48.1622221' lon='11.586258' />
+  <node id='2640786472' version='1' lat='48.161446' lon='11.5864382' />
+  <node id='2640786473' version='1' lat='48.1614583' lon='11.5863755' />
+  <node id='2640786474' version='1' lat='48.1614633' lon='11.5863501' />
+  <node id='2640786475' version='1' lat='48.1614748' lon='11.5862917' />
+  <node id='2640786476' version='1' lat='48.1614863' lon='11.5862336' />
+  <node id='2640786477' version='1' lat='48.1614974' lon='11.586172' />
+  <node id='2640786478' version='1' lat='48.1615018' lon='11.5861462' />
+  <node id='2640786479' version='1' lat='48.1615132' lon='11.5860878' />
+  <node id='2640786481' version='1' lat='48.161552' lon='11.5864156' />
+  <node id='2640786482' version='1' lat='48.1615575' lon='11.5863904' />
+  <node id='2640786484' version='1' lat='48.1615928' lon='11.5862071' />
+  <node id='2640786485' version='1' lat='48.1615982' lon='11.5861818' />
+  <node id='2640786490' version='1' lat='48.1617102' lon='11.5865648' />
+  <node id='2640786491' version='1' lat='48.1617259' lon='11.5864799' />
+  <node id='2640786492' version='1' lat='48.1617427' lon='11.586389' />
+  <node id='2640786497' version='1' lat='48.1616306' lon='11.5864375' />
+  <node id='2640786549' version='1' lat='48.1618102' lon='11.5866142' />
+  <node id='2640786571' version='1' lat='48.1618275' lon='11.5865257' />
+  <node id='2640786573' version='1' lat='48.161857' lon='11.5863678' />
+  <node id='2640786577' version='1' lat='48.1618465' lon='11.5864266' />
+  <node id='2640786583' version='1' lat='48.1618721' lon='11.5862914' />
+  <node id='2640786585' version='1' lat='48.1618939' lon='11.5861794' />
+  <node id='3220193491' version='1' lat='48.1618535' lon='11.5865363' />
+  <node id='3220193496' version='1' lat='48.1618964' lon='11.586302' />
+  <node id='3526454161' version='1' lat='48.1616116' lon='11.5861112' />
+  <node id='3526454167' version='1' lat='48.1616705' lon='11.5862233' />
+  <node id='3526454172' version='1' lat='48.1617541' lon='11.5863307' />
+  <node id='3526454177' version='1' lat='48.1617667' lon='11.5862569' />
+  <node id='3526454181' version='1' lat='48.1617861' lon='11.5861535' />
+  <way id='258139212' action='modify' version='1'>
+    <nd ref='2635396908' />
+    <nd ref='2640786475' />
+    <nd ref='2640786492' />
+    <nd ref='2640786577' />
+    <nd ref='2635396995' />
+    <nd ref='2635396994' />
+    <nd ref='2640786549' />
+    <nd ref='2640786490' />
+    <nd ref='2640786472' />
+    <nd ref='2635396907' />
+    <nd ref='2635396908' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Münchner Freiheit U3 U6 Bahnsteig' />
+    <tag k='height' v='1.05' />
+    <tag k='layer' v='-3' />
+    <tag k='level' v='-2' />
+    <tag k='name' v='U3 U6 Bahnsteig' />
+    <tag k='narrow' v='no' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='1;3' />
+    <tag k='subway' v='yes' />
+    <tag k='tunnel' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='258139213' action='modify' version='1'>
+    <nd ref='2635397001' />
+    <nd ref='2635396998' />
+    <nd ref='2640786573' />
+    <nd ref='3526454172' />
+    <nd ref='2640786476' />
+    <nd ref='2635396909' />
+    <nd ref='2635396910' />
+    <nd ref='2640786479' />
+    <nd ref='3526454161' />
+    <nd ref='3526454181' />
+    <nd ref='2640786585' />
+    <nd ref='2635397001' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Münchner Freiheit U3 U6 Bahnsteig' />
+    <tag k='height' v='1.05' />
+    <tag k='layer' v='-3' />
+    <tag k='level' v='-2' />
+    <tag k='name' v='U3 U6 Bahnsteig' />
+    <tag k='narrow' v='no' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ref' v='2;4' />
+    <tag k='subway' v='yes' />
+    <tag k='tunnel' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='258747529' version='1'>
+    <nd ref='2640786477' />
+    <nd ref='2640786484' />
+    <tag k='conveying' v='yes' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='indoor' v='yes' />
+    <tag k='layer' v='-2' />
+    <tag k='level' v='-2;-1' />
+    <tag k='ref' v='MU16' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='258747539' version='1'>
+    <nd ref='3220193491' />
+    <nd ref='2640786571' />
+    <tag k='description' v='Aufzug' />
+    <tag k='highway' v='footway' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='-2' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='258747546' version='1'>
+    <nd ref='2640786491' />
+    <nd ref='2640786497' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='indoor' v='yes' />
+    <tag k='layer' v='-2' />
+    <tag k='level' v='-2;-1' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='258747549' version='1'>
+    <nd ref='3220193496' />
+    <nd ref='2640786583' />
+    <tag k='description' v='Aufzug' />
+    <tag k='highway' v='footway' />
+    <tag k='indoor' v='yes' />
+    <tag k='level' v='-2' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='258747550' version='1'>
+    <nd ref='2640786474' />
+    <nd ref='2640786482' />
+    <tag k='conveying' v='yes' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='indoor' v='yes' />
+    <tag k='layer' v='-2' />
+    <tag k='level' v='-2;-1' />
+    <tag k='ref' v='MU13' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='258747551' version='1'>
+    <nd ref='2640786473' />
+    <nd ref='2640786481' />
+    <tag k='conveying' v='yes' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='indoor' v='yes' />
+    <tag k='layer' v='-2' />
+    <tag k='level' v='-2;-1' />
+    <tag k='ref' v='MU14' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='258747555' version='1'>
+    <nd ref='2640786492' />
+    <nd ref='2640786491' />
+    <nd ref='2640786490' />
+    <tag k='highway' v='footway' />
+    <tag k='indoor' v='yes' />
+    <tag k='layer' v='-3' />
+    <tag k='level' v='-2' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='258747558' version='1'>
+    <nd ref='2640786585' />
+    <nd ref='2640786583' />
+    <nd ref='2640786573' />
+    <tag k='highway' v='footway' />
+    <tag k='indoor' v='yes' />
+    <tag k='layer' v='-3' />
+    <tag k='level' v='-2' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='258747560' version='1'>
+    <nd ref='2640786577' />
+    <nd ref='2640786571' />
+    <nd ref='2640786549' />
+    <tag k='highway' v='footway' />
+    <tag k='indoor' v='yes' />
+    <tag k='layer' v='-3' />
+    <tag k='level' v='-2' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='258747562' version='1'>
+    <nd ref='2640786475' />
+    <nd ref='2640786474' />
+    <nd ref='2640786473' />
+    <nd ref='2640786472' />
+    <tag k='highway' v='footway' />
+    <tag k='indoor' v='yes' />
+    <tag k='layer' v='-3' />
+    <tag k='level' v='-2' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='258747565' version='1'>
+    <nd ref='2640786479' />
+    <nd ref='2640786478' />
+    <nd ref='2640786477' />
+    <nd ref='2640786476' />
+    <tag k='highway' v='footway' />
+    <tag k='indoor' v='yes' />
+    <tag k='layer' v='-3' />
+    <tag k='level' v='-2' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='346040139' version='1'>
+    <nd ref='3526454177' />
+    <nd ref='3526454167' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='indoor' v='yes' />
+    <tag k='layer' v='-2' />
+    <tag k='level' v='-2;-1' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='346040141' version='1'>
+    <nd ref='2640786478' />
+    <nd ref='2640786485' />
+    <tag k='conveying' v='yes' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='indoor' v='yes' />
+    <tag k='layer' v='-2' />
+    <tag k='level' v='-2;-1' />
+    <tag k='ref' v='MU15' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='346040144' version='1'>
+    <nd ref='3526454181' />
+    <nd ref='3526454177' />
+    <nd ref='3526454172' />
+    <tag k='highway' v='footway' />
+    <tag k='indoor' v='yes' />
+    <tag k='layer' v='-3' />
+    <tag k='level' v='-2' />
+    <tag k='tunnel' v='yes' />
+  </way>
+</osm>

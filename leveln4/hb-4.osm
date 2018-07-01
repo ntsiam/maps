@@ -1,0 +1,472 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='544822876' version='1' lat='48.1406419' lon='11.5612224' />
+  <node id='544822884' version='1' lat='48.140781' lon='11.5612989' />
+  <node id='2550278896' version='1' lat='48.1395526' lon='11.561174' />
+  <node id='2550278897' version='1' lat='48.13957' lon='11.5609573' />
+  <node id='2550278898' version='1' lat='48.1395601' lon='11.5610608' />
+  <node id='2550278902' version='1' lat='48.1395776' lon='11.5608449' />
+  <node id='2550278903' version='1' lat='48.1400628' lon='11.5609184' />
+  <node id='2550278907' version='1' lat='48.1406343' lon='11.5613356' />
+  <node id='2550278908' version='1' lat='48.1406385' lon='11.5612763' />
+  <node id='2550278909' version='1' lat='48.1406466' lon='11.5611206' />
+  <node id='2550278910' version='1' lat='48.1406505' lon='11.561062' />
+  <node id='2550278911' version='1' lat='48.1406542' lon='11.5610081' />
+  <node id='2550278912' version='1' lat='48.1407936' lon='11.5610834' />
+  <node id='2703785663' version='1' lat='48.1398334' lon='11.5612164' />
+  <node id='2703785664' version='1' lat='48.1398483' lon='11.5611753' />
+  <node id='2703785666' version='1' lat='48.1398501' lon='11.5611472' />
+  <node id='2703785668' version='1' lat='48.1398401' lon='11.5611032' />
+  <node id='2703785670' version='1' lat='48.1398473' lon='11.5609993' />
+  <node id='2703785671' version='1' lat='48.1398632' lon='11.5609559' />
+  <node id='2703785673' version='1' lat='48.1398651' lon='11.5609276' />
+  <node id='2703785674' version='1' lat='48.1398552' lon='11.5608869' />
+  <node id='2703785676' version='1' lat='48.1399465' lon='11.561189' />
+  <node id='2703785678' version='1' lat='48.1399484' lon='11.561161' />
+  <node id='2703785681' version='1' lat='48.1399611' lon='11.5609709' />
+  <node id='2703785683' version='1' lat='48.139963' lon='11.5609426' />
+  <node id='2703785686' version='1' lat='48.1401851' lon='11.5612246' />
+  <node id='2703785688' version='1' lat='48.1401869' lon='11.5611974' />
+  <node id='2703785692' version='1' lat='48.1401995' lon='11.5610101' />
+  <node id='2703785694' version='1' lat='48.1402013' lon='11.5609836' />
+  <node id='2703785696' version='1' lat='48.1403022' lon='11.5612859' />
+  <node id='2703785697' version='1' lat='48.1402835' lon='11.5612387' />
+  <node id='2703785699' version='1' lat='48.1402852' lon='11.5612115' />
+  <node id='2703785700' version='1' lat='48.140309' lon='11.5611727' />
+  <node id='2703785704' version='1' lat='48.1403141' lon='11.5610702' />
+  <node id='2703785705' version='1' lat='48.1402973' lon='11.5610249' />
+  <node id='2703785707' version='1' lat='48.140299' lon='11.5609984' />
+  <node id='2703785708' version='1' lat='48.1403212' lon='11.5609576' />
+  <node id='2703838166' version='1' lat='48.1393071' lon='11.5608418' />
+  <node id='2703838180' version='1' lat='48.1394789' lon='11.561124' />
+  <node id='2703838182' version='1' lat='48.1394811' lon='11.5610923' />
+  <node id='2703838183' version='1' lat='48.1394964' lon='11.5609072' />
+  <node id='2703838185' version='1' lat='48.1394996' lon='11.5608715' />
+  <node id='2703838187' version='1' lat='48.1395551' lon='11.5611365' />
+  <node id='2703838189' version='1' lat='48.1395573' lon='11.5611033' />
+  <node id='2703838190' version='1' lat='48.1395726' lon='11.5609189' />
+  <node id='2703838191' version='1' lat='48.1395751' lon='11.5608825' />
+  <node id='3530742998' version='1' lat='48.140015' lon='11.5611989' />
+  <node id='3530743000' version='1' lat='48.1400167' lon='11.5611702' />
+  <node id='3530743003' version='1' lat='48.1400289' lon='11.5609836' />
+  <node id='3530743005' version='1' lat='48.1400311' lon='11.5609539' />
+  <node id='3530743008' version='1' lat='48.1400251' lon='11.5611858' />
+  <node id='3530743010' version='1' lat='48.1400393' lon='11.5609705' />
+  <node id='3530743011' version='1' lat='48.1400335' lon='11.5612014' />
+  <node id='3530743013' version='1' lat='48.1400352' lon='11.5611727' />
+  <node id='3530743016' version='1' lat='48.140047' lon='11.5609866' />
+  <node id='3530743020' version='1' lat='48.1400492' lon='11.5609569' />
+  <node id='3530759790' version='1' lat='48.1400412' lon='11.561247' />
+  <node id='3530759791' version='1' lat='48.1400448' lon='11.5611883' />
+  <node id='3530759792' version='1' lat='48.1400546' lon='11.5610308' />
+  <node id='3530759993' version='1' lat='48.1400478' lon='11.5611337' />
+  <node id='3530759994' version='1' lat='48.1400587' lon='11.5609736' />
+  <node id='3566462651' version='1' lat='48.1398368' lon='11.5611588' />
+  <node id='3566462654' version='1' lat='48.1403057' lon='11.5612283' />
+  <node id='3571451697' version='1' lat='48.1398517' lon='11.560936' />
+  <node id='3571451702' version='1' lat='48.1403175' lon='11.5610155' />
+  <node id='3588058238' version='1' lat='48.140636' lon='11.5613023' />
+  <node id='3588058239' version='1' lat='48.1406404' lon='11.5612499' />
+  <node id='3588058240' version='1' lat='48.1406486' lon='11.5610894' />
+  <node id='3588058241' version='1' lat='48.1406523' lon='11.5610356' />
+  <node id='3588058242' version='1' lat='48.1407789' lon='11.5613255' />
+  <node id='3588058243' version='1' lat='48.1407829' lon='11.5612731' />
+  <node id='3588058244' version='1' lat='48.1407918' lon='11.5611108' />
+  <node id='3588058245' version='1' lat='48.1407952' lon='11.561057' />
+  <node id='3756068280' version='1' lat='48.1393153' lon='11.5610033' />
+  <node id='3778288662' version='1' lat='48.1400349' lon='11.561187' />
+  <node id='3778288664' version='1' lat='48.1400487' lon='11.560972' />
+  <way id='43338416' action='modify' version='1'>
+    <nd ref='544822876' />
+    <nd ref='2550278908' />
+    <nd ref='2550278907' />
+    <nd ref='2703785696' />
+    <nd ref='3530759790' />
+    <nd ref='2703785663' />
+    <nd ref='2550278896' />
+    <nd ref='2703838187' />
+    <nd ref='2703838189' />
+    <nd ref='2550278898' />
+    <nd ref='2703785668' />
+    <nd ref='3530759993' />
+    <nd ref='2703785700' />
+    <nd ref='544822876' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Hauptbahnhof U1 U2 U7 U8 Bahnsteig' />
+    <tag k='height' v='1.00' />
+    <tag k='layer' v='-4' />
+    <tag k='level' v='-4' />
+    <tag k='name' v='Hauptbahnhof U1 U2 U7 U8 Bahnsteig' />
+    <tag k='narrow' v='no' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ramp:wheelchair' v='yes' />
+    <tag k='subway' v='yes' />
+    <tag k='tunnel' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='248195236' action='modify' version='1'>
+    <nd ref='2550278911' />
+    <nd ref='2550278910' />
+    <nd ref='2550278909' />
+    <nd ref='2703785704' />
+    <nd ref='3530759792' />
+    <nd ref='2703785670' />
+    <nd ref='2550278897' />
+    <nd ref='2703838190' />
+    <nd ref='2703838191' />
+    <nd ref='2550278902' />
+    <nd ref='2703785674' />
+    <nd ref='2550278903' />
+    <nd ref='2703785708' />
+    <nd ref='2550278911' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Hauptbahnhof U1 U2 U7 U8 Bahnsteig' />
+    <tag k='height' v='1.00' />
+    <tag k='layer' v='-4' />
+    <tag k='level' v='-4' />
+    <tag k='name' v='Hauptbahnhof U1 U2 U7 U8 Bahnsteig' />
+    <tag k='narrow' v='no' />
+    <tag k='public_transport' v='platform' />
+    <tag k='ramp:wheelchair' v='yes' />
+    <tag k='subway' v='yes' />
+    <tag k='tunnel' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='264725216' version='1'>
+    <nd ref='2703785678' />
+    <nd ref='2703785666' />
+    <tag k='conveying' v='forward' />
+    <tag k='description' v='Rolltreppe HU22' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='down' />
+    <tag k='level' v='-3;-4' />
+    <tag k='ref' v='HU22' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='264725217' version='1'>
+    <nd ref='2703785683' />
+    <nd ref='2703785673' />
+    <tag k='conveying' v='forward' />
+    <tag k='description' v='Rolltreppe HU24' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='down' />
+    <tag k='level' v='-3;-4' />
+    <tag k='ref' v='HU24' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='264725221' version='1'>
+    <nd ref='2703785686' />
+    <nd ref='2703785697' />
+    <tag k='conveying' v='forward' />
+    <tag k='description' v='Rolltreppe HU28' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='down' />
+    <tag k='level' v='-3;-4' />
+    <tag k='ref' v='HU28' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='264725224' version='1'>
+    <nd ref='2703785692' />
+    <nd ref='2703785705' />
+    <tag k='conveying' v='forward' />
+    <tag k='description' v='Rolltreppe HU26' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='down' />
+    <tag k='level' v='-3;-4' />
+    <tag k='ref' v='HU26' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='264725225' version='1'>
+    <nd ref='2703785664' />
+    <nd ref='2703785676' />
+    <tag k='conveying' v='forward' />
+    <tag k='description' v='Rolltreppe HU21' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='-3;-4' />
+    <tag k='ref' v='HU21' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='264725226' version='1'>
+    <nd ref='2703785671' />
+    <nd ref='2703785681' />
+    <tag k='conveying' v='forward' />
+    <tag k='description' v='Rolltreppe HU23' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='-3;-4' />
+    <tag k='ref' v='HU23' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='264725227' version='1'>
+    <nd ref='2703785707' />
+    <nd ref='2703785694' />
+    <tag k='conveying' v='forward' />
+    <tag k='description' v='Rolltreppe HU25' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='-3;-4' />
+    <tag k='ref' v='HU25' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='264725234' version='1'>
+    <nd ref='2703785663' />
+    <nd ref='3566462651' />
+    <nd ref='2703785668' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-4' />
+    <tag k='level' v='-4' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='264725239' version='1'>
+    <nd ref='2703785700' />
+    <nd ref='3566462654' />
+    <nd ref='2703785696' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-4' />
+    <tag k='level' v='-4' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='264725240' version='1'>
+    <nd ref='2703785674' />
+    <nd ref='3571451697' />
+    <nd ref='2703785670' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-4' />
+    <tag k='level' v='-4' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='264732452' version='1'>
+    <nd ref='2703838180' />
+    <nd ref='2703838187' />
+    <tag k='conveying' v='forward' />
+    <tag k='description' v='Rolltreppe HU35' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='down' />
+    <tag k='level' v='-3;-4' />
+    <tag k='ref' v='HU35' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='264732455' action='modify' version='1'>
+    <nd ref='2703838182' />
+    <nd ref='2703838189' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='down' />
+    <tag k='level' v='-3;-4' />
+    <tag k='name' v='to -3' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='264732456' version='1'>
+    <nd ref='2703838190' />
+    <nd ref='2703838183' />
+    <tag k='conveying' v='forward' />
+    <tag k='description' v='Rolltreppe HU36' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='-3;-4' />
+    <tag k='ref' v='HU36' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='264732458' action='modify' version='1'>
+    <nd ref='2703838185' />
+    <nd ref='2703838191' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='down' />
+    <tag k='level' v='-3;-4' />
+    <tag k='name' v='to -3' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='267015527' version='1'>
+    <nd ref='2703785699' />
+    <nd ref='2703785688' />
+    <tag k='conveying' v='forward' />
+    <tag k='description' v='Rolltreppe HU27' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='-3;-4' />
+    <tag k='ref' v='HU27' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='344878351' version='1'>
+    <nd ref='3756068280' />
+    <nd ref='2703838166' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='layer' v='-2' />
+    <tag k='level' v='-3;-4' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='346567444' version='1'>
+    <nd ref='3530743000' />
+    <nd ref='3530743013' />
+    <nd ref='3530743011' />
+    <nd ref='3530742998' />
+    <nd ref='3530743000' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Lift HO02' />
+    <tag k='highway' v='elevator' />
+    <tag k='level' v='-4' />
+    <tag k='levelpart' v='elevator_platform' />
+    <tag k='operator' v='MVG' />
+    <tag k='ref' v='HO02' />
+  </way>
+  <way id='346567447' version='1'>
+    <nd ref='3530743005' />
+    <nd ref='3530743020' />
+    <nd ref='3530743016' />
+    <nd ref='3530743003' />
+    <nd ref='3530743005' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Lift HO01' />
+    <tag k='highway' v='elevator' />
+    <tag k='level' v='-4' />
+    <tag k='levelpart' v='elevator_platform' />
+    <tag k='operator' v='MVG' />
+    <tag k='ref' v='HO01' />
+  </way>
+  <way id='346569326' version='1'>
+    <nd ref='3530759791' />
+    <nd ref='3530759790' />
+    <tag k='bicycle' v='no' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='-4' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='346569327' version='1'>
+    <nd ref='3530759994' />
+    <nd ref='3530759792' />
+    <tag k='bicycle' v='no' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='-4' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='346569328' version='1'>
+    <nd ref='3530743010' />
+    <nd ref='3778288664' />
+    <nd ref='3530759994' />
+    <nd ref='2550278903' />
+    <tag k='bicycle' v='no' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='-4' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='346569329' version='1'>
+    <nd ref='3530743008' />
+    <nd ref='3778288662' />
+    <nd ref='3530759791' />
+    <nd ref='3530759993' />
+    <tag k='bicycle' v='no' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='-4' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='350932506' version='1'>
+    <nd ref='2703785697' />
+    <nd ref='3566462654' />
+    <nd ref='2703785699' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-4' />
+    <tag k='level' v='-4' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='350932507' version='1'>
+    <nd ref='2703785664' />
+    <nd ref='3566462651' />
+    <nd ref='2703785666' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-4' />
+    <tag k='level' v='-4' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='351387413' version='1'>
+    <nd ref='2703785708' />
+    <nd ref='3571451702' />
+    <nd ref='2703785704' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-4' />
+    <tag k='level' v='-4' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='351387418' version='1'>
+    <nd ref='2703785673' />
+    <nd ref='3571451697' />
+    <nd ref='2703785671' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-4' />
+    <tag k='level' v='-4' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='351387421' version='1'>
+    <nd ref='2703785707' />
+    <nd ref='3571451702' />
+    <nd ref='2703785705' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-4' />
+    <tag k='level' v='-4' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='353022835' action='modify' version='1'>
+    <nd ref='2550278910' />
+    <nd ref='2550278912' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='-3;-4' />
+    <tag k='name' v='to -3' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='353022836' version='1'>
+    <nd ref='3588058239' />
+    <nd ref='3588058243' />
+    <tag k='conveying' v='backward' />
+    <tag k='description' v='Rolltreppe HU30' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='-3;-4' />
+    <tag k='ref' v='HU30' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='353022837' version='1'>
+    <nd ref='3588058240' />
+    <nd ref='3588058244' />
+    <tag k='conveying' v='forward' />
+    <tag k='description' v='Rolltreppe HU31' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='-3;-4' />
+    <tag k='ref' v='HU31' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='353022838' action='modify' version='1'>
+    <nd ref='2550278908' />
+    <nd ref='544822884' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='-3;-4' />
+    <tag k='name' v='to -3' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='353022841' version='1'>
+    <nd ref='3588058238' />
+    <nd ref='3588058242' />
+    <tag k='conveying' v='forward' />
+    <tag k='description' v='Rolltreppe HU29' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='-3;-4' />
+    <tag k='ref' v='HU29' />
+    <tag k='tunnel' v='yes' />
+  </way>
+  <way id='353022849' version='1'>
+    <nd ref='3588058241' />
+    <nd ref='3588058245' />
+    <tag k='conveying' v='backward' />
+    <tag k='description' v='Rolltreppe HU32' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='-3;-4' />
+    <tag k='ref' v='HU32' />
+    <tag k='tunnel' v='yes' />
+  </way>
+</osm>
