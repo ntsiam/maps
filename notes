@@ -1,0 +1,58 @@
+1To change max zoom
+  Change max zoom inside src/mod_tile/includes/render_config.h before compiling mod_tile
+
+2. Make transparent background for tiles
+  Open ~/osm2pgsql/src/openstreetmap-carto/mapnik.xml
+  Change <Map background-color to #00000000
+  Replace everywhere f2efe9 with 00000000
+	Vim: %s/f2efe9/00000000/g
+  ALTERNATIVE, probably better solution: Change corresponding attribute values inside openstreetmap-carto/style.mss
+
+3. After every change to any of the tile related configuration files:
+rm -rf /var/lib/mod_tile/*
+sudo service apache2 reload
+sudo service apache2 reload
+sudo /etc/init.d/renderd restart
+
+4.Add multiple levels
+ - create multiple gis databases (gis1, gis2, etc) with the corresponding data:
+    - osm2pgsql -d gis --create --slim  -G --hstore --tag-transform-script ~/src/openstreetmap-carto/openstreetmap-carto.lua -C 2500 --number-processes 1 -S ~/src/openstreetmap-carto/openstreetmap-carto.style ~/data/azerbaijan-latest.osm.pbf
+ - copy openstreetmap-carto/mapnik.xml file to multiple mapnik[1,2,3].xml etc
+ - In each mapnik.xml file change the file to use instead of gis the appropriate database for the level. 
+   For example, for level 1, make the following change using vim: 
+	%s/\[gis\]/\[gis1\]/g  //replaces gis with gis1
+ - Change file /usr/local/etc/renderd.conf to use the multiple mapnik.xml files:
+	```
+	[level1]
+	URI=/hot1/
+	TILEDIR=/var/lib/mod_tile
+	XML=/home/ubuntu/src/openstreetmap-carto/mapnik1.xml
+	HOST=localhost
+	TILESIZE=512
+	MAXZOOM=25
+	```	
+5. Change tile style (e.g. make building walls thicker)
+ - Change the corresponding .mss file in openstreetmap-carto. For example, to make thicker walls, change buildings.mss -> change line-width
+ - then run carto project.mml > mapnik.xml which translates the styles to mapnik instructions
+ - This step should be run BEFORE other changes to mapnik.xml (e.g. before adding multiple levels or making the background transparent)
+- If you need to add a new tag to be handled differently in the .mss, e.g to define a different rendering of buildings with an "amenity" tag:
+```
+#buildings {
+  [zoom >= 13] {
+    [amenity = 'place_of_worship1'] {
+      polygon-fill: @corridor-fill;
+    }
+  }
+}
+```
+
+Then make sure that this is also selected in the project.mml SELECT corresponding command. e.g, to select buildings that also have a tag "amenity":
+```
+        (SELECT
+            way,
+            building,
+            amenity
+
+```
+
+6. If it is AWS EC2 don't forget to open inbound traffic to port 80 for the secufiry group that is assigned to the instance
