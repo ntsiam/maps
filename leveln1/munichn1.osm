@@ -11,6 +11,8 @@
     <tag k='ref' v='L' />
     <tag k='wheelchair' v='no' />
   </node>
+  <node id='293379518' version='1' lat='48.1710899' lon='11.528411' />
+  <node id='293379530' version='1' lat='48.1695111' lon='11.5285241' />
   <node id='332544456' version='1' lat='48.141391' lon='11.5609904'>
     <tag k='description' v='Hauptbahnhof' />
     <tag k='entrance' v='yes' />
@@ -66,6 +68,8 @@
     <tag k='railway' v='subway_entrance' />
     <tag k='wheelchair' v='no' />
   </node>
+  <node id='565449876' version='1' lat='48.169045' lon='11.5283272' />
+  <node id='565449879' version='1' lat='48.1690844' lon='11.5289243' />
   <node id='611778945' action='delete' version='1' lat='48.1380757' lon='11.5647086' />
   <node id='611778946' action='delete' version='1' lat='48.1380245' lon='11.5654917' />
   <node id='701376181' version='1' lat='48.1415184' lon='11.5597366' />
@@ -168,6 +172,48 @@
   </node>
   <node id='2550278895' version='1' lat='48.1394643' lon='11.5609732' />
   <node id='2550278899' version='1' lat='48.1396716' lon='11.5609484' />
+  <node id='2550376606' version='1' lat='48.1690329' lon='11.5284765' />
+  <node id='2550376609' version='1' lat='48.1690477' lon='11.5287791' />
+  <node id='2550376611' version='1' lat='48.1690496' lon='11.5284747' />
+  <node id='2550376613' version='1' lat='48.1690728' lon='11.5286444' />
+  <node id='2550376615' version='1' lat='48.1690787' lon='11.5287757' />
+  <node id='2550376617' version='1' lat='48.1690826' lon='11.5286862' />
+  <node id='2550376619' version='1' lat='48.1690881' lon='11.5287747' />
+  <node id='2550376621' version='1' lat='48.1692907' lon='11.5283431' />
+  <node id='2550376623' version='1' lat='48.1693018' lon='11.5285762' />
+  <node id='2550376629' version='1' lat='48.1693127' lon='11.5280674' />
+  <node id='2550376631' version='1' lat='48.1693704' lon='11.5284653' />
+  <node id='2550376633' version='1' lat='48.1695089' lon='11.5285004' />
+  <node id='2550376637' version='1' lat='48.1695077' lon='11.5286424' />
+  <node id='2550376641' version='1' lat='48.1696097' lon='11.5285149' />
+  <node id='2552664491' version='1' lat='48.1690598' lon='11.5287778' />
+  <node id='2552664496' version='1' lat='48.1690655' lon='11.5289259' />
+  <node id='2552664512' version='1' lat='48.1692925' lon='11.5281953' />
+  <node id='2552664515' version='1' lat='48.1692986' lon='11.5283426' />
+  <node id='2552664516' version='1' lat='48.1692837' lon='11.5278733'>
+    <tag k='entrance' v='yes' />
+    <tag k='entrance_marker:subway' v='yes' />
+    <tag k='name' v='E' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='ref' v='E' />
+    <tag k='subway_entrance' v='yes' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2552664518' version='1' lat='48.1693129' lon='11.5281934' />
+  <node id='2552664521' version='1' lat='48.1693523' lon='11.5284939' />
+  <node id='2552664523' version='1' lat='48.1693189' lon='11.5283413' />
+  <node id='2552664526' version='1' lat='48.1693574' lon='11.5286124' />
+  <node id='2552664543' version='1' lat='48.1696322' lon='11.5285643'>
+    <tag k='entrance' v='yes' />
+    <tag k='entrance_marker:subway' v='yes' />
+    <tag k='name' v='B' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='ref' v='B' />
+    <tag k='subway_entrance' v='yes' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2552664554' version='1' lat='48.1696678' lon='11.5285348' />
+  <node id='2552664575' version='1' lat='48.1710911' lon='11.5284465' />
   <node id='2574276028' version='1' lat='48.1402265' lon='11.5604207' />
   <node id='2635396912' version='1' lat='48.1614683' lon='11.5865996' />
   <node id='2635396913' version='1' lat='48.1614731' lon='11.5865764' />
@@ -624,6 +670,22 @@
     <tag k='addr:street' v='Prielmayerstraße' />
     <tag k='entrance' v='yes' />
   </node>
+  <node id='3159030247' version='1' lat='48.1693017' lon='11.5281745' />
+  <node id='3159030248' version='1' lat='48.1694712' lon='11.5285523' />
+  <node id='3159030249' version='1' lat='48.169513' lon='11.5285679' />
+  <node id='3159030250' version='1' lat='48.1696112' lon='11.5285588' />
+  <node id='3159030251' version='1' lat='48.1695065' lon='11.5286216' />
+  <node id='3159030260' version='1' lat='48.1707002' lon='11.5284384' />
+  <node id='3159030861' version='1' lat='48.1707016' lon='11.5284782' />
+  <node id='3159030862' version='1' lat='48.170798' lon='11.5283993' />
+  <node id='3159030863' version='1' lat='48.1707986' lon='11.5284309' />
+  <node id='3159030864' version='1' lat='48.1707994' lon='11.5284708' />
+  <node id='3159030865' version='1' lat='48.1708005' lon='11.5285237' />
+  <node id='3159030866' version='1' lat='48.170894' lon='11.5284426' />
+  <node id='3159030868' version='1' lat='48.1709907' lon='11.5283906' />
+  <node id='3159030869' version='1' lat='48.1709913' lon='11.5284187' />
+  <node id='3159030870' version='1' lat='48.170992' lon='11.5284543' />
+  <node id='3159030871' version='1' lat='48.1709932' lon='11.528515' />
   <node id='3220193479' version='1' lat='48.1616583' lon='11.5867044' />
   <node id='3220193486' version='1' lat='48.1617404' lon='11.5860823' />
   <node id='3220193491' version='1' lat='48.1618535' lon='11.5865363' />
@@ -695,6 +757,8 @@
   <node id='3391209542' action='delete' version='1' lat='48.1380515' lon='11.5650841' />
   <node id='3391209569' action='delete' version='1' lat='48.1389783' lon='11.5650795' />
   <node id='3391209570' action='delete' version='1' lat='48.1390516' lon='11.5649641' />
+  <node id='3392509046' version='1' lat='48.1690666' lon='11.5284728' />
+  <node id='3392509047' version='1' lat='48.1690744' lon='11.5286014' />
   <node id='3393721849' version='1' lat='48.1394474' lon='11.5604876' />
   <node id='3393721851' version='1' lat='48.1394874' lon='11.5607579' />
   <node id='3393721855' version='1' lat='48.1401175' lon='11.560875' />
@@ -1274,6 +1338,54 @@
   <node id='3813820519' action='delete' version='1' lat='48.1400098' lon='11.5651211' />
   <node id='3814019234' version='1' lat='48.1412608' lon='11.5609532' />
   <node id='3816982401' version='1' lat='48.1625728' lon='11.586639' />
+  <node id='3869651094' version='1' lat='48.1692795' lon='11.5280706' />
+  <node id='3869651095' version='1' lat='48.1692843' lon='11.5281737' />
+  <node id='3869651096' version='1' lat='48.169285' lon='11.5279218' />
+  <node id='3869651097' version='1' lat='48.1692925' lon='11.5280692' />
+  <node id='3869651099' version='1' lat='48.1693009' lon='11.5281569'>
+    <tag k='entrance' v='yes' />
+    <tag k='entrance_marker:subway' v='yes' />
+    <tag k='name' v='Westfriedhof' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='subway_entrance' v='yes' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='3869651101' version='1' lat='48.1693235' lon='11.5281693' />
+  <node id='3869651102' version='1' lat='48.1693308' lon='11.5283406' />
+  <node id='3869651104' version='1' lat='48.1693342' lon='11.5281267' />
+  <node id='3869651106' version='1' lat='48.1693501' lon='11.5280976' />
+  <node id='3869651109' version='1' lat='48.1695108' lon='11.5284824' />
+  <node id='3869651110' version='1' lat='48.1695059' lon='11.5286017' />
+  <node id='3869651111' version='1' lat='48.1695147' lon='11.5286002' />
+  <node id='3869651113' version='1' lat='48.1696017' lon='11.5285872' />
+  <node id='3869651115' version='1' lat='48.1696186' lon='11.5284906' />
+  <node id='3869651116' version='1' lat='48.169626' lon='11.5284694' />
+  <node id='3869651117' version='1' lat='48.1696356' lon='11.5284433' />
+  <node id='3869651118' version='1' lat='48.1696409' lon='11.5285571' />
+  <node id='3869651119' version='1' lat='48.1696477' lon='11.5285348' />
+  <node id='3869651121' version='1' lat='48.1696574' lon='11.5285142' />
+  <node id='3869651123' version='1' lat='48.1696675' lon='11.5285141' />
+  <node id='3869651124' version='1' lat='48.1696683' lon='11.5285569' />
+  <node id='3869651130' version='1' lat='48.1709748' lon='11.5284898' />
+  <node id='3869651131' version='1' lat='48.1709927' lon='11.5284887' />
+  <node id='3869651133' version='1' lat='48.169078' lon='11.5289818'>
+    <tag k='entrance' v='yes' />
+    <tag k='entrance_marker:subway' v='yes' />
+    <tag k='name' v='C' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='ref' v='C' />
+    <tag k='subway_entrance' v='yes' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='3869651134' version='1' lat='48.1711413' lon='11.5284255'>
+    <tag k='entrance' v='yes' />
+    <tag k='entrance_marker:subway' v='yes' />
+    <tag k='name' v='A' />
+    <tag k='railway' v='subway_entrance' />
+    <tag k='ref' v='A' />
+    <tag k='subway_entrance' v='yes' />
+    <tag k='wheelchair' v='no' />
+  </node>
   <node id='4007574369' version='1' lat='48.1390879' lon='11.5587504' />
   <node id='4007574370' version='1' lat='48.1390884' lon='11.5586952' />
   <node id='4007574371' version='1' lat='48.1391027' lon='11.5586951' />
@@ -1404,7 +1516,6 @@
     <tag k='description' v='Weg zu Elisenhof' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='43338395' version='1'>
     <nd ref='2811202451' />
@@ -1427,7 +1538,6 @@
     <tag k='description' v='Unterirdischer Eingang von Hertie' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='43338399' version='1'>
     <nd ref='544822813' />
@@ -1453,7 +1563,6 @@
     <nd ref='2703813387' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='43338404' version='1'>
     <nd ref='544822851' />
@@ -1461,7 +1570,6 @@
     <nd ref='544822848' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='43338405' version='1'>
     <nd ref='544822815' />
@@ -1470,7 +1578,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='43338406' version='1'>
     <nd ref='544822812' />
@@ -1486,7 +1593,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='43338412' version='1'>
     <nd ref='544822804' />
@@ -1495,7 +1601,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='43338413' version='1'>
     <nd ref='544822855' />
@@ -1509,7 +1614,6 @@
     <nd ref='3566363083' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='43338422' version='1'>
     <nd ref='544822856' />
@@ -1520,7 +1624,6 @@
     <tag k='incline' v='down' />
     <tag k='level' v='-1;-3' />
     <tag k='ref' v='HU14' />
-    
   </way>
   <way id='43338426' version='1'>
     <nd ref='2574276028' />
@@ -1537,7 +1640,6 @@
     <nd ref='544822833' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='43338436' version='1'>
     <nd ref='544822820' />
@@ -1564,7 +1666,6 @@
     <nd ref='716948300' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='55843687' version='1'>
     <nd ref='2701065938' />
@@ -1590,7 +1691,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='57357052' action='delete' version='1'>
     <tag k='foot' v='no' />
@@ -1603,13 +1703,11 @@
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
     <tag k='surface' v='paved' />
-    
   </way>
   <way id='57357490' action='delete' version='1'>
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='57358943' version='1'>
     <nd ref='712879083' />
@@ -1643,7 +1741,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='100019729' version='1'>
     <nd ref='3343358594' />
@@ -1663,7 +1760,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='105289324' action='modify' version='1'>
     <nd ref='1213408541' />
@@ -1672,7 +1768,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='105289327' version='1'>
     <nd ref='1213408486' />
@@ -1699,7 +1794,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='105289335' version='1'>
     <nd ref='1213408418' />
@@ -1732,6 +1826,137 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='0;-1' />
   </way>
+  <way id='248207476' version='1'>
+    <nd ref='2550376611' />
+    <nd ref='2550376613' />
+    <nd ref='2550376615' />
+    <tag k='building' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='248207479' version='1'>
+    <nd ref='2550376641' />
+    <nd ref='293379530' />
+    <tag k='building' v='yes' />
+    <tag k='conveying' v='reversible' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='layer' v='-2' />
+    <tag k='level' v='-1;-2' />
+    <tag k='ref' v='WF01' />
+  </way>
+  <way id='248207480' version='1'>
+    <nd ref='2550376615' />
+    <nd ref='565449879' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='0;-1' />
+  </way>
+  <way id='248207483' version='1'>
+    <nd ref='2550376611' />
+    <nd ref='565449876' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='0;-1' />
+  </way>
+  <way id='248207484' version='1'>
+    <nd ref='2552664523' />
+    <nd ref='2552664518' />
+    <tag k='building' v='yes' />
+    <tag k='conveying' v='yes' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='0;-1' />
+    <tag k='ref' v='WF04' />
+  </way>
+  <way id='248207485' version='1'>
+    <nd ref='293379530' />
+    <nd ref='3159030248' />
+    <nd ref='3159030249' />
+    <tag k='building' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='248207486' version='1'>
+    <nd ref='2550376619' />
+    <nd ref='2550376615' />
+    <nd ref='2552664491' />
+    <nd ref='2550376609' />
+    <nd ref='2550376606' />
+    <nd ref='2550376611' />
+    <nd ref='3392509046' />
+    <nd ref='3392509047' />
+    <nd ref='2550376623' />
+    <nd ref='2550376621' />
+    <nd ref='2552664515' />
+    <nd ref='2552664523' />
+    <nd ref='3869651102' />
+    <nd ref='3869651101' />
+    <nd ref='3869651095' />
+    <nd ref='3869651094' />
+    <nd ref='3869651097' />
+    <nd ref='2550376629' />
+    <nd ref='3869651106' />
+    <nd ref='2550376631' />
+    <nd ref='3869651117' />
+    <nd ref='3869651121' />
+    <nd ref='3869651123' />
+    <nd ref='2552664554' />
+    <nd ref='3869651124' />
+    <nd ref='3869651118' />
+    <nd ref='3869651115' />
+    <nd ref='2550376633' />
+    <nd ref='3869651111' />
+    <nd ref='3869651110' />
+    <nd ref='3159030251' />
+    <nd ref='2550376637' />
+    <nd ref='2550376617' />
+    <nd ref='2550376619' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Westfriedhof Sperrengeschoss' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='248479165' version='1'>
+    <nd ref='2552664491' />
+    <nd ref='2552664496' />
+    <tag k='conveying' v='yes' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='0;-1' />
+    <tag k='ref' v='WF02' />
+  </way>
+  <way id='248479166' version='1'>
+    <nd ref='2552664515' />
+    <nd ref='2552664512' />
+    <tag k='building' v='yes' />
+    <tag k='conveying' v='yes' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='0;-1' />
+    <tag k='ref' v='WF03' />
+  </way>
+  <way id='248479169' version='1'>
+    <nd ref='2552664523' />
+    <nd ref='2552664521' />
+    <nd ref='2552664515' />
+    <tag k='building' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='248479171' version='1'>
+    <nd ref='2552664491' />
+    <nd ref='2550376613' />
+    <tag k='building' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+  </way>
   <way id='258139175' version='1'>
     <nd ref='2635396986' />
     <nd ref='2635396982' />
@@ -1747,7 +1972,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='258139179' action='modify' version='1'>
     <nd ref='2635396969' />
@@ -1764,7 +1988,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='258139183' action='modify' version='1'>
     <nd ref='2635396945' />
@@ -1772,7 +1995,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='258139186' version='1'>
     <nd ref='2635396916' />
@@ -1789,7 +2011,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='258139192' action='modify' version='1'>
     <nd ref='2635396952' />
@@ -1821,7 +2042,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='258747529' action='modify' version='1'>
     <nd ref='2640786477' />
@@ -1832,7 +2052,6 @@
     <tag k='layer' v='-2' />
     <tag k='level' v='-2;-1' />
     <tag k='ref' v='MU16' />
-    
   </way>
   <way id='258747531' action='modify' version='1'>
     <nd ref='2640786503' />
@@ -1841,7 +2060,6 @@
     <tag k='incline' v='down' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='258747533' action='modify' version='1'>
     <nd ref='2635396955' />
@@ -1850,7 +2068,6 @@
     <tag k='incline' v='down' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='258747535' action='modify' version='1'>
     <nd ref='3220193479' />
@@ -1859,7 +2076,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
     <tag k='wheelchair' v='yes' />
   </way>
   <way id='258747536' action='modify' version='1'>
@@ -1868,7 +2084,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='258747538' action='modify' version='1'>
     <nd ref='2640786484' />
@@ -1877,7 +2092,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='258747542' action='modify' version='1'>
     <nd ref='2640786529' />
@@ -1886,7 +2100,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
     <tag k='wheelchair' v='yes' />
   </way>
   <way id='258747546' action='modify' version='1'>
@@ -1896,7 +2109,6 @@
     <tag k='incline' v='up' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-2;-1' />
-    
   </way>
   <way id='258747548' action='modify' version='1'>
     <nd ref='2640786483' />
@@ -1905,7 +2117,6 @@
     <tag k='layer' v='-2' />
     <tag k='level' v='-1' />
     <tag k='lit' v='yes' />
-    
   </way>
   <way id='258747550' action='modify' version='1'>
     <nd ref='2640786474' />
@@ -1916,7 +2127,6 @@
     <tag k='layer' v='-2' />
     <tag k='level' v='-2;-1' />
     <tag k='ref' v='MU13' />
-    
   </way>
   <way id='258747551' action='modify' version='1'>
     <nd ref='2640786473' />
@@ -1927,7 +2137,6 @@
     <tag k='layer' v='-2' />
     <tag k='level' v='-2;-1' />
     <tag k='ref' v='MU14' />
-    
   </way>
   <way id='258747552' action='modify' version='1'>
     <nd ref='2640786537' />
@@ -1943,7 +2152,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='258747554' action='modify' version='1'>
     <nd ref='2640786495' />
@@ -1951,7 +2159,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='258747563' action='modify' version='1'>
     <nd ref='2640786497' />
@@ -1960,7 +2167,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='258747572' action='modify' version='1'>
     <nd ref='2640786691' />
@@ -2036,7 +2242,6 @@
     <tag k='description' v='Münchner Freiheit Zwischengeschoss' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='263775244' action='delete' version='1'>
     <tag k='description' v='Schützen-Passage' />
@@ -2045,7 +2250,6 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='lit' v='yes' />
-    
   </way>
   <way id='264416726' version='1'>
     <nd ref='2701001812' />
@@ -2077,7 +2281,6 @@
     <nd ref='2701001812' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264418998' version='1'>
     <nd ref='2701022927' />
@@ -2092,14 +2295,12 @@
     <nd ref='2701022927' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264419854' version='1'>
     <nd ref='2701031948' />
     <nd ref='2701031945' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264419855' version='1'>
     <nd ref='2701031943' />
@@ -2122,7 +2323,6 @@
     <nd ref='2701031947' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264424733' version='1'>
     <nd ref='2701065937' />
@@ -2137,7 +2337,6 @@
     <nd ref='2701065938' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264558951' version='1'>
     <nd ref='2702245997' />
@@ -2148,7 +2347,6 @@
     <tag k='layer' v='-2' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264558952' version='1'>
     <nd ref='2702246005' />
@@ -2157,7 +2355,6 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264558953' version='1'>
     <nd ref='2702245971' />
@@ -2167,7 +2364,6 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264558954' version='1'>
     <nd ref='2702245936' />
@@ -2176,7 +2372,6 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264558955' version='1'>
     <nd ref='2702245995' />
@@ -2186,7 +2381,6 @@
     <tag k='layer' v='-2' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264558956' version='1'>
     <nd ref='2702246016' />
@@ -2196,7 +2390,6 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264558961' version='1'>
     <nd ref='2702245970' />
@@ -2205,7 +2398,6 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264558962' version='1'>
     <nd ref='2702246003' />
@@ -2215,7 +2407,6 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264558963' version='1'>
     <nd ref='2702245934' />
@@ -2225,7 +2416,6 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264558966' version='1'>
     <nd ref='2702245981' />
@@ -2235,7 +2425,6 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264560046' version='1'>
     <nd ref='2702251848' />
@@ -2244,7 +2433,6 @@
     <tag k='incline' v='down' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264560051' version='1'>
     <nd ref='2702251849' />
@@ -2254,7 +2442,6 @@
     <tag k='incline' v='down' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264562222' version='1'>
     <nd ref='2702271194' />
@@ -2263,7 +2450,6 @@
     <tag k='incline' v='down' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264562223' version='1'>
     <nd ref='2702271195' />
@@ -2274,7 +2460,6 @@
     <tag k='layer' v='-2' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264562225' version='1'>
     <nd ref='2702271197' />
@@ -2283,7 +2468,6 @@
     <tag k='incline' v='down' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264562226' version='1'>
     <nd ref='2702271191' />
@@ -2293,7 +2477,6 @@
     <tag k='incline' v='down' />
     <tag k='level' v='-1;-2' />
     <tag k='oneway' v='yes' />
-    
   </way>
   <way id='264562229' version='1'>
     <nd ref='544822820' />
@@ -2303,7 +2486,6 @@
     <tag k='description' v='Weg zu Elisenhof' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264562231' version='1'>
     <nd ref='2702271186' />
@@ -2314,7 +2496,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264562236' version='1'>
     <nd ref='3814019234' />
@@ -2324,7 +2505,6 @@
     <tag k='description' v='Weg zu Elisenhof' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264563280' version='1'>
     <nd ref='3498691065' />
@@ -2432,7 +2612,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264564470' version='1'>
     <nd ref='2702291980' />
@@ -2457,7 +2636,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264566745' version='1'>
     <nd ref='2702316284' />
@@ -2468,7 +2646,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264566750' version='1'>
     <nd ref='2702251849' />
@@ -2478,7 +2655,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264566753' version='1'>
     <nd ref='2702316276' />
@@ -2488,7 +2664,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264566755' version='1'>
     <nd ref='2702245968' />
@@ -2498,7 +2673,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264566758' version='1'>
     <nd ref='544822883' />
@@ -2507,7 +2681,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264566760' version='1'>
     <nd ref='2702271197' />
@@ -2519,7 +2692,6 @@
     <tag k='incline' v='up' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264566764' version='1'>
     <nd ref='2702316272' />
@@ -2528,7 +2700,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264566769' version='1'>
     <nd ref='2702316268' />
@@ -2537,7 +2708,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264566770' version='1'>
     <nd ref='2702271194' />
@@ -2549,7 +2719,6 @@
     <tag k='incline' v='up' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264580077' version='1'>
     <nd ref='2653806013' />
@@ -2559,7 +2728,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264580078' version='1'>
     <nd ref='2702425181' />
@@ -2567,7 +2735,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264580079' version='1'>
     <nd ref='2702425189' />
@@ -2579,7 +2746,6 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='ref' v='HU10' />
-    
   </way>
   <way id='264580080' version='1'>
     <nd ref='2702425195' />
@@ -2598,7 +2764,6 @@
     <tag k='incline' v='up' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264580084' version='1'>
     <nd ref='3498477609' />
@@ -2652,7 +2817,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264580090' version='1'>
     <nd ref='2702425198' />
@@ -2664,7 +2828,6 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='ref' v='HU11' />
-    
   </way>
   <way id='264580091' version='1'>
     <nd ref='544822869' />
@@ -2673,7 +2836,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264580092' version='1'>
     <nd ref='2702425175' />
@@ -2681,7 +2843,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264580094' version='1'>
     <nd ref='2702425195' />
@@ -2690,7 +2851,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264580095' version='1'>
     <nd ref='2702425188' />
@@ -2699,7 +2859,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264580769' version='1'>
     <nd ref='2702429622' />
@@ -2708,7 +2867,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264580770' version='1'>
     <nd ref='3498477608' />
@@ -2734,7 +2892,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264580908' version='1'>
     <nd ref='2702431334' />
@@ -2774,7 +2931,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264582468' version='1'>
     <nd ref='2702442489' />
@@ -2814,7 +2970,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264583513' version='1'>
     <nd ref='3448496360' />
@@ -2844,7 +2999,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264719924' version='1'>
     <nd ref='2703741409' />
@@ -2871,7 +3025,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264721532' version='1'>
     <nd ref='2702280851' />
@@ -2879,7 +3032,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='steps' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264721533' version='1'>
     <nd ref='2702425177' />
@@ -2982,7 +3134,6 @@
     <tag k='highway' v='steps' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264724050' version='1'>
     <nd ref='2703775428' />
@@ -2990,7 +3141,6 @@
     <tag k='highway' v='steps' />
     <tag k='incline' v='down' />
     <tag k='level' v='0;-1' />
-    
   </way>
   <way id='264724051' version='1'>
     <nd ref='2703775398' />
@@ -3004,7 +3154,6 @@
     <tag k='highway' v='steps' />
     <tag k='incline' v='up' />
     <tag k='level' v='0;-1' />
-    
   </way>
   <way id='264724053' version='1'>
     <nd ref='2703775429' />
@@ -3015,7 +3164,6 @@
     <tag k='incline' v='up' />
     <tag k='level' v='0;-1' />
     <tag k='ref' v='HU08' />
-    
   </way>
   <way id='264724055' version='1'>
     <nd ref='2703775435' />
@@ -3025,7 +3173,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264725219' version='1'>
     <nd ref='2703785689' />
@@ -3036,7 +3183,6 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-3' />
     <tag k='ref' v='HU17' />
-    
   </way>
   <way id='264725223' version='1'>
     <nd ref='2703785691' />
@@ -3047,7 +3193,6 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-3' />
     <tag k='ref' v='HU15' />
-    
   </way>
   <way id='264725230' version='1'>
     <nd ref='2703785667' />
@@ -3058,7 +3203,6 @@
     <tag k='incline' v='down' />
     <tag k='level' v='-1;-3' />
     <tag k='ref' v='HU12' />
-    
   </way>
   <way id='264725232' version='1'>
     <nd ref='2703785690' />
@@ -3069,7 +3213,6 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-3' />
     <tag k='ref' v='HU16' />
-    
   </way>
   <way id='264725233' version='1'>
     <nd ref='2703785669' />
@@ -3080,7 +3223,6 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-3' />
     <tag k='ref' v='HU13' />
-    
   </way>
   <way id='264726750' version='1'>
     <nd ref='2703796494' />
@@ -3089,7 +3231,6 @@
     <nd ref='2703796495' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264726752' version='1'>
     <nd ref='2703796489' />
@@ -3127,7 +3268,6 @@
     <tag k='incline' v='down' />
     <tag k='level' v='-2;-1' />
     <tag k='ref' v='HO19' />
-    
   </way>
   <way id='264729400' version='1'>
     <nd ref='3516095294' />
@@ -3136,7 +3276,6 @@
     <nd ref='2703813389' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264729401' version='1'>
     <nd ref='2703813389' />
@@ -3147,7 +3286,6 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-2;-1' />
     <tag k='ref' v='HO18' />
-    
   </way>
   <way id='264732449' version='1'>
     <nd ref='2703838150' />
@@ -3159,7 +3297,6 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1;-2' />
     <tag k='ref' v='HO02' />
-    
   </way>
   <way id='264732450' version='1'>
     <nd ref='2703838150' />
@@ -3168,7 +3305,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264732451' version='1'>
     <nd ref='2703838156' />
@@ -3180,7 +3316,6 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1;-2' />
     <tag k='ref' v='HO01' />
-    
   </way>
   <way id='264732463' version='1'>
     <nd ref='3448496368' />
@@ -3188,7 +3323,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='264732468' version='1'>
     <nd ref='2703838174' />
@@ -3249,7 +3383,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='276522331' version='1'>
     <nd ref='2811202465' />
@@ -3266,7 +3399,100 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
+  </way>
+  <way id='310477610' version='1'>
+    <nd ref='3159030862' />
+    <nd ref='3159030868' />
+    <nd ref='3159030869' />
+    <nd ref='3159030870' />
+    <nd ref='3869651131' />
+    <nd ref='3159030871' />
+    <nd ref='3159030865' />
+    <nd ref='3159030864' />
+    <nd ref='3159030863' />
+    <nd ref='3159030862' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Westfriedhof Sperrengeschoss' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+    <tag k='surface' v='paved' />
+  </way>
+  <way id='310477611' version='1'>
+    <nd ref='3159030861' />
+    <nd ref='3159030864' />
+    <tag k='building' v='yes' />
+    <tag k='conveying' v='yes' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1;-2' />
+    <tag k='ref' v='WF05' />
+  </way>
+  <way id='310477612' version='1'>
+    <nd ref='3159030864' />
+    <nd ref='3159030866' />
+    <nd ref='3159030863' />
+    <tag k='building' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='310477615' version='1'>
+    <nd ref='3159030870' />
+    <nd ref='3159030866' />
+    <nd ref='3159030869' />
+    <tag k='building' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='310477616' version='1'>
+    <nd ref='3159030250' />
+    <nd ref='3159030249' />
+    <tag k='building' v='yes' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='layer' v='-2' />
+    <tag k='level' v='-1;-2' />
+  </way>
+  <way id='310477617' version='1'>
+    <nd ref='3159030870' />
+    <nd ref='2552664575' />
+    <tag k='building' v='yes' />
+    <tag k='conveying' v='yes' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='0;-1' />
+    <tag k='ref' v='WF06' />
+  </way>
+  <way id='310477618' version='1'>
+    <nd ref='3159030260' />
+    <nd ref='3159030863' />
+    <tag k='building' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='-1;-2' />
+  </way>
+  <way id='310477620' version='1'>
+    <nd ref='3159030869' />
+    <nd ref='293379518' />
+    <tag k='building' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='0;-1' />
+  </way>
+  <way id='310477621' version='1'>
+    <nd ref='2552664512' />
+    <nd ref='3159030247' />
+    <nd ref='2552664518' />
+    <tag k='building' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='-1' />
   </way>
   <way id='315892725' action='modify' version='1'>
     <nd ref='2640786556' />
@@ -3309,7 +3535,6 @@
     <tag k='building' v='yes' />
     <tag k='description' v='Verkaufsebene Ebene -1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='321125263' version='1'>
     <nd ref='3278424420' />
@@ -3409,7 +3634,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='334490290' action='delete' version='1'>
     <tag k='addr:city' v='München' />
@@ -3436,7 +3660,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='337792462' version='1'>
     <nd ref='2703838151' />
@@ -3445,7 +3668,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='337792463' version='1'>
     <nd ref='3448496378' />
@@ -3463,7 +3685,6 @@
     <tag k='incline' v='up' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-1;-2' />
-    
   </way>
   <way id='337792466' version='1'>
     <nd ref='3448496359' />
@@ -3471,7 +3692,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='337792467' version='1'>
     <nd ref='2702448222' />
@@ -3479,7 +3699,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='337792470' version='1'>
     <nd ref='2702452987' />
@@ -3489,7 +3708,6 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='lit' v='yes' />
-    
   </way>
   <way id='342883245' version='1'>
     <nd ref='2702442489' />
@@ -3498,7 +3716,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='342890814' version='1'>
     <nd ref='2702425187' />
@@ -3506,7 +3723,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='342913877' version='1'>
     <nd ref='2702271186' />
@@ -3517,7 +3733,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='342913881' version='1'>
     <nd ref='2702271221' />
@@ -3526,7 +3741,6 @@
     <tag k='description' v='Weg zu Elisenhof' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='342913897' version='1'>
     <nd ref='2702316278' />
@@ -3536,7 +3750,6 @@
     <tag k='description' v='Weg zu Elisenhof' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='342913907' version='1'>
     <nd ref='2702271208' />
@@ -3548,7 +3761,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='342913910' version='1'>
     <nd ref='3551023483' />
@@ -3563,7 +3775,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='342917854' version='1'>
     <nd ref='3498691050' />
@@ -3607,7 +3818,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346040139' action='modify' version='1'>
     <nd ref='3526454177' />
@@ -3616,7 +3826,6 @@
     <tag k='incline' v='up' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-2;-1' />
-    
   </way>
   <way id='346040140' action='modify' version='1'>
     <nd ref='3388401967' />
@@ -3624,7 +3833,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346040141' action='modify' version='1'>
     <nd ref='2640786478' />
@@ -3635,7 +3843,6 @@
     <tag k='layer' v='-2' />
     <tag k='level' v='-2;-1' />
     <tag k='ref' v='MU15' />
-    
   </way>
   <way id='346040142' action='modify' version='1'>
     <nd ref='2640786505' />
@@ -3644,7 +3851,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346040143' action='modify' version='1'>
     <nd ref='1460820252' />
@@ -3652,7 +3858,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346040145' action='modify' version='1'>
     <nd ref='3526454160' />
@@ -3661,7 +3866,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346040146' action='modify' version='1'>
     <nd ref='1214817211' />
@@ -3673,7 +3877,6 @@
     <tag k='level' v='-1' />
     <tag k='lit' v='yes' />
     <tag k='surface' v='concrete' />
-    
     <tag k='wheelchair' v='yes' />
   </way>
   <way id='346040147' action='modify' version='1'>
@@ -3684,7 +3887,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346040148' action='modify' version='1'>
     <nd ref='2635396955' />
@@ -3696,7 +3898,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346040149' action='modify' version='1'>
     <nd ref='3526454182' />
@@ -3710,7 +3911,6 @@
     <tag k='level' v='-1' />
     <tag k='ramp' v='yes' />
     <tag k='ramp:wheelchair' v='yes' />
-    
     <tag k='wheelchair' v='yes' />
   </way>
   <way id='346324677' version='1'>
@@ -3720,7 +3920,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346567410' version='1'>
     <nd ref='4007777538' />
@@ -3945,7 +4144,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346567431' version='1'>
     <nd ref='3530743028' />
@@ -3953,7 +4151,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346567432' version='1'>
     <nd ref='3530743027' />
@@ -3962,7 +4159,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346567433' version='1'>
     <nd ref='2702431336' />
@@ -3970,7 +4166,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346567434' version='1'>
     <nd ref='3530743009' />
@@ -3978,7 +4173,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346567438' version='1'>
     <nd ref='2703761065' />
@@ -3987,7 +4181,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346567440' version='1'>
     <nd ref='3530743111' />
@@ -3997,7 +4190,6 @@
     <tag k='description' v='Weg zu Elisenhof' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346567441' version='1'>
     <nd ref='2703785701' />
@@ -4007,7 +4199,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346567442' version='1'>
     <nd ref='3530743067' />
@@ -4017,7 +4208,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346567443' version='1'>
     <nd ref='544822855' />
@@ -4065,7 +4255,6 @@
     <tag k='description' v='Weg zu Elisenhof' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346567450' version='1'>
     <nd ref='544822857' />
@@ -4074,7 +4263,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346567451' version='1'>
     <nd ref='3530743090' />
@@ -4244,7 +4432,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='346573030' version='1'>
     <nd ref='3530809920' />
@@ -4254,7 +4441,6 @@
     <tag k='incline' v='down' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-1;-2' />
-    
   </way>
   <way id='346574444' version='1'>
     <nd ref='3530809926' />
@@ -4424,7 +4610,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349128181' version='1'>
     <nd ref='2702291974' />
@@ -4433,7 +4618,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349128183' version='1'>
     <nd ref='3550553250' />
@@ -4654,7 +4838,6 @@
     <tag k='description' v='Weg zu Elisenhof' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349183917' version='1'>
     <nd ref='3551023482' />
@@ -4664,7 +4847,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349183918' version='1'>
     <nd ref='3551023482' />
@@ -4674,7 +4856,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349183921' version='1'>
     <nd ref='3551023440' />
@@ -4684,7 +4865,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349183922' version='1'>
     <nd ref='3551023483' />
@@ -4694,7 +4874,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349183923' version='1'>
     <nd ref='3551023482' />
@@ -4704,7 +4883,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349183924' version='1'>
     <nd ref='2702271186' />
@@ -4718,7 +4896,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349183926' version='1'>
     <nd ref='3551023431' />
@@ -4728,7 +4905,6 @@
     <tag k='description' v='Weg zu Elisenhof' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349183929' version='1'>
     <nd ref='2702271209' />
@@ -4756,7 +4932,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349183937' version='1'>
     <nd ref='2702316272' />
@@ -4766,7 +4941,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349183938' version='1'>
     <nd ref='3343358602' />
@@ -4845,7 +5019,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349188355' version='1'>
     <nd ref='2702316276' />
@@ -4855,7 +5028,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349580760' version='1'>
     <nd ref='3554376594' />
@@ -4864,7 +5036,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349580761' version='1'>
     <nd ref='3554376594' />
@@ -4873,7 +5044,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349580762' version='1'>
     <nd ref='3554376595' />
@@ -4881,7 +5051,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349580763' version='1'>
     <nd ref='3554376598' />
@@ -4891,7 +5060,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349580764' version='1'>
     <nd ref='3554376597' />
@@ -4900,7 +5068,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349580765' version='1'>
     <nd ref='3554376597' />
@@ -4909,7 +5076,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349580766' version='1'>
     <nd ref='2703785669' />
@@ -4918,7 +5084,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='349858791' version='1'>
     <nd ref='544822833' />
@@ -4929,7 +5094,6 @@
     <tag k='description' v='Weg zu Elisenhof' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='350620066' version='1'>
     <nd ref='2703838153' />
@@ -4937,7 +5101,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='350884399' version='1'>
     <nd ref='3566115699' />
@@ -4957,7 +5120,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='350884408' version='1'>
     <nd ref='3448496361' />
@@ -4965,7 +5127,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='350884414' version='1'>
     <nd ref='3566114773' />
@@ -4975,7 +5136,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='350884415' version='1'>
     <nd ref='3566114776' />
@@ -4998,7 +5158,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='351155311' version='1'>
     <nd ref='2702340075' />
@@ -5007,7 +5166,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='351155313' version='1'>
     <nd ref='3568378293' />
@@ -5026,7 +5184,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='351155314' version='1'>
     <nd ref='3530741883' />
@@ -5039,7 +5196,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='351181842' version='1'>
     <nd ref='3569140399' />
@@ -5062,7 +5218,6 @@
     <tag k='incline' v='up' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-2;-1' />
-    
   </way>
   <way id='353587639' version='1'>
     <nd ref='2701001810' />
@@ -5071,7 +5226,6 @@
     <tag k='description' v='Weg zu Elisenhof' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='355694418' version='1'>
     <nd ref='3612597616' />
@@ -5259,7 +5413,6 @@
     <tag k='incline' v='up' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1;-2' />
-    
   </way>
   <way id='378298856' version='1'>
     <nd ref='3816982401' />
@@ -5269,6 +5422,76 @@
     <tag k='level' v='-1' />
     <tag k='ramp:wheelchair' v='yes' />
     <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='383655881' version='1'>
+    <nd ref='3869651097' />
+    <nd ref='3869651096' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='0;-1' />
+  </way>
+  <way id='383655883' version='1'>
+    <nd ref='3159030248' />
+    <nd ref='3159030251' />
+    <tag k='building' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='383655885' version='1'>
+    <nd ref='3159030251' />
+    <nd ref='3869651113' />
+    <tag k='building' v='yes' />
+    <tag k='covered' v='yes' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='up' />
+    <tag k='level' v='0;-1' />
+  </way>
+  <way id='383655886' version='1'>
+    <nd ref='3159030866' />
+    <nd ref='3869651130' />
+    <nd ref='3869651131' />
+    <tag k='building' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='383655887' version='1'>
+    <nd ref='3159030248' />
+    <nd ref='2552664526' />
+    <nd ref='2550376613' />
+    <tag k='building' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='383655891' version='1'>
+    <nd ref='2552664521' />
+    <nd ref='3869651104' />
+    <nd ref='3869651097' />
+    <tag k='building' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='383655894' version='1'>
+    <nd ref='2552664554' />
+    <nd ref='3869651119' />
+    <nd ref='3869651116' />
+    <nd ref='3869651109' />
+    <nd ref='3159030248' />
+    <tag k='building' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='389871165' version='1'>
+    <nd ref='3159030248' />
+    <nd ref='2552664521' />
+    <tag k='building' v='yes' />
+    <tag k='highway' v='footway' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
   </way>
   <way id='397985846' version='1'>
     <nd ref='4007576129' />
@@ -5292,7 +5515,6 @@
     <nd ref='544822848' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='397985850' version='1'>
     <nd ref='544822848' />
@@ -5300,7 +5522,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='397985853' version='1'>
     <nd ref='4007576122' />
@@ -5309,7 +5530,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='397985854' version='1'>
     <nd ref='3566363084' />
@@ -5318,7 +5538,6 @@
     <nd ref='544822854' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='397985855' version='1'>
     <nd ref='544822854' />
@@ -5328,7 +5547,6 @@
     <tag k='bicycle' v='no' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='398003053' version='1'>
     <nd ref='4007777530' />
@@ -5361,7 +5579,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='398003055' version='1'>
     <nd ref='3530743032' />
@@ -5370,7 +5587,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='398003056' version='1'>
     <nd ref='2702425189' />
@@ -5379,7 +5595,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='398699079' version='1'>
     <nd ref='3753077355' />
@@ -5408,7 +5623,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='409721066' action='modify' version='1'>
     <nd ref='3526454163' />
@@ -5416,7 +5630,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-1' />
-    
   </way>
   <way id='519746535' version='1'>
     <nd ref='3566114791' />
@@ -5426,7 +5639,6 @@
     <tag k='incline' v='up' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1;-2' />
-    
   </way>
   <relation id='4676638' version='1'>
     <member type='way' ref='264732468' role='outer' />
@@ -5435,7 +5647,6 @@
     <tag k='highway' v='corridor' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
     <tag k='type' v='multipolygon' />
   </relation>
   <relation id='4734182' version='1'>
@@ -5452,7 +5663,6 @@
     <tag k='description' v='Ladengeschoss Ebene -1' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    
     <tag k='type' v='multipolygon' />
   </relation>
   <relation id='5299666' action='modify' version='1'>
@@ -5462,7 +5672,6 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Karlsplatz (Stachus)' />
-    
     <tag k='type' v='multipolygon' />
   </relation>
   <relation id='5370443' version='1'>
@@ -5477,7 +5686,6 @@
     <tag k='description' v='Hauptbahnhof Süd Ladengeschoss Ebene -1' />
     <tag k='highway' v='corridor' />
     <tag k='level' v='-1' />
-    
     <tag k='type' v='multipolygon' />
   </relation>
 </osm>

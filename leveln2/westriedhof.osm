@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.3 9da5e7ae">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2018-07-08T21:42:02Z"/>
+
+  <way version="1" id="248207475">
+    <nd ref="2550376645"/>
+    <nd ref="3159030260"/>
+    <nd ref="3159030861"/>
+    <nd ref="2550376650"/>
+    <nd ref="2552664561"/>
+    <nd ref="2550376643"/>
+    <nd ref="3159030250"/>
+    <nd ref="2550376641"/>
+    <nd ref="2550376639"/>
+    <nd ref="2552664557"/>
+    <nd ref="2550376645"/>
+    <tag k="area" v="yes"/>
+    <tag k="description" v="Westfriedhof U1 U7 Bahnsteig"/>
+    <tag k="height" v="1.05"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="-3"/>
+    <tag k="level" v="-2"/>
+    <tag k="narrow" v="no"/>
+    <tag k="building" v="yes"/>
+    <tag k="ref" v="1;2"/>
+    <tag k="subway" v="yes"/>
+    
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way version="1" id="248207479">
+    <nd ref="2550376641"/>
+    <nd ref="293379530"/>
+    <tag k="conveying" v="reversible"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-1;-2"/>
+    <tag k="ref" v="WF01"/>
+    
+  </way>
+  <way version="1" id="248479168">
+    <nd ref="2552664559"/>
+    <nd ref="2552664554"/>
+    <tag k="highway" v="footway"/>
+    <tag k="building" v="yes"/>
+    <tag k="level" v="-2"/>
+    
+  </way>
+  <way version="1" id="248479176">
+    <nd ref="2552664557"/>
+    <nd ref="2552664559"/>
+    <nd ref="2552664561"/>
+    <tag k="highway" v="footway"/>
+    <tag k="building" v="yes"/>
+    <tag k="level" v="-2"/>
+    
+  </way>
+  <way version="1" id="310477611">
+    <nd ref="3159030861"/>
+    <nd ref="3159030864"/>
+    <tag k="conveying" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1;-2"/>
+    <tag k="ref" v="WF05"/>
+    
+  </way>
+  <way version="1" id="310477616">
+    <nd ref="3159030250"/>
+    <nd ref="3159030249"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="-2"/>
+    <tag k="level" v="-1;-2"/>
+    
+  </way>
+  <way version="1" id="310477618">
+    <nd ref="3159030260"/>
+    <nd ref="3159030863"/>
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="steps"/>
+    <tag k="incline" v="up"/>
+    <tag k="building" v="yes"/>
+    <tag k="level" v="-1;-2"/>
+    
+  </way>
+  <node version="1" id="293379530" lat="48.1695111" lon="11.5285241"/>
+  <node version="1" id="2550376639" lat="48.1696084" lon="11.5284764"/>
+  <node version="1" id="2550376641" lat="48.1696097" lon="11.5285149"/>
+  <node version="1" id="2550376643" lat="48.1696128" lon="11.5286053"/>
+  <node version="1" id="2550376645" lat="48.1706986" lon="11.5283921"/>
+  <node version="1" id="2550376650" lat="48.1707031" lon="11.5285210"/>
+  <node version="1" id="2552664554" lat="48.1696678" lon="11.5285348"/>
+  <node version="1" id="2552664557" lat="48.1696826" lon="11.5284714"/>
+  <node version="1" id="2552664559" lat="48.1696840" lon="11.5285342"/>
+  <node version="1" id="2552664561" lat="48.1696857" lon="11.5286004"/>
+  <node version="1" id="3159030249" lat="48.1695130" lon="11.5285679"/>
+  <node version="1" id="3159030250" lat="48.1696112" lon="11.5285588"/>
+  <node version="1" id="3159030260" lat="48.1707002" lon="11.5284384"/>
+  <node version="1" id="3159030861" lat="48.1707016" lon="11.5284782"/>
+  <node version="1" id="3159030863" lat="48.1707986" lon="11.5284309"/>
+  <node version="1" id="3159030864" lat="48.1707994" lon="11.5284708"/>
+
+</osm>
