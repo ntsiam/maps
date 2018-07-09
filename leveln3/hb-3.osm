@@ -155,7 +155,7 @@
     <tag k='incline' v='down' />
     <tag k='level' v='-1;-3' />
     <tag k='ref' v='HU14' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='43338431' version='1'>
     <nd ref='544822884' />
@@ -163,7 +163,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264558950' action='modify' version='1'>
     <nd ref='3652769487' />
@@ -174,7 +174,7 @@
     <tag k='level' v='-3;-2' />
     <tag k='name' v='to -2' />
     <tag k='oneway' v='yes' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264558960' action='modify' version='1'>
     <nd ref='3652769496' />
@@ -185,7 +185,7 @@
     <tag k='level' v='-3;-2' />
     <tag k='name' v='to -2' />
     <tag k='oneway' v='yes' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264560053' version='1'>
     <nd ref='2702251853' />
@@ -196,7 +196,7 @@
     <tag k='layer' v='-2' />
     <tag k='level' v='-3;-2' />
     <tag k='oneway' v='yes' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264560054' action='modify' version='1'>
     <nd ref='2702251855' />
@@ -208,7 +208,7 @@
     <tag k='level' v='-3;-2' />
     <tag k='name' v='to -2' />
     <tag k='oneway' v='yes' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725216' version='1'>
     <nd ref='2703785678' />
@@ -219,7 +219,7 @@
     <tag k='incline' v='down' />
     <tag k='level' v='-3;-4' />
     <tag k='ref' v='HU22' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725217' version='1'>
     <nd ref='2703785683' />
@@ -230,7 +230,7 @@
     <tag k='incline' v='down' />
     <tag k='level' v='-3;-4' />
     <tag k='ref' v='HU24' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725218' version='1'>
     <nd ref='3566115704' />
@@ -240,7 +240,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725219' version='1'>
     <nd ref='2703785689' />
@@ -251,7 +251,7 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-3' />
     <tag k='ref' v='HU17' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725221' action='modify' version='1'>
     <nd ref='2703785686' />
@@ -263,7 +263,7 @@
     <tag k='level' v='-3;-4' />
     <tag k='name' v='to -4' />
     <tag k='ref' v='HU28' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725223' version='1'>
     <nd ref='2703785691' />
@@ -274,7 +274,7 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-3' />
     <tag k='ref' v='HU15' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725224' action='modify' version='1'>
     <nd ref='2703785692' />
@@ -286,7 +286,7 @@
     <tag k='level' v='-3;-4' />
     <tag k='name' v='to -4' />
     <tag k='ref' v='HU26' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725225' action='modify' version='1'>
     <nd ref='2703785664' />
@@ -298,7 +298,7 @@
     <tag k='level' v='-3;-4' />
     <tag k='name' v='to -4' />
     <tag k='ref' v='HU21' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725226' action='modify' version='1'>
     <nd ref='2703785671' />
@@ -310,7 +310,7 @@
     <tag k='level' v='-3;-4' />
     <tag k='name' v='to -4' />
     <tag k='ref' v='HU23' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725227' version='1'>
     <nd ref='2703785707' />
@@ -321,7 +321,7 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-3;-4' />
     <tag k='ref' v='HU25' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725230' action='modify' version='1'>
     <nd ref='2703785667' />
@@ -333,7 +333,7 @@
     <tag k='level' v='-1;-3' />
     <tag k='name' v='to -1' />
     <tag k='ref' v='HU12' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725232' action='modify' version='1'>
     <nd ref='2703785690' />
@@ -345,7 +345,7 @@
     <tag k='level' v='-1;-3' />
     <tag k='name' v='to -1' />
     <tag k='ref' v='HU16' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725233' version='1'>
     <nd ref='2703785669' />
@@ -356,7 +356,7 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-1;-3' />
     <tag k='ref' v='HU13' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725237' version='1'>
     <nd ref='3566115700' />
@@ -367,7 +367,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264725241' version='1'>
     <nd ref='2703785684' />
@@ -403,7 +403,7 @@
     <tag k='description' v='Zwischenebene -3 Verbindung 1. Untergeschoss mit U-Bahn' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264732452' action='modify' version='1'>
     <nd ref='2703838180' />
@@ -415,7 +415,7 @@
     <tag k='level' v='-3;-4' />
     <tag k='name' v='to -4' />
     <tag k='ref' v='HU35' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264732453' action='modify' version='1'>
     <nd ref='2703838170' />
@@ -427,7 +427,7 @@
     <tag k='level' v='-2;-3' />
     <tag k='name' v='to -2' />
     <tag k='ref' v='HO37' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264732454' version='1'>
     <nd ref='2703838183' />
@@ -436,7 +436,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264732455' version='1'>
     <nd ref='2703838182' />
@@ -444,7 +444,7 @@
     <tag k='highway' v='steps' />
     <tag k='incline' v='down' />
     <tag k='level' v='-3;-4' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264732456' version='1'>
     <nd ref='2703838190' />
@@ -455,7 +455,7 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-3;-4' />
     <tag k='ref' v='HU36' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264732458' action='modify' version='1'>
     <nd ref='2703838185' />
@@ -464,7 +464,7 @@
     <tag k='incline' v='down' />
     <tag k='level' v='-3;-4' />
     <tag k='name' v='to -4' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264732460' version='1'>
     <nd ref='3516095296' />
@@ -475,7 +475,7 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-2;-3' />
     <tag k='ref' v='HO38' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264732464' version='1'>
     <nd ref='3394808149' />
@@ -484,7 +484,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264732466' version='1'>
     <nd ref='2703838170' />
@@ -493,7 +493,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='264732467' version='1'>
     <nd ref='2703838186' />
@@ -523,7 +523,7 @@
     <tag k='description' v='Hauptbahnhof Süd Zwischengeschoss Ebene -3' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='267015527' version='1'>
     <nd ref='2703785699' />
@@ -534,7 +534,7 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-3;-4' />
     <tag k='ref' v='HU27' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='332365848' version='1'>
     <nd ref='3394808146' />
@@ -544,7 +544,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='346305703' version='1'>
     <nd ref='3528433534' />
@@ -561,7 +561,7 @@
     <tag k='building' v='yes' />
     <tag k='description' v='Unterführung zwischen den S-Bahn Gleisen' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='346305704' version='1'>
     <nd ref='2702251853' />
@@ -577,7 +577,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='346324679' version='1'>
     <nd ref='3530809915' />
@@ -588,7 +588,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='346324680' version='1'>
     <nd ref='3566115703' />
@@ -599,7 +599,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='346567416' version='1'>
     <nd ref='3530743114' />
@@ -628,7 +628,7 @@
     <tag k='building' v='yes' />
     <tag k='description' v='Hauptbahnhof (Tief) Unterführung' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='346567435' version='1'>
     <nd ref='3528433530' />
@@ -637,7 +637,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='346567436' version='1'>
     <nd ref='3753077347' />
@@ -648,7 +648,7 @@
     <tag k='layer' v='-2' />
     <tag k='level' v='-3;-2' />
     <tag k='oneway' v='yes' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='346567439' version='1'>
     <nd ref='3588058245' />
@@ -657,7 +657,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='349183920' version='1'>
     <nd ref='3551023430' />
@@ -665,7 +665,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='349183932' version='1'>
     <nd ref='3528433530' />
@@ -674,7 +674,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='349858789' version='1'>
     <nd ref='3394808147' />
@@ -684,7 +684,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='350884401' version='1'>
     <nd ref='3566115704' />
@@ -692,7 +692,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='350884402' version='1'>
     <nd ref='3566115701' />
@@ -701,7 +701,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='350884403' version='1'>
     <nd ref='2703785686' />
@@ -711,7 +711,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='350884404' version='1'>
     <nd ref='2703785694' />
@@ -720,7 +720,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='350884405' version='1'>
     <nd ref='2703785676' />
@@ -729,7 +729,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='350884407' version='1'>
     <nd ref='3814019230' />
@@ -738,7 +738,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='350884409' version='1'>
     <nd ref='3814019233' />
@@ -761,7 +761,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='350884412' version='1'>
     <nd ref='3814019231' />
@@ -770,7 +770,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='351181839' version='1'>
     <nd ref='3569140403' />
@@ -784,7 +784,7 @@
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
     <tag k='levelpart' v='step_platform' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='351181844' version='1'>
     <nd ref='2703838177' />
@@ -792,7 +792,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='351181849' version='1'>
     <nd ref='2703838177' />
@@ -800,7 +800,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='353022834' version='1'>
     <nd ref='3530743116' />
@@ -808,7 +808,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='353022835' version='1'>
     <nd ref='2550278910' />
@@ -816,7 +816,7 @@
     <tag k='highway' v='steps' />
     <tag k='incline' v='up' />
     <tag k='level' v='-3;-4' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='353022836' action='modify' version='1'>
     <nd ref='3588058239' />
@@ -828,7 +828,7 @@
     <tag k='level' v='-3;-4' />
     <tag k='name' v='to -4' />
     <tag k='ref' v='HU30' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='353022837' version='1'>
     <nd ref='3588058240' />
@@ -839,7 +839,7 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-3;-4' />
     <tag k='ref' v='HU31' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='353022838' version='1'>
     <nd ref='2550278908' />
@@ -847,7 +847,7 @@
     <tag k='highway' v='steps' />
     <tag k='incline' v='up' />
     <tag k='level' v='-3;-4' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='353022839' version='1'>
     <nd ref='3530743120' />
@@ -855,7 +855,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='353022841' version='1'>
     <nd ref='3588058238' />
@@ -866,7 +866,7 @@
     <tag k='incline' v='up' />
     <tag k='level' v='-3;-4' />
     <tag k='ref' v='HU29' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='353022846' version='1'>
     <nd ref='3530743116' />
@@ -874,7 +874,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='353022849' action='modify' version='1'>
     <nd ref='3588058241' />
@@ -886,7 +886,7 @@
     <tag k='level' v='-3;-4' />
     <tag k='name' v='to -4' />
     <tag k='ref' v='HU32' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='371756684' version='1'>
     <nd ref='3753077340' />
@@ -895,7 +895,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='371756687' version='1'>
     <nd ref='3530809918' />
@@ -907,7 +907,7 @@
     <tag k='incline' v='down' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-3;-2' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='372071271' version='1'>
     <nd ref='3756068299' />
@@ -917,7 +917,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-3' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='372071273' version='1'>
     <nd ref='3756068297' />
@@ -939,6 +939,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-3' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
 </osm>
