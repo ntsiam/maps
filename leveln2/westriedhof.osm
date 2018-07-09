@@ -82,7 +82,7 @@
   <way version="1" id="310477618">
     <nd ref="3159030260"/>
     <nd ref="3159030863"/>
-    <tag k="covered" v="yes"/>
+    
     <tag k="highway" v="steps"/>
     <tag k="incline" v="up"/>
     <tag k="building" v="yes"/>
