@@ -40,6 +40,10 @@ sed -i 's/<tag k="ref" v="I"\/>/<tag k="ref" v="I"\/>\n    <tag k="name" v="I"\/
 sed -i 's/<tag k="ref" v="J"\/>/<tag k="ref" v="J"\/>\n    <tag k="name" v="J"\/>/g' $1
 sed -i 's/<tag k="ref" v="K"\/>/<tag k="ref" v="K"\/>\n    <tag k="name" v="K"\/>/g' $1
 sed -i 's/<tag k="ref" v="L"\/>/<tag k="ref" v="L"\/>\n    <tag k="name" v="L"\/>/g' $1
+sed -i 's/<tag k="covered" v="yes"\/>//g' $1
+sed -i 's/<tag k="covered" v="yes" \/>//g' $1
+sed -i "s/<tag k='covered' v='yes'\/>//g" $1
+sed -i "s/<tag k='covered' v='yes' \/>//g" $1
 sed -i 's/<tag k="tunnel" v="yes"\/>//g' $1
 sed -i 's/<tag k="tunnel" v="yes" \/>//g' $1
 sed -i "s/<tag k='tunnel' v='yes' \/>//g" $1

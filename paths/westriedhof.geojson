@@ -1,0 +1,999 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2018-07-08T21:32:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248207475",
+        "area": "yes",
+        "description": "Westfriedhof U1 U7 Bahnsteig",
+        "height": "1.05",
+        "indoor": "yes",
+        "layer": "-3",
+        "level": "-2",
+        "narrow": "no",
+        "public_transport": "platform",
+        "ref": "1;2",
+        "subway": "yes",
+        "tunnel": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              11.5283921,
+              48.1706986
+            ],
+            [
+              11.5284714,
+              48.1696826
+            ],
+            [
+              11.5284764,
+              48.1696084
+            ],
+            [
+              11.5285149,
+              48.1696097
+            ],
+            [
+              11.5285588,
+              48.1696112
+            ],
+            [
+              11.5286053,
+              48.1696128
+            ],
+            [
+              11.5286004,
+              48.1696857
+            ],
+            [
+              11.528521,
+              48.1707031
+            ],
+            [
+              11.5284782,
+              48.1707016
+            ],
+            [
+              11.5284384,
+              48.1707002
+            ],
+            [
+              11.5283921,
+              48.1706986
+            ]
+          ]
+        ]
+      },
+      "id": "way/248207475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248207476",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5284747,
+            48.1690496
+          ],
+          [
+            11.5286444,
+            48.1690728
+          ],
+          [
+            11.5287757,
+            48.1690787
+          ]
+        ]
+      },
+      "id": "way/248207476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248207479",
+        "conveying": "reversible",
+        "highway": "steps",
+        "incline": "up",
+        "indoor": "yes",
+        "layer": "-2",
+        "level": "-1;-2",
+        "ref": "WF01",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5285149,
+            48.1696097
+          ],
+          [
+            11.5285241,
+            48.1695111
+          ]
+        ]
+      },
+      "id": "way/248207479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248207480",
+        "highway": "steps",
+        "incline": "up",
+        "level": "0;-1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5287757,
+            48.1690787
+          ],
+          [
+            11.5289243,
+            48.1690844
+          ]
+        ]
+      },
+      "id": "way/248207480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248207483",
+        "highway": "steps",
+        "incline": "up",
+        "level": "0;-1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5284747,
+            48.1690496
+          ],
+          [
+            11.5283272,
+            48.169045
+          ]
+        ]
+      },
+      "id": "way/248207483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248207484",
+        "conveying": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "indoor": "yes",
+        "level": "0;-1",
+        "ref": "WF04"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5283413,
+            48.1693189
+          ],
+          [
+            11.5281934,
+            48.1693129
+          ]
+        ]
+      },
+      "id": "way/248207484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248207485",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5285241,
+            48.1695111
+          ],
+          [
+            11.5285523,
+            48.1694712
+          ],
+          [
+            11.5285679,
+            48.169513
+          ]
+        ]
+      },
+      "id": "way/248207485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248479165",
+        "conveying": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "level": "0;-1",
+        "ref": "WF02"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5287778,
+            48.1690598
+          ],
+          [
+            11.5289259,
+            48.1690655
+          ]
+        ]
+      },
+      "id": "way/248479165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248479166",
+        "conveying": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "indoor": "yes",
+        "level": "0;-1",
+        "ref": "WF03"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5283426,
+            48.1692986
+          ],
+          [
+            11.5281953,
+            48.1692925
+          ]
+        ]
+      },
+      "id": "way/248479166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248479168",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "-2",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5285342,
+            48.169684
+          ],
+          [
+            11.5285348,
+            48.1696678
+          ]
+        ]
+      },
+      "id": "way/248479168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248479169",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5283413,
+            48.1693189
+          ],
+          [
+            11.5284939,
+            48.1693523
+          ],
+          [
+            11.5283426,
+            48.1692986
+          ]
+        ]
+      },
+      "id": "way/248479169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248479171",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5287778,
+            48.1690598
+          ],
+          [
+            11.5286444,
+            48.1690728
+          ]
+        ]
+      },
+      "id": "way/248479171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/248479176",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "-2",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5284714,
+            48.1696826
+          ],
+          [
+            11.5285342,
+            48.169684
+          ],
+          [
+            11.5286004,
+            48.1696857
+          ]
+        ]
+      },
+      "id": "way/248479176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/310477611",
+        "conveying": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "-1;-2",
+        "ref": "WF05",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5284782,
+            48.1707016
+          ],
+          [
+            11.5284708,
+            48.1707994
+          ]
+        ]
+      },
+      "id": "way/310477611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/310477612",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5284708,
+            48.1707994
+          ],
+          [
+            11.5284426,
+            48.170894
+          ],
+          [
+            11.5284309,
+            48.1707986
+          ]
+        ]
+      },
+      "id": "way/310477612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/310477615",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5284543,
+            48.170992
+          ],
+          [
+            11.5284426,
+            48.170894
+          ],
+          [
+            11.5284187,
+            48.1709913
+          ]
+        ]
+      },
+      "id": "way/310477615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/310477616",
+        "highway": "steps",
+        "incline": "up",
+        "indoor": "yes",
+        "layer": "-2",
+        "level": "-1;-2",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5285588,
+            48.1696112
+          ],
+          [
+            11.5285679,
+            48.169513
+          ]
+        ]
+      },
+      "id": "way/310477616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/310477617",
+        "conveying": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "0;-1",
+        "ref": "WF06"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5284543,
+            48.170992
+          ],
+          [
+            11.5284465,
+            48.1710911
+          ]
+        ]
+      },
+      "id": "way/310477617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/310477618",
+        "covered": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "indoor": "yes",
+        "level": "-1;-2",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5284384,
+            48.1707002
+          ],
+          [
+            11.5284309,
+            48.1707986
+          ]
+        ]
+      },
+      "id": "way/310477618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/310477620",
+        "covered": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "0;-1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5284187,
+            48.1709913
+          ],
+          [
+            11.528411,
+            48.1710899
+          ]
+        ]
+      },
+      "id": "way/310477620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/310477621",
+        "highway": "footway",
+        "indoor": "yes",
+        "level": "-1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5281953,
+            48.1692925
+          ],
+          [
+            11.5281745,
+            48.1693017
+          ],
+          [
+            11.5281934,
+            48.1693129
+          ]
+        ]
+      },
+      "id": "way/310477621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383655881",
+        "highway": "steps",
+        "incline": "up",
+        "level": "0;-1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5280692,
+            48.1692925
+          ],
+          [
+            11.5279218,
+            48.169285
+          ]
+        ]
+      },
+      "id": "way/383655881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383655883",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5285523,
+            48.1694712
+          ],
+          [
+            11.5286216,
+            48.1695065
+          ]
+        ]
+      },
+      "id": "way/383655883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383655885",
+        "covered": "yes",
+        "highway": "steps",
+        "incline": "up",
+        "indoor": "yes",
+        "level": "0;-1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5286216,
+            48.1695065
+          ],
+          [
+            11.5285872,
+            48.1696017
+          ]
+        ]
+      },
+      "id": "way/383655885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383655886",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5284426,
+            48.170894
+          ],
+          [
+            11.5284898,
+            48.1709748
+          ],
+          [
+            11.5284887,
+            48.1709927
+          ]
+        ]
+      },
+      "id": "way/383655886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383655887",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5285523,
+            48.1694712
+          ],
+          [
+            11.5286124,
+            48.1693574
+          ],
+          [
+            11.5286444,
+            48.1690728
+          ]
+        ]
+      },
+      "id": "way/383655887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383655891",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5284939,
+            48.1693523
+          ],
+          [
+            11.5281267,
+            48.1693342
+          ],
+          [
+            11.5280692,
+            48.1692925
+          ]
+        ]
+      },
+      "id": "way/383655891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/383655894",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5285348,
+            48.1696678
+          ],
+          [
+            11.5285348,
+            48.1696477
+          ],
+          [
+            11.5284694,
+            48.169626
+          ],
+          [
+            11.5284824,
+            48.1695108
+          ],
+          [
+            11.5285523,
+            48.1694712
+          ]
+        ]
+      },
+      "id": "way/383655894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/389871165",
+        "highway": "footway",
+        "indoor": "yes",
+        "layer": "-1",
+        "level": "-1",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            11.5285523,
+            48.1694712
+          ],
+          [
+            11.5284939,
+            48.1693523
+          ]
+        ]
+      },
+      "id": "way/389871165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/565449876",
+        "entrance": "yes",
+        "entrance_marker:subway": "yes",
+        "name": "Westfriedhof",
+        "railway": "subway_entrance",
+        "ref": "D",
+        "subway_entrance": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5283272,
+          48.169045
+        ]
+      },
+      "id": "node/565449876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2552664516",
+        "entrance": "yes",
+        "entrance_marker:subway": "yes",
+        "name": "Westfriedhof",
+        "railway": "subway_entrance",
+        "ref": "E",
+        "subway_entrance": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5278733,
+          48.1692837
+        ]
+      },
+      "id": "node/2552664516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2552664543",
+        "entrance": "yes",
+        "entrance_marker:subway": "yes",
+        "name": "Westfriedhof",
+        "railway": "subway_entrance",
+        "ref": "B",
+        "subway_entrance": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5285643,
+          48.1696322
+        ]
+      },
+      "id": "node/2552664543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2552664554",
+        "description": "Oberfläche/Zwischengeschoss",
+        "entrance": "yes",
+        "entrance_marker:subway": "yes",
+        "highway": "elevator",
+        "level": "0;-1;-2",
+        "name": "Westfriedhof",
+        "railway": "subway_entrance",
+        "ref": "WF01",
+        "subway_entrance": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5285348,
+          48.1696678
+        ]
+      },
+      "id": "node/2552664554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869651099",
+        "entrance": "yes",
+        "entrance_marker:subway": "yes",
+        "name": "Westfriedhof",
+        "railway": "subway_entrance",
+        "subway_entrance": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5281569,
+          48.1693009
+        ]
+      },
+      "id": "node/3869651099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869651131",
+        "description": "Eingang Tiefgarage P+R",
+        "entrance": "yes",
+        "park_ride": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5284887,
+          48.1709927
+        ]
+      },
+      "id": "node/3869651131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869651133",
+        "entrance": "yes",
+        "entrance_marker:subway": "yes",
+        "name": "Westfriedhof",
+        "railway": "subway_entrance",
+        "ref": "C",
+        "subway_entrance": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5289818,
+          48.169078
+        ]
+      },
+      "id": "node/3869651133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3869651134",
+        "entrance": "yes",
+        "entrance_marker:subway": "yes",
+        "name": "Westfriedhof",
+        "railway": "subway_entrance",
+        "ref": "A",
+        "subway_entrance": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5284255,
+          48.1711413
+        ]
+      },
+      "id": "node/3869651134"
+    }
+  ]
+}
