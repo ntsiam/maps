@@ -6356,7 +6356,7 @@
   <node id='-125121' action='modify' lat='48.14919203845' lon='11.56832367379' />
   <node id='-125123' action='modify' lat='48.14940068138' lon='11.5682748364'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4111' />
     <tag k='level' v='4' />
   </node>
@@ -6364,7 +6364,7 @@
   <node id='-125127' action='modify' lat='48.14896403066' lon='11.56809915171' />
   <node id='-125129' action='modify' lat='48.14861168387' lon='11.56794826148'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125131' action='modify' lat='48.14846724108' lon='11.56785482685' />
@@ -6374,7 +6374,7 @@
     <tag k='amenity' v='toilets' />
     <tag k='building_id' v='mc' />
     <tag k='female' v='yes' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4135' />
     <tag k='level' v='4' />
   </node>
@@ -6384,12 +6384,12 @@
   <node id='-125145' action='modify' lat='48.14899064519' lon='11.56819339862' />
   <node id='-125147' action='modify' lat='48.14932267172' lon='11.56840817674'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125149' action='modify' lat='48.14846724108' lon='11.56785482685'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125151' action='modify' lat='48.14904964599' lon='11.56823156439' />
@@ -6399,7 +6399,7 @@
   <node id='-125159' action='modify' lat='48.14829159873' lon='11.56779606276' />
   <node id='-125161' action='modify' lat='48.14866338374' lon='11.56790200935'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4166.B' />
     <tag k='level' v='4' />
   </node>
@@ -6408,7 +6408,7 @@
   <node id='-125167' action='modify' lat='48.14830591539' lon='11.5676156842' />
   <node id='-125169' action='modify' lat='48.14876359958' lon='11.56792346702'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4160' />
     <tag k='level' v='4' />
   </node>
@@ -6416,14 +6416,14 @@
   <node id='-125173' action='modify' lat='48.14895344175' lon='11.56799036604' />
   <node id='-125175' action='modify' lat='48.14841239545' lon='11.56791407996'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4167' />
     <tag k='level' v='4' />
   </node>
   <node id='-125177' action='modify' lat='48.14893629248' lon='11.56822923885'>
     <tag k='amenity' v='toilets' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4137' />
     <tag k='level' v='4' />
     <tag k='male' v='yes' />
@@ -6436,14 +6436,14 @@
   <node id='-125189' action='modify' lat='48.14896027736' lon='11.5680638828' />
   <node id='-125191' action='modify' lat='48.14848308377' lon='11.56779740387'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4170' />
     <tag k='level' v='4' />
   </node>
   <node id='-125193' action='modify' lat='48.14868654876' lon='11.56799668888' />
   <node id='-125195' action='modify' lat='48.14869022729' lon='11.56781215534'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4166' />
     <tag k='level' v='4' />
   </node>
@@ -6453,19 +6453,19 @@
   <node id='-125203' action='modify' lat='48.14883940718' lon='11.5680955677' />
   <node id='-125205' action='modify' lat='48.14903562427' lon='11.56822249418'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125207' action='modify' lat='48.14856473291' lon='11.56798348245'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4159' />
     <tag k='level' v='4' />
   </node>
   <node id='-125209' action='modify' lat='48.14870185949' lon='11.56809110508' />
   <node id='-125211' action='modify' lat='48.14868654876' lon='11.56799668888'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125213' action='modify' lat='48.14825909985' lon='11.56766091744' />
@@ -6474,7 +6474,7 @@
   <node id='-125219' action='modify' lat='48.14902845477' lon='11.56829629407' />
   <node id='-125221' action='modify' lat='48.14933267865' lon='11.56846124993'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125223' action='modify' lat='48.14932267172' lon='11.56840817674' />
@@ -6485,33 +6485,33 @@
   <node id='-125233' action='modify' lat='48.14873691949' lon='11.56802927193' />
   <node id='-125235' action='modify' lat='48.14931043055' lon='11.56844865447'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125237' action='modify' lat='48.14896360279' lon='11.56800961054' />
   <node id='-125239' action='modify' lat='48.14867054157' lon='11.56805355483'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4153' />
     <tag k='level' v='4' />
   </node>
   <node id='-125241' action='modify' lat='48.14904992946' lon='11.56815816031'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4142.B' />
     <tag k='level' v='4' />
   </node>
   <node id='-125243' action='modify' lat='48.14877617756' lon='11.56787919084' />
   <node id='-125245' action='modify' lat='48.14862669709' lon='11.56803276771'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4157' />
     <tag k='level' v='4' />
   </node>
   <node id='-125247' action='modify' lat='48.14903562427' lon='11.56822249418' />
   <node id='-125249' action='modify' lat='48.14874659869' lon='11.56798113451'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4160.A' />
     <tag k='level' v='4' />
   </node>
@@ -6519,7 +6519,7 @@
   <node id='-125253' action='modify' lat='48.14913972313' lon='11.56828983255' />
   <node id='-125255' action='modify' lat='48.14870185949' lon='11.56809110508'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4151' />
     <tag k='level' v='4' />
   </node>
@@ -6527,7 +6527,7 @@
   <node id='-125259' action='modify' lat='48.14899064519' lon='11.56819339862' />
   <node id='-125261' action='modify' lat='48.14933446819' lon='11.56851757632'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125263' action='modify' lat='48.14868654876' lon='11.56799668888' />
@@ -6535,7 +6535,7 @@
     <tag k='amenity' v='toilets' />
     <tag k='building_id' v='mc' />
     <tag k='female' v='yes' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4183' />
     <tag k='level' v='4' />
   </node>
@@ -6548,7 +6548,7 @@
   <node id='-125279' action='modify' lat='48.14896064686' lon='11.56800213426' />
   <node id='-125281' action='modify' lat='48.14862043404' lon='11.56790200935'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4168.B' />
     <tag k='level' v='4' />
   </node>
@@ -6565,24 +6565,24 @@
   <node id='-125303' action='modify' lat='48.14853386276' lon='11.56796638337' />
   <node id='-125305' action='modify' lat='48.14883940718' lon='11.5680955677'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125307' action='modify' lat='48.14849814716' lon='11.56787481881'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125309' action='modify' lat='48.14896591212' lon='11.56804643815' />
   <node id='-125311' action='modify' lat='48.1493872598' lon='11.56832848058'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4113' />
     <tag k='level' v='4' />
   </node>
   <node id='-125313' action='modify' lat='48.14843487801' lon='11.56783389243'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125315' action='modify' lat='48.14875844186' lon='11.56787808324' />
@@ -6591,12 +6591,12 @@
   <node id='-125321' action='modify' lat='48.14886292043' lon='11.56820509897' />
   <node id='-125323' action='modify' lat='48.14833394503' lon='11.56763693488'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125325' action='modify' lat='48.14868396379' lon='11.56788189278'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4166.A' />
     <tag k='level' v='4' />
   </node>
@@ -6610,14 +6610,14 @@
   <node id='-125341' action='modify' lat='48.14830591539' lon='11.5676156842'>
     <tag k='amenity' v='toilets' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4181' />
     <tag k='level' v='4' />
     <tag k='male' v='yes' />
   </node>
   <node id='-125343' action='modify' lat='48.1492405169' lon='11.56845052109'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4119' />
     <tag k='level' v='4' />
   </node>
@@ -6626,7 +6626,7 @@
   <node id='-125349' action='modify' lat='48.14883784425' lon='11.56821698184' />
   <node id='-125351' action='modify' lat='48.14892127487' lon='11.56814852519'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125353' action='modify' lat='48.14893629248' lon='11.56822923885' />
@@ -6637,18 +6637,18 @@
   <node id='-125363' action='modify' lat='48.14893117983' lon='11.568083958' />
   <node id='-125365' action='modify' lat='48.14853363929' lon='11.56783562534'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4170.A' />
     <tag k='level' v='4' />
   </node>
   <node id='-125367' action='modify' lat='48.14894479266' lon='11.56816373809'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125369' action='modify' lat='48.14834662838' lon='11.56759154432'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125371' action='modify' lat='48.14939046255' lon='11.56836224423' />
@@ -6656,23 +6656,23 @@
   <node id='-125375' action='modify' lat='48.14861168387' lon='11.56794826148' />
   <node id='-125377' action='modify' lat='48.14829159873' lon='11.56779606276'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125379' action='modify' lat='48.14867412116' lon='11.56787250505'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4166.A' />
     <tag k='level' v='4' />
   </node>
   <node id='-125381' action='modify' lat='48.14873691949' lon='11.56802927193'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125383' action='modify' lat='48.14890318559' lon='11.56820912228'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4139' />
     <tag k='level' v='4' />
   </node>
@@ -6680,24 +6680,24 @@
   <node id='-125387' action='modify' lat='48.14933446819' lon='11.56851757632' />
   <node id='-125389' action='modify' lat='48.14872246894' lon='11.56801992438'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125391' action='modify' lat='48.1483027855' lon='11.56774844701'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125393' action='modify' lat='48.14847771504' lon='11.56794626647'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4163' />
     <tag k='level' v='4' />
   </node>
   <node id='-125395' action='modify' lat='48.14921005384' lon='11.56833532742' />
   <node id='-125397' action='modify' lat='48.14919040947' lon='11.56840760575'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4123' />
     <tag k='level' v='4' />
   </node>
@@ -6705,13 +6705,13 @@
   <node id='-125401' action='modify' lat='48.14856473291' lon='11.56798348245' />
   <node id='-125403' action='modify' lat='48.14863654018' lon='11.56784031854'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4168' />
     <tag k='level' v='4' />
   </node>
   <node id='-125405' action='modify' lat='48.14936578525' lon='11.56825471983'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4112' />
     <tag k='level' v='4' />
   </node>
@@ -6719,34 +6719,34 @@
   <node id='-125409' action='modify' lat='48.14896314093' lon='11.56805876016' />
   <node id='-125411' action='modify' lat='48.14853386276' lon='11.56796638337'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4161' />
     <tag k='level' v='4' />
   </node>
   <node id='-125413' action='modify' lat='48.14934967934' lon='11.56831372843'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4116' />
     <tag k='level' v='4' />
   </node>
   <node id='-125415' action='modify' lat='48.1487708199' lon='11.56787752944' />
   <node id='-125417' action='modify' lat='48.14902845477' lon='11.56829629407'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4133' />
     <tag k='level' v='4' />
   </node>
   <node id='-125419' action='modify' lat='48.14920651543' lon='11.56826276646' />
   <node id='-125421' action='modify' lat='48.14921005384' lon='11.56833532742'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125423' action='modify' lat='48.1483027855' lon='11.56774844701' />
   <node id='-125425' action='modify' lat='48.14909409307' lon='11.56826031584' />
   <node id='-125427' action='modify' lat='48.14855170563' lon='11.56790946377'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125429' action='modify' lat='48.14873941293' lon='11.56789608169' />
@@ -6754,20 +6754,20 @@
   <node id='-125433' action='modify' lat='48.14921005384' lon='11.56833532742' />
   <node id='-125435' action='modify' lat='48.14909409307' lon='11.56826031584'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125437' action='modify' lat='48.14894679089' lon='11.56807980451' />
   <node id='-125439' action='modify' lat='48.14931043055' lon='11.56844865447' />
   <node id='-125441' action='modify' lat='48.14896403066' lon='11.56809915171'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4140.A' />
     <tag k='level' v='4' />
   </node>
   <node id='-125443' action='modify' lat='48.14904964599' lon='11.56823156439'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125445' action='modify' lat='48.14832067945' lon='11.56757478052' />
@@ -6775,7 +6775,7 @@
   <node id='-125449' action='modify' lat='48.14874659869' lon='11.56798113451' />
   <node id='-125451' action='modify' lat='48.14895687709' lon='11.56817155512'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125453' action='modify' lat='48.14890318559' lon='11.56820912228' />
@@ -6784,7 +6784,7 @@
   <node id='-125459' action='modify' lat='48.14934967934' lon='11.56831372843' />
   <node id='-125461' action='modify' lat='48.14888589496' lon='11.56812563909'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125463' action='modify' lat='48.14895722905' lon='11.56806900544' />
@@ -6797,20 +6797,20 @@
   <node id='-125477' action='modify' lat='48.14886471' lon='11.56800393329' />
   <node id='-125479' action='modify' lat='48.1487940222' lon='11.56815816031'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4145' />
     <tag k='level' v='4' />
   </node>
   <node id='-125481' action='modify' lat='48.14896683585' lon='11.56803910031' />
   <node id='-125483' action='modify' lat='48.14912240645' lon='11.56835396157'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4125' />
     <tag k='level' v='4' />
   </node>
   <node id='-125485' action='modify' lat='48.14886292043' lon='11.56820509897'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4141' />
     <tag k='level' v='4' />
   </node>
@@ -6820,7 +6820,7 @@
   <node id='-125493' action='modify' lat='48.14888589496' lon='11.56812563909' />
   <node id='-125495' action='modify' lat='48.14899064519' lon='11.56819339862'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125497' action='modify' lat='48.14863654018' lon='11.56784031854' />
@@ -6833,20 +6833,20 @@
   <node id='-125511' action='modify' lat='48.14896526551' lon='11.56801611767' />
   <node id='-125513' action='modify' lat='48.14886471' lon='11.56800393329'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4140' />
     <tag k='level' v='4' />
   </node>
   <node id='-125515' action='modify' lat='48.1492968877' lon='11.56849343643'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4117' />
     <tag k='level' v='4' />
   </node>
   <node id='-125517' action='modify' lat='48.14933941664' lon='11.56841308225' />
   <node id='-125519' action='modify' lat='48.14881643721' lon='11.5680807092'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125521' action='modify' lat='48.14894479266' lon='11.56816373809' />
@@ -6854,7 +6854,7 @@
   <node id='-125525' action='modify' lat='48.14884493768' lon='11.56819271421' />
   <node id='-125527' action='modify' lat='48.14826699195' lon='11.56778198116'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4177' />
     <tag k='level' v='4' />
   </node>
@@ -6864,32 +6864,32 @@
   <node id='-125535' action='modify' lat='48.14919040947' lon='11.56840760575' />
   <node id='-125537' action='modify' lat='48.14920651543' lon='11.56826276646'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4120' />
     <tag k='level' v='4' />
   </node>
   <node id='-125539' action='modify' lat='48.14893626036' lon='11.568083958' />
   <node id='-125541' action='modify' lat='48.14919203845' lon='11.56832367379'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125543' action='modify' lat='48.14864312955' lon='11.56796860255'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125545' action='modify' lat='48.14841239545' lon='11.56791407996' />
   <node id='-125547' action='modify' lat='48.14936074434' lon='11.56834404929' />
   <node id='-125549' action='modify' lat='48.14913972313' lon='11.56828983255'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </node>
   <node id='-125551' action='modify' lat='48.14855170563' lon='11.56790946377' />
   <node id='-125553' action='modify' lat='48.14907319369' lon='11.56832177506'>
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='id' v='4129' />
     <tag k='level' v='4' />
   </node>
@@ -28320,14 +28320,14 @@
     <nd ref='-125561' />
     <nd ref='-125167' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129475' action='modify'>
     <nd ref='-125229' />
     <nd ref='-125373' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129477' action='modify'>
@@ -28357,21 +28357,21 @@
     <nd ref='-125299' />
     <nd ref='-125353' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129481' action='modify'>
     <nd ref='-125319' />
     <nd ref='-125419' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129483' action='modify'>
     <nd ref='-125225' />
     <nd ref='-125499' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129485' action='modify'>
@@ -28381,14 +28381,14 @@
     <nd ref='-125295' />
     <nd ref='-125119' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129487' action='modify'>
     <nd ref='-125357' />
     <nd ref='-125183' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129489' action='modify'>
@@ -28424,35 +28424,35 @@
     <nd ref='-125449' />
     <nd ref='-125555' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129493' action='modify'>
     <nd ref='-125193' />
     <nd ref='-125467' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129495' action='modify'>
     <nd ref='-125179' />
     <nd ref='-125453' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129497' action='modify'>
     <nd ref='-125339' />
     <nd ref='-125209' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129499' action='modify'>
     <nd ref='-125259' />
     <nd ref='-125533' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129501' action='modify'>
@@ -28490,7 +28490,7 @@
     <nd ref='-125395' />
     <nd ref='-125223' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129505' action='modify'>
@@ -28506,21 +28506,21 @@
     <nd ref='-125469' />
     <nd ref='-125529' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129509' action='modify'>
     <nd ref='-125523' />
     <nd ref='-125219' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129511' action='modify'>
     <nd ref='-125157' />
     <nd ref='-125431' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129513' action='modify'>
@@ -28529,14 +28529,14 @@
     <nd ref='-125525' />
     <nd ref='-125349' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129515' action='modify'>
     <nd ref='-125503' />
     <nd ref='-125331' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129517' action='modify'>
@@ -28544,14 +28544,14 @@
     <nd ref='-125457' />
     <nd ref='-125287' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129519' action='modify'>
     <nd ref='-125231' />
     <nd ref='-125127' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129521' action='modify'>
@@ -28560,14 +28560,14 @@
     <nd ref='-125439' />
     <nd ref='-125269' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129523' action='modify'>
     <nd ref='-125327' />
     <nd ref='-125153' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129525' action='modify'>
@@ -28579,21 +28579,21 @@
     <nd ref='-125345' />
     <nd ref='-125445' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129527' action='modify'>
     <nd ref='-125275' />
     <nd ref='-125143' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129529' action='modify'>
     <nd ref='-125433' />
     <nd ref='-125535' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129531' action='modify'>
@@ -28601,28 +28601,28 @@
     <nd ref='-125303' />
     <nd ref='-125401' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129533' action='modify'>
     <nd ref='-125203' />
     <nd ref='-125477' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129535' action='modify'>
     <nd ref='-125271' />
     <nd ref='-125545' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129537' action='modify'>
     <nd ref='-125493' />
     <nd ref='-125321' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129539' action='modify'>
@@ -28635,7 +28635,7 @@
     <nd ref='-125289' />
     <nd ref='-125565' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129541' action='modify'>
@@ -28643,14 +28643,14 @@
     <nd ref='-125283' />
     <nd ref='-125557' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-129543' action='modify'>
     <nd ref='-125199' />
     <nd ref='-125473' />
     <tag k='building_id' v='mc' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='4' />
   </way>
   <way id='-137629' action='modify'>
@@ -31510,7 +31510,7 @@
     <tag k='stairs' v='yes' />
   </way>
   <way id='104405102' action='delete' timestamp='2016-06-25T14:01:11Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -31613,7 +31613,7 @@
     <tag k='level' v='0' />
   </way>
   <way id='104405115' action='delete' timestamp='2016-06-25T14:01:14Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='-1' />
   </way>
@@ -31648,24 +31648,24 @@
     <tag k='outdoor' v='yes' />
   </way>
   <way id='104405119' action='delete' timestamp='2016-06-25T14:01:21Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='-0.5' />
   </way>
   <way id='104405120' action='delete' timestamp='2016-06-25T14:01:08Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2.3' />
   </way>
   <way id='104405121' action='delete' timestamp='2016-06-25T14:01:19Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
     <tag k='bridge' v='yes' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='layer' v='3' />
     <tag k='level' v='3' />
   </way>
   <way id='104405122' action='delete' timestamp='2016-06-25T14:01:21Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='-0.5' />
   </way>
@@ -31682,13 +31682,13 @@
     <nd ref='1204631643' />
     <nd ref='1204630658' />
     <nd ref='1204631821' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
     <tag k='oneway' v='yes' />
   </way>
   <way id='104405125' action='delete' timestamp='2016-06-25T14:01:09Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1.3' />
   </way>
@@ -31699,13 +31699,13 @@
     <nd ref='1204630791' />
     <nd ref='1204631816' />
     <nd ref='1204631009' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='104405129' action='delete' timestamp='2016-06-25T14:01:20Z' uid='6998' user='saerdnaer' version='6' changeset='40282437'>
     <tag k='bridge' v='yes' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='layer' v='1' />
     <tag k='level' v='1' />
@@ -31713,12 +31713,12 @@
   <way id='104405130' action='modify' timestamp='2016-06-25T14:01:07Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
     <nd ref='1204630363' />
     <nd ref='1204630266' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='104405131' action='delete' timestamp='2016-06-25T14:01:13Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
@@ -31737,13 +31737,13 @@
     <tag k='level' v='0' />
   </way>
   <way id='104405134' action='delete' timestamp='2016-06-25T14:01:11Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0.3' />
   </way>
   <way id='104405136' action='delete' timestamp='2016-06-25T14:01:17Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
     <tag k='bridge' v='yes' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='layer' v='3' />
     <tag k='level' v='3' />
@@ -31808,7 +31808,7 @@
   <way id='104405147' timestamp='2016-06-25T14:01:14Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
     <nd ref='1204631546' />
     <nd ref='1204632081' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -31826,13 +31826,13 @@
     <tag k='outdoor' v='yes' />
   </way>
   <way id='104405152' action='delete' timestamp='2016-06-25T14:01:19Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='104405153' action='delete' timestamp='2016-06-25T14:01:17Z' uid='6998' user='saerdnaer' version='6' changeset='40282437'>
     <tag k='bridge' v='yes' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='layer' v='2' />
     <tag k='level' v='2' />
@@ -31852,7 +31852,7 @@
     <tag k='wall' v='yes' />
   </way>
   <way id='104405191' action='delete' timestamp='2016-06-25T14:01:14Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='-1' />
   </way>
@@ -31932,14 +31932,14 @@
   <way id='104405213' action='modify' timestamp='2016-06-25T14:01:10Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
     <nd ref='1204631903' />
     <nd ref='1204630198' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='104405214' timestamp='2016-06-25T14:01:11Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
     <nd ref='1204631384' />
     <nd ref='1204631859' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -31959,12 +31959,12 @@
     <tag k='stairs' v='yes' />
   </way>
   <way id='104405218' action='delete' timestamp='2016-06-25T14:01:21Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='104405219' action='delete' timestamp='2016-06-25T14:01:15Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -31978,7 +31978,7 @@
     <tag k='level' v='0' />
   </way>
   <way id='104405221' action='delete' timestamp='2016-06-25T14:01:12Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0.3' />
   </way>
@@ -32003,7 +32003,7 @@
     <tag k='wheelchair_toilet' v='unknown' />
   </way>
   <way id='104405224' action='delete' timestamp='2016-06-25T14:01:19Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
@@ -32026,7 +32026,7 @@
     <tag k='stairs' v='yes' />
   </way>
   <way id='104405229' action='delete' timestamp='2016-06-25T14:01:13Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
@@ -32040,7 +32040,7 @@
     <tag k='level' v='0' />
   </way>
   <way id='104405232' action='delete' timestamp='2016-06-25T14:01:22Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32067,7 +32067,7 @@
     <tag k='name' v='Eingang Nord' />
   </way>
   <way id='104405241' action='delete' timestamp='2016-06-25T14:01:18Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
@@ -32126,7 +32126,7 @@
     <tag k='room' v='lecture' />
   </way>
   <way id='104405247' action='delete' timestamp='2016-06-25T14:01:13Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2.3' />
   </way>
@@ -32181,7 +32181,7 @@
     <tag k='stairs' v='yes' />
   </way>
   <way id='104405255' action='delete' timestamp='2016-06-25T14:01:22Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32206,12 +32206,12 @@
     <nd ref='1204630460' />
     <nd ref='1204631416' />
     <nd ref='1204631643' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='104405259' action='delete' timestamp='2016-06-25T14:01:07Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1.3' />
   </way>
@@ -32227,13 +32227,13 @@
     <tag k='name' v='Regieraum HS1' />
   </way>
   <way id='104405261' action='delete' timestamp='2016-06-25T14:01:19Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='104405262' action='delete' timestamp='2016-06-25T14:01:20Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
     <tag k='bridge' v='yes' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='layer' v='2' />
     <tag k='level' v='2' />
@@ -32299,13 +32299,13 @@
   </way>
   <way id='104405272' action='delete' timestamp='2016-06-25T14:01:20Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
     <tag k='bridge' v='yes' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='layer' v='1' />
     <tag k='level' v='1' />
   </way>
   <way id='104405275' action='delete' timestamp='2016-06-25T14:01:09Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32335,84 +32335,84 @@
     <tag k='name' v='to -1' />
   </way>
   <way id='106268651' action='delete' timestamp='2016-06-25T14:01:13Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106268653' action='delete' timestamp='2016-06-25T14:01:22Z' uid='6998' user='saerdnaer' version='10' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='106268654' action='delete' timestamp='2016-06-25T14:01:12Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='106268656' action='delete' timestamp='2016-06-25T14:01:16Z' uid='6998' user='saerdnaer' version='12' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='106268659' action='delete' timestamp='2016-06-25T14:01:14Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106268662' action='delete' timestamp='2016-06-25T14:01:21Z' uid='6998' user='saerdnaer' version='6' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='106268663' action='delete' timestamp='2016-06-25T14:01:10Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='106268665' action='modify' timestamp='2016-06-25T14:01:08Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
     <nd ref='1223094875' />
     <nd ref='1204631353' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106268667' action='delete' timestamp='2016-06-25T14:01:15Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106268669' action='delete' timestamp='2016-06-25T14:01:12Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='106268670' action='delete' timestamp='2016-06-25T14:01:14Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106268674' action='delete' timestamp='2016-06-25T14:01:15Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106268675' action='delete' timestamp='2016-06-25T14:01:21Z' uid='6998' user='saerdnaer' version='8' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='106268677' action='delete' timestamp='2016-06-25T14:01:08Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='106268678' action='delete' timestamp='2016-06-25T14:01:10Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='106268680' action='delete' timestamp='2016-06-25T14:01:09Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
@@ -32420,7 +32420,7 @@
     <nd ref='1223094848' />
     <nd ref='1223094836' />
     <tag k='bridge' v='yes' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32432,37 +32432,37 @@
     <tag k='wall' v='yes' />
   </way>
   <way id='106273109' action='delete' timestamp='2016-06-25T14:01:12Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106273110' action='delete' timestamp='2016-06-25T14:01:19Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106273111' action='delete' timestamp='2016-06-25T14:01:10Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106273112' action='delete' timestamp='2016-06-25T14:01:13Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106273113' action='delete' timestamp='2016-06-25T14:01:09Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106273115' action='delete' timestamp='2016-06-25T14:01:16Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106273116' action='delete' timestamp='2016-06-25T14:01:08Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32482,7 +32482,7 @@
     <tag k='level' v='0' />
   </way>
   <way id='106273121' action='delete' timestamp='2016-06-25T14:01:18Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32493,12 +32493,12 @@
     <tag k='level' v='0' />
   </way>
   <way id='106273123' action='delete' timestamp='2016-06-25T14:01:10Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106273124' action='delete' timestamp='2016-06-25T14:01:18Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32514,22 +32514,22 @@
     <tag k='wall' v='yes' />
   </way>
   <way id='106273126' action='delete' timestamp='2016-06-25T14:01:17Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106273127' action='delete' timestamp='2016-11-03T07:49:42Z' uid='479256' user='geodreieck4711' version='6' changeset='43372269'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106273128' action='delete' timestamp='2016-06-25T14:01:16Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106273129' action='delete' timestamp='2016-06-25T14:01:06Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32542,7 +32542,7 @@
     <tag k='level' v='0' />
   </way>
   <way id='106273132' action='delete' timestamp='2016-06-25T14:01:11Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32550,12 +32550,12 @@
     <tag k='highway' v='footway' />
   </way>
   <way id='106273134' action='delete' timestamp='2016-06-25T14:01:10Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106273135' action='delete' timestamp='2016-06-25T14:01:15Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32568,7 +32568,7 @@
     <tag k='wall' v='yes' />
   </way>
   <way id='106374199' action='delete' timestamp='2016-06-25T14:01:09Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32578,7 +32578,7 @@
     <tag k='level' v='0' />
   </way>
   <way id='106374201' action='delete' timestamp='2016-06-25T14:01:08Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32587,17 +32587,17 @@
     <tag k='level' v='0' />
   </way>
   <way id='106374204' action='delete' timestamp='2016-06-25T14:01:15Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106374205' action='delete' timestamp='2016-06-25T14:01:06Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106374206' action='delete' timestamp='2016-06-25T14:01:14Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32614,7 +32614,7 @@
     <tag k='room' v='hall' />
   </way>
   <way id='106374208' action='delete' timestamp='2016-06-25T14:01:11Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32622,7 +32622,7 @@
     <nd ref='1352577869' />
     <nd ref='1224163323' />
     <tag k='access' v='emergency' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32645,7 +32645,7 @@
     <tag k='level' v='0' />
   </way>
   <way id='106374212' action='delete' timestamp='2016-06-25T14:01:15Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32661,7 +32661,7 @@
     <tag k='level' v='0' />
   </way>
   <way id='106374214' action='delete' timestamp='2016-06-25T14:01:22Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32693,7 +32693,7 @@
     <tag k='ref' v='00.08.038' />
   </way>
   <way id='106374218' action='delete' timestamp='2016-06-25T14:01:17Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
     <tag k='oneway' v='yes' />
@@ -32742,17 +32742,17 @@
     <tag k='level' v='0' />
   </way>
   <way id='106374227' action='delete' timestamp='2016-06-25T14:01:07Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106374228' action='delete' timestamp='2016-06-25T14:01:06Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106374230' action='delete' timestamp='2016-06-25T14:01:14Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32778,7 +32778,7 @@
     <tag k='room' v='hall' />
   </way>
   <way id='106374233' action='delete' timestamp='2016-06-25T14:01:10Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32797,12 +32797,12 @@
     <tag k='name' v='bits@work' />
   </way>
   <way id='106374239' action='delete' timestamp='2016-06-25T14:01:12Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106374240' action='delete' timestamp='2016-06-25T14:01:07Z' uid='6998' user='saerdnaer' version='6' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32850,12 +32850,12 @@
     <tag k='stairs' v='yes' />
   </way>
   <way id='106374246' action='delete' timestamp='2016-06-25T14:01:09Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='106374247' action='delete' timestamp='2016-06-25T14:01:15Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
     <tag k='oneway' v='yes' />
@@ -32925,7 +32925,7 @@
     <nd ref='1235752285' />
     <nd ref='1235752295' />
     <nd ref='1235752287' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32933,12 +32933,12 @@
     <nd ref='1204630760' />
     <nd ref='1235752292' />
     <nd ref='1235752300' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='107532494' action='delete' timestamp='2016-06-25T14:01:21Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32947,7 +32947,7 @@
     <tag k='level' v='0' />
   </way>
   <way id='108438040' action='delete' timestamp='2016-06-25T14:01:16Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32956,12 +32956,12 @@
     <tag k='level' v='0' />
   </way>
   <way id='108438043' action='delete' timestamp='2016-06-25T14:01:18Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='108438044' action='delete' timestamp='2016-06-25T14:01:11Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32970,7 +32970,7 @@
     <tag k='level' v='0' />
   </way>
   <way id='120739241' action='delete' timestamp='2016-06-25T14:01:12Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -32979,24 +32979,24 @@
     <tag k='level' v='0' />
   </way>
   <way id='120739259' action='delete' timestamp='2016-06-25T14:01:12Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120739261' action='delete' timestamp='2016-09-29T14:34:34Z' uid='496201' user='Nakaner' version='4' changeset='42520646'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120739271' action='modify' timestamp='2016-06-25T14:01:15Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
     <nd ref='1353023049' />
     <nd ref='1353023157' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120739273' action='delete' timestamp='2016-09-29T14:34:34Z' uid='496201' user='Nakaner' version='3' changeset='42520646'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
@@ -33005,88 +33005,88 @@
     <tag k='level' v='0' />
   </way>
   <way id='120739299' action='delete' timestamp='2016-06-25T14:01:07Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120739302' action='delete' timestamp='2016-06-25T14:01:15Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120739303' action='delete' timestamp='2016-06-25T14:01:18Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120739309' action='delete' timestamp='2016-06-25T14:01:21Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120739317' action='delete' timestamp='2016-06-25T14:01:20Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120739331' action='delete' timestamp='2016-06-25T14:01:17Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120739344' action='delete' timestamp='2016-06-25T14:01:21Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='-1' />
     <tag k='outdoor' v='yes' />
   </way>
   <way id='120740982' action='delete' timestamp='2016-06-25T14:01:06Z' uid='6998' user='saerdnaer' version='7' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120740984' action='delete' timestamp='2016-06-25T14:01:06Z' uid='6998' user='saerdnaer' version='7' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120740985' action='delete' timestamp='2016-06-25T14:01:07Z' uid='6998' user='saerdnaer' version='6' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120740987' action='delete' timestamp='2016-06-25T14:01:15Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120740989' action='delete' timestamp='2016-06-25T14:01:12Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120740990' action='delete' timestamp='2016-06-25T14:01:13Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120740991' action='delete' timestamp='2016-06-25T14:01:10Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120740992' action='delete' timestamp='2016-06-25T14:01:09Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120740993' action='delete' timestamp='2016-06-25T14:01:14Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120740995' action='delete' timestamp='2016-06-25T14:01:13Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -33095,32 +33095,32 @@
     <tag k='level' v='0' />
   </way>
   <way id='120740998' action='delete' timestamp='2016-06-25T14:01:11Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120740999' action='delete' timestamp='2016-06-25T14:01:08Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120741000' action='delete' timestamp='2016-06-25T14:01:10Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120741002' action='delete' timestamp='2016-09-25T09:54:21Z' uid='1787357' user='letihu' version='4' changeset='42419684'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120741004' action='delete' timestamp='2016-06-25T14:01:14Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120741006' action='delete' timestamp='2016-06-25T14:01:12Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
@@ -33129,22 +33129,22 @@
     <tag k='level' v='0' />
   </way>
   <way id='120741008' action='delete' timestamp='2016-06-25T14:01:11Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120741009' action='delete' timestamp='2016-06-25T14:01:07Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120741010' action='delete' timestamp='2016-06-25T14:01:09Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741013' action='delete' timestamp='2016-06-25T14:01:11Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
@@ -33153,47 +33153,47 @@
     <tag k='level' v='0' />
   </way>
   <way id='120741016' action='delete' timestamp='2016-06-25T14:01:11Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120741017' action='delete' timestamp='2016-06-25T14:01:08Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741018' action='delete' timestamp='2016-06-25T14:01:10Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120741019' action='delete' timestamp='2016-06-25T14:01:15Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120741020' action='delete' timestamp='2016-06-25T14:01:07Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741021' action='delete' timestamp='2016-06-25T14:01:12Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120741022' action='delete' timestamp='2016-06-25T14:01:14Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741023' action='delete' timestamp='2016-06-25T14:01:10Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120741024' action='delete' timestamp='2016-06-25T14:01:14Z' uid='6998' user='saerdnaer' version='5' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -33202,7 +33202,7 @@
     <tag k='level' v='0' />
   </way>
   <way id='120741026' action='delete' timestamp='2016-06-25T14:01:13Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
@@ -33213,12 +33213,12 @@
   <way id='120741028' action='modify' timestamp='2016-06-25T14:01:10Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
     <nd ref='1353023049' />
     <nd ref='1353023157' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741029' action='delete' timestamp='2016-06-25T14:01:15Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
@@ -33227,7 +33227,7 @@
     <tag k='level' v='0' />
   </way>
   <way id='120741031' action='delete' timestamp='2016-06-25T14:01:13Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
@@ -33236,192 +33236,192 @@
     <tag k='level' v='0' />
   </way>
   <way id='120741033' action='delete' timestamp='2016-06-25T14:01:12Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120741034' action='delete' timestamp='2016-06-25T14:01:13Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741035' action='delete' timestamp='2016-06-25T14:01:10Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741037' action='delete' timestamp='2016-06-25T14:01:07Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741038' action='delete' timestamp='2016-06-25T14:01:08Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741040' action='delete' timestamp='2016-06-25T14:01:16Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741041' action='delete' timestamp='2016-06-25T14:01:19Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120741042' action='delete' timestamp='2016-06-25T14:01:20Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741043' action='delete' timestamp='2016-06-25T14:01:18Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120741044' action='delete' timestamp='2016-06-25T14:01:18Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120741045' action='delete' timestamp='2016-06-25T14:01:17Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741047' action='delete' timestamp='2016-06-25T14:01:20Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120741048' action='delete' timestamp='2016-06-25T14:01:17Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120741049' action='delete' timestamp='2016-06-25T14:01:19Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741050' action='delete' timestamp='2016-06-25T14:01:20Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120741051' action='delete' timestamp='2016-06-25T14:01:11Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='-1' />
   </way>
   <way id='120741052' action='delete' timestamp='2016-06-25T14:01:18Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120741053' action='delete' timestamp='2016-06-25T14:01:17Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120741054' action='delete' timestamp='2016-06-25T14:01:18Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741055' action='delete' timestamp='2016-06-25T14:01:20Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741056' action='delete' timestamp='2016-06-25T14:01:16Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120741057' action='delete' timestamp='2016-06-25T14:01:19Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120741058' action='delete' timestamp='2016-06-25T14:01:19Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120741060' action='delete' timestamp='2016-06-25T14:01:18Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120741061' action='delete' timestamp='2016-06-25T14:01:16Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120741062' action='delete' timestamp='2016-06-25T14:01:17Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120741063' action='delete' timestamp='2016-06-25T14:01:20Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120741064' action='delete' timestamp='2016-06-25T14:01:17Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120741065' action='delete' timestamp='2016-06-25T14:01:19Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120741066' action='delete' timestamp='2016-06-25T14:01:20Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120741067' action='delete' timestamp='2016-06-25T14:01:18Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='120741068' action='delete' timestamp='2016-06-25T14:01:18Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120741069' action='delete' timestamp='2016-06-25T14:01:17Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
   <way id='120741070' action='delete' timestamp='2016-06-25T14:01:17Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120741071' action='delete' timestamp='2016-11-03T07:49:42Z' uid='479256' user='geodreieck4711' version='5' changeset='43372269'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='-1' />
   </way>
   <way id='120741072' action='delete' timestamp='2016-06-25T14:01:09Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='3' />
   </way>
   <way id='120741073' action='delete' timestamp='2016-06-25T14:01:14Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='1' />
   </way>
   <way id='120741074' action='delete' timestamp='2016-06-25T14:01:07Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='2' />
   </way>
@@ -34213,19 +34213,19 @@
     <tag k='level' v='0' />
   </way>
   <way id='121802816' action='delete' timestamp='2016-06-25T14:01:19Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='layer' v='3' />
     <tag k='level' v='3' />
   </way>
   <way id='121802817' action='delete' timestamp='2016-06-25T14:01:21Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='layer' v='1' />
     <tag k='level' v='1' />
   </way>
   <way id='121802818' action='delete' timestamp='2016-06-25T14:01:21Z' uid='6998' user='saerdnaer' version='4' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='layer' v='2' />
     <tag k='level' v='2' />
@@ -34235,24 +34235,24 @@
     <tag k='level' v='0' />
   </way>
   <way id='123400964' action='delete' timestamp='2016-06-25T14:01:08Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='123400965' action='delete' timestamp='2016-06-25T14:01:14Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='123400966' action='delete' timestamp='2016-06-25T14:01:20Z' uid='6998' user='saerdnaer' version='2' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
   <way id='123416741' action='modify' timestamp='2016-06-25T14:01:13Z' uid='6998' user='saerdnaer' version='3' changeset='40282437'>
     <nd ref='1353023049' />
     <nd ref='1353023157' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
@@ -34668,7 +34668,7 @@
   </way>
   <way id='380373189' action='delete' timestamp='2016-11-05T11:44:39Z' uid='46226' user='wrtlprnft' version='5' changeset='43419567'>
     <tag k='bridge' v='yes' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0-3' />
     <tag k='note' v='z=y=h x²/d²' />
@@ -34678,7 +34678,7 @@
   </way>
   <way id='380373190' action='delete' timestamp='2016-11-05T11:44:39Z' uid='46226' user='wrtlprnft' version='4' changeset='43419567'>
     <tag k='bridge' v='yes' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0-3' />
     <tag k='note' v='z=y=h x²/d²' />
@@ -34687,7 +34687,7 @@
     <tag k='wheelchair' v='no' />
   </way>
   <way id='427208449' action='delete' timestamp='2016-06-25T14:00:48Z' uid='6998' user='saerdnaer' version='1' changeset='40282437'>
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='indoor' v='corridor' />
     <tag k='level' v='0' />
   </way>
