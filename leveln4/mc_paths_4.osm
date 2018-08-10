@@ -1,0 +1,788 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-58233' action='modify' lat='48.14933446977' lon='11.56851757912'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58234' action='modify' lat='48.14861168545' lon='11.56794826428'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58235' action='modify' lat='48.14863654176' lon='11.56784032134'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4168' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58238' action='modify' lat='48.14894479424' lon='11.56816374089' />
+  <node id='-58239' action='modify' lat='48.14855170721' lon='11.56790946657' />
+  <node id='-58240' action='modify' lat='48.14853386434' lon='11.56796638617' />
+  <node id='-58241' action='modify' lat='48.14896403224' lon='11.56809915451' />
+  <node id='-58242' action='modify' lat='48.14856473449' lon='11.56798348525' />
+  <node id='-58244' action='modify' lat='48.14929688928' lon='11.56849343923' />
+  <node id='-58245' action='modify' lat='48.14913972471' lon='11.56828983535'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58246' action='modify' lat='48.14924051848' lon='11.56845052389' />
+  <node id='-58248' action='modify' lat='48.14932005841' lon='11.56841682618' />
+  <node id='-58249' action='modify' lat='48.14933604703' lon='11.56842582134' />
+  <node id='-58251' action='modify' lat='48.14899064677' lon='11.56819340142' />
+  <node id='-58252' action='modify' lat='48.1489747696' lon='11.56824131159' />
+  <node id='-58254' action='modify' lat='48.14864313113' lon='11.56796860535' />
+  <node id='-58255' action='modify' lat='48.14862669867' lon='11.56803277051' />
+  <node id='-58257' action='modify' lat='48.14913972471' lon='11.56828983535' />
+  <node id='-58258' action='modify' lat='48.14912240803' lon='11.56835396437' />
+  <node id='-58260' action='modify' lat='48.14903562585' lon='11.56822249698' />
+  <node id='-58261' action='modify' lat='48.14904993104' lon='11.56815816311' />
+  <node id='-58263' action='modify' lat='48.14933446977' lon='11.56851757912' />
+  <node id='-58264' action='modify' lat='48.14929688928' lon='11.56849343923' />
+  <node id='-58265' action='modify' lat='48.14931043213' lon='11.56844865727' />
+  <node id='-58266' action='modify' lat='48.14932005841' lon='11.56841682618' />
+  <node id='-58267' action='modify' lat='48.1493226733' lon='11.56840817954' />
+  <node id='-58268' action='modify' lat='48.14934968092' lon='11.56831373123' />
+  <node id='-58269' action='modify' lat='48.14936578683' lon='11.56825472263' />
+  <node id='-58270' action='modify' lat='48.14940068296' lon='11.5682748392' />
+  <node id='-58271' action='modify' lat='48.14924051848' lon='11.56845052389'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4119' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58272' action='modify' lat='48.14876360116' lon='11.56792346982'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4160' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58273' action='modify' lat='48.14904964757' lon='11.56823156719'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58275' action='modify' lat='48.14830055415' lon='11.56767236421' />
+  <node id='-58276' action='modify' lat='48.14832095986' lon='11.56768341401' />
+  <node id='-58277' action='modify' lat='48.14902845635' lon='11.56829629687'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4133' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58278' action='modify' lat='48.14862669867' lon='11.56803277051'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4157' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58279' action='modify' lat='48.14881643879' lon='11.568080712'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58280' action='modify' lat='48.14940068296' lon='11.5682748392'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4111' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58281' action='modify' lat='48.14919041105' lon='11.56840760855'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4123' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58283' action='modify' lat='48.14934968092' lon='11.56831373123' />
+  <node id='-58284' action='modify' lat='48.14938726138' lon='11.56832848338' />
+  <node id='-58285' action='modify' lat='48.14834662996' lon='11.56759154712'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58286' action='modify' lat='48.14869022887' lon='11.56781215814'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4166' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58289' action='modify' lat='48.14849814874' lon='11.56787482161' />
+  <node id='-58290' action='modify' lat='48.14895687867' lon='11.56817155792' />
+  <node id='-58291' action='modify' lat='48.14847771662' lon='11.56794626927' />
+  <node id='-58293' action='modify' lat='48.14893629406' lon='11.56822924165' />
+  <node id='-58294' action='modify' lat='48.14892127645' lon='11.56814852799' />
+  <node id='-58295' action='modify' lat='48.14890318717' lon='11.56820912508' />
+  <node id='-58297' action='modify' lat='48.14909409465' lon='11.56826031864' />
+  <node id='-58298' action='modify' lat='48.14907319527' lon='11.56832177786' />
+  <node id='-58299' action='modify' lat='48.14855170721' lon='11.56790946657'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58300' action='modify' lat='48.14870186107' lon='11.56809110788'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4151' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58301' action='modify' lat='48.14868655034' lon='11.56799669168'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58302' action='modify' lat='48.14886292201' lon='11.56820510177'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4141' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58303' action='modify' lat='48.14843487959' lon='11.56783389523'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58305' action='modify' lat='48.14846724266' lon='11.56785482965' />
+  <node id='-58306' action='modify' lat='48.14848308535' lon='11.56779740667' />
+  <node id='-58307' action='modify' lat='48.14853364087' lon='11.56783562814' />
+  <node id='-58309' action='modify' lat='48.14833394661' lon='11.56763693768' />
+  <node id='-58310' action='modify' lat='48.14890318717' lon='11.56820912508'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4139' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58311' action='modify' lat='48.14830591697' lon='11.567615687' />
+  <node id='-58312' action='modify' lat='48.14896403224' lon='11.56809915451'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4140.A' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58314' action='modify' lat='48.14843487959' lon='11.56783389523' />
+  <node id='-58315' action='modify' lat='48.14841239703' lon='11.56791408276' />
+  <node id='-58316' action='modify' lat='48.14934968092' lon='11.56831373123'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4116' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58317' action='modify' lat='48.14904993104' lon='11.56815816311'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4142.B' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58318' action='modify' lat='48.14929688928' lon='11.56849343923'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4117' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58319' action='modify' lat='48.14830591697' lon='11.567615687'>
+    <tag k='amenity' v='toilets' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4181' />
+    <tag k='level' v='4' />
+    <tag k='male' v='yes' />
+  </node>
+  <node id='-58320' action='modify' lat='48.14903562585' lon='11.56822249698'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58321' action='modify' lat='48.14879402378' lon='11.56815816311'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4145' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58322' action='modify' lat='48.14849814874' lon='11.56787482161'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58324' action='modify' lat='48.14873692107' lon='11.56802927473' />
+  <node id='-58325' action='modify' lat='48.14874660027' lon='11.56798113731' />
+  <node id='-58326' action='modify' lat='48.14862043562' lon='11.56790201215'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4168.B' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58327' action='modify' lat='48.14876360116' lon='11.56792346982' />
+  <node id='-58328' action='modify' lat='48.14867412274' lon='11.56787250785'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4166.A' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58329' action='modify' lat='48.14866338532' lon='11.56790201215'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4166.B' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58330' action='modify' lat='48.14909409465' lon='11.56826031864'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58331' action='modify' lat='48.14832068103' lon='11.56757478332'>
+    <tag k='amenity' v='toilets' />
+    <tag k='building_id' v='mc' />
+    <tag k='female' v='yes' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4183' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58332' action='modify' lat='48.14920651701' lon='11.56826276926'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4120' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58334' action='modify' lat='48.14861168545' lon='11.56794826428' />
+  <node id='-58335' action='modify' lat='48.14931043213' lon='11.56844865727'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58336' action='modify' lat='48.14862043562' lon='11.56790201215' />
+  <node id='-58337' action='modify' lat='48.14863654176' lon='11.56784032134' />
+  <node id='-58338' action='modify' lat='48.14869022887' lon='11.56781215814' />
+  <node id='-58339' action='modify' lat='48.14868396537' lon='11.56788189558' />
+  <node id='-58340' action='modify' lat='48.14847771662' lon='11.56794626927'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4163' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58341' action='modify' lat='48.14933268023' lon='11.56846125273'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58342' action='modify' lat='48.14919204003' lon='11.56832367659'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58343' action='modify' lat='48.14853364087' lon='11.56783562814'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4170.A' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58344' action='modify' lat='48.14848308535' lon='11.56779740667'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4170' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58346' action='modify' lat='48.14881643879' lon='11.568080712' />
+  <node id='-58347' action='modify' lat='48.14879402378' lon='11.56815816311' />
+  <node id='-58348' action='modify' lat='48.14884493926' lon='11.56819271701' />
+  <node id='-58349' action='modify' lat='48.14883784583' lon='11.56821698464' />
+  <node id='-58350' action='modify' lat='48.14841239703' lon='11.56791408276'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4167' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58351' action='modify' lat='48.14899064677' lon='11.56819340142'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58352' action='modify' lat='48.14833394661' lon='11.56763693768'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58354' action='modify' lat='48.14846724266' lon='11.56785482965'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58355' action='modify' lat='48.14830278708' lon='11.56774844981' />
+  <node id='-58356' action='modify' lat='48.14843487959' lon='11.56783389523' />
+  <node id='-58357' action='modify' lat='48.14883940876' lon='11.5680955705'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58358' action='modify' lat='48.14846724266' lon='11.56785482965' />
+  <node id='-58359' action='modify' lat='48.14936578683' lon='11.56825472263'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4112' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58360' action='modify' lat='48.14849814874' lon='11.56787482161' />
+  <node id='-58361' action='modify' lat='48.14855170721' lon='11.56790946657' />
+  <node id='-58363' action='modify' lat='48.14861168545' lon='11.56794826428' />
+  <node id='-58364' action='modify' lat='48.14864313113' lon='11.56796860535' />
+  <node id='-58365' action='modify' lat='48.14921005542' lon='11.56833533022' />
+  <node id='-58366' action='modify' lat='48.14868655034' lon='11.56799669168' />
+  <node id='-58367' action='modify' lat='48.14919041105' lon='11.56840760855' />
+  <node id='-58368' action='modify' lat='48.14872247052' lon='11.56801992718' />
+  <node id='-58370' action='modify' lat='48.14873692107' lon='11.56802927473' />
+  <node id='-58371' action='modify' lat='48.14826699353' lon='11.56778198396' />
+  <node id='-58372' action='modify' lat='48.14881643879' lon='11.568080712' />
+  <node id='-58373' action='modify' lat='48.14829160031' lon='11.56779606556' />
+  <node id='-58374' action='modify' lat='48.14883940876' lon='11.5680955705' />
+  <node id='-58375' action='modify' lat='48.14872247052' lon='11.56801992718'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58376' action='modify' lat='48.14888589654' lon='11.56812564189' />
+  <node id='-58377' action='modify' lat='48.14830278708' lon='11.56774844981' />
+  <node id='-58378' action='modify' lat='48.14832095986' lon='11.56768341401' />
+  <node id='-58379' action='modify' lat='48.14892127645' lon='11.56814852799' />
+  <node id='-58380' action='modify' lat='48.14888589654' lon='11.56812564189'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58381' action='modify' lat='48.14833394661' lon='11.56763693768' />
+  <node id='-58382' action='modify' lat='48.14894479424' lon='11.56816374089' />
+  <node id='-58383' action='modify' lat='48.14834662996' lon='11.56759154712' />
+  <node id='-58384' action='modify' lat='48.14895687867' lon='11.56817155792' />
+  <node id='-58386' action='modify' lat='48.14832068103' lon='11.56757478332' />
+  <node id='-58387' action='modify' lat='48.14919204003' lon='11.56832367659' />
+  <node id='-58388' action='modify' lat='48.14899064677' lon='11.56819340142' />
+  <node id='-58389' action='modify' lat='48.14920651701' lon='11.56826276926' />
+  <node id='-58390' action='modify' lat='48.14903562585' lon='11.56822249698' />
+  <node id='-58391' action='modify' lat='48.14868396537' lon='11.56788189558'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4166.A' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58392' action='modify' lat='48.14904964757' lon='11.56823156719' />
+  <node id='-58393' action='modify' lat='48.14909409465' lon='11.56826031864' />
+  <node id='-58394' action='modify' lat='48.14913972471' lon='11.56828983535' />
+  <node id='-58395' action='modify' lat='48.14919204003' lon='11.56832367659' />
+  <node id='-58396' action='modify' lat='48.14921005542' lon='11.56833533022' />
+  <node id='-58397' action='modify' lat='48.1493226733' lon='11.56840817954' />
+  <node id='-58399' action='modify' lat='48.14863654176' lon='11.56784032134' />
+  <node id='-58400' action='modify' lat='48.14866338532' lon='11.56790201215' />
+  <node id='-58401' action='modify' lat='48.14867412274' lon='11.56787250785' />
+  <node id='-58402' action='modify' lat='48.14873692107' lon='11.56802927473'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58403' action='modify' lat='48.14856473449' lon='11.56798348525'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4159' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58404' action='modify' lat='48.14826699353' lon='11.56778198396'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4177' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58405' action='modify' lat='48.14892127645' lon='11.56814852799'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58406' action='modify' lat='48.14893629406' lon='11.56822924165'>
+    <tag k='amenity' v='toilets' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4137' />
+    <tag k='level' v='4' />
+    <tag k='male' v='yes' />
+  </node>
+  <node id='-58407' action='modify' lat='48.14895687867' lon='11.56817155792'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58408' action='modify' lat='48.14853386434' lon='11.56796638617'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4161' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58409' action='modify' lat='48.14867054315' lon='11.56805355763'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4153' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58410' action='modify' lat='48.14886471158' lon='11.56800393609'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4140' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58412' action='modify' lat='48.14872247052' lon='11.56801992718' />
+  <node id='-58413' action='modify' lat='48.14870186107' lon='11.56809110788' />
+  <node id='-58414' action='modify' lat='48.14912240803' lon='11.56835396437'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4125' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58415' action='modify' lat='48.14938726138' lon='11.56832848338'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4113' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58416' action='modify' lat='48.1489747696' lon='11.56824131159'>
+    <tag k='amenity' v='toilets' />
+    <tag k='building_id' v='mc' />
+    <tag k='female' v='yes' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4135' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58417' action='modify' lat='48.14894479424' lon='11.56816374089'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58419' action='modify' lat='48.14868655034' lon='11.56799669168' />
+  <node id='-58421' action='modify' lat='48.14867054315' lon='11.56805355763' />
+  <node id='-58422' action='modify' lat='48.1493226733' lon='11.56840817954' />
+  <node id='-58423' action='modify' lat='48.14932005841' lon='11.56841682618' />
+  <node id='-58424' action='modify' lat='48.14931043213' lon='11.56844865727' />
+  <node id='-58425' action='modify' lat='48.14933268023' lon='11.56846125273' />
+  <node id='-58426' action='modify' lat='48.14864313113' lon='11.56796860535'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58427' action='modify' lat='48.1493226733' lon='11.56840817954'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58428' action='modify' lat='48.14921005542' lon='11.56833533022'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58429' action='modify' lat='48.14874660027' lon='11.56798113731'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4160.A' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58431' action='modify' lat='48.14904964757' lon='11.56823156719' />
+  <node id='-58432' action='modify' lat='48.14830278708' lon='11.56774844981'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58433' action='modify' lat='48.14902845635' lon='11.56829629687' />
+  <node id='-58435' action='modify' lat='48.14888589654' lon='11.56812564189' />
+  <node id='-58436' action='modify' lat='48.14886292201' lon='11.56820510177' />
+  <node id='-58437' action='modify' lat='48.14907319527' lon='11.56832177786'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='id' v='4129' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58438' action='modify' lat='48.14829160031' lon='11.56779606556'>
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </node>
+  <node id='-58440' action='modify' lat='48.14883940876' lon='11.5680955705' />
+  <node id='-58441' action='modify' lat='48.14886471158' lon='11.56800393609' />
+  <node id='-58819' action='modify' lat='48.14829980462' lon='11.5676727433' />
+  <node id='-58820' action='modify' lat='48.14829866159' lon='11.56767206525' />
+  <node id='-58821' action='modify' lat='48.14825875716' lon='11.56764672698' />
+  <node id='-58822' action='modify' lat='48.14823720788' lon='11.56772532755' />
+  <node id='-58823' action='modify' lat='48.14827908864' lon='11.56775145946' />
+  <node id='-58824' action='modify' lat='48.14827957548' lon='11.56775168093' />
+  <way id='-58236' action='modify'>
+    <nd ref='-58239' />
+    <nd ref='-58240' />
+    <nd ref='-58242' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58237' action='modify'>
+    <nd ref='-58238' />
+    <nd ref='-58241' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58243' action='modify'>
+    <nd ref='-58244' />
+    <nd ref='-58246' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58247' action='modify'>
+    <nd ref='-58248' />
+    <nd ref='-58249' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58250' action='modify'>
+    <nd ref='-58251' />
+    <nd ref='-58252' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58253' action='modify'>
+    <nd ref='-58254' />
+    <nd ref='-58255' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58256' action='modify'>
+    <nd ref='-58257' />
+    <nd ref='-58258' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58259' action='modify'>
+    <nd ref='-58260' />
+    <nd ref='-58261' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58262' action='modify'>
+    <nd ref='-58263' />
+    <nd ref='-58264' />
+    <nd ref='-58265' />
+    <nd ref='-58266' />
+    <nd ref='-58267' />
+    <nd ref='-58268' />
+    <nd ref='-58269' />
+    <nd ref='-58270' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58274' action='modify'>
+    <nd ref='-58275' />
+    <nd ref='-58276' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58282' action='modify'>
+    <nd ref='-58283' />
+    <nd ref='-58284' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58287' action='modify'>
+    <nd ref='-58290' />
+    <nd ref='-58293' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58288' action='modify'>
+    <nd ref='-58289' />
+    <nd ref='-58291' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58292' action='modify'>
+    <nd ref='-58294' />
+    <nd ref='-58295' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58296' action='modify'>
+    <nd ref='-58297' />
+    <nd ref='-58298' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58304' action='modify'>
+    <nd ref='-58305' />
+    <nd ref='-58306' />
+    <nd ref='-58307' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58308' action='modify'>
+    <nd ref='-58309' />
+    <nd ref='-58311' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58313' action='modify'>
+    <nd ref='-58314' />
+    <nd ref='-58315' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58323' action='modify'>
+    <nd ref='-58324' />
+    <nd ref='-58325' />
+    <nd ref='-58327' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58333' action='modify'>
+    <nd ref='-58334' />
+    <nd ref='-58336' />
+    <nd ref='-58337' />
+    <nd ref='-58338' />
+    <nd ref='-58339' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58345' action='modify'>
+    <nd ref='-58346' />
+    <nd ref='-58347' />
+    <nd ref='-58348' />
+    <nd ref='-58349' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58353' action='modify'>
+    <nd ref='-58355' />
+    <nd ref='-58356' />
+    <nd ref='-58358' />
+    <nd ref='-58360' />
+    <nd ref='-58361' />
+    <nd ref='-58363' />
+    <nd ref='-58364' />
+    <nd ref='-58366' />
+    <nd ref='-58368' />
+    <nd ref='-58370' />
+    <nd ref='-58372' />
+    <nd ref='-58374' />
+    <nd ref='-58376' />
+    <nd ref='-58379' />
+    <nd ref='-58382' />
+    <nd ref='-58384' />
+    <nd ref='-58388' />
+    <nd ref='-58390' />
+    <nd ref='-58392' />
+    <nd ref='-58393' />
+    <nd ref='-58394' />
+    <nd ref='-58395' />
+    <nd ref='-58396' />
+    <nd ref='-58397' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58362' action='modify'>
+    <nd ref='-58365' />
+    <nd ref='-58367' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58369' action='modify'>
+    <nd ref='-58371' />
+    <nd ref='-58373' />
+    <nd ref='-58377' />
+    <nd ref='-58378' />
+    <nd ref='-58381' />
+    <nd ref='-58383' />
+    <nd ref='-58386' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58385' action='modify'>
+    <nd ref='-58387' />
+    <nd ref='-58389' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58398' action='modify'>
+    <nd ref='-58399' />
+    <nd ref='-58400' />
+    <nd ref='-58401' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58411' action='modify'>
+    <nd ref='-58412' />
+    <nd ref='-58413' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58418' action='modify'>
+    <nd ref='-58419' />
+    <nd ref='-58421' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58420' action='modify'>
+    <nd ref='-58422' />
+    <nd ref='-58423' />
+    <nd ref='-58424' />
+    <nd ref='-58425' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58430' action='modify'>
+    <nd ref='-58431' />
+    <nd ref='-58433' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58434' action='modify'>
+    <nd ref='-58435' />
+    <nd ref='-58436' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58439' action='modify'>
+    <nd ref='-58440' />
+    <nd ref='-58441' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='4' />
+  </way>
+  <way id='-58818' action='modify'>
+    <nd ref='-58819' />
+    <nd ref='-58820' />
+    <nd ref='-58821' />
+    <nd ref='-58822' />
+    <nd ref='-58823' />
+    <nd ref='-58824' />
+    <tag k='building_id' v='mc' />
+    <tag k='highway' v='steps' />
+    <tag k='level' v='1;2' />
+  </way>
+</osm>
