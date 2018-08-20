@@ -39173,19 +39173,19 @@
     <nd ref='-176138' />
     <nd ref='-176143' />
     <nd ref='-176146' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='2' />
   </way>
   <way id='-176151' action='modify'>
     <nd ref='-176147' />
     <nd ref='-176140' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='2' />
   </way>
   <way id='-176152' action='modify'>
     <nd ref='-176133' />
     <nd ref='-176135' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='2' />
   </way>
   <way id='22757641' action='delete' timestamp='2015-09-11T11:04:29Z' uid='2385132' user='MENTZ_TU' version='10' changeset='33954623'>
