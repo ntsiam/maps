@@ -8930,7 +8930,7 @@
     <member type='way' ref='264732468' role='outer' />
     <tag k='area' v='yes' />
     <tag k='description' v='Hauptbahnhof Süd Ladengeschoss Ebene -1' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='type' v='multipolygon' />
@@ -8970,7 +8970,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Hauptbahnhof Süd Ladengeschoss Ebene -1' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
     <tag k='type' v='multipolygon' />
   </relation>
