@@ -32585,6 +32585,7 @@
     <tag k='level' v='0' />
   </way>
   <way id='-175766' action='modify'>
+    <nd ref='-175750' />
     <nd ref='-175718' />
     <nd ref='-175681' />
     <nd ref='-175742' />
