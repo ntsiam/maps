@@ -5275,13 +5275,13 @@
     <nd ref='-65572' />
     <nd ref='-65573' />
     <nd ref='-65570' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
   </way>
   <way id='-65564' action='modify'>
     <nd ref='-65573' />
     <nd ref='-65574' />
-    <tag k='highway' v='corridor' />
+    <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
   </way>
   <way id='-66034' action='modify'>
