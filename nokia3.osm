@@ -451,8 +451,8 @@
     <nd ref='-148000' />
     <tag k='building' v='yes' />
     <tag k='level' v='3' />
-    <tag k='name' v='A.2.M01' />
-    <tag k='ref' v='A.2.M01' />
+    <tag k='name' v='A.3.M01' />
+    <tag k='ref' v='A.3.M01' />
   </way>
   <way id='-148014' action='modify'>
     <nd ref='-147998' />
@@ -2163,8 +2163,6 @@
     <nd ref='-147996' />
     <tag k='building' v='yes' />
     <tag k='level' v='3' />
-    <tag k='name' v='A.2.M02' />
-    <tag k='ref' v='A.2.M02' />
   </way>
   <way id='-148270' action='modify'>
     <nd ref='-147998' />
@@ -2209,5 +2207,19 @@
     <nd ref='-147150' />
     <tag k='building' v='yes' />
     <tag k='level' v='3' />
+  </way>
+  <way id='-155328' action='modify'>
+    <nd ref='-147640' />
+    <nd ref='-147638' />
+    <nd ref='-147590' />
+    <nd ref='-147870' />
+    <nd ref='-147832' />
+    <nd ref='-147444' />
+    <nd ref='-147624' />
+    <nd ref='-147640' />
+    <tag k='amenity' v='toilets' />
+    <tag k='building' v='yes' />
+    <tag k='level' v='3' />
+    <tag k='male' v='yes' />
   </way>
 </osm>

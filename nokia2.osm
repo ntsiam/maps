@@ -2490,4 +2490,18 @@
     <tag k='building' v='yes' />
     <tag k='level' v='2' />
   </way>
+  <way id='-155290' action='modify'>
+    <nd ref='-122533' />
+    <nd ref='-122534' />
+    <nd ref='-122498' />
+    <nd ref='-122719' />
+    <nd ref='-122705' />
+    <nd ref='-123346' />
+    <nd ref='-122528' />
+    <nd ref='-122533' />
+    <tag k='amenity' v='toilets' />
+    <tag k='building' v='yes' />
+    <tag k='level' v='2' />
+    <tag k='male' v='yes' />
+  </way>
 </osm>
