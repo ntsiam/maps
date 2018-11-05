@@ -54,11 +54,15 @@
 #sed -i 's/<tag k="covered" v="yes" \/>//g' $1
 #sed -i "s/<tag k='covered' v='yes'\/>//g" $1
 #sed -i "s/<tag k='covered' v='yes' \/>//g" $1
-sed -i 's/<tag k="tunnel" v="yes"\/>//g' $1
-sed -i 's/<tag k="tunnel" v="yes" \/>//g' $1
-sed -i "s/<tag k='tunnel' v='yes' \/>//g" $1
-sed -i 's/<tag k="tunnel" v="yes" \/>//g' $1
-sed -i 's/<tag k="tunnel" v="building_passage"\/>//g' $1
-sed -i 's/<tag k="tunnel" v="building_passage" \/>//g' $1
-sed -i "s/<tag k='tunnel' v='building_passage' \/>//g" $1
-sed -i 's/<tag k="tunnel" v="building_passage" \/>//g' $1
+#sed -i 's/<tag k="tunnel" v="yes"\/>//g' $1
+#sed -i 's/<tag k="tunnel" v="yes" \/>//g' $1
+#sed -i "s/<tag k='tunnel' v='yes' \/>//g" $1
+#sed -i 's/<tag k="tunnel" v="yes" \/>//g' $1
+#sed -i 's/<tag k="tunnel" v="building_passage"\/>//g' $1
+#sed -i 's/<tag k="tunnel" v="building_passage" \/>//g' $1
+#sed -i "s/<tag k='tunnel' v='building_passage' \/>//g" $1
+#sed -i 's/<tag k="tunnel" v="building_passage" \/>//g' $1
+sed -i 's/<tag k="shop"/<tag k="building" v="yes"\/>\n    <tag k="shop"/g' $1
+sed -i 's/<tag k="shop"/<tag k="building" v="yes"\/>\n    <tag k="shop"/g' $1
+sed -i "s/<tag k='shop'/<tag k='building' v='yes'\/>\n    <tag k='shop'/g" $1
+sed -i 's/<tag k="shop"/<tag k="building" v="yes"\/>\n    <tag k="shop"/g' $1

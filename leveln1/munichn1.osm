@@ -2408,205 +2408,205 @@
   <node id='-171505' action='modify' lat='48.26239249942' lon='11.66790739942'>
     <tag k='level' v='0' />
   </node>
-  <node id='-191531' action='modify' lat='48.13912990038' lon='11.56494969955' />
-  <node id='-191532' action='modify' lat='48.13911480038' lon='11.56494719955' />
-  <node id='-191533' action='modify' lat='48.13909580038' lon='11.56494369955' />
-  <node id='-191534' action='modify' lat='48.13907630038' lon='11.56494069955' />
-  <node id='-191535' action='modify' lat='48.13905390038' lon='11.56493689955' />
-  <node id='-191536' action='modify' lat='48.13905160038' lon='11.56496409955' />
-  <node id='-191537' action='modify' lat='48.13901670038' lon='11.56501829955' />
-  <node id='-191538' action='modify' lat='48.13897830038' lon='11.56507949955' />
-  <node id='-191539' action='modify' lat='48.13895130038' lon='11.56507649955' />
-  <node id='-191540' action='modify' lat='48.13895000038' lon='11.56509829955' />
-  <node id='-191541' action='modify' lat='48.13894860038' lon='11.56512519955' />
-  <node id='-191542' action='modify' lat='48.13894790038' lon='11.56513779955' />
-  <node id='-191543' action='modify' lat='48.13894370038' lon='11.56521579955' />
-  <node id='-191544' action='modify' lat='48.13894270038' lon='11.56523679955' />
-  <node id='-191545' action='modify' lat='48.13894100038' lon='11.56526319955' />
-  <node id='-191546' action='modify' lat='48.13893960038' lon='11.56528979955' />
-  <node id='-191547' action='modify' lat='48.13893860038' lon='11.56531079955' />
-  <node id='-191548' action='modify' lat='48.13882210038' lon='11.56528909955' />
-  <node id='-191549' action='modify' lat='48.13816260038' lon='11.56521079955' />
-  <node id='-191550' action='modify' lat='48.13804230038' lon='11.56519289955' />
-  <node id='-191551' action='modify' lat='48.13799390038' lon='11.56518769955' />
-  <node id='-191552' action='modify' lat='48.13799620038' lon='11.56515829955' />
-  <node id='-191553' action='modify' lat='48.13804600038' lon='11.56516379955' />
-  <node id='-191554' action='modify' lat='48.13804780038' lon='11.56513819955' />
-  <node id='-191555' action='modify' lat='48.13804940038' lon='11.56511589955' />
-  <node id='-191556' action='modify' lat='48.13805150038' lon='11.56508409955' />
-  <node id='-191557' action='modify' lat='48.13805290038' lon='11.56505919955' />
-  <node id='-191558' action='modify' lat='48.13808130038' lon='11.56506319955' />
-  <node id='-191559' action='modify' lat='48.13808570038' lon='11.56499309955' />
-  <node id='-191560' action='modify' lat='48.13805750038' lon='11.56498909955' />
-  <node id='-191561' action='modify' lat='48.13805940038' lon='11.56496619955' />
-  <node id='-191562' action='modify' lat='48.13806150038' lon='11.56494199955' />
-  <node id='-191563' action='modify' lat='48.13806170038' lon='11.56493919955' />
-  <node id='-191564' action='modify' lat='48.13807400038' lon='11.56473549955' />
-  <node id='-191565' action='modify' lat='48.13807570038' lon='11.56470859955' />
-  <node id='-191566' action='modify' lat='48.13807890038' lon='11.56466569955' />
-  <node id='-191567' action='modify' lat='48.13790520038' lon='11.56464369955' />
-  <node id='-191568' action='modify' lat='48.13790340038' lon='11.56467939955' />
-  <node id='-191569' action='modify' lat='48.13790220038' lon='11.56470449955' />
-  <node id='-191570' action='modify' lat='48.13790030038' lon='11.56474119955' />
-  <node id='-191571' action='modify' lat='48.13795040038' lon='11.56474719955' />
-  <node id='-191572' action='modify' lat='48.13792880038' lon='11.56513459955' />
-  <node id='-191573' action='modify' lat='48.13791080038' lon='11.56545329955' />
-  <node id='-191574' action='modify' lat='48.13784600038' lon='11.56544719955' />
-  <node id='-191575' action='modify' lat='48.13784570038' lon='11.56545469955' />
-  <node id='-191576' action='modify' lat='48.13784470038' lon='11.56548229955' />
-  <node id='-191577' action='modify' lat='48.13784330038' lon='11.56551649955' />
-  <node id='-191578' action='modify' lat='48.13792690038' lon='11.56553109955' />
-  <node id='-191579' action='modify' lat='48.13794180038' lon='11.56553369955' />
-  <node id='-191580' action='modify' lat='48.13802090038' lon='11.56554739955' />
-  <node id='-191581' action='modify' lat='48.13802270038' lon='11.56551929955' />
-  <node id='-191582' action='modify' lat='48.13802450038' lon='11.56549169955' />
-  <node id='-191583' action='modify' lat='48.13803780038' lon='11.56528379955' />
-  <node id='-191584' action='modify' lat='48.13803920038' lon='11.56526169955' />
-  <node id='-191585' action='modify' lat='48.13803970038' lon='11.56525349955' />
-  <node id='-191586' action='modify' lat='48.13815540038' lon='11.56527229955' />
-  <node id='-191587' action='modify' lat='48.13815440038' lon='11.56530299955' />
-  <node id='-191588' action='modify' lat='48.13818600038' lon='11.56530699955' />
-  <node id='-191589' action='modify' lat='48.13822310038' lon='11.56531179955' />
-  <node id='-191590' action='modify' lat='48.13827410038' lon='11.56531829955' />
-  <node id='-191591' action='modify' lat='48.13835020038' lon='11.56532799955' />
-  <node id='-191592' action='modify' lat='48.13837570038' lon='11.56533119955' />
-  <node id='-191593' action='modify' lat='48.13841500038' lon='11.56533629955' />
-  <node id='-191594' action='modify' lat='48.13844780038' lon='11.56534039955' />
-  <node id='-191595' action='modify' lat='48.13849580038' lon='11.56534659955' />
-  <node id='-191596' action='modify' lat='48.13852110038' lon='11.56534979955' />
-  <node id='-191597' action='modify' lat='48.13857380038' lon='11.56535649955' />
-  <node id='-191598' action='modify' lat='48.13860660038' lon='11.56536069955' />
-  <node id='-191599' action='modify' lat='48.13866050038' lon='11.56536759955' />
-  <node id='-191600' action='modify' lat='48.13876610038' lon='11.56538109955' />
-  <node id='-191601' action='modify' lat='48.13882290038' lon='11.56538829955' />
-  <node id='-191602' action='modify' lat='48.13895020038' lon='11.56540239955' />
-  <node id='-191603' action='modify' lat='48.13894980038' lon='11.56541559955' />
-  <node id='-191604' action='modify' lat='48.13894870038' lon='11.56544079955' />
-  <node id='-191605' action='modify' lat='48.13894830038' lon='11.56545479955' />
-  <node id='-191606' action='modify' lat='48.13893210038' lon='11.56573949955' />
-  <node id='-191607' action='modify' lat='48.13893180038' lon='11.56574989955' />
-  <node id='-191608' action='modify' lat='48.13895190038' lon='11.56575309955' />
-  <node id='-191609' action='modify' lat='48.13896620038' lon='11.56575539955' />
-  <node id='-191610' action='modify' lat='48.13898870038' lon='11.56575899955' />
-  <node id='-191611' action='modify' lat='48.13901120038' lon='11.56576259955' />
-  <node id='-191612' action='modify' lat='48.13902630038' lon='11.56576499955' />
-  <node id='-191613' action='modify' lat='48.13904050038' lon='11.56576729955' />
-  <node id='-191614' action='modify' lat='48.13903270038' lon='11.56589759955' />
-  <node id='-191615' action='modify' lat='48.13906740038' lon='11.56591829955' />
-  <node id='-191616' action='modify' lat='48.13915510038' lon='11.56597109955' />
-  <node id='-191617' action='modify' lat='48.13922850038' lon='11.56601519955' />
-  <node id='-191618' action='modify' lat='48.13930060038' lon='11.56605859955' />
-  <node id='-191619' action='modify' lat='48.13938930038' lon='11.56611199955' />
-  <node id='-191620' action='modify' lat='48.13943030038' lon='11.56613539955' />
-  <node id='-191621' action='modify' lat='48.13947570038' lon='11.56605669955' />
-  <node id='-191622' action='modify' lat='48.13948810038' lon='11.56607289955' />
-  <node id='-191623' action='modify' lat='48.13949980038' lon='11.56608789955' />
-  <node id='-191624' action='modify' lat='48.13950960038' lon='11.56610039955' />
-  <node id='-191625' action='modify' lat='48.13949270038' lon='11.56613029955' />
-  <node id='-191626' action='modify' lat='48.13950640038' lon='11.56614789955' />
-  <node id='-191627' action='modify' lat='48.13952370038' lon='11.56611869955' />
-  <node id='-191628' action='modify' lat='48.13953730038' lon='11.56613619955' />
-  <node id='-191629' action='modify' lat='48.13955380038' lon='11.56615729955' />
-  <node id='-191630' action='modify' lat='48.13957330038' lon='11.56610249955' />
-  <node id='-191631' action='modify' lat='48.13959260038' lon='11.56604409955' />
-  <node id='-191632' action='modify' lat='48.13960320038' lon='11.56601939955' />
-  <node id='-191633' action='modify' lat='48.13965250038' lon='11.56586409955' />
-  <node id='-191634' action='modify' lat='48.13967700038' lon='11.56579159955' />
-  <node id='-191635' action='modify' lat='48.13977300038' lon='11.56588329955' />
-  <node id='-191636' action='modify' lat='48.13983020038' lon='11.56594929955' />
-  <node id='-191637' action='modify' lat='48.13983560038' lon='11.56593649955' />
-  <node id='-191638' action='modify' lat='48.13984090038' lon='11.56592379955' />
-  <node id='-191639' action='modify' lat='48.13978130038' lon='11.56585759955' />
-  <node id='-191640' action='modify' lat='48.13968640038' lon='11.56576299955' />
-  <node id='-191641' action='modify' lat='48.13973300038' lon='11.56561669955' />
-  <node id='-191642' action='modify' lat='48.13976950038' lon='11.56550569955' />
-  <node id='-191643' action='modify' lat='48.13983310038' lon='11.56555149955' />
-  <node id='-191644' action='modify' lat='48.13994120038' lon='11.56543209955' />
-  <node id='-191645' action='modify' lat='48.13998020038' lon='11.56545659955' />
-  <node id='-191646' action='modify' lat='48.13998380038' lon='11.56545099955' />
-  <node id='-191647' action='modify' lat='48.13999660038' lon='11.56543119955' />
-  <node id='-191648' action='modify' lat='48.14000940038' lon='11.56541139955' />
-  <node id='-191649' action='modify' lat='48.14001250038' lon='11.56540649955' />
-  <node id='-191650' action='modify' lat='48.13996890038' lon='11.56536339955' />
-  <node id='-191651' action='modify' lat='48.13996060038' lon='11.56533529955' />
-  <node id='-191652' action='modify' lat='48.14003040038' lon='11.56513719955' />
-  <node id='-191653' action='modify' lat='48.14002590038' lon='11.56513349955' />
-  <node id='-191654' action='modify' lat='48.14000980038' lon='11.56512109955' />
-  <node id='-191655' action='modify' lat='48.13999370038' lon='11.56510879955' />
-  <node id='-191656' action='modify' lat='48.13999080038' lon='11.56510679955' />
-  <node id='-191657' action='modify' lat='48.13991330038' lon='11.56532739955' />
-  <node id='-191658' action='modify' lat='48.13984670038' lon='11.56540049955' />
-  <node id='-191659' action='modify' lat='48.13979370038' lon='11.56533949955' />
-  <node id='-191660' action='modify' lat='48.13973620038' lon='11.56527259955' />
-  <node id='-191661' action='modify' lat='48.13975170038' lon='11.56523399955' />
-  <node id='-191662' action='modify' lat='48.13973930038' lon='11.56522359955' />
-  <node id='-191663' action='modify' lat='48.13972400038' lon='11.56521019955' />
-  <node id='-191664' action='modify' lat='48.13970770038' lon='11.56519619955' />
-  <node id='-191665' action='modify' lat='48.13969550038' lon='11.56522469955' />
-  <node id='-191666' action='modify' lat='48.13962300038' lon='11.56514119955' />
-  <node id='-191667' action='modify' lat='48.13963750038' lon='11.56510299955' />
-  <node id='-191668' action='modify' lat='48.13962940038' lon='11.56509679955' />
-  <node id='-191669' action='modify' lat='48.13961280038' lon='11.56508419955' />
-  <node id='-191670' action='modify' lat='48.13959630038' lon='11.56507169955' />
-  <node id='-191671' action='modify' lat='48.13958240038' lon='11.56506049955' />
-  <node id='-191672' action='modify' lat='48.13957370038' lon='11.56508289955' />
-  <node id='-191673' action='modify' lat='48.13953030038' lon='11.56503319955' />
-  <node id='-191674' action='modify' lat='48.13949900038' lon='11.56499669955' />
-  <node id='-191675' action='modify' lat='48.13953780038' lon='11.56489859955' />
-  <node id='-191676' action='modify' lat='48.13954270038' lon='11.56488559955' />
-  <node id='-191677' action='modify' lat='48.13952300038' lon='11.56486609955' />
-  <node id='-191678' action='modify' lat='48.13950190038' lon='11.56484529955' />
-  <node id='-191679' action='modify' lat='48.13949780038' lon='11.56485499955' />
-  <node id='-191680' action='modify' lat='48.13945650038' lon='11.56494739955' />
-  <node id='-191681' action='modify' lat='48.13934810038' lon='11.56482139955' />
-  <node id='-191682' action='modify' lat='48.13951210038' lon='11.56407839955' />
-  <node id='-191683' action='modify' lat='48.13949210038' lon='11.56406799955' />
-  <node id='-191684' action='modify' lat='48.13947330038' lon='11.56405849955' />
-  <node id='-191685' action='modify' lat='48.13944790038' lon='11.56414329955' />
-  <node id='-191686' action='modify' lat='48.13943520038' lon='11.56414189955' />
-  <node id='-191687' action='modify' lat='48.13942960038' lon='11.56414119955' />
-  <node id='-191688' action='modify' lat='48.13941080038' lon='11.56413849955' />
-  <node id='-191689' action='modify' lat='48.13939330038' lon='11.56413609955' />
-  <node id='-191690' action='modify' lat='48.13937910038' lon='11.56413429955' />
-  <node id='-191691' action='modify' lat='48.13938230038' lon='11.56410269955' />
-  <node id='-191692' action='modify' lat='48.13939090038' lon='11.56393929955' />
-  <node id='-191693' action='modify' lat='48.13923970038' lon='11.56392259955' />
-  <node id='-191694' action='modify' lat='48.13924790038' lon='11.56371419955' />
-  <node id='-191695' action='modify' lat='48.13917970038' lon='11.56370629955' />
-  <node id='-191696' action='modify' lat='48.13915880038' lon='11.56408429955' />
-  <node id='-191697' action='modify' lat='48.13915600038' lon='11.56412739955' />
-  <node id='-191698' action='modify' lat='48.13933140038' lon='11.56432089955' />
-  <node id='-191699' action='modify' lat='48.13930180038' lon='11.56445839955' />
-  <node id='-191700' action='modify' lat='48.13928620038' lon='11.56453099955' />
-  <node id='-191701' action='modify' lat='48.13923980038' lon='11.56474719955' />
-  <node id='-191702' action='modify' lat='48.13919990038' lon='11.56493269955' />
-  <node id='-191703' action='modify' lat='48.13983162731' lon='11.56548212119' />
-  <node id='-191704' action='modify' lat='48.13984062727' lon='11.56549342119' />
-  <node id='-191705' action='modify' lat='48.13985602718' lon='11.56551272119' />
-  <node id='-191706' action='modify' lat='48.13986932711' lon='11.56552942119' />
-  <node id='-191707' action='modify' lat='48.13987792707' lon='11.56554022119' />
-  <node id='-191708' action='modify' lat='48.13981112742' lon='11.56565992119' />
-  <node id='-191709' action='modify' lat='48.13976392767' lon='11.56560382119' />
-  <node id='-191710' action='modify' lat='48.1395300289' lon='11.56541852119' />
-  <node id='-191711' action='modify' lat='48.1395290289' lon='11.56558922119' />
-  <node id='-191712' action='modify' lat='48.13940382956' lon='11.56558742119' />
-  <node id='-191713' action='modify' lat='48.13940412956' lon='11.56555822119' />
-  <node id='-191714' action='modify' lat='48.13940422956' lon='11.56553672119' />
-  <node id='-191715' action='modify' lat='48.13940422956' lon='11.56550922119' />
-  <node id='-191716' action='modify' lat='48.13940432956' lon='11.56548202119' />
-  <node id='-191717' action='modify' lat='48.13940452955' lon='11.56545582119' />
-  <node id='-191718' action='modify' lat='48.13940472955' lon='11.56543412119' />
-  <node id='-191719' action='modify' lat='48.13940482955' lon='11.56541672119' />
-  <node id='-191859' action='modify' lat='48.1394736011' lon='11.5640576992' />
-  <node id='-191860' action='modify' lat='48.1398760011' lon='11.5642675992' />
-  <node id='-191861' action='modify' lat='48.1401153011' lon='11.5632375992' />
-  <node id='-191862' action='modify' lat='48.1397127011' lon='11.5630274992' />
-  <node id='-191901' action='modify' lat='48.13919469931' lon='11.56408370053' />
-  <node id='-191902' action='modify' lat='48.13918449931' lon='11.56402390053' />
-  <node id='-191903' action='modify' lat='48.13918199931' lon='11.56393700053' />
-  <node id='-191904' action='modify' lat='48.13918659931' lon='11.56384880053' />
-  <node id='-191905' action='modify' lat='48.13919189931' lon='11.56374560053' />
-  <node id='-191906' action='modify' lat='48.13922169931' lon='11.56374860053' />
+  <node id='191531' action='modify' lat='48.13912990038' lon='11.56494969955' />
+  <node id='191532' action='modify' lat='48.13911480038' lon='11.56494719955' />
+  <node id='191533' action='modify' lat='48.13909580038' lon='11.56494369955' />
+  <node id='191534' action='modify' lat='48.13907630038' lon='11.56494069955' />
+  <node id='191535' action='modify' lat='48.13905390038' lon='11.56493689955' />
+  <node id='191536' action='modify' lat='48.13905160038' lon='11.56496409955' />
+  <node id='191537' action='modify' lat='48.13901670038' lon='11.56501829955' />
+  <node id='191538' action='modify' lat='48.13897830038' lon='11.56507949955' />
+  <node id='191539' action='modify' lat='48.13895130038' lon='11.56507649955' />
+  <node id='191540' action='modify' lat='48.13895000038' lon='11.56509829955' />
+  <node id='191541' action='modify' lat='48.13894860038' lon='11.56512519955' />
+  <node id='191542' action='modify' lat='48.13894790038' lon='11.56513779955' />
+  <node id='191543' action='modify' lat='48.13894370038' lon='11.56521579955' />
+  <node id='191544' action='modify' lat='48.13894270038' lon='11.56523679955' />
+  <node id='191545' action='modify' lat='48.13894100038' lon='11.56526319955' />
+  <node id='191546' action='modify' lat='48.13893960038' lon='11.56528979955' />
+  <node id='191547' action='modify' lat='48.13893860038' lon='11.56531079955' />
+  <node id='191548' action='modify' lat='48.13882210038' lon='11.56528909955' />
+  <node id='191549' action='modify' lat='48.13816260038' lon='11.56521079955' />
+  <node id='191550' action='modify' lat='48.13804230038' lon='11.56519289955' />
+  <node id='191551' action='modify' lat='48.13799390038' lon='11.56518769955' />
+  <node id='191552' action='modify' lat='48.13799620038' lon='11.56515829955' />
+  <node id='191553' action='modify' lat='48.13804600038' lon='11.56516379955' />
+  <node id='191554' action='modify' lat='48.13804780038' lon='11.56513819955' />
+  <node id='191555' action='modify' lat='48.13804940038' lon='11.56511589955' />
+  <node id='191556' action='modify' lat='48.13805150038' lon='11.56508409955' />
+  <node id='191557' action='modify' lat='48.13805290038' lon='11.56505919955' />
+  <node id='191558' action='modify' lat='48.13808130038' lon='11.56506319955' />
+  <node id='191559' action='modify' lat='48.13808570038' lon='11.56499309955' />
+  <node id='191560' action='modify' lat='48.13805750038' lon='11.56498909955' />
+  <node id='191561' action='modify' lat='48.13805940038' lon='11.56496619955' />
+  <node id='191562' action='modify' lat='48.13806150038' lon='11.56494199955' />
+  <node id='191563' action='modify' lat='48.13806170038' lon='11.56493919955' />
+  <node id='191564' action='modify' lat='48.13807400038' lon='11.56473549955' />
+  <node id='191565' action='modify' lat='48.13807570038' lon='11.56470859955' />
+  <node id='191566' action='modify' lat='48.13807890038' lon='11.56466569955' />
+  <node id='191567' action='modify' lat='48.13790520038' lon='11.56464369955' />
+  <node id='191568' action='modify' lat='48.13790340038' lon='11.56467939955' />
+  <node id='191569' action='modify' lat='48.13790220038' lon='11.56470449955' />
+  <node id='191570' action='modify' lat='48.13790030038' lon='11.56474119955' />
+  <node id='191571' action='modify' lat='48.13795040038' lon='11.56474719955' />
+  <node id='191572' action='modify' lat='48.13792880038' lon='11.56513459955' />
+  <node id='191573' action='modify' lat='48.13791080038' lon='11.56545329955' />
+  <node id='191574' action='modify' lat='48.13784600038' lon='11.56544719955' />
+  <node id='191575' action='modify' lat='48.13784570038' lon='11.56545469955' />
+  <node id='191576' action='modify' lat='48.13784470038' lon='11.56548229955' />
+  <node id='191577' action='modify' lat='48.13784330038' lon='11.56551649955' />
+  <node id='191578' action='modify' lat='48.13792690038' lon='11.56553109955' />
+  <node id='191579' action='modify' lat='48.13794180038' lon='11.56553369955' />
+  <node id='191580' action='modify' lat='48.13802090038' lon='11.56554739955' />
+  <node id='191581' action='modify' lat='48.13802270038' lon='11.56551929955' />
+  <node id='191582' action='modify' lat='48.13802450038' lon='11.56549169955' />
+  <node id='191583' action='modify' lat='48.13803780038' lon='11.56528379955' />
+  <node id='191584' action='modify' lat='48.13803920038' lon='11.56526169955' />
+  <node id='191585' action='modify' lat='48.13803970038' lon='11.56525349955' />
+  <node id='191586' action='modify' lat='48.13815540038' lon='11.56527229955' />
+  <node id='191587' action='modify' lat='48.13815440038' lon='11.56530299955' />
+  <node id='191588' action='modify' lat='48.13818600038' lon='11.56530699955' />
+  <node id='191589' action='modify' lat='48.13822310038' lon='11.56531179955' />
+  <node id='191590' action='modify' lat='48.13827410038' lon='11.56531829955' />
+  <node id='191591' action='modify' lat='48.13835020038' lon='11.56532799955' />
+  <node id='191592' action='modify' lat='48.13837570038' lon='11.56533119955' />
+  <node id='191593' action='modify' lat='48.13841500038' lon='11.56533629955' />
+  <node id='191594' action='modify' lat='48.13844780038' lon='11.56534039955' />
+  <node id='191595' action='modify' lat='48.13849580038' lon='11.56534659955' />
+  <node id='191596' action='modify' lat='48.13852110038' lon='11.56534979955' />
+  <node id='191597' action='modify' lat='48.13857380038' lon='11.56535649955' />
+  <node id='191598' action='modify' lat='48.13860660038' lon='11.56536069955' />
+  <node id='191599' action='modify' lat='48.13866050038' lon='11.56536759955' />
+  <node id='191600' action='modify' lat='48.13876610038' lon='11.56538109955' />
+  <node id='191601' action='modify' lat='48.13882290038' lon='11.56538829955' />
+  <node id='191602' action='modify' lat='48.13895020038' lon='11.56540239955' />
+  <node id='191603' action='modify' lat='48.13894980038' lon='11.56541559955' />
+  <node id='191604' action='modify' lat='48.13894870038' lon='11.56544079955' />
+  <node id='191605' action='modify' lat='48.13894830038' lon='11.56545479955' />
+  <node id='191606' action='modify' lat='48.13893210038' lon='11.56573949955' />
+  <node id='191607' action='modify' lat='48.13893180038' lon='11.56574989955' />
+  <node id='191608' action='modify' lat='48.13895190038' lon='11.56575309955' />
+  <node id='191609' action='modify' lat='48.13896620038' lon='11.56575539955' />
+  <node id='191610' action='modify' lat='48.13898870038' lon='11.56575899955' />
+  <node id='191611' action='modify' lat='48.13901120038' lon='11.56576259955' />
+  <node id='191612' action='modify' lat='48.13902630038' lon='11.56576499955' />
+  <node id='191613' action='modify' lat='48.13904050038' lon='11.56576729955' />
+  <node id='191614' action='modify' lat='48.13903270038' lon='11.56589759955' />
+  <node id='191615' action='modify' lat='48.13906740038' lon='11.56591829955' />
+  <node id='191616' action='modify' lat='48.13915510038' lon='11.56597109955' />
+  <node id='191617' action='modify' lat='48.13922850038' lon='11.56601519955' />
+  <node id='191618' action='modify' lat='48.13930060038' lon='11.56605859955' />
+  <node id='191619' action='modify' lat='48.13938930038' lon='11.56611199955' />
+  <node id='191620' action='modify' lat='48.13943030038' lon='11.56613539955' />
+  <node id='191621' action='modify' lat='48.13947570038' lon='11.56605669955' />
+  <node id='191622' action='modify' lat='48.13948810038' lon='11.56607289955' />
+  <node id='191623' action='modify' lat='48.13949980038' lon='11.56608789955' />
+  <node id='191624' action='modify' lat='48.13950960038' lon='11.56610039955' />
+  <node id='191625' action='modify' lat='48.13949270038' lon='11.56613029955' />
+  <node id='191626' action='modify' lat='48.13950640038' lon='11.56614789955' />
+  <node id='191627' action='modify' lat='48.13952370038' lon='11.56611869955' />
+  <node id='191628' action='modify' lat='48.13953730038' lon='11.56613619955' />
+  <node id='191629' action='modify' lat='48.13955380038' lon='11.56615729955' />
+  <node id='191630' action='modify' lat='48.13957330038' lon='11.56610249955' />
+  <node id='191631' action='modify' lat='48.13959260038' lon='11.56604409955' />
+  <node id='191632' action='modify' lat='48.13960320038' lon='11.56601939955' />
+  <node id='191633' action='modify' lat='48.13965250038' lon='11.56586409955' />
+  <node id='191634' action='modify' lat='48.13967700038' lon='11.56579159955' />
+  <node id='191635' action='modify' lat='48.13977300038' lon='11.56588329955' />
+  <node id='191636' action='modify' lat='48.13983020038' lon='11.56594929955' />
+  <node id='191637' action='modify' lat='48.13983560038' lon='11.56593649955' />
+  <node id='191638' action='modify' lat='48.13984090038' lon='11.56592379955' />
+  <node id='191639' action='modify' lat='48.13978130038' lon='11.56585759955' />
+  <node id='191640' action='modify' lat='48.13968640038' lon='11.56576299955' />
+  <node id='191641' action='modify' lat='48.13973300038' lon='11.56561669955' />
+  <node id='191642' action='modify' lat='48.13976950038' lon='11.56550569955' />
+  <node id='191643' action='modify' lat='48.13983310038' lon='11.56555149955' />
+  <node id='191644' action='modify' lat='48.13994120038' lon='11.56543209955' />
+  <node id='191645' action='modify' lat='48.13998020038' lon='11.56545659955' />
+  <node id='191646' action='modify' lat='48.13998380038' lon='11.56545099955' />
+  <node id='191647' action='modify' lat='48.13999660038' lon='11.56543119955' />
+  <node id='191648' action='modify' lat='48.14000940038' lon='11.56541139955' />
+  <node id='191649' action='modify' lat='48.14001250038' lon='11.56540649955' />
+  <node id='191650' action='modify' lat='48.13996890038' lon='11.56536339955' />
+  <node id='191651' action='modify' lat='48.13996060038' lon='11.56533529955' />
+  <node id='191652' action='modify' lat='48.14003040038' lon='11.56513719955' />
+  <node id='191653' action='modify' lat='48.14002590038' lon='11.56513349955' />
+  <node id='191654' action='modify' lat='48.14000980038' lon='11.56512109955' />
+  <node id='191655' action='modify' lat='48.13999370038' lon='11.56510879955' />
+  <node id='191656' action='modify' lat='48.13999080038' lon='11.56510679955' />
+  <node id='191657' action='modify' lat='48.13991330038' lon='11.56532739955' />
+  <node id='191658' action='modify' lat='48.13984670038' lon='11.56540049955' />
+  <node id='191659' action='modify' lat='48.13979370038' lon='11.56533949955' />
+  <node id='191660' action='modify' lat='48.13973620038' lon='11.56527259955' />
+  <node id='191661' action='modify' lat='48.13975170038' lon='11.56523399955' />
+  <node id='191662' action='modify' lat='48.13973930038' lon='11.56522359955' />
+  <node id='191663' action='modify' lat='48.13972400038' lon='11.56521019955' />
+  <node id='191664' action='modify' lat='48.13970770038' lon='11.56519619955' />
+  <node id='191665' action='modify' lat='48.13969550038' lon='11.56522469955' />
+  <node id='191666' action='modify' lat='48.13962300038' lon='11.56514119955' />
+  <node id='191667' action='modify' lat='48.13963750038' lon='11.56510299955' />
+  <node id='191668' action='modify' lat='48.13962940038' lon='11.56509679955' />
+  <node id='191669' action='modify' lat='48.13961280038' lon='11.56508419955' />
+  <node id='191670' action='modify' lat='48.13959630038' lon='11.56507169955' />
+  <node id='191671' action='modify' lat='48.13958240038' lon='11.56506049955' />
+  <node id='191672' action='modify' lat='48.13957370038' lon='11.56508289955' />
+  <node id='191673' action='modify' lat='48.13953030038' lon='11.56503319955' />
+  <node id='191674' action='modify' lat='48.13949900038' lon='11.56499669955' />
+  <node id='191675' action='modify' lat='48.13953780038' lon='11.56489859955' />
+  <node id='191676' action='modify' lat='48.13954270038' lon='11.56488559955' />
+  <node id='191677' action='modify' lat='48.13952300038' lon='11.56486609955' />
+  <node id='191678' action='modify' lat='48.13950190038' lon='11.56484529955' />
+  <node id='191679' action='modify' lat='48.13949780038' lon='11.56485499955' />
+  <node id='191680' action='modify' lat='48.13945650038' lon='11.56494739955' />
+  <node id='191681' action='modify' lat='48.13934810038' lon='11.56482139955' />
+  <node id='191682' action='modify' lat='48.13951210038' lon='11.56407839955' />
+  <node id='191683' action='modify' lat='48.13949210038' lon='11.56406799955' />
+  <node id='191684' action='modify' lat='48.13947330038' lon='11.56405849955' />
+  <node id='191685' action='modify' lat='48.13944790038' lon='11.56414329955' />
+  <node id='191686' action='modify' lat='48.13943520038' lon='11.56414189955' />
+  <node id='191687' action='modify' lat='48.13942960038' lon='11.56414119955' />
+  <node id='191688' action='modify' lat='48.13941080038' lon='11.56413849955' />
+  <node id='191689' action='modify' lat='48.13939330038' lon='11.56413609955' />
+  <node id='191690' action='modify' lat='48.13937910038' lon='11.56413429955' />
+  <node id='191691' action='modify' lat='48.13938230038' lon='11.56410269955' />
+  <node id='191692' action='modify' lat='48.13939090038' lon='11.56393929955' />
+  <node id='191693' action='modify' lat='48.13923970038' lon='11.56392259955' />
+  <node id='191694' action='modify' lat='48.13924790038' lon='11.56371419955' />
+  <node id='191695' action='modify' lat='48.13917970038' lon='11.56370629955' />
+  <node id='191696' action='modify' lat='48.13915880038' lon='11.56408429955' />
+  <node id='191697' action='modify' lat='48.13915600038' lon='11.56412739955' />
+  <node id='191698' action='modify' lat='48.13933140038' lon='11.56432089955' />
+  <node id='191699' action='modify' lat='48.13930180038' lon='11.56445839955' />
+  <node id='191700' action='modify' lat='48.13928620038' lon='11.56453099955' />
+  <node id='191701' action='modify' lat='48.13923980038' lon='11.56474719955' />
+  <node id='191702' action='modify' lat='48.13919990038' lon='11.56493269955' />
+  <node id='191703' action='modify' lat='48.13983162731' lon='11.56548212119' />
+  <node id='191704' action='modify' lat='48.13984062727' lon='11.56549342119' />
+  <node id='191705' action='modify' lat='48.13985602718' lon='11.56551272119' />
+  <node id='191706' action='modify' lat='48.13986932711' lon='11.56552942119' />
+  <node id='191707' action='modify' lat='48.13987792707' lon='11.56554022119' />
+  <node id='191708' action='modify' lat='48.13981112742' lon='11.56565992119' />
+  <node id='191709' action='modify' lat='48.13976392767' lon='11.56560382119' />
+  <node id='191710' action='modify' lat='48.1395300289' lon='11.56541852119' />
+  <node id='191711' action='modify' lat='48.1395290289' lon='11.56558922119' />
+  <node id='191712' action='modify' lat='48.13940382956' lon='11.56558742119' />
+  <node id='191713' action='modify' lat='48.13940412956' lon='11.56555822119' />
+  <node id='191714' action='modify' lat='48.13940422956' lon='11.56553672119' />
+  <node id='191715' action='modify' lat='48.13940422956' lon='11.56550922119' />
+  <node id='191716' action='modify' lat='48.13940432956' lon='11.56548202119' />
+  <node id='191717' action='modify' lat='48.13940452955' lon='11.56545582119' />
+  <node id='191718' action='modify' lat='48.13940472955' lon='11.56543412119' />
+  <node id='191719' action='modify' lat='48.13940482955' lon='11.56541672119' />
+  <node id='191859' action='modify' lat='48.1394736011' lon='11.5640576992' />
+  <node id='191860' action='modify' lat='48.1398760011' lon='11.5642675992' />
+  <node id='191861' action='modify' lat='48.1401153011' lon='11.5632375992' />
+  <node id='191862' action='modify' lat='48.1397127011' lon='11.5630274992' />
+  <node id='191901' action='modify' lat='48.13919469931' lon='11.56408370053' />
+  <node id='191902' action='modify' lat='48.13918449931' lon='11.56402390053' />
+  <node id='191903' action='modify' lat='48.13918199931' lon='11.56393700053' />
+  <node id='191904' action='modify' lat='48.13918659931' lon='11.56384880053' />
+  <node id='191905' action='modify' lat='48.13919189931' lon='11.56374560053' />
+  <node id='191906' action='modify' lat='48.13922169931' lon='11.56374860053' />
   <node id='147062' version='1' lat='48.1118298' lon='11.5451633' />
   <node id='1931439' version='1' lat='48.2179592' lon='11.8785849' />
   <node id='13876639' version='1' lat='48.1195264' lon='11.5804157' />
@@ -17088,210 +17088,210 @@
     <tag k='level' v='-1' />
     <tag k='note' v='outline level=-1' />
   </way>
-  <way id='-191528' action='modify'>
-    <nd ref='-191531' />
-    <nd ref='-191532' />
-    <nd ref='-191533' />
-    <nd ref='-191534' />
-    <nd ref='-191535' />
-    <nd ref='-191536' />
-    <nd ref='-191537' />
-    <nd ref='-191538' />
-    <nd ref='-191539' />
-    <nd ref='-191540' />
-    <nd ref='-191541' />
-    <nd ref='-191542' />
-    <nd ref='-191543' />
-    <nd ref='-191544' />
-    <nd ref='-191545' />
-    <nd ref='-191546' />
-    <nd ref='-191547' />
-    <nd ref='-191548' />
-    <nd ref='-191549' />
-    <nd ref='-191550' />
-    <nd ref='-191551' />
-    <nd ref='-191552' />
-    <nd ref='-191553' />
-    <nd ref='-191554' />
-    <nd ref='-191555' />
-    <nd ref='-191556' />
-    <nd ref='-191557' />
-    <nd ref='-191558' />
-    <nd ref='-191559' />
-    <nd ref='-191560' />
-    <nd ref='-191561' />
-    <nd ref='-191562' />
-    <nd ref='-191563' />
-    <nd ref='-191564' />
-    <nd ref='-191565' />
-    <nd ref='-191566' />
-    <nd ref='-191567' />
-    <nd ref='-191568' />
-    <nd ref='-191569' />
-    <nd ref='-191570' />
-    <nd ref='-191571' />
-    <nd ref='-191572' />
-    <nd ref='-191573' />
-    <nd ref='-191574' />
-    <nd ref='-191575' />
-    <nd ref='-191576' />
-    <nd ref='-191577' />
-    <nd ref='-191578' />
-    <nd ref='-191579' />
-    <nd ref='-191580' />
-    <nd ref='-191581' />
-    <nd ref='-191582' />
-    <nd ref='-191583' />
-    <nd ref='-191584' />
-    <nd ref='-191585' />
-    <nd ref='-191586' />
-    <nd ref='-191587' />
-    <nd ref='-191588' />
-    <nd ref='-191589' />
-    <nd ref='-191590' />
-    <nd ref='-191591' />
-    <nd ref='-191592' />
-    <nd ref='-191593' />
-    <nd ref='-191594' />
-    <nd ref='-191595' />
-    <nd ref='-191596' />
-    <nd ref='-191597' />
-    <nd ref='-191598' />
-    <nd ref='-191599' />
-    <nd ref='-191600' />
-    <nd ref='-191601' />
-    <nd ref='-191602' />
-    <nd ref='-191603' />
-    <nd ref='-191604' />
-    <nd ref='-191605' />
-    <nd ref='-191606' />
-    <nd ref='-191607' />
-    <nd ref='-191608' />
-    <nd ref='-191609' />
-    <nd ref='-191610' />
-    <nd ref='-191611' />
-    <nd ref='-191612' />
-    <nd ref='-191613' />
-    <nd ref='-191614' />
-    <nd ref='-191615' />
-    <nd ref='-191616' />
-    <nd ref='-191617' />
-    <nd ref='-191618' />
-    <nd ref='-191619' />
-    <nd ref='-191620' />
-    <nd ref='-191621' />
-    <nd ref='-191622' />
-    <nd ref='-191623' />
-    <nd ref='-191624' />
-    <nd ref='-191625' />
-    <nd ref='-191626' />
-    <nd ref='-191627' />
-    <nd ref='-191628' />
-    <nd ref='-191629' />
-    <nd ref='-191630' />
-    <nd ref='-191631' />
-    <nd ref='-191632' />
-    <nd ref='-191633' />
-    <nd ref='-191634' />
-    <nd ref='-191635' />
-    <nd ref='-191636' />
-    <nd ref='-191637' />
-    <nd ref='-191638' />
-    <nd ref='-191639' />
-    <nd ref='-191640' />
-    <nd ref='-191641' />
-    <nd ref='-191642' />
-    <nd ref='-191643' />
-    <nd ref='-191644' />
-    <nd ref='-191645' />
-    <nd ref='-191646' />
-    <nd ref='-191647' />
-    <nd ref='-191648' />
-    <nd ref='-191649' />
-    <nd ref='-191650' />
-    <nd ref='-191651' />
-    <nd ref='-191652' />
-    <nd ref='-191653' />
-    <nd ref='-191654' />
-    <nd ref='-191655' />
-    <nd ref='-191656' />
-    <nd ref='-191657' />
-    <nd ref='-191658' />
-    <nd ref='-191659' />
-    <nd ref='-191660' />
-    <nd ref='-191661' />
-    <nd ref='-191662' />
-    <nd ref='-191663' />
-    <nd ref='-191664' />
-    <nd ref='-191665' />
-    <nd ref='-191666' />
-    <nd ref='-191667' />
-    <nd ref='-191668' />
-    <nd ref='-191669' />
-    <nd ref='-191670' />
-    <nd ref='-191671' />
-    <nd ref='-191672' />
-    <nd ref='-191673' />
-    <nd ref='-191674' />
-    <nd ref='-191675' />
-    <nd ref='-191676' />
-    <nd ref='-191677' />
-    <nd ref='-191678' />
-    <nd ref='-191679' />
-    <nd ref='-191680' />
-    <nd ref='-191681' />
-    <nd ref='-191682' />
-    <nd ref='-191683' />
-    <nd ref='-191684' />
-    <nd ref='-191685' />
-    <nd ref='-191686' />
-    <nd ref='-191687' />
-    <nd ref='-191688' />
-    <nd ref='-191689' />
-    <nd ref='-191690' />
-    <nd ref='-191691' />
-    <nd ref='-191692' />
-    <nd ref='-191693' />
-    <nd ref='-191694' />
-    <nd ref='-191695' />
-    <nd ref='-191696' />
-    <nd ref='-191697' />
-    <nd ref='-191698' />
-    <nd ref='-191699' />
-    <nd ref='-191700' />
-    <nd ref='-191701' />
-    <nd ref='-191702' />
-    <nd ref='-191531' />
+  <way id='191528' action='modify'>
+    <nd ref='191531' />
+    <nd ref='191532' />
+    <nd ref='191533' />
+    <nd ref='191534' />
+    <nd ref='191535' />
+    <nd ref='191536' />
+    <nd ref='191537' />
+    <nd ref='191538' />
+    <nd ref='191539' />
+    <nd ref='191540' />
+    <nd ref='191541' />
+    <nd ref='191542' />
+    <nd ref='191543' />
+    <nd ref='191544' />
+    <nd ref='191545' />
+    <nd ref='191546' />
+    <nd ref='191547' />
+    <nd ref='191548' />
+    <nd ref='191549' />
+    <nd ref='191550' />
+    <nd ref='191551' />
+    <nd ref='191552' />
+    <nd ref='191553' />
+    <nd ref='191554' />
+    <nd ref='191555' />
+    <nd ref='191556' />
+    <nd ref='191557' />
+    <nd ref='191558' />
+    <nd ref='191559' />
+    <nd ref='191560' />
+    <nd ref='191561' />
+    <nd ref='191562' />
+    <nd ref='191563' />
+    <nd ref='191564' />
+    <nd ref='191565' />
+    <nd ref='191566' />
+    <nd ref='191567' />
+    <nd ref='191568' />
+    <nd ref='191569' />
+    <nd ref='191570' />
+    <nd ref='191571' />
+    <nd ref='191572' />
+    <nd ref='191573' />
+    <nd ref='191574' />
+    <nd ref='191575' />
+    <nd ref='191576' />
+    <nd ref='191577' />
+    <nd ref='191578' />
+    <nd ref='191579' />
+    <nd ref='191580' />
+    <nd ref='191581' />
+    <nd ref='191582' />
+    <nd ref='191583' />
+    <nd ref='191584' />
+    <nd ref='191585' />
+    <nd ref='191586' />
+    <nd ref='191587' />
+    <nd ref='191588' />
+    <nd ref='191589' />
+    <nd ref='191590' />
+    <nd ref='191591' />
+    <nd ref='191592' />
+    <nd ref='191593' />
+    <nd ref='191594' />
+    <nd ref='191595' />
+    <nd ref='191596' />
+    <nd ref='191597' />
+    <nd ref='191598' />
+    <nd ref='191599' />
+    <nd ref='191600' />
+    <nd ref='191601' />
+    <nd ref='191602' />
+    <nd ref='191603' />
+    <nd ref='191604' />
+    <nd ref='191605' />
+    <nd ref='191606' />
+    <nd ref='191607' />
+    <nd ref='191608' />
+    <nd ref='191609' />
+    <nd ref='191610' />
+    <nd ref='191611' />
+    <nd ref='191612' />
+    <nd ref='191613' />
+    <nd ref='191614' />
+    <nd ref='191615' />
+    <nd ref='191616' />
+    <nd ref='191617' />
+    <nd ref='191618' />
+    <nd ref='191619' />
+    <nd ref='191620' />
+    <nd ref='191621' />
+    <nd ref='191622' />
+    <nd ref='191623' />
+    <nd ref='191624' />
+    <nd ref='191625' />
+    <nd ref='191626' />
+    <nd ref='191627' />
+    <nd ref='191628' />
+    <nd ref='191629' />
+    <nd ref='191630' />
+    <nd ref='191631' />
+    <nd ref='191632' />
+    <nd ref='191633' />
+    <nd ref='191634' />
+    <nd ref='191635' />
+    <nd ref='191636' />
+    <nd ref='191637' />
+    <nd ref='191638' />
+    <nd ref='191639' />
+    <nd ref='191640' />
+    <nd ref='191641' />
+    <nd ref='191642' />
+    <nd ref='191643' />
+    <nd ref='191644' />
+    <nd ref='191645' />
+    <nd ref='191646' />
+    <nd ref='191647' />
+    <nd ref='191648' />
+    <nd ref='191649' />
+    <nd ref='191650' />
+    <nd ref='191651' />
+    <nd ref='191652' />
+    <nd ref='191653' />
+    <nd ref='191654' />
+    <nd ref='191655' />
+    <nd ref='191656' />
+    <nd ref='191657' />
+    <nd ref='191658' />
+    <nd ref='191659' />
+    <nd ref='191660' />
+    <nd ref='191661' />
+    <nd ref='191662' />
+    <nd ref='191663' />
+    <nd ref='191664' />
+    <nd ref='191665' />
+    <nd ref='191666' />
+    <nd ref='191667' />
+    <nd ref='191668' />
+    <nd ref='191669' />
+    <nd ref='191670' />
+    <nd ref='191671' />
+    <nd ref='191672' />
+    <nd ref='191673' />
+    <nd ref='191674' />
+    <nd ref='191675' />
+    <nd ref='191676' />
+    <nd ref='191677' />
+    <nd ref='191678' />
+    <nd ref='191679' />
+    <nd ref='191680' />
+    <nd ref='191681' />
+    <nd ref='191682' />
+    <nd ref='191683' />
+    <nd ref='191684' />
+    <nd ref='191685' />
+    <nd ref='191686' />
+    <nd ref='191687' />
+    <nd ref='191688' />
+    <nd ref='191689' />
+    <nd ref='191690' />
+    <nd ref='191691' />
+    <nd ref='191692' />
+    <nd ref='191693' />
+    <nd ref='191694' />
+    <nd ref='191695' />
+    <nd ref='191696' />
+    <nd ref='191697' />
+    <nd ref='191698' />
+    <nd ref='191699' />
+    <nd ref='191700' />
+    <nd ref='191701' />
+    <nd ref='191702' />
+    <nd ref='191531' />
   </way>
-  <way id='-191529' action='modify'>
-    <nd ref='-191703' />
-    <nd ref='-191704' />
-    <nd ref='-191705' />
-    <nd ref='-191706' />
-    <nd ref='-191707' />
-    <nd ref='-191708' />
-    <nd ref='-191709' />
-    <nd ref='-191703' />
+  <way id='191529' action='modify'>
+    <nd ref='191703' />
+    <nd ref='191704' />
+    <nd ref='191705' />
+    <nd ref='191706' />
+    <nd ref='191707' />
+    <nd ref='191708' />
+    <nd ref='191709' />
+    <nd ref='191703' />
   </way>
-  <way id='-191530' action='modify'>
-    <nd ref='-191710' />
-    <nd ref='-191711' />
-    <nd ref='-191712' />
-    <nd ref='-191713' />
-    <nd ref='-191714' />
-    <nd ref='-191715' />
-    <nd ref='-191716' />
-    <nd ref='-191717' />
-    <nd ref='-191718' />
-    <nd ref='-191719' />
-    <nd ref='-191710' />
+  <way id='191530' action='modify'>
+    <nd ref='191710' />
+    <nd ref='191711' />
+    <nd ref='191712' />
+    <nd ref='191713' />
+    <nd ref='191714' />
+    <nd ref='191715' />
+    <nd ref='191716' />
+    <nd ref='191717' />
+    <nd ref='191718' />
+    <nd ref='191719' />
+    <nd ref='191710' />
   </way>
-  <way id='-191858' action='modify'>
-    <nd ref='-191859' />
-    <nd ref='-191860' />
-    <nd ref='-191861' />
-    <nd ref='-191862' />
-    <nd ref='-191859' />
+  <way id='191858' action='modify'>
+    <nd ref='191859' />
+    <nd ref='191860' />
+    <nd ref='191861' />
+    <nd ref='191862' />
+    <nd ref='191859' />
     <tag k='addr:city' v='München' />
     <tag k='addr:country' v='DE' />
     <tag k='addr:housenumber' v='7' />
@@ -17305,17 +17305,18 @@
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
     <tag k='operator' v='Karstadt Warenhaus GmbH' />
     <tag k='phone' v='+49 89 55120' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='department_store' />
     <tag k='website' v='http://www.karstadt.de' />
     <tag k='wheelchair' v='yes' />
   </way>
-  <way id='-191900' action='modify'>
-    <nd ref='-191901' />
-    <nd ref='-191902' />
-    <nd ref='-191903' />
-    <nd ref='-191904' />
-    <nd ref='-191905' />
-    <nd ref='-191906' />
+  <way id='191900' action='modify'>
+    <nd ref='191901' />
+    <nd ref='191902' />
+    <nd ref='191903' />
+    <nd ref='191904' />
+    <nd ref='191905' />
+    <nd ref='191906' />
     <tag k='description' v='Schützen-Passage' />
     <tag k='description:en' v='Schützen-Passage' />
     <tag k='highway' v='footway' />
@@ -47681,6 +47682,7 @@
     <tag k='name' v='BUTLERS' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
     <tag k='phone' v='+49 89 51114653' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='interior_decoration' />
   </way>
   <way id='271078175' version='1'>
@@ -47820,6 +47822,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='More &amp; More' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='clothes' />
     <tag k='toilets:wheelchair' v='no' />
     <tag k='wheelchair' v='yes' />
@@ -47849,6 +47852,7 @@
     <tag k='description' v='Pop-Up-Stores (Nur für kurze Zeit)' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='yes' />
   </way>
   <way id='271102605' version='1'>
@@ -47862,6 +47866,7 @@
     <tag k='description' v='Pop-Up-Stores (Nur für kurze Zeit)' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='yes' />
   </way>
   <way id='271102606' version='1'>
@@ -47875,6 +47880,7 @@
     <tag k='description' v='Pop-Up-Stores (Nur für kurze Zeit)' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='yes' />
   </way>
   <way id='271119772' version='1'>
@@ -47889,6 +47895,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Backwerk' />
     <tag k='opening_hours' v='Mo-Fr 06:30-21:00; Sa 07:30-21:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='toilets:wheelchair' v='no' />
     <tag k='wheelchair' v='yes' />
@@ -47904,6 +47911,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Bijou Brigitte' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='clothes' />
     <tag k='toilets:wheelchair' v='no' />
     <tag k='wheelchair' v='yes' />
@@ -47920,6 +47928,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Blumen Outlet' />
     <tag k='opening_hours' v='Mo-Sa 08:00-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='florist' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -47935,6 +47944,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Call Center Stachus' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='yes' />
   </way>
   <way id='271119776' version='1'>
@@ -47952,6 +47962,7 @@
     <tag k='name' v='Hofpfisterei' />
     <tag k='opening_hours' v='Mo-Fr 06:30-20:00; Sa 09:00-20:00' />
     <tag k='opening_hours:url' v='http://www.stachus-passagen.de/services/oeffnungszeiten/' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -47967,6 +47978,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Hussel' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='confectionery' />
     <tag k='toilets:wheelchair' v='no' />
     <tag k='wheelchair' v='yes' />
@@ -47983,6 +47995,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Jochen Schweizer' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='sports' />
   </way>
   <way id='271119779' version='1'>
@@ -48000,6 +48013,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='M-net - mein Netz' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='mobile_phone' />
   </way>
   <way id='271119780' version='1'>
@@ -48029,6 +48043,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Pano' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='toilets:wheelchair' v='no' />
     <tag k='wheelchair' v='yes' />
@@ -48062,6 +48077,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Tabak - Lotto - MVG - Zechbauer' />
     <tag k='opening_hours' v='Mo-Sa 09:00-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='kiosk' />
     <tag k='toilets:wheelchair' v='no' />
     <tag k='wheelchair' v='yes' />
@@ -48079,6 +48095,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Vodafone' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='mobile_phone' />
   </way>
   <way id='271119785' version='1'>
@@ -48093,6 +48110,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='dm' />
     <tag k='organic' v='limited' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='chemist' />
     <tag k='toilets:wheelchair' v='no' />
     <tag k='wheelchair' v='yes' />
@@ -48110,6 +48128,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Tutti Pasta' />
     <tag k='opening_hours' v='Mo-Sa 11:00-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='yes' />
   </way>
   <way id='271129782' version='1'>
@@ -48125,6 +48144,7 @@
     <tag k='name' v='Bären Company' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
     <tag k='phone' v='+49 89 54324781' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='convenience' />
   </way>
   <way id='271129783' version='1'>
@@ -48163,6 +48183,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='O&apos;lala' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='clothes' />
   </way>
   <way id='271129785' action='modify' version='1'>
@@ -48187,6 +48208,7 @@
     <tag k='name' v='Galeria Kaufhof' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00, 2014 Sep 12 20:00-24:00 open &quot;Galeria Shopping Night&quot;' />
     <tag k='phone' v='+49 89 5125-0' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='department_store' />
     <tag k='website' v='http://www.galeria-kaufhof.de/filialen/muenchen-stachus/' />
     <tag k='wheelchair' v='yes' />
@@ -48206,6 +48228,7 @@
     <tag k='operator' v='Läderach Chocolaterien GmbH, Obermarkt 4, D-78462 Konstanz' />
     <tag k='phone' v='+49 89 545 498 40' />
     <tag k='ref' v='UG C140' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='confectionery' />
     <tag k='website' v='http://www.laederach.com' />
   </way>
@@ -48251,6 +48274,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Edeka' />
     <tag k='opening_hours' v='Mo-Sa 07:00-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='supermarket' />
     <tag k='website' v='https://www.edeka.de' />
     <tag k='wheelchair' v='yes' />
@@ -48265,6 +48289,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='USA Nails' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='beauty' />
   </way>
   <way id='271129794' version='1'>
@@ -48281,6 +48306,7 @@
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
     <tag k='organic' v='only' />
     <tag k='phone' v='+49 89 54885941' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='convenience' />
     <tag k='toilets:wheelchair' v='no' />
     <tag k='wheelchair' v='yes' />
@@ -48296,6 +48322,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='expresspoint' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='locksmith' />
   </way>
   <way id='271143441' action='delete' version='1'>
@@ -48764,6 +48791,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Bäckerei Müller' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -48939,6 +48967,7 @@
     <nd ref='2822766897' />
     <tag k='description' v='Zeitungen, Tabakwaren etc.' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='kiosk' />
   </way>
   <way id='277824058' version='1'>
@@ -48983,6 +49012,7 @@
     <tag k='layer' v='-2' />
     <tag k='level' v='-1' />
     <tag k='name' v='Rubenbauer' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='convenience' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -48996,6 +49026,7 @@
     <tag k='layer' v='-2' />
     <tag k='level' v='-1' />
     <tag k='name' v='Tabak Lotto Arnold' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='kiosk' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -49039,6 +49070,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='presse und buch' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='newsagent' />
   </way>
   <way id='279754702' version='1'>
@@ -49051,6 +49083,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='old_name' v='Illy Cafe' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='vacant' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -49081,6 +49114,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='presse und buch' />
     <tag k='opening_hours' v='Mo-Su 05:30-23:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='books' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -49126,7 +49160,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='ReiseBank' />
-    <tag k='opening_hours' v='Mo-Fr 09:00-19:00; Sa 09:00-12:30,13:00-16:45' />
+    <tag k='opening_hours' v='Mo-Fr 09:0019:00; Sa 09:00-12:30,13:00-16:45' />
     <tag k='operator' v='ReiseBank' />
     <tag k='phone' v='+49 89 44140179' />
     <tag k='wheelchair' v='yes' />
@@ -49142,6 +49176,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Hofpfisterei' />
     <tag k='organic' v='only' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='wheelchair' v='yes' />
     <tag k='wheelchair:description' v='Rampe am Eingang' />
@@ -49163,6 +49198,7 @@
     <tag k='name' v='Mister Minit' />
     <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 09:00-16:00' />
     <tag k='operator' v='Minit Deutschland GmbH &amp; Co. KG' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='locksmith' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -49189,6 +49225,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Rischart' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -49203,6 +49240,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Vitalia Reformhaus' />
     <tag k='organic' v='only' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='convenience' />
     <tag k='wheelchair' v='limited' />
   </way>
@@ -49223,8 +49261,9 @@
     <tag k='layer' v='-2' />
     <tag k='level' v='-1' />
     <tag k='name' v='SportScheck Outlet' />
-    <tag k='opening_hours' v='Mo-Sa 09:00-19:00' />
+    <tag k='opening_hours' v='Mo-Sa 09:0019:00' />
     <tag k='operator' v='SportScheck' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='clothes' />
     <tag k='website' v='https://www.sportscheck.com/filialen/muenchen-outlet/' />
     <tag k='wheelchair' v='yes' />
@@ -49476,6 +49515,7 @@
     <nd ref='2957360144' />
     <tag k='level' v='-1' />
     <tag k='name' v='Müller' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
   </way>
   <way id='292199760' version='1'>
@@ -49585,6 +49625,7 @@
     <nd ref='2957360146' />
     <tag k='description' v='Schaufenster' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='vacant' />
   </way>
   <way id='292199801' version='1'>
@@ -49595,6 +49636,7 @@
     <nd ref='2473615250' />
     <tag k='level' v='-1' />
     <tag k='name' v='Kiosk' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='kiosk' />
     <tag k='wheelchair' v='limited' />
   </way>
@@ -51327,6 +51369,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Decathlon' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='clothes' />
   </way>
   <way id='302865690' version='1'>
@@ -51352,6 +51395,7 @@
     <tag k='description' v='Pop-Up-Stores (Nur für kurze Zeit)' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='yes' />
   </way>
   <way id='302865691' version='1'>
@@ -51389,6 +51433,7 @@
     <tag k='name' v='City Parfümerie' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
     <tag k='phone' v='+49 89 554009' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='chemist' />
   </way>
   <way id='302865693' version='1'>
@@ -51407,6 +51452,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='FC Bayern Fan-Shop' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='clothes' />
     <tag k='toilets:wheelchair' v='no' />
     <tag k='wheelchair' v='yes' />
@@ -51427,6 +51473,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Görtz 17' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='shoes' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -51444,6 +51491,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Hallhuber' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='clothes' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -51460,6 +51508,7 @@
     <tag k='name' v='I am' />
     <tag k='opening_hours' v='Mo-Sa 08:30-20:00' />
     <tag k='opening_hours:url' v='http://www.stachus-passagen.de/services/oeffnungszeiten/' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='clothes' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -51479,6 +51528,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Jack &amp; Jones' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='clothes' />
   </way>
   <way id='302865698' version='1'>
@@ -51493,6 +51543,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Lindt' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='confectionery' />
     <tag k='toilets:wheelchair' v='no' />
     <tag k='wheelchair' v='yes' />
@@ -51509,6 +51560,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='NARACAMICIE' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='clothes' />
   </way>
   <way id='302865700' version='1'>
@@ -51524,6 +51576,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Sonnentor' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='yes' />
   </way>
   <way id='302865701' version='1'>
@@ -51540,6 +51593,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='The Body Shop' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='chemist' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -51560,6 +51614,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Vero Moda' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='clothes' />
     <tag k='toilets:wheelchair' v='no' />
     <tag k='wheelchair' v='yes' />
@@ -51576,6 +51631,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='bonbon Lingerie' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='clothes' />
   </way>
   <way id='302865704' version='1'>
@@ -51599,6 +51655,7 @@
     <tag k='opening_hours' v='Mo-Sa 06:30-20:00' />
     <tag k='opening_hours:url' v='http://www.stachus-passagen.de/services/oeffnungszeiten/' />
     <tag k='operator' v='BHG Bahnhofs-Handels-Vertriebs GmbH' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='newsagent' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -54997,6 +55054,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Neugebauer' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='kiosk' />
   </way>
   <way id='317519907' version='1'>
@@ -55020,6 +55078,7 @@
     <tag k='name' v='Bremer Teehandelskontor' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
     <tag k='operator' v='Erika Graf' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='tea' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -55036,6 +55095,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='frogis' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='beauty' />
     <tag k='website' v='http://www.frogis.de' />
   </way>
@@ -55156,6 +55216,7 @@
     <tag k='name' v='Gulet Feinkost' />
     <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa 10:00-21:00; Su 11:00-20:30' />
     <tag k='phone' v='+49 89 89664941' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='deli' />
     <tag k='website' v='www.guletfeinkost.de' />
     <tag k='wheelchair' v='yes' />
@@ -55172,6 +55233,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Müller' />
     <tag k='opening_hours' v='Mo-Sa 06:00-20:30, Su 06:00-17:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -55622,6 +55684,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Müller' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='chemist' />
   </way>
   <way id='321125265' version='1'>
@@ -58818,6 +58881,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='MISTER MINIT' />
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='yes' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -58894,6 +58958,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Cut Concept' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='hairdresser' />
   </way>
   <way id='334490290' action='delete' version='1'>
@@ -58910,6 +58975,7 @@
     <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
     <tag k='operator' v='Karstadt Warenhaus GmbH' />
     <tag k='phone' v='+49 89 55120' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='department_store' />
     <tag k='website' v='http://www.karstadt.de' />
     <tag k='wheelchair' v='yes' />
@@ -59747,37 +59813,6 @@
     <tag k='level' v='-1' />
     <tag k='service' v='parking_aisle' />
   </way>
-  <way id='340291991' version='1'>
-    <nd ref='3475008851' />
-    <nd ref='3475008853' />
-    <nd ref='664003706' />
-    <nd ref='3475008855' />
-    <nd ref='3475008857' />
-    <nd ref='3475008867' />
-    <nd ref='3475008864' />
-    <nd ref='3475008866' />
-    <nd ref='664003709' />
-    <nd ref='3475008869' />
-    <nd ref='3475008871' />
-    <nd ref='3475008870' />
-    <nd ref='3475008872' />
-    <nd ref='534453989' />
-    <nd ref='1531495385' />
-    <nd ref='534453997' />
-    <nd ref='1531495367' />
-    <nd ref='1531495366' />
-    <nd ref='3475008862' />
-    <nd ref='3475008858' />
-    <nd ref='3475008856' />
-    <nd ref='3475008851' />
-    <tag k='area' v='yes' />
-    <tag k='building' v='yes' />
-    <tag k='description' v='Karlsplatz 1. Untergeschoss' />
-    
-    <tag k='layer' v='-1' />
-    <tag k='level' v='-1' />
-    <tag k='name' v='Karlsplatz (Stachus)' />
-  </way>
   <way id='340291992' version='1'>
     <nd ref='3475008854' />
     <nd ref='3475008853' />
@@ -60277,6 +60312,7 @@
     <tag k='name' v='Hofpfisterei' />
     <tag k='opening_hours' v='Mo-Fr 06:30-20:00; Sa 07:30-20:00' />
     <tag k='phone' v='+49 89 51657855' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='website' v='https://www.hofpfisterei.de' />
     <tag k='wheelchair' v='yes' />
@@ -60300,6 +60336,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
     <tag k='name' v='MVG Kundencenter' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='ticket' />
   </way>
   <way id='346567419' version='1'>
@@ -60311,6 +60348,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
     <tag k='name' v='MVG' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='ticket' />
   </way>
   <way id='346567420' version='1'>
@@ -60334,6 +60372,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
     <tag k='name' v='Mnet' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='mobile_phone' />
     <tag k='toilets:wheelchair' v='no' />
     <tag k='wheelchair' v='yes' />
@@ -60350,6 +60389,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
     <tag k='name' v='O2' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='mobile_phone' />
   </way>
   <way id='346567424' version='1'>
@@ -60374,6 +60414,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
     <tag k='name' v='Phone Klinik' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='mobile_phone' />
   </way>
   <way id='346567426' version='1'>
@@ -60405,6 +60446,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
     <tag k='name' v='Presse Tabak' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='newsagent' />
   </way>
   <way id='346567428' version='1'>
@@ -60430,6 +60472,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Rischart' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -60573,6 +60616,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='T.H.Kleen' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='tobacco' />
   </way>
   <way id='346567452' version='1'>
@@ -60588,6 +60632,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
     <tag k='name' v='YORMAS' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='convenience' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -60629,6 +60674,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
     <tag k='name' v='scoom' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -60649,6 +60695,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='six' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='jewelry' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -60662,6 +60709,7 @@
     <tag k='cuisine' v='japanese' />
     <tag k='level' v='-1' />
     <tag k='name' v='sushi wrap' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='seafood' />
   </way>
   <way id='346567459' version='1'>
@@ -60708,6 +60756,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Läderach' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='chocolate' />
   </way>
   <way id='346573027' version='1'>
@@ -60720,6 +60769,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='O Caffe Mio' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='coffee' />
   </way>
   <way id='346573029' version='1'>
@@ -60751,6 +60801,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Press Books' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='books' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -60767,6 +60818,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
     <tag k='name' v='YORMAS' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='convenience' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -60793,6 +60845,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Genuss Raum' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='tobacco' />
   </way>
   <way id='346580255' version='1'>
@@ -60900,7 +60953,8 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Ria' />
-    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 08:00-19:00; Su,PH 10:00-18:00' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 08:0019:00; Su,PH 10:00-18:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bureau_de_change' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -60933,6 +60987,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='pano' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -60945,6 +61000,7 @@
     <tag k='building' v='yes' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='vacant' />
   </way>
   <way id='349183897' version='1'>
@@ -60957,6 +61013,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='S-Bahn Kundencenter' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='ticket' />
   </way>
   <way id='349183898' version='1'>
@@ -60968,6 +61025,7 @@
     <tag k='building' v='yes' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='vacant' />
   </way>
   <way id='349183899' version='1'>
@@ -60992,6 +61050,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Edeka' />
     <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='food' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -61022,6 +61081,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Adler' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='supermarket' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -61037,7 +61097,8 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Cafe-Shop S.Bahn-Bäckerei' />
-    <tag k='opening_hours' v='Mo-Sa 05:30-20:00; Su 07:00-19:00' />
+    <tag k='opening_hours' v='Mo-Sa 05:30-20:00; Su 07:0019:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -61051,6 +61112,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='CALZEDONIA' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='fabric' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -61065,6 +61127,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Hofpfisterei' />
     <tag k='opening_hours' v='Mo-Fr 06:30-20:00; Sa 07:30-20:00; Su 08:30-18:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='website' v='www.hofpfisterei.de' />
     <tag k='wheelchair' v='yes' />
@@ -61078,6 +61141,7 @@
     <tag k='building' v='yes' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='clothes' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -61097,6 +61161,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='Press Books' />
     <tag k='opening_hours' v='Mo-Su 05:30-22:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='books' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -61113,6 +61178,7 @@
     <tag k='opening_hours' v='24/7' />
     <tag k='operator' v='Rewe' />
     <tag k='organic' v='yes' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='supermarket' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -61129,6 +61195,7 @@
     <tag k='name' v='Rischart' />
     <tag k='opening_hours' v='Mo-Su 06:00-21:00' />
     <tag k='organic' v='yes' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -61231,6 +61298,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='b k' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='supermarket' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -61247,6 +61315,7 @@
     <tag k='name' v='biokultur' />
     <tag k='opening_hours' v='Mo-Sa 07:00-21:00; Su 08:00-21:00' />
     <tag k='organic' v='only' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='supermarket' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -61260,6 +61329,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='clairss' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='jewelry' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -61273,6 +61343,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='kiko' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='cosmetics' />
   </way>
   <way id='349183943' version='1'>
@@ -61285,6 +61356,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
     <tag k='name' v='vinzenzmurr' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='butcher' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -61317,6 +61389,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='See&amp;Buy' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='clothes' />
   </way>
   <way id='349441354' version='1'>
@@ -61460,6 +61533,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='dm' />
     <tag k='opening_hours' v='Mo-Su 06:30-23:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='chemist' />
     <tag k='toilets' v='yes' />
     <tag k='toilets:changing_table' v='yes' />
@@ -61475,6 +61549,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
     <tag k='name' v='Ayem Backshop' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
   </way>
   <way id='350884400' version='1'>
@@ -62442,6 +62517,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
     <tag k='name' v='Münchener Backstube' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
   </way>
   <way id='364284591' version='1'>
@@ -62912,6 +62988,7 @@
     <tag k='name' v='Privat Bäckerei Wimmer' />
     <tag k='opening_hours' v='Mo-Fr 05:30-21:00; Sa 06:00-21:00; Su 07:00-20:00' />
     <tag k='phone' v='+49 89 45 20 95 13' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='website' v='http://www.baeckerei-wimmer.de/filialen/?store_id=36' />
     <tag k='wheelchair' v='yes' />
@@ -62931,6 +63008,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='MVG' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='ticket' />
     <tag k='wheelchair' v='yes' />
     <tag k='wheelchair:description' v='Im Untergeschoss' />
@@ -62962,6 +63040,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
     <tag k='name' v='ZIG NEWS' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='newsagent' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -63309,6 +63388,7 @@
     <tag k='information' v='terminal' />
     <tag k='level' v='-1' />
     <tag k='name' v='MVG Infopoint' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='ticket' />
   </way>
   <way id='371903555' version='1'>
@@ -64452,6 +64532,7 @@
     <tag k='level' v='-1' />
     <tag k='name' v='MVG' />
     <tag k='operator' v='MVG' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='ticket' />
   </way>
   <way id='381225398' version='1'>
@@ -65279,6 +65360,7 @@
     <tag k='building' v='yes' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
   </way>
   <way id='384856750' version='1'>
@@ -65291,6 +65373,7 @@
     <tag k='building' v='yes' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='ticket' />
   </way>
   <way id='384856751' version='1'>
@@ -65303,6 +65386,7 @@
     <tag k='building' v='yes' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='kiosk' />
   </way>
   <way id='384856752' version='1'>
@@ -65402,6 +65486,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='BREZELINA' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -65414,6 +65499,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Tabak-Lotto-Presse' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='lottery' />
     <tag k='wheelchair' v='limited' />
   </way>
@@ -65427,6 +65513,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='schmuckrausch' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='jewelry' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -65439,6 +65526,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='scoom' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='supermarket' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -65464,6 +65552,7 @@
     <tag k='payment:mastercard' v='yes' />
     <tag k='payment:notes' v='yes' />
     <tag k='phone' v='+49 89 292 540' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='ticket' />
     <tag k='source' v='Kassenzettel' />
     <tag k='wheelchair' v='limited' />
@@ -65857,6 +65946,7 @@
     <tag k='building' v='yes' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
   </way>
   <way id='388438016' version='1'>
@@ -65869,6 +65959,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='kiosk' />
   </way>
   <way id='388688009' version='1'>
@@ -65890,6 +65981,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='florist' />
   </way>
   <way id='389542679' version='1'>
@@ -65928,6 +66020,7 @@
     <tag k='building' v='yes' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
   </way>
   <way id='389871165' version='1'>
@@ -66353,6 +66446,7 @@
     <nd ref='3392162459' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='kiosk' />
   </way>
   <way id='392462329' version='1'>
@@ -66834,6 +66928,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='back WERK' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
   </way>
   <way id='399256170' version='1'>
@@ -66921,6 +67016,7 @@
     <nd ref='3272712349' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='bakery' />
     <tag k='wheelchair' v='yes' />
   </way>
@@ -66935,7 +67031,8 @@
     <tag k='contact:website' v='http://www.chocolateriebeluga.de/' />
     <tag k='level' v='-1' />
     <tag k='name' v='Chocolaterie Beluga' />
-    <tag k='opening_hours' v='Mo-Sa 08:00-20:00; Su 12:00-19:00' />
+    <tag k='opening_hours' v='Mo-Sa 08:00-20:00; Su 12:0019:00' />
+    <tag k='building' v='yes'/>
     <tag k='shop' v='confectionery' />
     <tag k='source' v='visit' />
     <tag k='wheelchair' v='yes' />
@@ -68996,10 +69093,10 @@
     <tag k='public_transport' v='platform' />
     <tag k='shelter' v='yes' />
   </way>
-  <relation id='-191527' action='modify'>
-    <member type='way' ref='-191528' role='outer' />
-    <member type='way' ref='-191529' role='inner' />
-    <member type='way' ref='-191530' role='inner' />
+  <relation id='191527' action='modify'>
+    <member type='way' ref='191528' role='outer' />
+    <member type='way' ref='191529' role='inner' />
+    <member type='way' ref='191530' role='inner' />
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='1. Untergeschoss' />
@@ -69644,15 +69741,6 @@
     
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    <tag k='type' v='multipolygon' />
-  </relation>
-  <relation id='5299666' action='modify' version='1'>
-    <tag k='area' v='yes' />
-    <tag k='building' v='yes' />
-    <tag k='description' v='1. Untergeschoss' />
-    <tag k='layer' v='-1' />
-    <tag k='level' v='-1' />
-    <tag k='name' v='Karlsplatz (Stachus)' />
     <tag k='type' v='multipolygon' />
   </relation>
   <relation id='5370443' version='1'>
