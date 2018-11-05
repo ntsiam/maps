@@ -17319,7 +17319,7 @@
     <tag k='description' v='Schützen-Passage' />
     <tag k='description:en' v='Schützen-Passage' />
     <tag k='highway' v='footway' />
-    <tag k='indoor' v='yes' />
+    
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='lit' v='yes' />
@@ -69003,7 +69003,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='1. Untergeschoss' />
-    <tag k='indoor' v='hall' />
+    
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Karlsplatz (Stachus)' />

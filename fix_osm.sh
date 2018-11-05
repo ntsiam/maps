@@ -1,8 +1,8 @@
 #!/bin/bash
-sed -i 's/node id/node version="1" id/g' $1
-sed -i 's/way id/way version="1" id/g' $1
+#sed -i 's/node id/node version="1" id/g' $1
+#sed -i 's/way id/way version="1" id/g' $1
 #sed -i "s/version='1'//g" $1
-sed -i 's/relation id/relation version="1" id/g' $1
+#sed -i 's/relation id/relation version="1" id/g' $1
 #sed -i 's/<tag k="indoor" v="yes"\/>/<tag k="building" v="yes"\/>/g' $1
 #sed -i 's/<tag k="indoor" v="yes" \/>/<tag k="building" v="yes"\/>/g' $1
 #sed -i "s/<tag k='indoor' v='yes' \/>/<tag k='building' v='yes'\/>/g" $1
@@ -19,14 +19,22 @@ sed -i 's/relation id/relation version="1" id/g' $1
 #sed -i "s/<tag k='indoor' v='corridor'\/>/<tag k='building' v='yes'\/>/g" $1
 #sed -i "s/<tag k='indoor' v='corridor' \/>/<tag k='building' v='yes'\/>/g" $1
 #sed -i 's/<tag k="indoor" v="corridor" \/>/<tag k="building" v="yes"\/>/g' $1
+#sed -i 's/<tag k="indoor" v="hall"\/>//g' $1
+#sed -i "s/<tag k='indoor' v='hall'\/>//g" $1
+#sed -i "s/<tag k='indoor' v='hall' \/>//g" $1
+#sed -i 's/<tag k="indoor" v="hall" \/>//g' $1
+sed -i 's/<tag k="indoor" v="yes"\/>//g' $1
+sed -i "s/<tag k='indoor' v='yes'\/>//g" $1
+sed -i "s/<tag k='indoor' v='yes' \/>//g" $1
+sed -i 's/<tag k="indoor" v="yes" \/>//g' $1
 #sed -i 's/<tag k="indoor" v="room"\/>/<tag k="building" v="yes"\/>/g' $1
 #sed -i "s/<tag k='indoor' v='room'\/>/<tag k='building' v='yes'\/>/g" $1
 #sed -i "s/<tag k='indoor' v='room' \/>/<tag k='building' v='yes'\/>/g" $1
 #sed -i 's/<tag k="indoor" v="room" \/>/<tag k="building" v="yes"\/>/g' $1
 #sed -i "s/<tag k='building' v='room' \/>/<tag k='building' v='yes'\/>/g" $1
 #sed -i 's/<tag k="building" v="room" \/>/<tag k="building" v="yes"\/>/g' $1
-sed -i 's/<tag k="building:part"/<tag k="building"/g' $1
-sed -i "s/<tag k='building:part'/<tag k='building'/g" $1
+#sed -i 's/<tag k="building:part"/<tag k="building"/g' $1
+#sed -i "s/<tag k='building:part'/<tag k='building'/g" $1
 #sed -i 's/<tag k="railway" v="platform"\/>/<tag k="building" v="yes"\/>/g' $1
 #sed -i 's/<tag k="public_transport" v="platform"\/>/<tag k="building" v="yes"\/>/g' $1
 #sed -i 's/<tag k="ref" v="L"\/>/<tag k="ref" v="L"\/>\n    <tag k="name" v="L"\/>/g' $1
