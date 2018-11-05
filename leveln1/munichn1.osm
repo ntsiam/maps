@@ -21798,7 +21798,7 @@
     <nd ref='1204631586' />
     <nd ref='1204631932' />
     <tag k='building' v='yes' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='level' v='-1' />
   </way>
   <way id='104405118' version='1'>
@@ -21814,7 +21814,7 @@
     <nd ref='1204630658' />
     <nd ref='1204631821' />
     <tag k='building' v='yes' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='level' v='-1' />
     <tag k='oneway' v='yes' />
   </way>
@@ -21822,7 +21822,7 @@
     <nd ref='1204630363' />
     <nd ref='1204630266' />
     <tag k='building' v='yes' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='level' v='-1' />
   </way>
   <way id='104405132' version='1'>
@@ -21887,14 +21887,14 @@
     <nd ref='1204630399' />
     <nd ref='1204631081' />
     <tag k='building' v='yes' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='level' v='-1' />
   </way>
   <way id='104405213' version='1'>
     <nd ref='1204631903' />
     <nd ref='1204630198' />
     <tag k='building' v='yes' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='level' v='-1' />
   </way>
   <way id='104405215' version='1'>
@@ -22006,7 +22006,7 @@
     <nd ref='1204631416' />
     <nd ref='1204631643' />
     <tag k='building' v='yes' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='level' v='-1' />
   </way>
   <way id='104405265' version='1'>
@@ -22274,7 +22274,7 @@
     <nd ref='1235752291' />
     <nd ref='1235752298' />
     <tag k='building' v='yes' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='level' v='-1' />
   </way>
   <way id='108016475' version='1'>
@@ -22820,7 +22820,7 @@
     <nd ref='1353022860' />
     <nd ref='1353022899' />
     <tag k='building' v='yes' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='level' v='-1' />
     <tag k='outdoor' v='yes' />
   </way>
@@ -22828,7 +22828,7 @@
     <nd ref='1353032938' />
     <nd ref='1353033317' />
     <tag k='building' v='yes' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='level' v='-1' />
   </way>
   <way id='120741071' version='1'>
@@ -22838,7 +22838,7 @@
     <nd ref='1353023041' />
     <nd ref='4478469735' />
     <tag k='building' v='yes' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='level' v='-1' />
   </way>
   <way id='120839953' version='1'>
@@ -30436,7 +30436,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Unterführung' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
   </way>
@@ -30453,7 +30453,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Unterführung zum Bahnsteig' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
   </way>
@@ -41719,7 +41719,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Rosenheimer Platz Zwischengeschoss' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
   </way>
@@ -52366,7 +52366,7 @@
     <nd ref='2568007792' />
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
   </way>
@@ -52405,7 +52405,7 @@
     <nd ref='1342488691' />
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='surface' v='asphalt' />
@@ -53830,7 +53830,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Sankt-Quirin-Platz Zwischengeschoss' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='level' v='-1' />
     <tag k='surface' v='concrete' />
   </way>
@@ -53855,7 +53855,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Sankt-Quirin-Platz Zwischengeschoss' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='surface' v='paving_stones' />
@@ -55412,7 +55412,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Marienplatz Sperrengeschoss' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
   </way>
@@ -59128,7 +59128,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Sperrengeschoss Lenbachplatz' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='level' v='-1' />
   </way>
   <way id='337626364' version='1'>
@@ -59773,7 +59773,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Karlsplatz 1. Untergeschoss' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Karlsplatz (Stachus)' />
@@ -62224,7 +62224,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Unterführung' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
   </way>
@@ -64016,7 +64016,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Rampe' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='layer' v='-2' />
     <tag k='level' v='-1;-2' />
     <tag k='surface' v='asphalt' />
@@ -69501,7 +69501,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Hauptbahnhof Süd Ladengeschoss Ebene -1' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='type' v='multipolygon' />
@@ -69641,7 +69641,7 @@
     <tag k='building' v='yes' />
     <tag k='description' v='Sperrengeschoss, Zwischengeschoss Zugang U-Bahn' />
     <tag k='fixme' v='Geometrie und Lage' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='type' v='multipolygon' />
@@ -69665,7 +69665,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Hauptbahnhof Süd Ladengeschoss Ebene -1' />
-    <tag k='highway' v='corridor' />
+    
     <tag k='level' v='-1' />
     <tag k='type' v='multipolygon' />
   </relation>
