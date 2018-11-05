@@ -17323,7 +17323,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='lit' v='yes' />
-    <tag k='tunnel' v='yes' />
+    
   </way>
   <way id='4211359' version='1'>
     <nd ref='20925334' />
@@ -69007,7 +69007,7 @@
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='name' v='Karlsplatz (Stachus)' />
-    <tag k='tunnel' v='yes' />
+    
     <tag k='type' v='multipolygon' />
   </relation>
   <relation id='2992752' version='1'>
