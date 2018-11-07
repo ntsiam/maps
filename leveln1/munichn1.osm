@@ -26340,8 +26340,8 @@
     <nd ref='1531495480' />
     <nd ref='1531495493' />
     <nd ref='1531495506' />
-    <tag k='building' v='yes' />
     <tag k='description' v='Karls-Rondell' />
+    <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='lit' v='yes' />
