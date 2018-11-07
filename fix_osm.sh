@@ -6,10 +6,10 @@
 #sed -i 's/<tag k="indoor" v="yes"\/>/<tag k="building" v="yes"\/>/g' $1
 #sed -i 's/<tag k="indoor" v="yes" \/>/<tag k="building" v="yes"\/>/g' $1
 #sed -i "s/<tag k='indoor' v='yes' \/>/<tag k='building' v='yes'\/>/g" $1
-sed -i 's/<tag k="highway" v="corridor" \/>/<tag k="highway" v="footway"\/>/g' $1
-sed -i 's/<tag k="highway" v="corridor"\/>/<tag k="highway" v="footway"\/>/g' $1
-sed -i "s/<tag k='highway' v='corridor' \/>/<tag k='highway' v='footway' \/>/g" $1
-sed -i "s/<tag k='highway' v='corridor'\/>/<tag k='highway' v='footway'\/>/g" $1
+#sed -i 's/<tag k="highway" v="corridor" \/>/<tag k="highway" v="footway"\/>/g' $1
+#sed -i 's/<tag k="highway" v="corridor"\/>/<tag k="highway" v="footway"\/>/g' $1
+#sed -i "s/<tag k='highway' v='corridor' \/>/<tag k='highway' v='footway' \/>/g" $1
+#sed -i "s/<tag k='highway' v='corridor'\/>/<tag k='highway' v='footway'\/>/g" $1
 #sed -i "s/<tag k='indoor' v='yes'\/>/<tag k='building' v='yes'\/>/g" $1
 #sed -i 's/<tag k="indoor" v="hall"\/>/<tag k="building" v="yes"\/>/g' $1
 #sed -i "s/<tag k='indoor' v='hall'\/>/<tag k='building' v='yes'\/>/g" $1
@@ -19,6 +19,14 @@ sed -i "s/<tag k='highway' v='corridor'\/>/<tag k='highway' v='footway'\/>/g" $1
 #sed -i "s/<tag k='indoor' v='corridor'\/>/<tag k='building' v='yes'\/>/g" $1
 #sed -i "s/<tag k='indoor' v='corridor' \/>/<tag k='building' v='yes'\/>/g" $1
 #sed -i 's/<tag k="indoor" v="corridor" \/>/<tag k="building" v="yes"\/>/g' $1
+#sed -i 's/<tag k="indoor" v="hall"\/>//g' $1
+#sed -i "s/<tag k='indoor' v='hall'\/>//g" $1
+#sed -i "s/<tag k='indoor' v='hall' \/>//g" $1
+#sed -i 's/<tag k="indoor" v="hall" \/>//g' $1
+#sed -i 's/<tag k="indoor" v="yes"\/>//g' $1
+#sed -i "s/<tag k='indoor' v='yes'\/>//g" $1
+#sed -i "s/<tag k='indoor' v='yes' \/>//g" $1
+#sed -i 's/<tag k="indoor" v="yes" \/>//g' $1
 #sed -i 's/<tag k="indoor" v="room"\/>/<tag k="building" v="yes"\/>/g' $1
 #sed -i "s/<tag k='indoor' v='room'\/>/<tag k='building' v='yes'\/>/g" $1
 #sed -i "s/<tag k='indoor' v='room' \/>/<tag k='building' v='yes'\/>/g" $1
@@ -26,6 +34,7 @@ sed -i "s/<tag k='highway' v='corridor'\/>/<tag k='highway' v='footway'\/>/g" $1
 #sed -i "s/<tag k='building' v='room' \/>/<tag k='building' v='yes'\/>/g" $1
 #sed -i 's/<tag k="building" v="room" \/>/<tag k="building" v="yes"\/>/g' $1
 #sed -i 's/<tag k="building:part"/<tag k="building"/g' $1
+#sed -i "s/<tag k='building:part'/<tag k='building'/g" $1
 #sed -i 's/<tag k="railway" v="platform"\/>/<tag k="building" v="yes"\/>/g' $1
 #sed -i 's/<tag k="public_transport" v="platform"\/>/<tag k="building" v="yes"\/>/g' $1
 #sed -i 's/<tag k="ref" v="L"\/>/<tag k="ref" v="L"\/>\n    <tag k="name" v="L"\/>/g' $1
@@ -53,3 +62,7 @@ sed -i "s/<tag k='highway' v='corridor'\/>/<tag k='highway' v='footway'\/>/g" $1
 #sed -i 's/<tag k="tunnel" v="building_passage" \/>//g' $1
 #sed -i "s/<tag k='tunnel' v='building_passage' \/>//g" $1
 #sed -i 's/<tag k="tunnel" v="building_passage" \/>//g' $1
+sed -i 's/<tag k="shop"/<tag k="building" v="yes"\/>\n    <tag k="shop"/g' $1
+sed -i 's/<tag k="shop"/<tag k="building" v="yes"\/>\n    <tag k="shop"/g' $1
+sed -i "s/<tag k='shop'/<tag k='building' v='yes'\/>\n    <tag k='shop'/g" $1
+sed -i 's/<tag k="shop"/<tag k="building" v="yes"\/>\n    <tag k="shop"/g' $1
