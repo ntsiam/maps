@@ -67633,13 +67633,25 @@
     <tag k='building' v='yes' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Karstadt Bahnhofplatz' />
+    <tag k='opening_hours' v='Mo-Sa 09:30-20:00' />
+    <tag k='operator' v='Karstadt Warenhaus GmbH' />
+    <tag k='phone' v='+49 89 55120' />
+    <tag k='building' v='yes'/>
+    <tag k='shop' v='department_store' />
+    <tag k='website' v='http://www.karstadt.de' />
+    <tag k='wheelchair' v='yes' />
   </way>
   <way id='381225416' version='1'>
     <nd ref='3457080791' />
     <nd ref='3844615435' />
     <nd ref='3844615425' />
     <tag k='highway' v='footway' />
+    
+    <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='lit' v='yes' />
+    
   </way>
   <way id='381225417' version='1'>
     <nd ref='3844615429' />
@@ -67647,6 +67659,8 @@
     <nd ref='3844615431' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
+    <tag k='maxspeed' v='60' />
+    <tag k='oneway' v='yes' />
   </way>
   <way id='381225418' version='1'>
     <nd ref='3844615388' />
@@ -67655,6 +67669,7 @@
     <tag k='building' v='yes' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
+    <tag k='surface' v='paved' />
   </way>
   <way id='381225420' version='1'>
     <nd ref='3844615412' />
@@ -67663,6 +67678,7 @@
     <tag k='building' v='yes' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
+    <tag k='surface' v='paved' />
   </way>
   <way id='381225424' version='1'>
     <nd ref='2545379111' />
@@ -67673,6 +67689,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='wheelchair' v='yes' />
   </way>
   <way id='381225427' version='1'>
     <nd ref='3844615370' />
@@ -67844,6 +67861,8 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='ramp:stroller' v='yes' />
+    <tag k='step_count' v='16' />
   </way>
   <way id='381453233' version='1'>
     <nd ref='3765269826' />
@@ -67862,6 +67881,7 @@
     <tag k='level' v='-1' />
     <tag k='surface' v='paved' />
     <tag k='wheelchair' v='yes' />
+    <tag k='width' v='3' />
   </way>
   <way id='382249244' version='1'>
     <nd ref='1982712579' />
@@ -67962,8 +67982,9 @@
     <nd ref='2550397161' />
     <tag k='building' v='yes' />
     <tag k='highway' v='footway' />
-    <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='lit' v='yes' />
+    <tag k='surface' v='paved' />
   </way>
   <way id='382300884' version='1'>
     <nd ref='3390986588' />
@@ -68022,7 +68043,6 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    <tag k='surface' v='paved' />
   </way>
   <way id='383062079' version='1'>
     <nd ref='3862612056' />
@@ -68040,9 +68060,25 @@
     <nd ref='3692891354' />
     <nd ref='3869571682' />
     <tag k='building' v='yes' />
+    <tag k='conveying' v='backward' />
+    <tag k='description' v='Rolltreppe OB03' />
+    <tag k='highway' v='steps' />
+    <tag k='incline' v='down' />
+    <tag k='level' v='0;-1' />
+    <tag k='ref' v='OB03' />
+    <tag k='width' v='1.2' />
+  </way>
+  <way id='23904265' version='1'>
+    <nd ref='523320884' />
+    <nd ref='546535930' />
+    <nd ref='523320875' />
+    <tag k='description' v='Rampe' />
     <tag k='highway' v='footway' />
-    <tag k='layer' v='-1' />
+    <tag k='incline' v='down' />
     <tag k='level' v='-1' />
+    <tag k='ramp' v='yes' />
+    <tag k='surface' v='paved' />
+    <tag k='wheelchair' v='yes' />
   </way>
   <way id='383646789' version='1'>
     <nd ref='3220126346' />
@@ -68067,6 +68103,13 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='maxspeed' v='60' />
+    <tag k='motorroad' v='yes' />
+    <tag k='name' v='Brudermühltunnel' />
+    <tag k='oneway' v='yes' />
+    <tag k='ref' v='B 2R' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tmc' v='DE:35329/22688' />
   </way>
   <way id='383646793' version='1'>
     <nd ref='3692891354' />
@@ -68091,6 +68134,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='wheelchair' v='no' />
   </way>
   <way id='383646801' version='1'>
     <nd ref='3220127676' />
@@ -68105,6 +68149,7 @@
     <nd ref='3692891354' />
     <tag k='building' v='yes' />
     <tag k='highway' v='footway' />
+    <tag k='incline' v='up' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
   </way>
@@ -68115,6 +68160,8 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='lit' v='yes' />
+    <tag k='surface' v='paving_stones' />
   </way>
   <way id='383646809' version='1'>
     <nd ref='3692891356' />
@@ -68124,6 +68171,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='wheelchair' v='no' />
   </way>
   <way id='383646810' version='1'>
     <nd ref='3869571700' />
@@ -68153,6 +68201,10 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='ramp' v='yes' />
+    <tag k='segregated' v='no' />
+    <tag k='surface' v='paved' />
+    <tag k='wheelchair' v='yes' />
   </way>
   <way id='383646820' version='1'>
     <nd ref='3220126339' />
@@ -68162,7 +68214,7 @@
     <nd ref='3692891356' />
     <tag k='building' v='yes' />
     <tag k='highway' v='footway' />
-    <tag k='layer' v='-1' />
+    <tag k='incline' v='up' />
     <tag k='level' v='-1' />
   </way>
   <way id='383655881' version='1'>
@@ -68196,6 +68248,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='surface' v='paved' />
   </way>
   <way id='383655887' version='1'>
     <nd ref='3159030248' />
@@ -68225,6 +68278,9 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='maxheight:physical' v='2.5' />
+    <tag k='source' v='survey' />
+    <tag k='width' v='3' />
   </way>
   <way id='383785799' version='1'>
     <nd ref='3652294560' />
@@ -68249,6 +68305,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='wheelchair' v='no' />
   </way>
   <way id='383999852' version='1'>
     <nd ref='3159190244' />
@@ -68269,6 +68326,9 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='segregated' v='yes' />
+    <tag k='smoothness' v='good' />
+    <tag k='surface' v='asphalt' />
   </way>
   <way id='384006789' version='1'>
     <nd ref='2550319819' />
@@ -68277,6 +68337,8 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='lit' v='yes' />
+    <tag k='surface' v='asphalt' />
   </way>
   <way id='384310253' version='1'>
     <nd ref='3876097570' />
@@ -68296,6 +68358,8 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='lit' v='yes' />
+    <tag k='segregated' v='yes' />
   </way>
   <way id='384818098' version='1'>
     <nd ref='3881730390' />
@@ -68421,6 +68485,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='surface' v='asphalt' />
   </way>
   <way id='384856754' version='1'>
     <nd ref='2639567530' />
@@ -68448,6 +68513,8 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='lit' v='yes' />
+    <tag k='wheelchair' v='yes' />
   </way>
   <way id='385116619' version='1'>
     <nd ref='2554365430' />
@@ -68698,6 +68765,7 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='surface' v='paved' />
   </way>
   <way id='385266738' version='1'>
     <nd ref='3886205072' />
@@ -69135,6 +69203,7 @@
     <tag k='area' v='yes' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='lit' v='yes' />
   </way>
   <way id='390226266' version='1'>
     <nd ref='3933886680' />
@@ -69374,8 +69443,9 @@
     <nd ref='3953394575' />
     <nd ref='2488012872' />
     <tag k='highway' v='footway' />
-    <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='lit' v='yes' />
+    <tag k='tactile_paving' v='yes' />
   </way>
   <way id='392069681' version='1'>
     <nd ref='3953427267' />
@@ -69477,6 +69547,7 @@
     <nd ref='3956949716' />
     <tag k='highway' v='footway' />
     <tag k='level' v='-1' />
+    <tag k='surface' v='paved' />
   </way>
   <way id='392475772' version='1'>
     <nd ref='3956949720' />
@@ -69977,6 +70048,9 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
+    <tag k='building' v='yes'/>
+    <tag k='shop' v='bakery' />
+    <tag k='wheelchair' v='yes' />
   </way>
   <way id='400757134' version='1'>
     <nd ref='2758329530' />
@@ -70206,8 +70280,9 @@
     <nd ref='4073214580' />
     <nd ref='2758329800' />
     <tag k='highway' v='footway' />
-    <tag k='layer' v='-1' />
+    <tag k='layer' v='-3' />
     <tag k='level' v='-1' />
+    <tag k='lit' v='yes' />
   </way>
   <way id='405116458' version='1'>
     <nd ref='4073378484' />
@@ -70290,6 +70365,17 @@
     <tag k='highway' v='footway' />
     <tag k='layer' v='-2' />
     <tag k='level' v='-1' />
+    <tag k='maxheight' v='3.2' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Wotanstraße' />
+    <tag k='proposed' v='tram' />
+    <tag k='proposed:frequency' v='0' />
+    <tag k='proposed:gauge' v='1435' />
+    <tag k='proposed:voltage' v='750' />
+    <tag k='railway' v='proposed' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tmc' v='DE:28005/35337' />
+    <tag k='traffic_sign' v='DE:253;DE:259' />
   </way>
   <way id='410013304' version='1'>
     <nd ref='1302954453' />
@@ -72652,7 +72738,7 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Hauptbahnhof Süd Ladengeschoss Ebene -1' />
-    <tag k='highway' v='footway' />
+    
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='type' v='multipolygon' />
@@ -72803,10 +72889,123 @@
     <member type='way' ref='357807247' role='inner' />
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
-    <tag k='description' v='1. Untergeschoss' />
+    <tag k='description' v='Heimeranplatz Zwischengeschoss' />
+    <tag k='layer' v='-2' />
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5011384' version='1'>
+    <member type='way' ref='326527376' role='outer' />
+    <member type='way' ref='326527460' role='' />
+    <member type='way' ref='326527401' role='' />
+    <member type='way' ref='326527455' role='' />
+    <member type='way' ref='326527395' role='' />
+    <member type='way' ref='326527453' role='' />
+    <member type='way' ref='326527386' role='' />
+    <member type='way' ref='326527391' role='' />
+    <member type='way' ref='326527383' role='' />
+    <member type='way' ref='326527393' role='' />
+    <member type='way' ref='326527384' role='' />
+    <member type='way' ref='327220179' role='' />
+    <member type='way' ref='326527388' role='' />
+    <member type='way' ref='327220178' role='' />
+    <member type='way' ref='327220176' role='' />
+    <member type='way' ref='326527450' role='' />
+    <member type='way' ref='326527458' role='' />
+    <member type='way' ref='326527459' role='' />
+    <member type='way' ref='326527390' role='' />
+    <member type='way' ref='326527457' role='' />
+    <member type='way' ref='326527454' role='' />
+    <member type='way' ref='326527403' role='' />
+    <member type='way' ref='326527378' role='' />
+    <member type='way' ref='326527397' role='' />
+    <member type='way' ref='326527452' role='' />
+    <member type='way' ref='326527456' role='' />
+    <member type='way' ref='326527382' role='' />
+    <member type='way' ref='326527400' role='' />
+    <member type='way' ref='326527402' role='' />
+    <member type='way' ref='326527392' role='' />
+    <member type='way' ref='326527394' role='' />
+    <member type='way' ref='326527398' role='' />
+    <member type='way' ref='326527387' role='' />
+    <member type='way' ref='326527385' role='' />
+    <member type='way' ref='326527389' role='' />
+    <member type='way' ref='326527381' role='' />
+    <member type='way' ref='326527461' role='' />
+    <member type='way' ref='326530864' role='' />
+    <member type='way' ref='326530863' role='' />
+    <member type='way' ref='326530861' role='' />
+    <member type='way' ref='326527451' role='' />
+    <member type='way' ref='326527396' role='' />
+    <member type='way' ref='326527399' role='' />
+    <member type='way' ref='326530859' role='' />
+    <member type='way' ref='326530862' role='' />
+    <member type='way' ref='326530858' role='' />
+    <member type='way' ref='326530860' role='' />
+    <member type='way' ref='326532003' role='' />
+    <member type='way' ref='326531999' role='' />
+    <member type='way' ref='326532005' role='' />
+    <member type='way' ref='326531996' role='' />
+    <member type='way' ref='326532006' role='' />
+    <member type='way' ref='326531997' role='' />
+    <member type='way' ref='326532002' role='' />
+    <tag k='description' v='Pasing Arcaden Untergeschoss' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='UG' />
+    <tag k='type' v='level' />
+  </relation>
+  <relation id='5152530' version='1'>
+    <member type='way' ref='345967846' role='' />
+    <member type='way' ref='339526240' role='' />
+    <member type='way' ref='339526215' role='' />
+    <member type='way' ref='339535707' role='' />
+    <member type='way' ref='339526227' role='' />
+    <member type='way' ref='339535709' role='' />
+    <member type='way' ref='339535711' role='' />
+    <member type='way' ref='339535718' role='' />
+    <member type='way' ref='339526211' role='' />
+    <member type='way' ref='339526212' role='' />
+    <member type='way' ref='339526223' role='' />
+    <member type='way' ref='339526228' role='' />
+    <member type='way' ref='339526213' role='' />
+    <member type='way' ref='339526241' role='' />
+    <member type='way' ref='339526221' role='' />
+    <member type='way' ref='339526239' role='' />
+    <member type='way' ref='339526219' role='' />
+    <member type='way' ref='339526220' role='' />
+    <member type='way' ref='345967858' role='' />
+    <member type='way' ref='339526226' role='' />
+    <member type='way' ref='339526222' role='' />
+    <member type='way' ref='451638027' role='' />
+    <member type='way' ref='339526236' role='' />
+    <member type='way' ref='339526243' role='' />
+    <tag k='description' v='Motorama UG' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Untergeschoss' />
+    <tag k='type' v='level' />
+  </relation>
+  <relation id='5200196' version='1'>
+    <member type='way' ref='249761120' role='outer' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Arabellapark Zwischengeschoss' />
     <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
-    <tag k='name' v='Karlsplatz (Stachus)' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5286140' version='1'>
+    <member type='way' ref='353875248' role='inner' />
+    <member type='way' ref='353877396' role='inner' />
+    <member type='way' ref='353875246' role='inner' />
+    <member type='way' ref='247662305' role='outer' />
+    <member type='way' ref='381225392' role='inner' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Sperrengeschoss, Zwischengeschoss Zugang U-Bahn' />
+    <tag k='fixme' v='Geometrie und Lage' />
+    
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
     <tag k='type' v='multipolygon' />
   </relation>
   <relation id='5370443' version='1'>
@@ -72819,7 +73018,159 @@
     <tag k='area' v='yes' />
     <tag k='building' v='yes' />
     <tag k='description' v='Hauptbahnhof Süd Ladengeschoss Ebene -1' />
-    <tag k='highway' v='footway' />
+    
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5413822' version='1'>
+    <member type='way' ref='298518698' role='outer' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Westpark Zwischengeschoss' />
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5460091' version='1'>
+    <member type='way' ref='330921998' role='outer' />
+    <member type='way' ref='367195068' role='inner' />
+    <member type='way' ref='367195067' role='inner' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Feldmoching Sperrengschoss' />
+    <tag k='fixme' v='sperrengeschoss sehr ungenau' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5608774' version='1'>
+    <member type='way' ref='376406793' role='inner' />
+    <member type='way' ref='248862331' role='outer' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Friedenheimer Straße U5 Zwischengeschoss' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5620994' version='1'>
+    <member type='way' ref='377264519' role='inner' />
+    <member type='way' ref='256576406' role='outer' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Dülferstraße Zwischengeschoss' />
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5640214' version='1'>
+    <member type='way' ref='250327808' role='outer' />
+    <member type='way' ref='378423447' role='inner' />
+    <member type='way' ref='378423448' role='inner' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Neuperlach Zentrum Zwischengeschoss' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+    <tag k='wheelchair' v='yes' />
+  </relation>
+  <relation id='5640351' version='1'>
+    <member type='way' ref='382300879' role='inner' />
+    <member type='way' ref='248210307' role='outer' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Georg-Brauchle-Ring Sperrengeschoss' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+    <tag k='wheelchair' v='yes' />
+  </relation>
+  <relation id='5640670' version='1'>
+    <member type='way' ref='250290233' role='outer' />
+    <member type='way' ref='250290235' role='inner' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Untersbergstraße Zwischengeschoss' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5640746' version='1'>
+    <member type='way' ref='248238210' role='outer' />
+    <member type='way' ref='378465621' role='inner' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Milbertshofen Sperrengeschoss' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5669083' version='1'>
+    <member type='way' ref='380609802' role='outer' />
+    <member type='way' ref='380609809' role='inner' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Westpark östliches Zwischengeschoss' />
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5678631' version='1'>
+    <member type='way' ref='381447356' role='inner' />
+    <member type='way' ref='381447357' role='outer' />
+    <tag k='access' v='yes' />
+    <tag k='amenity' v='parking' />
+    <tag k='fee' v='yes' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Park &amp; Ride Tiefgarage Moosach' />
+    <tag k='park_ride' v='yes' />
+    <tag k='parking' v='multi-storey' />
+    <tag k='type' v='multipolygon' />
+    <tag k='wheelchair' v='yes' />
+  </relation>
+  <relation id='5678632' version='1'>
+    <member type='way' ref='381447349' role='inner' />
+    <member type='way' ref='381447354' role='inner' />
+    <member type='way' ref='256960119' role='outer' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='U-/S-Bahn Moosach westliches Zwischengeschoss' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5724711' version='1'>
+    <member type='way' ref='305667618' role='outer' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Innsbrucker Ring Zwischengeschoss' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='5732380' version='1'>
+    <member type='way' ref='385266796' role='inner' />
+    <member type='way' ref='297369396' role='outer' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Zwischengeschoss' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='6230904' version='1'>
+    <member type='way' ref='419215606' role='inner' />
+    <member type='way' ref='310053255' role='outer' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Messestadt West Zwischengeschoss' />
+    <tag k='layer' v='-1' />
+    <tag k='level' v='-1' />
+    <tag k='type' v='multipolygon' />
+  </relation>
+  <relation id='6247147' version='1'>
+    <member type='way' ref='420260661' role='inner' />
+    <member type='way' ref='420260662' role='inner' />
+    <member type='way' ref='308185410' role='outer' />
+    <tag k='area' v='yes' />
+    <tag k='building' v='yes' />
+    <tag k='description' v='Max-Weber-Platz U-Bahn Zwischengeschoss' />
+    <tag k='layer' v='-1' />
     <tag k='level' v='-1' />
     <tag k='type' v='multipolygon' />
   </relation>
