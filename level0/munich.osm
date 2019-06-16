@@ -38977,6 +38977,7 @@
     <member type='way' ref='-116663' role='inner' />
     <member type='way' ref='-116168' role='outer' />
     <tag k='amenity' v='place_of_worship' />
+    <tag k='building' v='yes' />
     <tag k='type' v='multipolygon' />
   </relation>
   <relation id='49322' action='modify' timestamp='2011-07-07T21:53:51Z' uid='6998' user='saerdnaer' visible='true' version='27' changeset='8661621'>
