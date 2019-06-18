@@ -324,10 +324,10 @@
   <node id='-113826' action='modify' visible='true' lat='35.06139712859' lon='135.78322075028' />
   <node id='-113829' action='modify' visible='true' lat='35.06145674858' lon='135.78330739627' />
   <node id='-117142' action='modify' visible='true' lat='35.06149494012' lon='135.78295057129' />
-  <node id='-117143' action='modify' visible='true' lat='35.06117136645' lon='135.78328288986' />
-  <node id='-117145' action='modify' visible='true' lat='35.06123261791' lon='135.78321998311' />
-  <node id='-117147' action='modify' visible='true' lat='35.06108158341' lon='135.78299618365' />
-  <node id='-117149' action='modify' visible='true' lat='35.06134026495' lon='135.78272576756' />
+  <node id='-117144' action='modify' visible='true' lat='35.06117136645' lon='135.78328288986' />
+  <node id='-117146' action='modify' visible='true' lat='35.06123261791' lon='135.78321998311' />
+  <node id='-117148' action='modify' visible='true' lat='35.06108158341' lon='135.78299618365' />
+  <node id='-117150' action='modify' visible='true' lat='35.06134026495' lon='135.78272576756' />
   <node id='-117159' action='modify' visible='true' lat='35.06125403786' lon='135.78293753919' />
   <node id='-117161' action='modify' visible='true' lat='35.06112929314' lon='135.78306687879' />
   <node id='-117165' action='modify' visible='true' lat='35.06128959544' lon='135.78299401163' />
@@ -366,7 +366,7 @@
   <node id='-117503' action='modify' visible='true' lat='35.0612888409' lon='135.78259958167' />
   <node id='-117505' action='modify' visible='true' lat='35.06131359679' lon='135.78263562886' />
   <node id='-117529' action='modify' visible='true' lat='35.06115269869' lon='135.78249553378' />
-  <node id='-117530' action='modify' visible='true' lat='35.06103926894' lon='135.78261571814' />
+  <node id='-117531' action='modify' visible='true' lat='35.06103926894' lon='135.78261571814' />
   <node id='-117535' action='modify' visible='true' lat='35.06109924385' lon='135.78255217182' />
   <node id='-117557' action='modify' visible='true' lat='35.0610834651' lon='135.78253125518' />
   <node id='-117560' action='modify' visible='true' lat='35.0611523751' lon='135.78246238384' />
@@ -399,9 +399,9 @@
   <node id='-117720' action='modify' visible='true' lat='35.06100098668' lon='135.78356047168' />
   <node id='-117743' action='modify' visible='true' lat='35.06099123912' lon='135.78365899301' />
   <node id='-117803' action='modify' visible='true' lat='35.0610235793' lon='135.78322940476' />
-  <node id='-117804' action='modify' visible='true' lat='35.06107402674' lon='135.78317781936' />
-  <node id='-117806' action='modify' visible='true' lat='35.06109225004' lon='135.78320442657' />
-  <node id='-117808' action='modify' visible='true' lat='35.06104269155' lon='135.78325574046' />
+  <node id='-117805' action='modify' visible='true' lat='35.06107402674' lon='135.78317781936' />
+  <node id='-117807' action='modify' visible='true' lat='35.06109225004' lon='135.78320442657' />
+  <node id='-117809' action='modify' visible='true' lat='35.06104269155' lon='135.78325574046' />
   <node id='-117811' action='modify' visible='true' lat='35.06102557942' lon='135.7832739311' />
   <node id='-117813' action='modify' visible='true' lat='35.06104758073' lon='135.78330406784' />
   <node id='-117815' action='modify' visible='true' lat='35.06107713804' lon='135.78327230209' />
@@ -410,9 +410,9 @@
   <node id='-117839' action='modify' visible='true' lat='35.06106714312' lon='135.78323042281' />
   <node id='-117882' action='modify' visible='true' lat='35.0612371489' lon='135.78187324989' />
   <node id='-117893' action='modify' visible='true' lat='35.0614513822' lon='135.78196556169' />
-  <node id='-117894' action='modify' visible='true' lat='35.06126114938' lon='135.78168754354' />
-  <node id='-117896' action='modify' visible='true' lat='35.06165405968' lon='135.78128897847' />
-  <node id='-117898' action='modify' visible='true' lat='35.06184340265' lon='135.78156373859' />
+  <node id='-117895' action='modify' visible='true' lat='35.06126114938' lon='135.78168754354' />
+  <node id='-117897' action='modify' visible='true' lat='35.06165405968' lon='135.78128897847' />
+  <node id='-117899' action='modify' visible='true' lat='35.06184340265' lon='135.78156373859' />
   <node id='-117929' action='modify' visible='true' lat='35.06150471843' lon='135.78203723824' />
   <node id='-117931' action='modify' visible='true' lat='35.06172339659' lon='135.78181026249' />
   <node id='-117934' action='modify' visible='true' lat='35.06160783473' lon='135.78208195032' />
@@ -431,7 +431,326 @@
   <node id='-118047' action='modify' visible='true' lat='35.06143481518' lon='135.7828631861' />
   <node id='-118115' action='modify' visible='true' lat='35.06137804439' lon='135.78275509033' />
   <node id='-118120' action='modify' visible='true' lat='35.0613980455' lon='135.78278495556' />
-  <way id='-113830' action='modify' visible='true'>
+  <node id='-118330' action='modify' visible='true' lat='35.06284436831' lon='135.78393990443' />
+  <node id='-118331' action='modify' visible='true' lat='35.06284279425' lon='135.78396127987' />
+  <node id='-118333' action='modify' visible='true' lat='35.06284745588' lon='135.78396194554' />
+  <node id='-118335' action='modify' visible='true' lat='35.06284902994' lon='135.7839405701' />
+  <node id='-118339' action='modify' visible='true' lat='35.0628522386' lon='135.78394071803' />
+  <node id='-118340' action='modify' visible='true' lat='35.06285096725' lon='135.78396216743' />
+  <node id='-118342' action='modify' visible='true' lat='35.06285478131' lon='135.78396275913' />
+  <node id='-118344' action='modify' visible='true' lat='35.06285611321' lon='135.78394108785' />
+  <node id='-118348' action='modify' visible='true' lat='35.06285441807' lon='135.78397059926' />
+  <node id='-118349' action='modify' visible='true' lat='35.06285066454' lon='135.78397015548' />
+  <node id='-118351' action='modify' visible='true' lat='35.06284933265' lon='135.78399190073' />
+  <node id='-118353' action='modify' visible='true' lat='35.06285308617' lon='135.78399227054' />
+  <node id='-118357' action='modify' visible='true' lat='35.06284697156' lon='135.78396941584' />
+  <node id='-118358' action='modify' visible='true' lat='35.06284291533' lon='135.78396897206' />
+  <node id='-118360' action='modify' visible='true' lat='35.06284134127' lon='135.78399042146' />
+  <node id='-118362' action='modify' visible='true' lat='35.06284533696' lon='135.78399101317' />
+  <node id='-118366' action='modify' visible='true' lat='35.06284872724' lon='135.78399855744' />
+  <node id='-118367' action='modify' visible='true' lat='35.06284739534' lon='135.78402015476' />
+  <node id='-118369' action='modify' visible='true' lat='35.06285114887' lon='135.78402045061' />
+  <node id='-118371' action='modify' visible='true' lat='35.06285242022' lon='135.78399885329' />
+  <node id='-118375' action='modify' visible='true' lat='35.06284509479' lon='135.78399826158' />
+  <node id='-118376' action='modify' visible='true' lat='35.06284073586' lon='135.7839978178' />
+  <node id='-118378' action='modify' visible='true' lat='35.06283952505' lon='135.78401941512' />
+  <node id='-118380' action='modify' visible='true' lat='35.06284400506' lon='135.78401985891' />
+  <node id='-118384' action='modify' visible='true' lat='35.06284654777' lon='135.78402858659' />
+  <node id='-118385' action='modify' visible='true' lat='35.06284509479' lon='135.78404914843' />
+  <node id='-118387' action='modify' visible='true' lat='35.06284945373' lon='135.78404959221' />
+  <node id='-118389' action='modify' visible='true' lat='35.06285078562' lon='135.7840291783' />
+  <node id='-118393' action='modify' visible='true' lat='35.06284327857' lon='135.78402843866' />
+  <node id='-118394' action='modify' visible='true' lat='35.06283867748' lon='135.78402784696' />
+  <node id='-118396' action='modify' visible='true' lat='35.0628372245' lon='135.78404840879' />
+  <node id='-118398' action='modify' visible='true' lat='35.06284206776' lon='135.78404885257' />
+  <node id='-118402' action='modify' visible='true' lat='35.06283698234' lon='135.78405654477' />
+  <node id='-118403' action='modify' visible='true' lat='35.06283540828' lon='135.78407769831' />
+  <node id='-118405' action='modify' visible='true' lat='35.06283982775' lon='135.78407806813' />
+  <node id='-118407' action='modify' visible='true' lat='35.06284134127' lon='135.78405684062' />
+  <node id='-118411' action='modify' visible='true' lat='35.06284461047' lon='135.78405758026' />
+  <node id='-118412' action='modify' visible='true' lat='35.06284321803' lon='135.78407843795' />
+  <node id='-118414' action='modify' visible='true' lat='35.06284751642' lon='135.78407880776' />
+  <node id='-118416' action='modify' visible='true' lat='35.06284902994' lon='135.78405802404' />
+  <node id='-118445' action='modify' visible='true' lat='35.06291193167' lon='135.78394678311' />
+  <node id='-118446' action='modify' visible='true' lat='35.0629104787' lon='135.78396838043' />
+  <node id='-118448' action='modify' visible='true' lat='35.06291453492' lon='135.78396875025' />
+  <node id='-118450' action='modify' visible='true' lat='35.06291580628' lon='135.78394730085' />
+  <node id='-118454' action='modify' visible='true' lat='35.06290842031' lon='135.78394604347' />
+  <node id='-118455' action='modify' visible='true' lat='35.06290412192' lon='135.7839453778' />
+  <node id='-118457' action='modify' visible='true' lat='35.06290279003' lon='135.78396764079' />
+  <node id='-118459' action='modify' visible='true' lat='35.0629072095' lon='135.78396793665' />
+  <node id='-118463' action='modify' visible='true' lat='35.0629140506' lon='135.78397629452' />
+  <node id='-118464' action='modify' visible='true' lat='35.06291011545' lon='135.78397599866' />
+  <node id='-118466' action='modify' visible='true' lat='35.06290860193' lon='135.78399744806' />
+  <node id='-118468' action='modify' visible='true' lat='35.06291277924' lon='135.78399781788' />
+  <node id='-118472' action='modify' visible='true' lat='35.06290823869' lon='135.78400447459' />
+  <node id='-118473' action='modify' visible='true' lat='35.06290666463' lon='135.78402607191' />
+  <node id='-118475' action='modify' visible='true' lat='35.06291084194' lon='135.78402636776' />
+  <node id='-118477' action='modify' visible='true' lat='35.06291223438' lon='135.78400469648' />
+  <node id='-118481' action='modify' visible='true' lat='35.06290648301' lon='135.78397503714' />
+  <node id='-118482' action='modify' visible='true' lat='35.062902003' lon='135.78397466732' />
+  <node id='-118484' action='modify' visible='true' lat='35.0629006711' lon='135.78399619068' />
+  <node id='-118486' action='modify' visible='true' lat='35.06290539328' lon='135.78399633861' />
+  <node id='-118490' action='modify' visible='true' lat='35.06290472733' lon='135.78400417873' />
+  <node id='-118491' action='modify' visible='true' lat='35.06290024732' lon='135.78400373495' />
+  <node id='-118493' action='modify' visible='true' lat='35.0628987338' lon='135.78402525831' />
+  <node id='-118495' action='modify' visible='true' lat='35.06290345598' lon='135.78402562813' />
+  <node id='-118499' action='modify' visible='true' lat='35.0628967965' lon='135.78405417801' />
+  <node id='-118500' action='modify' visible='true' lat='35.0629017003' lon='135.78405462179' />
+  <node id='-118502' action='modify' visible='true' lat='35.06290309273' lon='135.78403258069' />
+  <node id='-118504' action='modify' visible='true' lat='35.06289849164' lon='135.78403228484' />
+  <node id='-118508' action='modify' visible='true' lat='35.06290484841' lon='135.78405513954' />
+  <node id='-118509' action='modify' visible='true' lat='35.06290624085' lon='135.78403324636' />
+  <node id='-118511' action='modify' visible='true' lat='35.06291035761' lon='135.78403369014' />
+  <node id='-118513' action='modify' visible='true' lat='35.06290890464' lon='135.78405558332' />
+  <node id='-118517' action='modify' visible='true' lat='35.06290829923' lon='135.78406357137' />
+  <node id='-118518' action='modify' visible='true' lat='35.06290424301' lon='135.78406320155' />
+  <node id='-118520' action='modify' visible='true' lat='35.06290285057' lon='135.7840841332' />
+  <node id='-118522' action='modify' visible='true' lat='35.0629069068' lon='135.78408457698' />
+  <node id='-118526' action='modify' visible='true' lat='35.0629006711' lon='135.7840629057' />
+  <node id='-118527' action='modify' visible='true' lat='35.0628964938' lon='135.78406246192' />
+  <node id='-118529' action='modify' visible='true' lat='35.06289498028' lon='135.78408324564' />
+  <node id='-118531' action='modify' visible='true' lat='35.06289933921' lon='135.78408361546' />
+  <node id='-118535' action='modify' visible='true' lat='35.06296254367' lon='135.78397340994' />
+  <node id='-118536' action='modify' visible='true' lat='35.06296666043' lon='135.78397400165' />
+  <node id='-118538' action='modify' visible='true' lat='35.06296799232' lon='135.78395240433' />
+  <node id='-118540' action='modify' visible='true' lat='35.06296387556' lon='135.78395188658' />
+  <node id='-118544' action='modify' visible='true' lat='35.06297011124' lon='135.78397488921' />
+  <node id='-118545' action='modify' visible='true' lat='35.06297398585' lon='135.78397533299' />
+  <node id='-118547' action='modify' visible='true' lat='35.06297537828' lon='135.78395366171' />
+  <node id='-118549' action='modify' visible='true' lat='35.06297132206' lon='135.78395343982' />
+  <node id='-118553' action='modify' visible='true' lat='35.06296956638' lon='135.78398184177' />
+  <node id='-118554' action='modify' visible='true' lat='35.0629681134' lon='135.78400395684' />
+  <node id='-118556' action='modify' visible='true' lat='35.06297229071' lon='135.78400425269' />
+  <node id='-118558' action='modify' visible='true' lat='35.06297350152' lon='135.78398243348' />
+  <node id='-118562' action='modify' visible='true' lat='35.06296611556' lon='135.78398169385' />
+  <node id='-118563' action='modify' visible='true' lat='35.0629623015' lon='135.78398125007' />
+  <node id='-118565' action='modify' visible='true' lat='35.06296078799' lon='135.7840026255' />
+  <node id='-118567' action='modify' visible='true' lat='35.06296472313' lon='135.78400299532' />
+  <node id='-118571' action='modify' visible='true' lat='35.06296775016' lon='135.7840109094' />
+  <node id='-118572' action='modify' visible='true' lat='35.0629661761' lon='135.78403265465' />
+  <node id='-118574' action='modify' visible='true' lat='35.06297035341' lon='135.78403302447' />
+  <node id='-118576' action='modify' visible='true' lat='35.0629716853' lon='135.78401127922' />
+  <node id='-118580' action='modify' visible='true' lat='35.06296411772' lon='135.78401061355' />
+  <node id='-118581' action='modify' visible='true' lat='35.06296018258' lon='135.7840103177' />
+  <node id='-118583' action='modify' visible='true' lat='35.06295879015' lon='135.78403169313' />
+  <node id='-118585' action='modify' visible='true' lat='35.06296284637' lon='135.78403206295' />
+  <node id='-118589' action='modify' visible='true' lat='35.06296563124' lon='135.78404071667' />
+  <node id='-118590' action='modify' visible='true' lat='35.06296417826' lon='135.78406157436' />
+  <node id='-118592' action='modify' visible='true' lat='35.06296829503' lon='135.78406201814' />
+  <node id='-118594' action='modify' visible='true' lat='35.06296956638' lon='135.78404086459' />
+  <node id='-118598' action='modify' visible='true' lat='35.06296224096' lon='135.784040051' />
+  <node id='-118599' action='modify' visible='true' lat='35.06295830582' lon='135.78403982911' />
+  <node id='-118601' action='modify' visible='true' lat='35.06295685284' lon='135.7840606868' />
+  <node id='-118603' action='modify' visible='true' lat='35.06296072745' lon='135.78406113058' />
+  <node id='-118607' action='modify' visible='true' lat='35.06296369394' lon='135.7840697843' />
+  <node id='-118608' action='modify' visible='true' lat='35.06296236204' lon='135.78409071595' />
+  <node id='-118610' action='modify' visible='true' lat='35.06296623664' lon='135.78409115973' />
+  <node id='-118612' action='modify' visible='true' lat='35.06296744746' lon='135.78407022808' />
+  <node id='-118616' action='modify' visible='true' lat='35.06296012204' lon='135.7840697843' />
+  <node id='-118617' action='modify' visible='true' lat='35.06295612636' lon='135.78406941448' />
+  <node id='-118619' action='modify' visible='true' lat='35.06295479446' lon='135.78408923668' />
+  <node id='-118621' action='modify' visible='true' lat='35.06295897177' lon='135.78408968046' />
+  <node id='-118625' action='modify' visible='true' lat='35.06306352545' lon='135.78404604196' />
+  <node id='-118626' action='modify' visible='true' lat='35.06306437302' lon='135.7840352433' />
+  <node id='-118628' action='modify' visible='true' lat='35.06304657409' lon='135.78403346818' />
+  <node id='-118630' action='modify' visible='true' lat='35.06304257842' lon='135.78409678088' />
+  <node id='-118632' action='modify' visible='true' lat='35.06306025626' lon='135.78409870393' />
+  <node id='-118634' action='modify' visible='true' lat='35.06306098275' lon='135.78408686978' />
+  <node id='-118636' action='modify' visible='true' lat='35.06305274923' lon='135.78408598222' />
+  <node id='-118638' action='modify' visible='true' lat='35.06305541302' lon='135.78404500647' />
+  <node id='-118642' action='modify' visible='true' lat='35.06306437302' lon='135.7840566927' />
+  <node id='-118643' action='modify' visible='true' lat='35.06307248546' lon='135.7840572844' />
+  <node id='-118645' action='modify' visible='true' lat='35.06307103248' lon='135.78407858587' />
+  <node id='-118647' action='modify' visible='true' lat='35.06306267789' lon='135.78407740246' />
+  <node id='-118651' action='modify' visible='true' lat='35.06305601842' lon='135.78411808235' />
+  <node id='-118652' action='modify' visible='true' lat='35.06304766382' lon='135.78411734271' />
+  <node id='-118654' action='modify' visible='true' lat='35.06304475788' lon='135.78415994565' />
+  <node id='-118656' action='modify' visible='true' lat='35.0630535968' lon='135.78416098114' />
+  <node id='-118660' action='modify' visible='true' lat='35.06304027787' lon='135.78422947128' />
+  <node id='-118661' action='modify' visible='true' lat='35.06304899572' lon='135.78423035884' />
+  <node id='-118663' action='modify' visible='true' lat='35.06305153842' lon='135.78418819968' />
+  <node id='-118665' action='modify' visible='true' lat='35.06304282058' lon='135.78418731212' />
+  <node id='-118669' action='modify' visible='true' lat='35.06305868221' lon='135.78422074359' />
+  <node id='-118670' action='modify' visible='true' lat='35.06306740005' lon='135.78422163116' />
+  <node id='-118672' action='modify' visible='true' lat='35.06306848978' lon='135.78420062554' />
+  <node id='-118674' action='modify' visible='true' lat='35.06305977194' lon='135.78420003383' />
+  <node id='-118678' action='modify' visible='true' lat='35.06305589734' lon='135.78425890873' />
+  <node id='-118679' action='modify' visible='true' lat='35.06305444437' lon='135.78428035812' />
+  <node id='-118681' action='modify' visible='true' lat='35.06306316221' lon='135.78428124568' />
+  <node id='-118683' action='modify' visible='true' lat='35.06306485735' lon='135.78425950043' />
+  <node id='-118687' action='modify' visible='true' lat='35.06304790599' lon='135.78424470775' />
+  <node id='-118688' action='modify' visible='true' lat='35.06303943031' lon='135.78424382019' />
+  <node id='-118690' action='modify' visible='true' lat='35.06303664544' lon='135.78428642312' />
+  <node id='-118692' action='modify' visible='true' lat='35.06304536328' lon='135.78428716276' />
+  <node id='-118696' action='modify' visible='true' lat='35.06304415247' lon='135.7843099435' />
+  <node id='-118697' action='modify' visible='true' lat='35.0630426995' lon='135.78433006155' />
+  <node id='-118699' action='modify' visible='true' lat='35.06305141734' lon='135.78433109704' />
+  <node id='-118701' action='modify' visible='true' lat='35.06305287031' lon='135.78431083106' />
+  <node id='-118705' action='modify' visible='true' lat='35.06304245733' lon='135.78433864131' />
+  <node id='-118706' action='modify' visible='true' lat='35.06304088328' lon='135.78435905522' />
+  <node id='-118708' action='modify' visible='true' lat='35.06304960112' lon='135.7843600907' />
+  <node id='-118710' action='modify' visible='true' lat='35.0630510541' lon='135.7843396768' />
+  <node id='-118714' action='modify' visible='true' lat='35.06304027787' lon='135.7843677829' />
+  <node id='-118715' action='modify' visible='true' lat='35.06304863247' lon='135.78436852254' />
+  <node id='-118717' action='modify' visible='true' lat='35.06304754274' lon='135.78438908437' />
+  <node id='-118719' action='modify' visible='true' lat='35.06303894598' lon='135.78438819681' />
+  <node id='-118748' action='modify' visible='true' lat='35.06301133947' lon='135.78441659877' />
+  <node id='-118749' action='modify' visible='true' lat='35.0630104919' lon='135.7844272495' />
+  <node id='-118751' action='modify' visible='true' lat='35.063028533' lon='135.7844288767' />
+  <node id='-118753' action='modify' visible='true' lat='35.06302925949' lon='135.78441807804' />
+  <node id='-118757' action='modify' visible='true' lat='35.06300516433' lon='135.78441630291' />
+  <node id='-118758' action='modify' visible='true' lat='35.06298784971' lon='135.78441437987' />
+  <node id='-118760' action='modify' visible='true' lat='35.0629872443' lon='135.78442473475' />
+  <node id='-118762' action='modify' visible='true' lat='35.06300443784' lon='135.78442636194' />
+  <node id='-118766' action='modify' visible='true' lat='35.06298106916' lon='135.78441364023' />
+  <node id='-118767' action='modify' visible='true' lat='35.06296387562' lon='135.78441171718' />
+  <node id='-118769' action='modify' visible='true' lat='35.06296302805' lon='135.78442251584' />
+  <node id='-118771' action='modify' visible='true' lat='35.06298058484' lon='135.78442429097' />
+  <node id='-118775' action='modify' visible='true' lat='35.06295697399' lon='135.7844112734' />
+  <node id='-118776' action='modify' visible='true' lat='35.06295636858' lon='135.78442162828' />
+  <node id='-118778' action='modify' visible='true' lat='35.06293978044' lon='135.78442014901' />
+  <node id='-118780' action='modify' visible='true' lat='35.06294038585' lon='135.78440979413' />
+  <node id='-118784' action='modify' visible='true' lat='35.06291350579' lon='135.78440624389' />
+  <node id='-118785' action='modify' visible='true' lat='35.0629127793' lon='135.78441778218' />
+  <node id='-118787' action='modify' visible='true' lat='35.06292960961' lon='135.78441940938' />
+  <node id='-118789' action='modify' visible='true' lat='35.0629303361' lon='135.78440831486' />
+  <node id='-118793' action='modify' visible='true' lat='35.0628659208' lon='135.78438612583' />
+  <node id='-118794' action='modify' visible='true' lat='35.06286555756' lon='135.78439189498' />
+  <node id='-118796' action='modify' visible='true' lat='35.06288250896' lon='135.78439352218' />
+  <node id='-118798' action='modify' visible='true' lat='35.06288263004' lon='135.78438804888' />
+  <node id='-118802' action='modify' visible='true' lat='35.06285829267' lon='135.78439219084' />
+  <node id='-118803' action='modify' visible='true' lat='35.06284134127' lon='135.78439041571' />
+  <node id='-118805' action='modify' visible='true' lat='35.06284097802' lon='135.78439603693' />
+  <node id='-118807' action='modify' visible='true' lat='35.06285829267' lon='135.7843975162' />
+  <node id='-118811' action='modify' visible='true' lat='35.06279920491' lon='135.78439411388' />
+  <node id='-118812' action='modify' visible='true' lat='35.06279835734' lon='135.78440535633' />
+  <node id='-118814' action='modify' visible='true' lat='35.06281542983' lon='135.78440653974' />
+  <node id='-118816' action='modify' visible='true' lat='35.06281591416' lon='135.78439603693' />
+  <node id='-118820' action='modify' visible='true' lat='35.06279218218' lon='135.78439337425' />
+  <node id='-118821' action='modify' visible='true' lat='35.06279145569' lon='135.78440417291' />
+  <node id='-118823' action='modify' visible='true' lat='35.06277426211' lon='135.78440284157' />
+  <node id='-118825' action='modify' visible='true' lat='35.06277486752' lon='135.78439219084' />
+  <node id='-118829' action='modify' visible='true' lat='35.06276832911' lon='135.78439115535' />
+  <node id='-118830' action='modify' visible='true' lat='35.06276760262' lon='135.78440269364' />
+  <node id='-118832' action='modify' visible='true' lat='35.06275077228' lon='135.78440062267' />
+  <node id='-118834' action='modify' visible='true' lat='35.06275161985' lon='135.78438952815' />
+  <node id='-118838' action='modify' visible='true' lat='35.0627447182' lon='135.78438878852' />
+  <node id='-118839' action='modify' visible='true' lat='35.06274399171' lon='135.78439988303' />
+  <node id='-118841' action='modify' visible='true' lat='35.0627269192' lon='135.78439810791' />
+  <node id='-118843' action='modify' visible='true' lat='35.06272764569' lon='135.78438701339' />
+  <node id='-118847' action='modify' visible='true' lat='35.06271020994' lon='135.78436541607' />
+  <node id='-118848' action='modify' visible='true' lat='35.06270742506' lon='135.78440964621' />
+  <node id='-118850' action='modify' visible='true' lat='35.06267545949' lon='135.78440713145' />
+  <node id='-118852' action='modify' visible='true' lat='35.06267812329' lon='135.78436290132' />
+  <node id='-118856' action='modify' visible='true' lat='35.06268720442' lon='135.78435328607' />
+  <node id='-118857' action='modify' visible='true' lat='35.06269568014' lon='135.78435417363' />
+  <node id='-118859' action='modify' visible='true' lat='35.06269701204' lon='135.78433346387' />
+  <node id='-118861' action='modify' visible='true' lat='35.0626886574' lon='135.78433257631' />
+  <node id='-118865' action='modify' visible='true' lat='35.06268914173' lon='135.7843242924' />
+  <node id='-118866' action='modify' visible='true' lat='35.06269773853' lon='135.78432547582' />
+  <node id='-118868' action='modify' visible='true' lat='35.06269907042' lon='135.78430506191' />
+  <node id='-118870' action='modify' visible='true' lat='35.06269035254' lon='135.78430417435' />
+  <node id='-118874' action='modify' visible='true' lat='35.06269107903' lon='135.78429589044' />
+  <node id='-118875' action='modify' visible='true' lat='35.06269943367' lon='135.784296778' />
+  <node id='-118877' action='modify' visible='true' lat='35.06270088665' lon='135.78427606824' />
+  <node id='-118879' action='modify' visible='true' lat='35.06269241093' lon='135.78427488483' />
+  <node id='-118883' action='modify' visible='true' lat='35.06269870718' lon='135.78418243053' />
+  <node id='-118884' action='modify' visible='true' lat='35.06270730398' lon='135.78418302224' />
+  <node id='-118886' action='modify' visible='true' lat='35.06270839371' lon='135.7841618687' />
+  <node id='-118888' action='modify' visible='true' lat='35.06270003908' lon='135.78416127699' />
+  <node id='-118892' action='modify' visible='true' lat='35.06270076557' lon='135.78411349661' />
+  <node id='-118893' action='modify' visible='true' lat='35.06269955475' lon='135.78413243125' />
+  <node id='-118895' action='modify' visible='true' lat='35.06270827263' lon='135.78413331881' />
+  <node id='-118897' action='modify' visible='true' lat='35.06270960453' lon='135.78411408832' />
+  <node id='-118901' action='modify' visible='true' lat='35.06272001755' lon='135.78411896991' />
+  <node id='-118902' action='modify' visible='true' lat='35.06271868565' lon='135.7841398276' />
+  <node id='-118904' action='modify' visible='true' lat='35.06272122837' lon='135.78414027138' />
+  <node id='-118906' action='modify' visible='true' lat='35.06272074404' lon='135.78414530089' />
+  <node id='-118908' action='modify' visible='true' lat='35.06272510298' lon='135.78414574467' />
+  <node id='-118910' action='modify' visible='true' lat='35.06272667704' lon='135.78411956162' />
+  <node id='-118914' action='modify' visible='true' lat='35.06272365' lon='135.78416305211' />
+  <node id='-118915' action='modify' visible='true' lat='35.06272207594' lon='135.78418953102' />
+  <node id='-118917' action='modify' visible='true' lat='35.06271832241' lon='135.78418908724' />
+  <node id='-118919' action='modify' visible='true' lat='35.06271880674' lon='135.78418346602' />
+  <node id='-118921' action='modify' visible='true' lat='35.06271602186' lon='135.78418302224' />
+  <node id='-118923' action='modify' visible='true' lat='35.06271747484' lon='135.78416275626' />
+  <node id='-118927' action='modify' visible='true' lat='35.06272134945' lon='135.78409559746' />
+  <node id='-118928' action='modify' visible='true' lat='35.06272413433' lon='135.78409604124' />
+  <node id='-118930' action='modify' visible='true' lat='35.06272389216' lon='135.78410107076' />
+  <node id='-118932' action='modify' visible='true' lat='35.06272764569' lon='135.78410166246' />
+  <node id='-118934' action='modify' visible='true' lat='35.06272934084' lon='135.78407533148' />
+  <node id='-118936' action='modify' visible='true' lat='35.06272256027' lon='135.78407429599' />
+  <node id='-118940' action='modify' visible='true' lat='35.06270827263' lon='135.78409397027' />
+  <node id='-118941' action='modify' visible='true' lat='35.06270960453' lon='135.78407311258' />
+  <node id='-118943' action='modify' visible='true' lat='35.06270137098' lon='135.78407252087' />
+  <node id='-118945' action='modify' visible='true' lat='35.06270003908' lon='135.78409352649' />
+  <node id='-118949' action='modify' visible='true' lat='35.06269548364' lon='135.78404868932' />
+  <node id='-118954' action='modify' visible='true' lat='35.06271626414' lon='135.7840509234' />
+  <node id='-118956' action='modify' visible='true' lat='35.06271699063' lon='135.78403524315' />
+  <node id='-118958' action='modify' visible='true' lat='35.06277850009' lon='135.78404145608' />
+  <node id='-118960' action='modify' visible='true' lat='35.06278649147' lon='135.78390388409' />
+  <node id='-118962' action='modify' visible='true' lat='35.0627751098' lon='135.78390270068' />
+  <node id='-118964' action='modify' visible='true' lat='35.06277656278' lon='135.78388199092' />
+  <node id='-118966' action='modify' visible='true' lat='35.06270914365' lon='135.78387275199' />
+  <node id='-118973' action='modify' visible='true' lat='35.06281434022' lon='135.78388613287' />
+  <node id='-118975' action='modify' visible='true' lat='35.06281627752' lon='135.78384974286' />
+  <node id='-118977' action='modify' visible='true' lat='35.06276736058' lon='135.78384352993' />
+  <node id='-118979' action='modify' visible='true' lat='35.0627647101' lon='135.78388036666' />
+  <node id='-118983' action='modify' visible='true' lat='35.06281850912' lon='135.78381438555' />
+  <node id='-118987' action='modify' visible='true' lat='35.06276905633' lon='135.78380920231' />
+  <node id='-119004' action='modify' visible='true' lat='35.06305081193' lon='135.78391497876' />
+  <node id='-119005' action='modify' visible='true' lat='35.06304802707' lon='135.78395891304' />
+  <node id='-119007' action='modify' visible='true' lat='35.06308084006' lon='135.78396216743' />
+  <node id='-119009' action='modify' visible='true' lat='35.06308350384' lon='135.78391882485' />
+  <node id='-119018' action='modify' visible='true' lat='35.06300536107' lon='135.78383396988' />
+  <node id='-119022' action='modify' visible='true' lat='35.06300141081' lon='135.7839047718' />
+  <node id='-119024' action='modify' visible='true' lat='35.06309187929' lon='135.78391344367' />
+  <node id='-119030' action='modify' visible='true' lat='35.06305200579' lon='135.78390962159' />
+  <node id='-119032' action='modify' visible='true' lat='35.06305641753' lon='135.78383932121' />
+  <node id='-119045' action='modify' visible='true' lat='35.06303095326' lon='135.7839076036' />
+  <node id='-119048' action='modify' visible='true' lat='35.06303535897' lon='135.78383711402' />
+  <node id='-119580' action='modify' visible='true' lat='35.06296242264' lon='135.78417917614' />
+  <node id='-119581' action='modify' visible='true' lat='35.06295600534' lon='135.78427325763' />
+  <node id='-119583' action='modify' visible='true' lat='35.06293929612' lon='135.78427163044' />
+  <node id='-119585' action='modify' visible='true' lat='35.06293990152' lon='135.78426009214' />
+  <node id='-119587' action='modify' visible='true' lat='35.06294813505' lon='135.78426127556' />
+  <node id='-119589' action='modify' visible='true' lat='35.06295358371' lon='135.78417858444' />
+  <node id='-119593' action='modify' visible='true' lat='35.06294510802' lon='135.78417740102' />
+  <node id='-119594' action='modify' visible='true' lat='35.06294438153' lon='135.78418849554' />
+  <node id='-119596' action='modify' visible='true' lat='35.06293566368' lon='135.78418790383' />
+  <node id='-119598' action='modify' visible='true' lat='35.06293021502' lon='135.78427103873' />
+  <node id='-119600' action='modify' visible='true' lat='35.06292161824' lon='135.78427015117' />
+  <node id='-119602' action='modify' visible='true' lat='35.06292815663' lon='135.7841756259' />
+  <node id='-119606' action='modify' visible='true' lat='35.06293820638' lon='135.78421423481' />
+  <node id='-119607' action='modify' visible='true' lat='35.06293687449' lon='135.78423479665' />
+  <node id='-119609' action='modify' visible='true' lat='35.0629452291' lon='135.78423568421' />
+  <node id='-119611' action='modify' visible='true' lat='35.06294668208' lon='135.78421512237' />
+  <node id='-120638' action='modify' visible='true' lat='35.06266685635' lon='135.78441740124' />
+  <node id='-120643' action='modify' visible='true' lat='35.06305355986' lon='135.78445268885' />
+  <node id='-120649' action='modify' visible='true' lat='35.06301798074' lon='135.78444944216' />
+  <node id='-120651' action='modify' visible='true' lat='35.06301328796' lon='135.78451606478' />
+  <node id='-120660' action='modify' visible='true' lat='35.06297200929' lon='135.78444524715' />
+  <node id='-120663' action='modify' visible='true' lat='35.06296737361' lon='135.78451116459' />
+  <node id='-120679' action='modify' visible='true' lat='35.06287269783' lon='135.78443618474' />
+  <node id='-120682' action='modify' visible='true' lat='35.06287124851' lon='135.78445565131' />
+  <node id='-120684' action='modify' visible='true' lat='35.06291968106' lon='135.78446097668' />
+  <node id='-120686' action='modify' visible='true' lat='35.06291968106' lon='135.78445624302' />
+  <node id='-120688' action='modify' visible='true' lat='35.06297080069' lon='135.78446243298' />
+  <node id='-120702' action='modify' visible='true' lat='35.06289502759' lon='135.78445826593' />
+  <node id='-120705' action='modify' visible='true' lat='35.06289193858' lon='135.78450311382' />
+  <node id='-120724' action='modify' visible='true' lat='35.06285136183' lon='135.78443423778' />
+  <node id='-120727' action='modify' visible='true' lat='35.06284768547' lon='135.78449839093' />
+  <node id='-120746' action='modify' visible='true' lat='35.06283876727' lon='135.7844330885' />
+  <node id='-120749' action='modify' visible='true' lat='35.06283434141' lon='135.7844969668' />
+  <node id='-120755' action='modify' visible='true' lat='35.06281498913' lon='135.78449490144' />
+  <node id='-120761' action='modify' visible='true' lat='35.06281821483' lon='135.78444914253' />
+  <node id='-120763' action='modify' visible='true' lat='35.06276954005' lon='135.78444411302' />
+  <node id='-120765' action='modify' visible='true' lat='35.06277077321' lon='135.78442688388' />
+  <node id='-120777' action='modify' visible='true' lat='35.06276630508' lon='135.78448970566' />
+  <node id='-120794' action='modify' visible='true' lat='35.06272687906' lon='135.78442287845' />
+  <node id='-120797' action='modify' visible='true' lat='35.06272195854' lon='135.78448497281' />
+  <way id='-118121' action='modify' visible='true'>
     <nd ref='-109312' />
     <nd ref='-109315' />
     <nd ref='-109319' />
@@ -498,7 +817,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113831' action='modify' visible='true'>
+  <way id='-118122' action='modify' visible='true'>
     <nd ref='-109425' />
     <nd ref='-112279' />
     <nd ref='-111806' />
@@ -631,7 +950,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113832' action='modify' visible='true'>
+  <way id='-118123' action='modify' visible='true'>
     <nd ref='-112002' />
     <nd ref='-112004' />
     <nd ref='-112014' />
@@ -641,7 +960,7 @@
     <nd ref='-112017' />
     <nd ref='-112002' />
   </way>
-  <way id='-113833' action='modify' visible='true'>
+  <way id='-118124' action='modify' visible='true'>
     <nd ref='-112004' />
     <nd ref='-112014' />
     <nd ref='-112017' />
@@ -650,7 +969,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113834' action='modify' visible='true'>
+  <way id='-118125' action='modify' visible='true'>
     <nd ref='-112014' />
     <nd ref='-112007' />
     <nd ref='-112009' />
@@ -659,7 +978,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113835' action='modify' visible='true'>
+  <way id='-118126' action='modify' visible='true'>
     <nd ref='-109312' />
     <nd ref='-109403' />
     <nd ref='-109401' />
@@ -697,7 +1016,7 @@
     <nd ref='-112081' />
     <nd ref='-112083' />
   </way>
-  <way id='-113836' action='modify' visible='true'>
+  <way id='-118127' action='modify' visible='true'>
     <nd ref='-109315' />
     <nd ref='-109312' />
     <nd ref='-109403' />
@@ -727,7 +1046,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Event Hall (EH)' />
   </way>
-  <way id='-113837' action='modify' visible='true'>
+  <way id='-118128' action='modify' visible='true'>
     <nd ref='-112131' />
     <nd ref='-112144' />
     <nd ref='-112133' />
@@ -738,7 +1057,7 @@
     <nd ref='-109433' />
     <nd ref='-112131' />
   </way>
-  <way id='-113838' action='modify' visible='true'>
+  <way id='-118129' action='modify' visible='true'>
     <nd ref='-112131' />
     <nd ref='-112144' />
     <nd ref='-112137' />
@@ -749,7 +1068,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113839' action='modify' visible='true'>
+  <way id='-118130' action='modify' visible='true'>
     <nd ref='-112137' />
     <nd ref='-112135' />
     <nd ref='-112133' />
@@ -758,7 +1077,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113840' action='modify' visible='true'>
+  <way id='-118131' action='modify' visible='true'>
     <nd ref='-112282' />
     <nd ref='-112284' />
     <nd ref='-112286' />
@@ -768,8 +1087,21 @@
     <nd ref='-112294' />
     <nd ref='-112296' />
     <nd ref='-112298' />
+    <nd ref='-118966' />
+    <nd ref='-118949' />
+    <nd ref='-120638' />
     <nd ref='-112300' />
+    <nd ref='-120797' />
+    <nd ref='-120777' />
+    <nd ref='-120755' />
+    <nd ref='-120749' />
+    <nd ref='-120727' />
+    <nd ref='-120705' />
+    <nd ref='-120663' />
+    <nd ref='-120651' />
     <nd ref='-112302' />
+    <nd ref='-120643' />
+    <nd ref='-119024' />
     <nd ref='-112304' />
     <nd ref='-112306' />
     <nd ref='-112308' />
@@ -786,7 +1118,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113841' action='modify' visible='true'>
+  <way id='-118132' action='modify' visible='true'>
     <nd ref='-112323' />
     <nd ref='-112325' />
     <nd ref='-112332' />
@@ -795,7 +1127,7 @@
     <nd ref='-112334' />
     <nd ref='-112323' />
   </way>
-  <way id='-113842' action='modify' visible='true'>
+  <way id='-118133' action='modify' visible='true'>
     <nd ref='-112332' />
     <nd ref='-112334' />
     <nd ref='-112323' />
@@ -804,7 +1136,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113843' action='modify' visible='true'>
+  <way id='-118134' action='modify' visible='true'>
     <nd ref='-112334' />
     <nd ref='-112329' />
     <nd ref='-112327' />
@@ -813,18 +1145,36 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113844' action='modify' visible='true'>
+  <way id='-118135' action='modify' visible='true'>
     <nd ref='-112296' />
+    <nd ref='-118987' />
+    <nd ref='-118983' />
+    <nd ref='-119018' />
+    <nd ref='-119048' />
+    <nd ref='-119032' />
     <nd ref='-112306' />
     <nd ref='-112304' />
+    <nd ref='-119024' />
+    <nd ref='-120643' />
     <nd ref='-112302' />
+    <nd ref='-120651' />
+    <nd ref='-120663' />
+    <nd ref='-120705' />
+    <nd ref='-120727' />
+    <nd ref='-120749' />
+    <nd ref='-120755' />
+    <nd ref='-120777' />
+    <nd ref='-120797' />
     <nd ref='-112300' />
+    <nd ref='-120638' />
+    <nd ref='-118949' />
+    <nd ref='-118966' />
     <nd ref='-112298' />
     <nd ref='-112296' />
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113845' action='modify' visible='true'>
+  <way id='-118136' action='modify' visible='true'>
     <nd ref='-112375' />
     <nd ref='-112316' />
     <nd ref='-112318' />
@@ -833,7 +1183,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113846' action='modify' visible='true'>
+  <way id='-118137' action='modify' visible='true'>
     <nd ref='-112391' />
     <nd ref='-112393' />
     <nd ref='-112396' />
@@ -842,7 +1192,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113847' action='modify' visible='true'>
+  <way id='-118138' action='modify' visible='true'>
     <nd ref='-112312' />
     <nd ref='-112410' />
     <nd ref='-112412' />
@@ -852,7 +1202,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113848' action='modify' visible='true'>
+  <way id='-118139' action='modify' visible='true'>
     <nd ref='-112055' />
     <nd ref='-112059' />
     <nd ref='-109367' />
@@ -863,7 +1213,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113849' action='modify' visible='true'>
+  <way id='-118140' action='modify' visible='true'>
     <nd ref='-112500' />
     <nd ref='-112077' />
     <nd ref='-112079' />
@@ -873,7 +1223,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113850' action='modify' visible='true'>
+  <way id='-118141' action='modify' visible='true'>
     <nd ref='-112518' />
     <nd ref='-109341' />
     <nd ref='-109339' />
@@ -884,7 +1234,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113851' action='modify' visible='true'>
+  <way id='-118142' action='modify' visible='true'>
     <nd ref='-112077' />
     <nd ref='-112528' />
     <nd ref='-112524' />
@@ -893,7 +1243,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113852' action='modify' visible='true'>
+  <way id='-118143' action='modify' visible='true'>
     <nd ref='-112518' />
     <nd ref='-112075' />
     <nd ref='-112073' />
@@ -905,7 +1255,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113853' action='modify' visible='true'>
+  <way id='-118144' action='modify' visible='true'>
     <nd ref='-112066' />
     <nd ref='-109359' />
     <nd ref='-109357' />
@@ -916,7 +1266,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113854' action='modify' visible='true'>
+  <way id='-118145' action='modify' visible='true'>
     <nd ref='-112591' />
     <nd ref='-112650' />
     <nd ref='-112593' />
@@ -946,7 +1296,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room D' />
   </way>
-  <way id='-113855' action='modify' visible='true'>
+  <way id='-118146' action='modify' visible='true'>
     <nd ref='-111821' />
     <nd ref='-111823' />
     <nd ref='-112617' />
@@ -965,7 +1315,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room E' />
   </way>
-  <way id='-113856' action='modify' visible='true'>
+  <way id='-118147' action='modify' visible='true'>
     <nd ref='-111831' />
     <nd ref='-112687' />
     <nd ref='-117710' />
@@ -987,7 +1337,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Banquet Hall Sakura' />
   </way>
-  <way id='-113857' action='modify' visible='true'>
+  <way id='-118148' action='modify' visible='true'>
     <nd ref='-112770' />
     <nd ref='-112773' />
     <nd ref='-112775' />
@@ -1016,7 +1366,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Main Hall (MH)' />
   </way>
-  <way id='-113858' action='modify' visible='true'>
+  <way id='-118149' action='modify' visible='true'>
     <nd ref='-112781' />
     <nd ref='-112828' />
     <nd ref='-113301' />
@@ -1026,7 +1376,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113859' action='modify' visible='true'>
+  <way id='-118150' action='modify' visible='true'>
     <nd ref='-112773' />
     <nd ref='-112775' />
     <nd ref='-112849' />
@@ -1037,7 +1387,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113860' action='modify' visible='true'>
+  <way id='-118151' action='modify' visible='true'>
     <nd ref='-111859' />
     <nd ref='-112795' />
     <nd ref='-112797' />
@@ -1046,7 +1396,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113861' action='modify' visible='true'>
+  <way id='-118152' action='modify' visible='true'>
     <nd ref='-112783' />
     <nd ref='-112887' />
     <nd ref='-111873' />
@@ -1055,13 +1405,13 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113862' action='modify' visible='true'>
+  <way id='-118153' action='modify' visible='true'>
     <nd ref='-112908' />
     <nd ref='-113072' />
     <nd ref='-112916' />
     <nd ref='-112912' />
   </way>
-  <way id='-113863' action='modify' visible='true'>
+  <way id='-118154' action='modify' visible='true'>
     <nd ref='-112916' />
     <nd ref='-112954' />
     <nd ref='-112918' />
@@ -1073,7 +1423,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room 157' />
   </way>
-  <way id='-113864' action='modify' visible='true'>
+  <way id='-118155' action='modify' visible='true'>
     <nd ref='-112954' />
     <nd ref='-112998' />
     <nd ref='-113075' />
@@ -1081,7 +1431,7 @@
     <nd ref='-112957' />
     <nd ref='-112959' />
   </way>
-  <way id='-113865' action='modify' visible='true'>
+  <way id='-118156' action='modify' visible='true'>
     <nd ref='-112963' />
     <nd ref='-112966' />
     <nd ref='-112957' />
@@ -1092,7 +1442,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room 160' />
   </way>
-  <way id='-113866' action='modify' visible='true'>
+  <way id='-118157' action='modify' visible='true'>
     <nd ref='-112998' />
     <nd ref='-113001' />
     <nd ref='-112963' />
@@ -1104,7 +1454,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room 159' />
   </way>
-  <way id='-113867' action='modify' visible='true'>
+  <way id='-118158' action='modify' visible='true'>
     <nd ref='-112998' />
     <nd ref='-112954' />
     <nd ref='-112918' />
@@ -1115,7 +1465,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room 158' />
   </way>
-  <way id='-113868' action='modify' visible='true'>
+  <way id='-118159' action='modify' visible='true'>
     <nd ref='-113072' />
     <nd ref='-113075' />
     <nd ref='-112998' />
@@ -1127,7 +1477,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room 161' />
   </way>
-  <way id='-113869' action='modify' visible='true'>
+  <way id='-118160' action='modify' visible='true'>
     <nd ref='-113113' />
     <nd ref='-113117' />
     <nd ref='-113130' />
@@ -1135,7 +1485,7 @@
     <nd ref='-113119' />
     <nd ref='-113121' />
   </way>
-  <way id='-113870' action='modify' visible='true'>
+  <way id='-118161' action='modify' visible='true'>
     <nd ref='-113125' />
     <nd ref='-113113' />
     <nd ref='-113117' />
@@ -1144,7 +1494,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113871' action='modify' visible='true'>
+  <way id='-118162' action='modify' visible='true'>
     <nd ref='-113130' />
     <nd ref='-113149' />
     <nd ref='-113152' />
@@ -1153,7 +1503,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113872' action='modify' visible='true'>
+  <way id='-118163' action='modify' visible='true'>
     <nd ref='-113149' />
     <nd ref='-113119' />
     <nd ref='-113121' />
@@ -1162,7 +1512,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113873' action='modify' visible='true'>
+  <way id='-118164' action='modify' visible='true'>
     <nd ref='-113191' />
     <nd ref='-113194' />
     <nd ref='-113196' />
@@ -1184,7 +1534,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Lounge' />
   </way>
-  <way id='-113874' action='modify' visible='true'>
+  <way id='-118165' action='modify' visible='true'>
     <nd ref='-113191' />
     <nd ref='-111879' />
     <nd ref='-113301' />
@@ -1209,11 +1559,11 @@
     <tag k='level' v='1' />
     <tag k='name' v='Main Lounge' />
   </way>
-  <way id='-113875' action='modify' visible='true'>
+  <way id='-118166' action='modify' visible='true'>
     <nd ref='-113397' />
     <nd ref='-113411' />
     <nd ref='-113400' />
-    <nd ref='-117530' />
+    <nd ref='-117531' />
     <nd ref='-113402' />
     <nd ref='-113413' />
     <nd ref='-111895' />
@@ -1221,7 +1571,7 @@
     <nd ref='-111883' />
     <nd ref='-113397' />
   </way>
-  <way id='-113876' action='modify' visible='true'>
+  <way id='-118167' action='modify' visible='true'>
     <nd ref='-113411' />
     <nd ref='-113413' />
     <nd ref='-111895' />
@@ -1234,19 +1584,19 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room C-2' />
   </way>
-  <way id='-113877' action='modify' visible='true'>
+  <way id='-118168' action='modify' visible='true'>
     <nd ref='-113402' />
     <nd ref='-113413' />
     <nd ref='-113411' />
     <nd ref='-113400' />
-    <nd ref='-117530' />
+    <nd ref='-117531' />
     <nd ref='-113402' />
     <tag k='building' v='yes' />
     <tag k='id' v='Room C-1' />
     <tag k='level' v='1' />
     <tag k='name' v='Room C-1' />
   </way>
-  <way id='-113878' action='modify' visible='true'>
+  <way id='-118169' action='modify' visible='true'>
     <nd ref='-111895' />
     <nd ref='-111885' />
     <nd ref='-111887' />
@@ -1259,13 +1609,13 @@
     <tag k='level' v='1' />
     <tag k='name' v='Banquet Hall Swan' />
   </way>
-  <way id='-113879' action='modify' visible='true'>
+  <way id='-118170' action='modify' visible='true'>
     <nd ref='-113516' />
     <nd ref='-113526' />
     <nd ref='-113520' />
     <nd ref='-113522' />
   </way>
-  <way id='-113880' action='modify' visible='true'>
+  <way id='-118171' action='modify' visible='true'>
     <nd ref='-113526' />
     <nd ref='-113528' />
     <nd ref='-111967' />
@@ -1276,7 +1626,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room 104 A' />
   </way>
-  <way id='-113881' action='modify' visible='true'>
+  <way id='-118172' action='modify' visible='true'>
     <nd ref='-113526' />
     <nd ref='-113520' />
     <nd ref='-113522' />
@@ -1287,7 +1637,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room 104 B' />
   </way>
-  <way id='-113882' action='modify' visible='true'>
+  <way id='-118173' action='modify' visible='true'>
     <nd ref='-113595' />
     <nd ref='-113635' />
     <nd ref='-113623' />
@@ -1299,7 +1649,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-113883' action='modify' visible='true'>
+  <way id='-118174' action='modify' visible='true'>
     <nd ref='-113623' />
     <nd ref='-113626' />
     <nd ref='-113632' />
@@ -1307,7 +1657,7 @@
     <nd ref='-113628' />
     <nd ref='-113632' />
   </way>
-  <way id='-113884' action='modify' visible='true'>
+  <way id='-118175' action='modify' visible='true'>
     <nd ref='-113635' />
     <nd ref='-113623' />
     <nd ref='-113626' />
@@ -1318,7 +1668,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room 103 B' />
   </way>
-  <way id='-113885' action='modify' visible='true'>
+  <way id='-118176' action='modify' visible='true'>
     <nd ref='-113628' />
     <nd ref='-113595' />
     <nd ref='-113635' />
@@ -1330,7 +1680,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room 103 A' />
   </way>
-  <way id='-113886' action='modify' visible='true'>
+  <way id='-118177' action='modify' visible='true'>
     <nd ref='-113701' />
     <nd ref='-113705' />
     <nd ref='-113707' />
@@ -1341,7 +1691,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room 102' />
   </way>
-  <way id='-113887' action='modify' visible='true'>
+  <way id='-118178' action='modify' visible='true'>
     <nd ref='-113741' />
     <nd ref='-113705' />
     <nd ref='-113707' />
@@ -1353,7 +1703,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room 101' />
   </way>
-  <way id='-113888' action='modify' visible='true'>
+  <way id='-118179' action='modify' visible='true'>
     <nd ref='-111993' />
     <nd ref='-113778' />
     <nd ref='-113780' />
@@ -1362,7 +1712,7 @@
     <nd ref='-113786' />
     <nd ref='-113782' />
   </way>
-  <way id='-113889' action='modify' visible='true'>
+  <way id='-118180' action='modify' visible='true'>
     <nd ref='-111989' />
     <nd ref='-113786' />
     <nd ref='-113789' />
@@ -1374,7 +1724,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room F' />
   </way>
-  <way id='-113890' action='modify' visible='true'>
+  <way id='-118181' action='modify' visible='true'>
     <nd ref='-113826' />
     <nd ref='-113829' />
     <nd ref='-113792' />
@@ -1385,7 +1735,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room G' />
   </way>
-  <way id='-113891' action='modify' visible='true'>
+  <way id='-118182' action='modify' visible='true'>
     <nd ref='-113826' />
     <nd ref='-113780' />
     <nd ref='-113778' />
@@ -1397,11 +1747,11 @@
     <tag k='level' v='1' />
     <tag k='name' v='Room H' />
   </way>
-  <way id='-117144' action='modify' visible='true'>
+  <way id='-118183' action='modify' visible='true'>
     <nd ref='-117142' />
     <nd ref='-117318' />
-    <nd ref='-117145' />
-    <nd ref='-117143' />
+    <nd ref='-117146' />
+    <nd ref='-117144' />
     <nd ref='-118029' />
     <nd ref='-118031' />
     <nd ref='-118033' />
@@ -1417,30 +1767,30 @@
     <tag k='level' v='1' />
     <tag k='name' v='Reception' />
   </way>
-  <way id='-117148' action='modify' visible='true'>
-    <nd ref='-117145' />
+  <way id='-118184' action='modify' visible='true'>
+    <nd ref='-117146' />
     <nd ref='-117219' />
     <nd ref='-117161' />
-    <nd ref='-117147' />
+    <nd ref='-117148' />
     <nd ref='-117181' />
     <nd ref='-117185' />
     <nd ref='-117408' />
     <nd ref='-117439' />
-    <nd ref='-117149' />
+    <nd ref='-117150' />
     <nd ref='-118047' />
     <nd ref='-117313' />
     <nd ref='-117142' />
     <nd ref='-117318' />
-    <nd ref='-117145' />
+    <nd ref='-117146' />
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117162' action='modify' visible='true'>
+  <way id='-118185' action='modify' visible='true'>
     <nd ref='-117159' />
     <nd ref='-117167' />
     <nd ref='-117161' />
   </way>
-  <way id='-117166' action='modify' visible='true'>
+  <way id='-118186' action='modify' visible='true'>
     <nd ref='-117165' />
     <nd ref='-117159' />
     <nd ref='-117167' />
@@ -1449,7 +1799,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117182' action='modify' visible='true'>
+  <way id='-118187' action='modify' visible='true'>
     <nd ref='-117167' />
     <nd ref='-117181' />
     <nd ref='-117185' />
@@ -1458,20 +1808,20 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117200' action='modify' visible='true'>
+  <way id='-118188' action='modify' visible='true'>
     <nd ref='-117167' />
     <nd ref='-117161' />
-    <nd ref='-117147' />
+    <nd ref='-117148' />
     <nd ref='-117181' />
     <nd ref='-117167' />
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117212' action='modify' visible='true'>
+  <way id='-118189' action='modify' visible='true'>
     <nd ref='-117167' />
     <nd ref='-117161' />
   </way>
-  <way id='-117220' action='modify' visible='true'>
+  <way id='-118190' action='modify' visible='true'>
     <nd ref='-117161' />
     <nd ref='-117219' />
     <nd ref='-117170' />
@@ -1480,7 +1830,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117238' action='modify' visible='true'>
+  <way id='-118191' action='modify' visible='true'>
     <nd ref='-117235' />
     <nd ref='-117281' />
     <nd ref='-117267' />
@@ -1496,7 +1846,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117260' action='modify' visible='true'>
+  <way id='-118192' action='modify' visible='true'>
     <nd ref='-117256' />
     <nd ref='-117259' />
     <nd ref='-117263' />
@@ -1505,7 +1855,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117285' action='modify' visible='true'>
+  <way id='-118193' action='modify' visible='true'>
     <nd ref='-117281' />
     <nd ref='-117267' />
     <nd ref='-117263' />
@@ -1514,7 +1864,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117300' action='modify' visible='true'>
+  <way id='-118194' action='modify' visible='true'>
     <nd ref='-117287' />
     <nd ref='-117241' />
     <nd ref='-117414' />
@@ -1524,7 +1874,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117317' action='modify' visible='true'>
+  <way id='-118195' action='modify' visible='true'>
     <nd ref='-117313' />
     <nd ref='-117316' />
     <nd ref='-117318' />
@@ -1533,7 +1883,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117336' action='modify' visible='true'>
+  <way id='-118196' action='modify' visible='true'>
     <nd ref='-117333' />
     <nd ref='-117335' />
     <nd ref='-117337' />
@@ -1546,7 +1896,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Gift Shop' />
   </way>
-  <way id='-117357' action='modify' visible='true'>
+  <way id='-118197' action='modify' visible='true'>
     <nd ref='-117333' />
     <nd ref='-117356' />
     <nd ref='-117358' />
@@ -1557,7 +1907,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Business Center' />
   </way>
-  <way id='-117406' action='modify' visible='true'>
+  <way id='-118198' action='modify' visible='true'>
     <nd ref='-117165' />
     <nd ref='-117159' />
     <nd ref='-117185' />
@@ -1575,12 +1925,12 @@
     <nd ref='-117287' />
     <nd ref='-117241' />
     <nd ref='-117439' />
-    <nd ref='-117149' />
+    <nd ref='-117150' />
     <nd ref='-118047' />
     <nd ref='-117313' />
     <nd ref='-117316' />
     <nd ref='-117318' />
-    <nd ref='-117145' />
+    <nd ref='-117146' />
     <nd ref='-117219' />
     <nd ref='-117170' />
     <nd ref='-117165' />
@@ -1589,7 +1939,7 @@
     <tag k='level' v='1' />
     <tag k='name' v='Restaurant The Grill' />
   </way>
-  <way id='-117482' action='modify' visible='true'>
+  <way id='-118199' action='modify' visible='true'>
     <nd ref='-117343' />
     <nd ref='-117481' />
     <nd ref='-117483' />
@@ -1599,13 +1949,13 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117502' action='modify' visible='true'>
+  <way id='-118200' action='modify' visible='true'>
     <nd ref='-111969' />
     <nd ref='-117503' />
     <nd ref='-117481' />
     <nd ref='-117503' />
   </way>
-  <way id='-117506' action='modify' visible='true'>
+  <way id='-118201' action='modify' visible='true'>
     <nd ref='-117483' />
     <nd ref='-117505' />
     <nd ref='-117503' />
@@ -1614,26 +1964,26 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117531' action='modify' visible='true'>
+  <way id='-118202' action='modify' visible='true'>
     <nd ref='-117529' />
     <nd ref='-117535' />
     <nd ref='-117583' />
-    <nd ref='-117530' />
+    <nd ref='-117531' />
   </way>
-  <way id='-117537' action='modify' visible='true'>
+  <way id='-118203' action='modify' visible='true'>
     <nd ref='-117535' />
     <nd ref='-117557' />
     <nd ref='-111901' />
     <nd ref='-111899' />
     <nd ref='-111897' />
     <nd ref='-113402' />
-    <nd ref='-117530' />
+    <nd ref='-117531' />
     <nd ref='-117583' />
     <nd ref='-117535' />
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117561' action='modify' visible='true'>
+  <way id='-118204' action='modify' visible='true'>
     <nd ref='-117557' />
     <nd ref='-117560' />
     <nd ref='-113603' />
@@ -1643,7 +1993,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117589' action='modify' visible='true'>
+  <way id='-118205' action='modify' visible='true'>
     <nd ref='-117583' />
     <nd ref='-117588' />
     <nd ref='-117590' />
@@ -1655,7 +2005,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117615' action='modify' visible='true'>
+  <way id='-118206' action='modify' visible='true'>
     <nd ref='-113202' />
     <nd ref='-117614' />
     <nd ref='-117616' />
@@ -1664,7 +2014,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117641' action='modify' visible='true'>
+  <way id='-118207' action='modify' visible='true'>
     <nd ref='-117638' />
     <nd ref='-117640' />
     <nd ref='-117642' />
@@ -1679,7 +2029,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117703' action='modify' visible='true'>
+  <way id='-118208' action='modify' visible='true'>
     <nd ref='-117699' />
     <nd ref='-117720' />
     <nd ref='-117702' />
@@ -1690,11 +2040,11 @@
     <nd ref='-117743' />
     <nd ref='-117710' />
   </way>
-  <way id='-117715' action='modify' visible='true'>
+  <way id='-118209' action='modify' visible='true'>
     <nd ref='-117708' />
     <nd ref='-117714' />
   </way>
-  <way id='-117721' action='modify' visible='true'>
+  <way id='-118210' action='modify' visible='true'>
     <nd ref='-117718' />
     <nd ref='-117720' />
     <nd ref='-117702' />
@@ -1705,7 +2055,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117744' action='modify' visible='true'>
+  <way id='-118211' action='modify' visible='true'>
     <nd ref='-117718' />
     <nd ref='-117743' />
     <nd ref='-112611' />
@@ -1715,56 +2065,56 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117805' action='modify' visible='true'>
+  <way id='-118212' action='modify' visible='true'>
     <nd ref='-117803' />
     <nd ref='-117836' />
-    <nd ref='-117804' />
-    <nd ref='-117806' />
+    <nd ref='-117805' />
+    <nd ref='-117807' />
     <nd ref='-117839' />
     <nd ref='-117817' />
-    <nd ref='-117808' />
+    <nd ref='-117809' />
     <nd ref='-117803' />
   </way>
-  <way id='-117812' action='modify' visible='true'>
-    <nd ref='-117808' />
+  <way id='-118213' action='modify' visible='true'>
+    <nd ref='-117809' />
     <nd ref='-117811' />
     <nd ref='-117813' />
     <nd ref='-117815' />
     <nd ref='-117817' />
-    <nd ref='-117808' />
+    <nd ref='-117809' />
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117840' action='modify' visible='true'>
+  <way id='-118214' action='modify' visible='true'>
     <nd ref='-117836' />
     <nd ref='-117839' />
-    <nd ref='-117808' />
+    <nd ref='-117809' />
     <nd ref='-117803' />
     <nd ref='-117836' />
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117859' action='modify' visible='true'>
+  <way id='-118215' action='modify' visible='true'>
     <nd ref='-117839' />
-    <nd ref='-117806' />
-    <nd ref='-117804' />
+    <nd ref='-117807' />
+    <nd ref='-117805' />
     <nd ref='-117836' />
     <nd ref='-117839' />
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-117895' action='modify' visible='true'>
+  <way id='-118216' action='modify' visible='true'>
     <nd ref='-117893' />
-    <nd ref='-117894' />
-    <nd ref='-117896' />
-    <nd ref='-117898' />
+    <nd ref='-117895' />
+    <nd ref='-117897' />
+    <nd ref='-117899' />
     <nd ref='-117893' />
     <tag k='building' v='yes' />
     <tag k='id' v='Annex Hall' />
     <tag k='level' v='1' />
     <tag k='name' v='Annex Hall' />
   </way>
-  <way id='-117930' action='modify' visible='true'>
+  <way id='-118217' action='modify' visible='true'>
     <nd ref='-111945' />
     <nd ref='-117929' />
     <nd ref='-117937' />
@@ -1772,7 +2122,7 @@
     <nd ref='-117973' />
     <nd ref='-111941' />
   </way>
-  <way id='-117938' action='modify' visible='true'>
+  <way id='-118218' action='modify' visible='true'>
     <nd ref='-117934' />
     <nd ref='-117970' />
     <nd ref='-117937' />
@@ -1784,14 +2134,14 @@
     <tag k='level' v='1' />
     <tag k='name' v='Office' />
   </way>
-  <way id='-117974' action='modify' visible='true'>
+  <way id='-118219' action='modify' visible='true'>
     <nd ref='-117970' />
     <nd ref='-117981' />
     <nd ref='-117973' />
     <nd ref='-111941' />
     <nd ref='-111943' />
   </way>
-  <way id='-117982' action='modify' visible='true'>
+  <way id='-118220' action='modify' visible='true'>
     <nd ref='-117978' />
     <nd ref='-117981' />
     <nd ref='-117970' />
@@ -1800,7 +2150,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-118003' action='modify' visible='true'>
+  <way id='-118221' action='modify' visible='true'>
     <nd ref='-117978' />
     <nd ref='-111943' />
     <nd ref='-111941' />
@@ -1810,7 +2160,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
   </way>
-  <way id='-118116' action='modify' visible='true'>
+  <way id='-118222' action='modify' visible='true'>
     <nd ref='-118115' />
     <nd ref='-111971' />
     <nd ref='-111973' />
@@ -1820,5 +2170,795 @@
     <nd ref='-118115' />
     <tag k='building' v='yes' />
     <tag k='level' v='1' />
+  </way>
+  <way id='-118332' action='modify' visible='true'>
+    <nd ref='-118330' />
+    <nd ref='-118331' />
+    <nd ref='-118333' />
+    <nd ref='-118335' />
+    <nd ref='-118330' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-13' />
+    <tag k='name' v='PhD-13' />
+  </way>
+  <way id='-118341' action='modify' visible='true'>
+    <nd ref='-118339' />
+    <nd ref='-118340' />
+    <nd ref='-118342' />
+    <nd ref='-118344' />
+    <nd ref='-118339' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-12' />
+    <tag k='name' v='PhD-12' />
+  </way>
+  <way id='-118350' action='modify' visible='true'>
+    <nd ref='-118348' />
+    <nd ref='-118349' />
+    <nd ref='-118351' />
+    <nd ref='-118353' />
+    <nd ref='-118348' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-11' />
+    <tag k='name' v='PhD-11' />
+  </way>
+  <way id='-118359' action='modify' visible='true'>
+    <nd ref='-118357' />
+    <nd ref='-118358' />
+    <nd ref='-118360' />
+    <nd ref='-118362' />
+    <nd ref='-118357' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-14' />
+    <tag k='name' v='PhD-14' />
+  </way>
+  <way id='-118368' action='modify' visible='true'>
+    <nd ref='-118366' />
+    <nd ref='-118367' />
+    <nd ref='-118369' />
+    <nd ref='-118371' />
+    <nd ref='-118366' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-10' />
+    <tag k='name' v='PhD-10' />
+  </way>
+  <way id='-118377' action='modify' visible='true'>
+    <nd ref='-118375' />
+    <nd ref='-118376' />
+    <nd ref='-118378' />
+    <nd ref='-118380' />
+    <nd ref='-118375' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-15' />
+    <tag k='name' v='PhD-15' />
+  </way>
+  <way id='-118386' action='modify' visible='true'>
+    <nd ref='-118384' />
+    <nd ref='-118385' />
+    <nd ref='-118387' />
+    <nd ref='-118389' />
+    <nd ref='-118384' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-09' />
+    <tag k='name' v='PhD-09' />
+  </way>
+  <way id='-118395' action='modify' visible='true'>
+    <nd ref='-118393' />
+    <nd ref='-118394' />
+    <nd ref='-118396' />
+    <nd ref='-118398' />
+    <nd ref='-118393' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-16' />
+    <tag k='name' v='PhD-16' />
+  </way>
+  <way id='-118404' action='modify' visible='true'>
+    <nd ref='-118402' />
+    <nd ref='-118403' />
+    <nd ref='-118405' />
+    <nd ref='-118407' />
+    <nd ref='-118402' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-17' />
+    <tag k='name' v='PhD-17' />
+  </way>
+  <way id='-118413' action='modify' visible='true'>
+    <nd ref='-118411' />
+    <nd ref='-118412' />
+    <nd ref='-118414' />
+    <nd ref='-118416' />
+    <nd ref='-118411' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-08' />
+    <tag k='name' v='PhD-08' />
+  </way>
+  <way id='-118447' action='modify' visible='true'>
+    <nd ref='-118445' />
+    <nd ref='-118446' />
+    <nd ref='-118448' />
+    <nd ref='-118450' />
+    <nd ref='-118445' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-02' />
+    <tag k='name' v='PhD-02' />
+  </way>
+  <way id='-118456' action='modify' visible='true'>
+    <nd ref='-118454' />
+    <nd ref='-118455' />
+    <nd ref='-118457' />
+    <nd ref='-118459' />
+    <nd ref='-118454' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-03' />
+    <tag k='name' v='PhD-03' />
+  </way>
+  <way id='-118465' action='modify' visible='true'>
+    <nd ref='-118463' />
+    <nd ref='-118464' />
+    <nd ref='-118466' />
+    <nd ref='-118468' />
+    <nd ref='-118463' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-01' />
+    <tag k='name' v='PhD-01' />
+  </way>
+  <way id='-118474' action='modify' visible='true'>
+    <nd ref='-118472' />
+    <nd ref='-118473' />
+    <nd ref='-118475' />
+    <nd ref='-118477' />
+    <nd ref='-118472' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Wip-13' />
+    <tag k='name' v='Wip-13' />
+  </way>
+  <way id='-118483' action='modify' visible='true'>
+    <nd ref='-118481' />
+    <nd ref='-118482' />
+    <nd ref='-118484' />
+    <nd ref='-118486' />
+    <nd ref='-118481' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-04' />
+    <tag k='name' v='PhD-04' />
+  </way>
+  <way id='-118492' action='modify' visible='true'>
+    <nd ref='-118490' />
+    <nd ref='-118491' />
+    <nd ref='-118493' />
+    <nd ref='-118495' />
+    <nd ref='-118490' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-05' />
+    <tag k='name' v='PhD-05' />
+  </way>
+  <way id='-118501' action='modify' visible='true'>
+    <nd ref='-118499' />
+    <nd ref='-118500' />
+    <nd ref='-118502' />
+    <nd ref='-118504' />
+    <nd ref='-118499' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-06' />
+    <tag k='name' v='PhD-06' />
+  </way>
+  <way id='-118510' action='modify' visible='true'>
+    <nd ref='-118508' />
+    <nd ref='-118509' />
+    <nd ref='-118511' />
+    <nd ref='-118513' />
+    <nd ref='-118508' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Wip-12' />
+    <tag k='name' v='Wip-12' />
+  </way>
+  <way id='-118519' action='modify' visible='true'>
+    <nd ref='-118517' />
+    <nd ref='-118518' />
+    <nd ref='-118520' />
+    <nd ref='-118522' />
+    <nd ref='-118517' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Wip-11' />
+    <tag k='name' v='Wip-11' />
+  </way>
+  <way id='-118528' action='modify' visible='true'>
+    <nd ref='-118526' />
+    <nd ref='-118527' />
+    <nd ref='-118529' />
+    <nd ref='-118531' />
+    <nd ref='-118526' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='PhD-07' />
+    <tag k='name' v='PhD-07' />
+  </way>
+  <way id='-118537' action='modify' visible='true'>
+    <nd ref='-118535' />
+    <nd ref='-118536' />
+    <nd ref='-118538' />
+    <nd ref='-118540' />
+    <nd ref='-118535' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Wip-06' />
+    <tag k='name' v='Wip-06' />
+  </way>
+  <way id='-118546' action='modify' visible='true'>
+    <nd ref='-118544' />
+    <nd ref='-118545' />
+    <nd ref='-118547' />
+    <nd ref='-118549' />
+    <nd ref='-118544' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Wip-05' />
+    <tag k='name' v='Wip-05' />
+  </way>
+  <way id='-118555' action='modify' visible='true'>
+    <nd ref='-118553' />
+    <nd ref='-118554' />
+    <nd ref='-118556' />
+    <nd ref='-118558' />
+    <nd ref='-118553' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Wip-04' />
+    <tag k='name' v='Wip-04' />
+  </way>
+  <way id='-118564' action='modify' visible='true'>
+    <nd ref='-118562' />
+    <nd ref='-118563' />
+    <nd ref='-118565' />
+    <nd ref='-118567' />
+    <nd ref='-118562' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Wip-07' />
+    <tag k='name' v='Wip-07' />
+  </way>
+  <way id='-118573' action='modify' visible='true'>
+    <nd ref='-118571' />
+    <nd ref='-118572' />
+    <nd ref='-118574' />
+    <nd ref='-118576' />
+    <nd ref='-118571' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Wip-03' />
+    <tag k='name' v='Wip-03' />
+  </way>
+  <way id='-118582' action='modify' visible='true'>
+    <nd ref='-118580' />
+    <nd ref='-118581' />
+    <nd ref='-118583' />
+    <nd ref='-118585' />
+    <nd ref='-118580' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Wip-08' />
+    <tag k='name' v='Wip-08' />
+  </way>
+  <way id='-118591' action='modify' visible='true'>
+    <nd ref='-118589' />
+    <nd ref='-118590' />
+    <nd ref='-118592' />
+    <nd ref='-118594' />
+    <nd ref='-118589' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Wip-02' />
+    <tag k='name' v='Wip-02' />
+  </way>
+  <way id='-118600' action='modify' visible='true'>
+    <nd ref='-118598' />
+    <nd ref='-118599' />
+    <nd ref='-118601' />
+    <nd ref='-118603' />
+    <nd ref='-118598' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Wip-09' />
+    <tag k='name' v='Wip-09' />
+  </way>
+  <way id='-118609' action='modify' visible='true'>
+    <nd ref='-118607' />
+    <nd ref='-118608' />
+    <nd ref='-118610' />
+    <nd ref='-118612' />
+    <nd ref='-118607' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Wip-01' />
+    <tag k='name' v='Wip-01' />
+  </way>
+  <way id='-118618' action='modify' visible='true'>
+    <nd ref='-118616' />
+    <nd ref='-118617' />
+    <nd ref='-118619' />
+    <nd ref='-118621' />
+    <nd ref='-118616' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Wip-10' />
+    <tag k='name' v='Wip-10' />
+  </way>
+  <way id='-118627' action='modify' visible='true'>
+    <nd ref='-118625' />
+    <nd ref='-118626' />
+    <nd ref='-118628' />
+    <nd ref='-118630' />
+    <nd ref='-118632' />
+    <nd ref='-118634' />
+    <nd ref='-118636' />
+    <nd ref='-118638' />
+    <nd ref='-118625' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Bar' />
+    <tag k='name' v='Bar' />
+  </way>
+  <way id='-118644' action='modify' visible='true'>
+    <nd ref='-118642' />
+    <nd ref='-118643' />
+    <nd ref='-118645' />
+    <nd ref='-118647' />
+    <nd ref='-118642' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='Bar' />
+    <tag k='name' v='Bar' />
+  </way>
+  <way id='-118653' action='modify' visible='true'>
+    <nd ref='-118651' />
+    <nd ref='-118652' />
+    <nd ref='-118654' />
+    <nd ref='-118656' />
+    <nd ref='-118651' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118662' action='modify' visible='true'>
+    <nd ref='-118660' />
+    <nd ref='-118661' />
+    <nd ref='-118663' />
+    <nd ref='-118665' />
+    <nd ref='-118660' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118671' action='modify' visible='true'>
+    <nd ref='-118669' />
+    <nd ref='-118670' />
+    <nd ref='-118672' />
+    <nd ref='-118674' />
+    <nd ref='-118669' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118680' action='modify' visible='true'>
+    <nd ref='-118678' />
+    <nd ref='-118679' />
+    <nd ref='-118681' />
+    <nd ref='-118683' />
+    <nd ref='-118678' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118689' action='modify' visible='true'>
+    <nd ref='-118687' />
+    <nd ref='-118688' />
+    <nd ref='-118690' />
+    <nd ref='-118692' />
+    <nd ref='-118687' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118698' action='modify' visible='true'>
+    <nd ref='-118696' />
+    <nd ref='-118697' />
+    <nd ref='-118699' />
+    <nd ref='-118701' />
+    <nd ref='-118696' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='D-01' />
+    <tag k='name' v='D-01' />
+  </way>
+  <way id='-118707' action='modify' visible='true'>
+    <nd ref='-118705' />
+    <nd ref='-118706' />
+    <nd ref='-118708' />
+    <nd ref='-118710' />
+    <nd ref='-118705' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='D-02' />
+    <tag k='name' v='D-02' />
+  </way>
+  <way id='-118716' action='modify' visible='true'>
+    <nd ref='-118714' />
+    <nd ref='-118715' />
+    <nd ref='-118717' />
+    <nd ref='-118719' />
+    <nd ref='-118714' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='D-03' />
+    <tag k='name' v='D-03' />
+  </way>
+  <way id='-118750' action='modify' visible='true'>
+    <nd ref='-118748' />
+    <nd ref='-118749' />
+    <nd ref='-118751' />
+    <nd ref='-118753' />
+    <nd ref='-118748' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='D-04' />
+    <tag k='name' v='D-04' />
+  </way>
+  <way id='-118759' action='modify' visible='true'>
+    <nd ref='-118757' />
+    <nd ref='-118758' />
+    <nd ref='-118760' />
+    <nd ref='-118762' />
+    <nd ref='-118757' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='D-05' />
+    <tag k='name' v='D-05' />
+  </way>
+  <way id='-118768' action='modify' visible='true'>
+    <nd ref='-118766' />
+    <nd ref='-118767' />
+    <nd ref='-118769' />
+    <nd ref='-118771' />
+    <nd ref='-118766' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='D-06' />
+    <tag k='name' v='D-06' />
+  </way>
+  <way id='-118777' action='modify' visible='true'>
+    <nd ref='-118775' />
+    <nd ref='-118776' />
+    <nd ref='-118778' />
+    <nd ref='-118780' />
+    <nd ref='-118775' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='D-07' />
+    <tag k='name' v='D-07' />
+  </way>
+  <way id='-118786' action='modify' visible='true'>
+    <nd ref='-118784' />
+    <nd ref='-118785' />
+    <nd ref='-118787' />
+    <nd ref='-118789' />
+    <nd ref='-118784' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118795' action='modify' visible='true'>
+    <nd ref='-118793' />
+    <nd ref='-118794' />
+    <nd ref='-118796' />
+    <nd ref='-118798' />
+    <nd ref='-118793' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118804' action='modify' visible='true'>
+    <nd ref='-118802' />
+    <nd ref='-118803' />
+    <nd ref='-118805' />
+    <nd ref='-118807' />
+    <nd ref='-118802' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118813' action='modify' visible='true'>
+    <nd ref='-118811' />
+    <nd ref='-118812' />
+    <nd ref='-118814' />
+    <nd ref='-118816' />
+    <nd ref='-118811' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='D-08' />
+    <tag k='name' v='D-08' />
+  </way>
+  <way id='-118822' action='modify' visible='true'>
+    <nd ref='-118820' />
+    <nd ref='-118821' />
+    <nd ref='-118823' />
+    <nd ref='-118825' />
+    <nd ref='-118820' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='D-09' />
+    <tag k='name' v='D-09' />
+  </way>
+  <way id='-118831' action='modify' visible='true'>
+    <nd ref='-118829' />
+    <nd ref='-118830' />
+    <nd ref='-118832' />
+    <nd ref='-118834' />
+    <nd ref='-118829' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='D-10' />
+    <tag k='name' v='D-10' />
+  </way>
+  <way id='-118840' action='modify' visible='true'>
+    <nd ref='-118838' />
+    <nd ref='-118839' />
+    <nd ref='-118841' />
+    <nd ref='-118843' />
+    <nd ref='-118838' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='D-11' />
+    <tag k='name' v='D-11' />
+  </way>
+  <way id='-118849' action='modify' visible='true'>
+    <nd ref='-118847' />
+    <nd ref='-118848' />
+    <nd ref='-118850' />
+    <nd ref='-118852' />
+    <nd ref='-118847' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118858' action='modify' visible='true'>
+    <nd ref='-118856' />
+    <nd ref='-118857' />
+    <nd ref='-118859' />
+    <nd ref='-118861' />
+    <nd ref='-118856' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='D-12' />
+    <tag k='name' v='D-12' />
+  </way>
+  <way id='-118867' action='modify' visible='true'>
+    <nd ref='-118865' />
+    <nd ref='-118866' />
+    <nd ref='-118868' />
+    <nd ref='-118870' />
+    <nd ref='-118865' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='D-13' />
+    <tag k='name' v='D-13' />
+  </way>
+  <way id='-118876' action='modify' visible='true'>
+    <nd ref='-118874' />
+    <nd ref='-118875' />
+    <nd ref='-118877' />
+    <nd ref='-118879' />
+    <nd ref='-118874' />
+    <tag k='building' v='yes' />
+    <tag k='id' v='D-14' />
+    <tag k='name' v='D-14' />
+  </way>
+  <way id='-118885' action='modify' visible='true'>
+    <nd ref='-118883' />
+    <nd ref='-118884' />
+    <nd ref='-118886' />
+    <nd ref='-118888' />
+    <nd ref='-118883' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118894' action='modify' visible='true'>
+    <nd ref='-118892' />
+    <nd ref='-118893' />
+    <nd ref='-118895' />
+    <nd ref='-118897' />
+    <nd ref='-118892' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118903' action='modify' visible='true'>
+    <nd ref='-118901' />
+    <nd ref='-118902' />
+    <nd ref='-118904' />
+    <nd ref='-118906' />
+    <nd ref='-118908' />
+    <nd ref='-118910' />
+    <nd ref='-118901' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118916' action='modify' visible='true'>
+    <nd ref='-118914' />
+    <nd ref='-118915' />
+    <nd ref='-118917' />
+    <nd ref='-118919' />
+    <nd ref='-118921' />
+    <nd ref='-118923' />
+    <nd ref='-118914' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118929' action='modify' visible='true'>
+    <nd ref='-118927' />
+    <nd ref='-118928' />
+    <nd ref='-118930' />
+    <nd ref='-118932' />
+    <nd ref='-118934' />
+    <nd ref='-118936' />
+    <nd ref='-118927' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118942' action='modify' visible='true'>
+    <nd ref='-118940' />
+    <nd ref='-118941' />
+    <nd ref='-118943' />
+    <nd ref='-118945' />
+    <nd ref='-118940' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118955' action='modify' visible='true'>
+    <nd ref='-118949' />
+    <nd ref='-118954' />
+    <nd ref='-118956' />
+    <nd ref='-118958' />
+    <nd ref='-118960' />
+    <nd ref='-118962' />
+    <nd ref='-118964' />
+    <nd ref='-118979' />
+    <nd ref='-118966' />
+    <nd ref='-118949' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118974' action='modify' visible='true'>
+    <nd ref='-118964' />
+    <nd ref='-118973' />
+    <nd ref='-118975' />
+    <nd ref='-118977' />
+    <nd ref='-118979' />
+    <nd ref='-118964' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118984' action='modify' visible='true'>
+    <nd ref='-118975' />
+    <nd ref='-118983' />
+    <nd ref='-118987' />
+    <nd ref='-118977' />
+    <nd ref='-118975' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-118993' action='modify' visible='true'>
+    <nd ref='-118979' />
+    <nd ref='-118977' />
+    <nd ref='-118987' />
+    <nd ref='-112296' />
+    <nd ref='-112298' />
+    <nd ref='-118966' />
+    <nd ref='-118979' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-119006' action='modify' visible='true'>
+    <nd ref='-119004' />
+    <nd ref='-119005' />
+    <nd ref='-119007' />
+    <nd ref='-119009' />
+    <nd ref='-119004' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-119023' action='modify' visible='true'>
+    <nd ref='-119018' />
+    <nd ref='-119022' />
+    <nd ref='-119045' />
+    <nd ref='-119030' />
+    <nd ref='-119024' />
+  </way>
+  <way id='-119033' action='modify' visible='true'>
+    <nd ref='-119030' />
+    <nd ref='-119032' />
+    <nd ref='-112304' />
+    <nd ref='-119024' />
+    <nd ref='-119030' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-119046' action='modify' visible='true'>
+    <nd ref='-119022' />
+    <nd ref='-119045' />
+    <nd ref='-119048' />
+    <nd ref='-119018' />
+    <nd ref='-119022' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-119060' action='modify' visible='true'>
+    <nd ref='-119045' />
+    <nd ref='-119030' />
+    <nd ref='-119032' />
+    <nd ref='-119048' />
+    <nd ref='-119045' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-119582' action='modify' visible='true'>
+    <nd ref='-119580' />
+    <nd ref='-119581' />
+    <nd ref='-119583' />
+    <nd ref='-119585' />
+    <nd ref='-119587' />
+    <nd ref='-119589' />
+    <nd ref='-119580' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-119595' action='modify' visible='true'>
+    <nd ref='-119593' />
+    <nd ref='-119594' />
+    <nd ref='-119596' />
+    <nd ref='-119598' />
+    <nd ref='-119600' />
+    <nd ref='-119602' />
+    <nd ref='-119593' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-119608' action='modify' visible='true'>
+    <nd ref='-119606' />
+    <nd ref='-119607' />
+    <nd ref='-119609' />
+    <nd ref='-119611' />
+    <nd ref='-119606' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-120644' action='modify' visible='true'>
+    <nd ref='-120638' />
+    <nd ref='-120794' />
+    <nd ref='-120765' />
+    <nd ref='-120746' />
+    <nd ref='-120724' />
+    <nd ref='-120679' />
+    <nd ref='-120660' />
+    <nd ref='-120649' />
+    <nd ref='-120643' />
+  </way>
+  <way id='-120652' action='modify' visible='true'>
+    <nd ref='-120649' />
+    <nd ref='-120651' />
+    <nd ref='-112302' />
+    <nd ref='-120643' />
+    <nd ref='-120649' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-120661' action='modify' visible='true'>
+    <nd ref='-120649' />
+    <nd ref='-120660' />
+    <nd ref='-120688' />
+    <nd ref='-120663' />
+    <nd ref='-120651' />
+    <nd ref='-120649' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-120680' action='modify' visible='true'>
+    <nd ref='-120660' />
+    <nd ref='-120679' />
+    <nd ref='-120682' />
+    <nd ref='-120702' />
+    <nd ref='-120684' />
+    <nd ref='-120686' />
+    <nd ref='-120688' />
+    <nd ref='-120660' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-120706' action='modify' visible='true'>
+    <nd ref='-120702' />
+    <nd ref='-120705' />
+    <nd ref='-120663' />
+    <nd ref='-120688' />
+    <nd ref='-120686' />
+    <nd ref='-120684' />
+    <nd ref='-120702' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-120728' action='modify' visible='true'>
+    <nd ref='-120724' />
+    <nd ref='-120727' />
+    <nd ref='-120705' />
+    <nd ref='-120702' />
+    <nd ref='-120682' />
+    <nd ref='-120679' />
+    <nd ref='-120724' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-120750' action='modify' visible='true'>
+    <nd ref='-120746' />
+    <nd ref='-120749' />
+    <nd ref='-120755' />
+    <nd ref='-120761' />
+    <nd ref='-120763' />
+    <nd ref='-120765' />
+    <nd ref='-120746' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-120778' action='modify' visible='true'>
+    <nd ref='-120763' />
+    <nd ref='-120777' />
+    <nd ref='-120755' />
+    <nd ref='-120761' />
+    <nd ref='-120763' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-120798' action='modify' visible='true'>
+    <nd ref='-120794' />
+    <nd ref='-120797' />
+    <nd ref='-120777' />
+    <nd ref='-120765' />
+    <nd ref='-120794' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-120814' action='modify' visible='true'>
+    <nd ref='-120794' />
+    <nd ref='-120638' />
+    <nd ref='-112300' />
+    <nd ref='-120797' />
+    <nd ref='-120794' />
+    <tag k='building' v='yes' />
   </way>
 </osm>
