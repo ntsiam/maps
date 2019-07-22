@@ -5736,7 +5736,8 @@
             "type":"Feature",
             "properties":{
                 "id":"ALPHA",
-                "building_id":"MUEL"
+                "building_id":"MUEL",
+                "level":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -6364,7 +6365,8 @@
             "type":"Feature",
             "properties":{
                 "building_id":"MUEL",
-                "id":"BETA"
+                "id":"BETA",
+                "level":"0"
             },
             "geometry":{
                 "type":"Point",
