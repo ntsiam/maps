@@ -8,7 +8,8 @@
             "properties":{
                 "highway":"footway",
                 "level":"0",
-                "building_id":"MUEL"
+                "building_id":"MUEL",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"LineString",
@@ -102,7 +103,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"020"
+                "id":"020",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -118,7 +120,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"027"
+                "id":"027",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -134,7 +137,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"003"
+                "id":"003",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -150,7 +154,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"013"
+                "id":"013",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -166,7 +171,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"030"
+                "id":"030",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -182,7 +188,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"007"
+                "id":"007",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -198,7 +205,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"029"
+                "id":"029",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -214,7 +222,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"021"
+                "id":"021",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -229,7 +238,8 @@
             "properties":{
                 "building_id":"MUEL",
                 "level":"0",
-                "highway":"footway"
+                "highway":"footway",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"LineString",
@@ -291,7 +301,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"011"
+                "id":"011",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -307,7 +318,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"032"
+                "id":"032",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -320,10 +332,33 @@
         {
             "type":"Feature",
             "properties":{
+                "highway":"footway",
+                "level":"0",
+                "building_id":"MUEL",
+                "building":"MUELDORF"
+            },
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[
+                    [
+                        12.51870923807,
+                        48.24853829246
+                    ],
+                    [
+                        12.51871032808,
+                        48.24853182358
+                    ]
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"008"
+                "id":"008",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -339,7 +374,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"005"
+                "id":"005",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -355,7 +391,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"001"
+                "id":"001",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -371,7 +408,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"010"
+                "id":"010",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -387,7 +425,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"026"
+                "id":"026",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -403,7 +442,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"023"
+                "id":"023",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -419,7 +459,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"025"
+                "id":"025",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -435,7 +476,8 @@
                 "id":"002",
                 "building_id":"MUEL",
                 "highway":"footway",
-                "level":"0"
+                "level":"0",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -451,7 +493,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"012"
+                "id":"012",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -464,10 +507,30 @@
         {
             "type":"Feature",
             "properties":{
+                "address":"Paisley PA3 2SW, UK",
+                "building":"MUELDORF",
+                "building_id":"MUEL",
+                "city":"MUELDORF",
+                "highway":"corridor",
+                "id":"entrance",
+                "level":"0"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    12.51870923807,
+                    48.24853829246
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"031"
+                "id":"031",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -483,7 +546,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"018"
+                "id":"018",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -499,7 +563,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"004"
+                "id":"004",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -515,7 +580,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"015"
+                "id":"015",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -531,7 +597,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"024"
+                "id":"024",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -547,7 +614,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"028"
+                "id":"028",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -563,7 +631,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"006"
+                "id":"006",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -579,7 +648,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"009"
+                "id":"009",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -595,7 +665,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"017"
+                "id":"017",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -611,7 +682,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"022"
+                "id":"022",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -627,7 +699,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"014"
+                "id":"014",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -643,7 +716,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"019"
+                "id":"019",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
@@ -659,7 +733,8 @@
                 "level":"0",
                 "highway":"footway",
                 "building_id":"MUEL",
-                "id":"016"
+                "id":"016",
+                "building":"MUELDORF"
             },
             "geometry":{
                 "type":"Point",
