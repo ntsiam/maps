@@ -46,8 +46,21 @@
         {
             "type":"Feature",
             "properties":{
+                "id":"atlantis"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    55.11854667183,
+                    25.13173153501
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "level":"0",
-                "id":"atlantis_the_palm",
+                "id":"atlantis",
                 "highway":"corridor"
             },
             "geometry":{
@@ -98,6 +111,19 @@
         {
             "type":"Feature",
             "properties":{
+                "id":"atlantis"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    55.11844843592,
+                    25.13186964417
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "highway":"corridor",
                 "id":"atlantis",
                 "level":"0"
@@ -113,8 +139,34 @@
         {
             "type":"Feature",
             "properties":{
+                "id":"atlantis"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    55.11846218225,
+                    25.13172637488
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":"atlantis"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    55.11850067690,
+                    25.13172872591
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "level":"0",
-                "id":"atlantis_the_palm",
+                "id":"atlantis",
                 "highway":"corridor"
             },
             "geometry":{
@@ -178,6 +230,19 @@
         {
             "type":"Feature",
             "properties":{
+                "id":"atlantis"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    55.11837299880,
+                    25.13179345649
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "highway":"corridor",
                 "id":"atlantis",
                 "level":"0"
@@ -187,6 +252,19 @@
                 "coordinates":[
                     55.11853220681,
                     25.13181178265
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "id":"atlantis"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    55.11863250252,
+                    25.13183200564
                 ]
             }
         }
