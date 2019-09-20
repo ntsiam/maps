@@ -46,21 +46,6 @@
         {
             "type":"Feature",
             "properties":{
-                "highway":"corridor",
-                "id":"atlantis",
-                "level":"0"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    55.11849877192,
-                    25.13183890224
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
                 "building_id":"egg",
                 "highway":"corridor",
                 "level":"0"
@@ -82,6 +67,43 @@
         {
             "type":"Feature",
             "properties":{
+                "level":"0",
+                "id":"atlantis_the_palm",
+                "highway":"corridor"
+            },
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[
+                    [
+                        55.11844843592,
+                        25.13186964417
+                    ],
+                    [
+                        55.11837299880,
+                        25.13179345649
+                    ],
+                    [
+                        55.11846218225,
+                        25.13172637488
+                    ],
+                    [
+                        55.11850067690,
+                        25.13172872591
+                    ],
+                    [
+                        55.11854667183,
+                        25.13173153501
+                    ],
+                    [
+                        55.11863250252,
+                        25.13183200564
+                    ]
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "building_id":"egg",
                 "highway":"corridor",
                 "level":"0"
@@ -96,35 +118,6 @@
                     [
                         4.32700205835,
                         50.83288942347
-                    ]
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "highway":"corridor",
-                "id":"atlantis",
-                "level":"0"
-            },
-            "geometry":{
-                "type":"LineString",
-                "coordinates":[
-                    [
-                        55.11853220681,
-                        25.13181178265
-                    ],
-                    [
-                        55.11849877192,
-                        25.13183890224
-                    ],
-                    [
-                        55.11844213846,
-                        25.13178396780
-                    ],
-                    [
-                        55.11849803642,
-                        25.13177764201
                     ]
                 ]
             }
@@ -299,6 +292,107 @@
         {
             "type":"Feature",
             "properties":{
+                "highway":"corridor",
+                "id":"atlantis",
+                "level":"0"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    55.11849803642,
+                    25.13177764201
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "building_id":"egg",
+                "highway":"corridor",
+                "level":"0"
+            },
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[
+                    [
+                        4.32671868387,
+                        50.83292602212
+                    ],
+                    [
+                        4.32679758901,
+                        50.83298801063
+                    ]
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "level":"0",
+                "id":"atlantis_the_palm",
+                "highway":"corridor"
+            },
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[
+                    [
+                        55.11849803642,
+                        25.13177764201
+                    ],
+                    [
+                        55.11850067690,
+                        25.13172872591
+                    ]
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "highway":"corridor",
+                "id":"atlantis",
+                "level":"0"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    55.11849877192,
+                    25.13183890224
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "highway":"corridor",
+                "id":"atlantis",
+                "level":"0"
+            },
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[
+                    [
+                        55.11853220681,
+                        25.13181178265
+                    ],
+                    [
+                        55.11849877192,
+                        25.13183890224
+                    ],
+                    [
+                        55.11844213846,
+                        25.13178396780
+                    ],
+                    [
+                        55.11849803642,
+                        25.13177764201
+                    ]
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "building_id":"egg",
                 "highway":"corridor",
                 "level":"0"
@@ -356,21 +450,6 @@
         {
             "type":"Feature",
             "properties":{
-                "highway":"corridor",
-                "id":"atlantis",
-                "level":"0"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    55.11849803642,
-                    25.13177764201
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
                 "building_id":"egg",
                 "highway":"corridor",
                 "level":"0"
@@ -422,27 +501,6 @@
                     [
                         4.32694109016,
                         50.83291881998
-                    ]
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "building_id":"egg",
-                "highway":"corridor",
-                "level":"0"
-            },
-            "geometry":{
-                "type":"LineString",
-                "coordinates":[
-                    [
-                        4.32671868387,
-                        50.83292602212
-                    ],
-                    [
-                        4.32679758901,
-                        50.83298801063
                     ]
                 ]
             }
