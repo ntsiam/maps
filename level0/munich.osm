@@ -55175,7 +55175,7 @@
     <nd ref='-265346' />
     <nd ref='-265434' />
     <nd ref='-265392' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='desk' />
   </way>
   <way id='-269325' action='modify' visible='true'>
     <nd ref='-265408' />
@@ -55200,7 +55200,7 @@
     <nd ref='-265410' />
     <nd ref='-265368' />
     <nd ref='-265408' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='desk' />
   </way>
   <way id='-269326' action='modify' visible='true'>
     <nd ref='-265484' />
@@ -55209,6 +55209,7 @@
     <nd ref='-265360' />
     <nd ref='-265330' />
     <nd ref='-265484' />
+    <tag k='building' v='column' />
   </way>
   <way id='-269327' action='modify' visible='true'>
     <nd ref='-265468' />
@@ -55221,7 +55222,7 @@
     <nd ref='-265494' />
     <nd ref='-265450' />
     <nd ref='-265468' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='column' />
   </way>
   <way id='-269328' action='modify' visible='true'>
     <nd ref='-265362' />
@@ -55282,7 +55283,7 @@
     <nd ref='-276396' />
     <nd ref='-265370' />
     <nd ref='-265374' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='desk' />
   </way>
   <way id='-269331' action='modify' visible='true'>
     <nd ref='-265472' />
@@ -55338,7 +55339,7 @@
     <nd ref='-265348' />
     <nd ref='-265358' />
     <nd ref='-265516' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='desk' />
   </way>
   <way id='-269334' action='modify' visible='true'>
     <nd ref='-265428' />
@@ -55385,7 +55386,7 @@
     <nd ref='-265332' />
     <nd ref='-265372' />
     <nd ref='-265412' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='column' />
   </way>
   <way id='-269336' action='modify' visible='true'>
     <nd ref='-265454' />
@@ -55399,7 +55400,7 @@
     <nd ref='-265460' />
     <nd ref='-265498' />
     <nd ref='-265454' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='column' />
   </way>
   <way id='-269337' action='modify' visible='true'>
     <nd ref='-265538' />
@@ -55411,7 +55412,7 @@
     <nd ref='-265550' />
     <nd ref='-276848' />
     <nd ref='-265538' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='column' />
   </way>
   <way id='-276193' action='modify' visible='true'>
     <nd ref='-265528' />
@@ -55514,7 +55515,7 @@
     <nd ref='-265330' />
     <nd ref='-276380' />
     <nd ref='-276221' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='column' />
   </way>
   <way id='-276391' action='modify' visible='true'>
     <nd ref='-265370' />
@@ -55524,7 +55525,7 @@
     <nd ref='-276394' />
     <nd ref='-276396' />
     <nd ref='-265370' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='column' />
   </way>
   <way id='-276420' action='modify' visible='true'>
     <nd ref='-265524' />
@@ -55677,7 +55678,7 @@
     <nd ref='-276944' />
     <nd ref='-276946' />
     <nd ref='-276870' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='desk' />
   </way>
   <way id='-277081' action='modify' visible='true'>
     <nd ref='-277082' />
@@ -55719,7 +55720,7 @@
     <nd ref='-277118' />
     <nd ref='-277119' />
     <nd ref='-277082' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='desk' />
   </way>
   <way id='-277121' action='modify' visible='true'>
     <nd ref='-277122' />
@@ -55761,7 +55762,7 @@
     <nd ref='-277158' />
     <nd ref='-277159' />
     <nd ref='-277122' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='desk' />
   </way>
   <way id='-277162' action='modify' visible='true'>
     <nd ref='-277163' />
@@ -55803,7 +55804,7 @@
     <nd ref='-277199' />
     <nd ref='-277200' />
     <nd ref='-277163' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='desk' />
   </way>
   <way id='-277203' action='modify' visible='true'>
     <nd ref='-277204' />
@@ -55845,7 +55846,7 @@
     <nd ref='-277240' />
     <nd ref='-277241' />
     <nd ref='-277204' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='desk' />
   </way>
   <way id='-277244' action='modify' visible='true'>
     <nd ref='-277245' />
@@ -55887,7 +55888,7 @@
     <nd ref='-277281' />
     <nd ref='-277282' />
     <nd ref='-277245' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='desk' />
   </way>
   <way id='-277288' action='modify' visible='true'>
     <nd ref='-277285' />
@@ -55895,7 +55896,7 @@
     <nd ref='-277289' />
     <nd ref='-277291' />
     <nd ref='-277285' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='desk' />
   </way>
   <way id='-277305' action='modify' visible='true'>
     <nd ref='-277302' />
@@ -55903,7 +55904,7 @@
     <nd ref='-277306' />
     <nd ref='-277308' />
     <nd ref='-277302' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='desk' />
   </way>
   <way id='-277322' action='modify' visible='true'>
     <nd ref='-277319' />
@@ -55911,7 +55912,7 @@
     <nd ref='-277323' />
     <nd ref='-277325' />
     <nd ref='-277319' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='desk' />
   </way>
   <way id='-277339' action='modify' visible='true'>
     <nd ref='-277336' />
@@ -56029,7 +56030,7 @@
     <nd ref='-277723' />
     <nd ref='-277724' />
     <nd ref='-277687' />
-    <tag k='building' v='yes' />
+    <tag k='building' v='desk' />
   </way>
   <way id='22757641' action='delete' timestamp='2015-09-11T11:04:29Z' uid='2385132' user='MENTZ_TU' visible='true' version='10' changeset='33954623'>
     <tag k='amenity' v='parking' />
