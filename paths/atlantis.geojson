@@ -41,35 +41,6 @@
                 "level":"0"
             },
             "geometry":{
-                "type":"LineString",
-                "coordinates":[
-                    [
-                        55.11853220681,
-                        25.13181178265
-                    ],
-                    [
-                        55.11849877192,
-                        25.13183890224
-                    ],
-                    [
-                        55.11844213846,
-                        25.13178396780
-                    ],
-                    [
-                        55.11849803642,
-                        25.13177764201
-                    ]
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "highway":"corridor",
-                "id":"atlantis",
-                "level":"0"
-            },
-            "geometry":{
                 "type":"Point",
                 "coordinates":[
                     55.11844213846,
@@ -126,21 +97,6 @@
                         55.11863250252,
                         25.13183200564
                     ]
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "highway":"corridor",
-                "id":"atlantis",
-                "level":"0"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    55.11854667183,
-                    25.13173153501
                 ]
             }
         },
@@ -264,36 +220,6 @@
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    55.11863250252,
-                    25.13183200564
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "highway":"corridor",
-                "id":"atlantis",
-                "level":"0"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    55.11849803642,
-                    25.13177764201
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "highway":"corridor",
-                "id":"atlantis",
-                "level":"0"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
                     55.11837299880,
                     25.13179345649
                 ]
@@ -326,6 +252,113 @@
                 "coordinates":[
                     55.11846218225,
                     25.13172637488
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "highway":"corridor",
+                "id":"atlantis",
+                "level":"0"
+            },
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[
+                    [
+                        55.11853220681,
+                        25.13181178265
+                    ],
+                    [
+                        55.11849877192,
+                        25.13183890224
+                    ],
+                    [
+                        55.11844213846,
+                        25.13178396780
+                    ],
+                    [
+                        55.11849803642,
+                        25.13177764201
+                    ]
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "highway":"corridor",
+                "id":"atlantis",
+                "level":"0"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    55.11854667183,
+                    25.13173153501
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "level":"0",
+                "id":"atlantis",
+                "highway":"corridor"
+            },
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[
+                    [
+                        55.11825441452,
+                        25.13148761286
+                    ],
+                    [
+                        55.11828772430,
+                        25.13146029832
+                    ],
+                    [
+                        55.11831737190,
+                        25.13148966557
+                    ],
+                    [
+                        55.11850188462,
+                        25.13168955212
+                    ],
+                    [
+                        55.11850067690,
+                        25.13172872591
+                    ]
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "highway":"corridor",
+                "id":"atlantis",
+                "level":"0"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    55.11863250252,
+                    25.13183200564
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "highway":"corridor",
+                "id":"atlantis",
+                "level":"0"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    55.11849803642,
+                    25.13177764201
                 ]
             }
         }
