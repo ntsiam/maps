@@ -12612,28 +12612,7 @@
   <node id='-323046' action='modify' visible='true' lat='47.22664798086' lon='-1.63804081904'>
     <tag k='level' v='2' />
   </node>
-  <node id='-323508' action='modify' visible='true' lat='48.26250161132' lon='11.66837294844'>
-    <tag k='building_id' v='mi' />
-    <tag k='highway' v='footway' />
-    <tag k='level' v='2' />
-  </node>
-  <node id='-323574' action='modify' visible='true' lat='48.26249859066' lon='11.66839762666' />
-  <node id='-323576' action='modify' visible='true' lat='48.26250018832' lon='11.66838449231' />
-  <node id='-323580' action='modify' visible='true' lat='48.26249820753' lon='11.66840077637' />
-  <node id='-324474' action='modify' visible='true' lat='48.26250161132' lon='11.66837294844' />
-  <node id='-324476' action='modify' visible='true' lat='48.26250018832' lon='11.66838449231' />
-  <node id='-324478' action='modify' visible='true' lat='48.26250135543' lon='11.66837502432' />
-  <node id='-324590' action='modify' visible='true' lat='48.26249820753' lon='11.66840077637'>
-    <tag k='building_id' v='mi' />
-    <tag k='highway' v='footway' />
-    <tag k='level' v='2' />
-  </node>
   <node id='-325290' action='modify' visible='true' lat='48.26278211794' lon='11.66759141694' />
-  <node id='-325382' action='modify' visible='true' lat='48.26250018832' lon='11.66838449231'>
-    <tag k='building_id' v='mi' />
-    <tag k='highway' v='footway' />
-    <tag k='level' v='2' />
-  </node>
   <node id='-325776' action='modify' visible='true' lat='48.26310285304' lon='11.66777799811' />
   <node id='-326202' action='modify' visible='true' lat='48.26224173246' lon='11.66867953182' />
   <node id='-326204' action='modify' visible='true' lat='48.26224252156' lon='11.66867986872' />
@@ -12676,7 +12655,6 @@
   <node id='-326420' action='modify' visible='true' lat='48.26249820753' lon='11.66840077637' />
   <node id='-326422' action='modify' visible='true' lat='48.26249788726' lon='11.66840340433' />
   <node id='-326424' action='modify' visible='true' lat='48.26248644256' lon='11.66849730898' />
-  <node id='-326426' action='modify' visible='true' lat='48.26248601536' lon='11.66850081421' />
   <node id='-326428' action='modify' visible='true' lat='48.26280125011' lon='11.66666162182' />
   <node id='-326432' action='modify' visible='true' lat='48.26280618674' lon='11.66662463834' />
   <node id='-326434' action='modify' visible='true' lat='48.26284309737' lon='11.66663468801' />
@@ -12691,7 +12669,6 @@
   <node id='-326470' action='modify' visible='true' lat='48.26251494751' lon='11.6682815857' />
   <node id='-326472' action='modify' visible='true' lat='48.26251437037' lon='11.66828553949' />
   <node id='-326474' action='modify' visible='true' lat='48.26250194191' lon='11.66837068368' />
-  <node id='-326476' action='modify' visible='true' lat='48.26250161132' lon='11.66837294844' />
   <node id='-326500' action='modify' visible='true' lat='47.22592772371' lon='-1.63566247249' />
   <node id='-326502' action='modify' visible='true' lat='47.22594633242' lon='-1.63534982725' />
   <node id='-326504' action='modify' visible='true' lat='47.22589494476' lon='-1.63560687997' />
@@ -14051,7 +14028,6 @@
     <tag k='building_id' v='&quot;mi&quot;' />
   </node>
   <node id='-359664' action='modify' visible='true' lat='48.26255995635' lon='11.66757782908' />
-  <node id='-359665' action='modify' visible='true' lat='48.26256022322' lon='11.66757593328' />
   <node id='-359692' action='modify' visible='true' lat='48.26262418155' lon='11.66772051561' />
   <node id='-359697' action='modify' visible='true' lat='48.2625139809' lon='11.66767486749' />
   <node id='-359735' action='modify' visible='true' lat='48.26262191922' lon='11.66773781624' />
@@ -23228,10 +23204,7 @@
     <nd ref='-318410' />
     <nd ref='-317538' />
     <tag k='building' v='yes' />
-    <tag k='fixme' v='check levels' />
     <tag k='level' v='2' />
-    <tag k='room' v='stairs' />
-    <tag k='stairs' v='yes' />
   </way>
   <way id='-331353' action='modify' visible='true'>
     <nd ref='-315732' />
@@ -23970,10 +23943,8 @@
     <nd ref='-316934' />
     <nd ref='-317804' />
     <nd ref='-315332' />
-    <tag k='amenity' v='post_office' />
     <tag k='building' v='yes' />
     <tag k='level' v='2' />
-    <tag k='wheelchair' v='yes' />
   </way>
   <way id='-331429' action='modify' visible='true'>
     <nd ref='-317014' />
@@ -24807,10 +24778,7 @@
     <nd ref='-318788' />
     <nd ref='-317916' />
     <tag k='building' v='yes' />
-    <tag k='fixme' v='check levels' />
     <tag k='level' v='2' />
-    <tag k='room' v='stairs' />
-    <tag k='stairs' v='yes' />
   </way>
   <way id='-331519' action='modify' visible='true'>
     <nd ref='-316672' />
@@ -26437,10 +26405,7 @@
     <nd ref='-316702' />
     <nd ref='-315832' />
     <tag k='building' v='yes' />
-    <tag k='fixme' v='check levels' />
     <tag k='level' v='2' />
-    <tag k='room' v='stairs' />
-    <tag k='stairs' v='yes' />
   </way>
   <way id='-331688' action='modify' visible='true'>
     <nd ref='-316144' />
@@ -28047,10 +28012,8 @@
     <nd ref='-316528' />
     <nd ref='-317398' />
     <nd ref='-318000' />
-    <tag k='amenity' v='post_office' />
     <tag k='building' v='yes' />
     <tag k='level' v='2' />
-    <tag k='wheelchair' v='yes' />
   </way>
   <way id='-331847' action='modify' visible='true'>
     <nd ref='-318660' />
@@ -29002,10 +28965,7 @@
     <nd ref='-318030' />
     <nd ref='-317160' />
     <tag k='building' v='yes' />
-    <tag k='fixme' v='check levels' />
     <tag k='level' v='2' />
-    <tag k='room' v='stairs' />
-    <tag k='stairs' v='yes' />
   </way>
   <way id='-331929' action='modify' visible='true'>
     <nd ref='-316296' />
@@ -33337,14 +33297,6 @@
     <tag k='highway' v='steps' />
     <tag k='level' v='2;3' />
   </way>
-  <way id='-332433' action='modify' visible='true'>
-    <nd ref='-323576' />
-    <nd ref='-323574' />
-    <nd ref='-323580' />
-    <tag k='building_id' v='mi' />
-    <tag k='highway' v='footway' />
-    <tag k='level' v='2' />
-  </way>
   <way id='-332442' action='modify' visible='true'>
     <nd ref='-326286' />
     <nd ref='-326288' />
@@ -33387,19 +33339,10 @@
     <tag k='highway' v='steps' />
     <tag k='level' v='2;3' />
   </way>
-  <way id='-332512' action='modify' visible='true'>
-    <nd ref='-324474' />
-    <nd ref='-324478' />
-    <nd ref='-324476' />
-    <tag k='building_id' v='mi' />
-    <tag k='highway' v='footway' />
-    <tag k='level' v='2' />
-  </way>
   <way id='-332574' action='modify' visible='true'>
     <nd ref='-326420' />
     <nd ref='-326422' />
     <nd ref='-326424' />
-    <nd ref='-326426' />
     <tag k='building_id' v='mi' />
     <tag k='highway' v='steps' />
     <tag k='level' v='1;2' />
@@ -33429,7 +33372,6 @@
     <nd ref='-326470' />
     <nd ref='-326472' />
     <nd ref='-326474' />
-    <nd ref='-326476' />
     <tag k='building_id' v='mi' />
     <tag k='highway' v='steps' />
     <tag k='level' v='2;3' />
@@ -37963,7 +37905,6 @@
     <nd ref='-359658' />
     <nd ref='-359657' />
     <nd ref='-359664' />
-    <nd ref='-359665' />
     <tag k='building_id' v='&quot;mi&quot;' />
     <tag k='highway' v='steps' />
     <tag k='level' v='&quot;3;2&quot;' />
@@ -40112,9 +40053,7 @@
     <nd ref='1353032831' />
     <nd ref='1353033207' />
     <tag k='building' v='yes' />
-    <tag k='building:levels' v='5' />
     <tag k='level' v='2' />
-    <tag k='note' v='outline level=1' />
   </way>
   <way id='120741095' action='delete' timestamp='2016-11-04T12:05:24Z' uid='6998' user='saerdnaer' visible='true' version='4' changeset='43399702'>
     <tag k='building' v='yes' />
@@ -41387,7 +41326,6 @@
     <tag k='type' v='TMC' />
   </relation>
   <relation id='1655211' action='modify' timestamp='2016-06-25T14:00:48Z' uid='6998' user='saerdnaer' visible='true' version='6' changeset='40282437'>
-    <member type='way' ref='120741094' role='outline' />
     <tag k='indoor' v='level' />
     <tag k='level' v='2' />
     <tag k='type' v='level' />
@@ -41407,7 +41345,6 @@
   <relation id='1655214' action='modify' timestamp='2016-06-25T14:00:49Z' uid='6998' user='saerdnaer' visible='true' version='4' changeset='40282437'>
     <member type='way' ref='106374248' role='' />
     <member type='way' ref='70744839' role='' />
-    <member type='way' ref='104405116' role='' />
     <member type='way' ref='106374210' role='' />
     <member type='way' ref='70744833' role='' />
     <member type='way' ref='70744799' role='' />
@@ -41416,12 +41353,10 @@
     <member type='way' ref='70744845' role='' />
     <member type='way' ref='70744841' role='' />
     <member type='way' ref='70744848' role='' />
-    <member type='way' ref='104405226' role='' />
     <member type='way' ref='106374238' role='' />
     <member type='way' ref='106374241' role='' />
     <member type='way' ref='70744824' role='' />
     <member type='way' ref='70744830' role='' />
-    <member type='way' ref='70744822' role='' />
     <member type='way' ref='70744820' role='' />
     <member type='way' ref='70744814' role='' />
     <member type='way' ref='70744812' role='' />
