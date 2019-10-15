@@ -33811,7 +33811,6 @@
     <nd ref='-327038' />
     <tag k='building' v='yes' />
     <tag k='level' v='2' />
-    <tag k='shop' v='copyshop' />
   </way>
   <way id='-332716' action='modify' visible='true'>
     <nd ref='-327048' />
@@ -40882,7 +40881,6 @@
     <nd ref='1353033207' />
     <tag k='building' v='yes' />
     <tag k='level' v='2' />
-    <tag k='note' v='outline level=2' />
   </way>
   <way id='324748016' action='modify' timestamp='2016-08-02T14:18:27Z' uid='6998' user='saerdnaer' visible='true' version='5' changeset='41193327'>
     <nd ref='1353033207' />
@@ -40961,7 +40959,6 @@
     <tag k='addr:street' v='Boltzmannstraße' />
     <tag k='building' v='yes' />
     <tag k='level' v='2' />
-    <tag k='note' v='outline level=3' />
   </way>
   <way id='344498443' action='delete' timestamp='2015-05-12T12:02:09Z' uid='6998' user='saerdnaer' visible='true' version='1' changeset='31052137'>
     <tag k='highway' v='steps' />
@@ -41367,21 +41364,17 @@
   </relation>
   <relation id='2706100' action='modify' timestamp='2015-11-14T22:53:24Z' uid='3387148' user='Bene*' visible='true' version='3' changeset='35318568'>
     <member type='way' ref='201393941' role='outer' />
-    <tag k='landuse' v='grass' />
     <tag k='level' v='2' />
     <tag k='type' v='multipolygon' />
   </relation>
   <relation id='2711495' action='modify' timestamp='2013-01-18T23:46:17Z' uid='479256' user='geodreieck4711' visible='true' version='1' changeset='14702712'>
     <member type='way' ref='201846083' role='outer' />
     <tag k='level' v='2' />
-    <tag k='natural' v='scrub' />
     <tag k='type' v='multipolygon' />
   </relation>
   <relation id='3461555' action='modify' timestamp='2014-01-23T07:43:35Z' uid='1633343' user='Nadjita' visible='true' version='1' changeset='20155243'>
-    <tag k='area' v='yes' />
     <tag k='highway' v='pedestrian' />
     <tag k='level' v='2' />
-    <tag k='surface' v='paved' />
     <tag k='type' v='multipolygon' />
   </relation>
 </osm>
