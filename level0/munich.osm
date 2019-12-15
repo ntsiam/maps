@@ -55036,6 +55036,26 @@
     <nd ref='-464264' />
     <tag k='building' v='yes' />
   </way>
+  <way id='-464514' action='modify' visible='true'>
+    <nd ref='-464282' />
+    <nd ref='-464338' />
+    <nd ref='-464325' />
+    <nd ref='-464264' />
+    <nd ref='-464415' />
+    <nd ref='-464417' />
+    <nd ref='-464419' />
+    <nd ref='-464268' />
+    <nd ref='-464270' />
+    <nd ref='-464358' />
+    <nd ref='-464356' />
+    <nd ref='-464384' />
+    <nd ref='-464365' />
+    <nd ref='-464354' />
+    <nd ref='-464362' />
+    <nd ref='-464280' />
+    <nd ref='-464282' />
+    <tag k='building' v='corridor' />
+  </way>
   <way id='22757641' action='delete' timestamp='2015-09-11T11:04:29Z' uid='2385132' user='MENTZ_TU' visible='true' version='10' changeset='33954623'>
     <tag k='amenity' v='parking' />
     <tag k='capacity' v='298' />
