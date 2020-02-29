@@ -60189,6 +60189,7 @@
     <nd ref='-178854' />
     <tag k='building' v='yes' />
     <tag k='id' v='tables' />
+    <tag k='name' v='tables' />
     <tag k='ref' v='tables' />
   </way>
   <way id='-160884' action='modify' visible='true'>
@@ -60199,6 +60200,7 @@
     <nd ref='-178858' />
     <tag k='building' v='yes' />
     <tag k='id' v='bedroom' />
+    <tag k='name' v='bedroom' />
     <tag k='ref' v='bedroom' />
   </way>
   <way id='-160885' action='modify' visible='true'>
@@ -60209,6 +60211,7 @@
     <nd ref='-178848' />
     <tag k='building' v='yes' />
     <tag k='id' v='entrance' />
+    <tag k='name' v='entrance' />
     <tag k='ref' v='entrance' />
   </way>
   <way id='-160886' action='modify' visible='true'>
@@ -60219,6 +60222,7 @@
     <nd ref='-178850' />
     <tag k='building' v='yes' />
     <tag k='id' v='cash_register' />
+    <tag k='name' v='cash_register' />
     <tag k='ref' v='cash_register' />
   </way>
   <way id='-160887' action='modify' visible='true'>
@@ -60231,6 +60235,7 @@
     <nd ref='-178871' />
     <tag k='building' v='yes' />
     <tag k='id' v='couches' />
+    <tag k='name' v='couches' />
     <tag k='ref' v='couches' />
   </way>
   <way id='-160888' action='modify' visible='true'>
@@ -60241,6 +60246,7 @@
     <nd ref='-178862' />
     <tag k='building' v='yes' />
     <tag k='id' v='vases' />
+    <tag k='name' v='vases' />
     <tag k='ref' v='vases' />
   </way>
   <way id='-160889' action='modify' visible='true'>
@@ -60251,6 +60257,7 @@
     <nd ref='-178866' />
     <tag k='building' v='yes' />
     <tag k='id' v='sofas' />
+    <tag k='name' v='sofas' />
     <tag k='ref' v='sofas' />
   </way>
   <way id='22757641' action='delete' timestamp='2015-09-11T11:04:29Z' uid='2385132' user='MENTZ_TU' visible='true' version='10' changeset='33954623'>
