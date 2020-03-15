@@ -6,7 +6,9 @@
         {
             "type": "Feature",
             "properties": {
-                "building": "yes"
+                "building": "yes",
+				"ref": "Bikini",
+				"id": "Bikini"
             },
             "geometry": {
                 "type": "Polygon",
