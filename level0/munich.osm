@@ -64480,9 +64480,9 @@
     <nd ref='-443039' />
     <nd ref='-269879' />
     <tag k='building' v='yes' />
-    <tag k='id' v='Couches' />
-    <tag k='name' v='Couches' />
-    <tag k='ref' v='Couches' />
+    <tag k='id' v='West_beds' />
+    <tag k='name' v='West_beds' />
+    <tag k='ref' v='West_beds' />
   </way>
   <way id='22757641' action='delete' timestamp='2015-09-11T11:04:29Z' uid='2385132' user='MENTZ_TU' visible='true' version='10' changeset='33954623'>
     <tag k='amenity' v='parking' />
