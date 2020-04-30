@@ -34,6 +34,20 @@
         {
             "type":"Feature",
             "properties":{
+                "name":"Laptop",
+                "ref":"Laptop"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    55.20485454231,
+                    25.11381525234
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "ref":"14",
                 "name":"14"
             },
@@ -62,8 +76,8 @@
         {
             "type":"Feature",
             "properties":{
-                "ref":"??",
-                "name":"??"
+                "ref":"20",
+                "name":"20"
             },
             "geometry":{
                 "type":"Point",
