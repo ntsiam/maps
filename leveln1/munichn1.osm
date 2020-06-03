@@ -2744,11 +2744,11 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
   </node>
-  <node id='-441326' action='modify' visible='true' lat='53.65477717121' lon='10.09091522156'>
+  <node id='-441326' action='modify' visible='true' lat='53.65466351403' lon='10.09084749578'>
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
   </node>
-  <node id='-441327' action='modify' visible='true' lat='53.65486042689' lon='10.09052261321'>
+  <node id='-441327' action='modify' visible='true' lat='53.65474478292' lon='10.0904609224'>
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
   </node>
@@ -3737,14 +3737,6 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
   </node>
-  <node id='-441605' action='modify' visible='true' lat='53.65448388737' lon='10.09139164894'>
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
-  </node>
-  <node id='-441606' action='modify' visible='true' lat='53.65448706661' lon='10.09137622623'>
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
-  </node>
   <node id='-441607' action='modify' visible='true' lat='53.65434519301' lon='10.09160421366'>
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
@@ -3761,51 +3753,7 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
   </node>
-  <node id='-441611' action='modify' visible='true' lat='53.65409164745' lon='10.09143053996'>
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
-  </node>
-  <node id='-441612' action='modify' visible='true' lat='53.65411072306' lon='10.09134470927'>
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
-  </node>
   <node id='-441613' action='modify' visible='true' lat='53.65405270138' lon='10.09143992769'>
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
-  </node>
-  <node id='-441614' action='modify' visible='true' lat='53.65405905993' lon='10.0914117645'>
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
-  </node>
-  <node id='-441615' action='modify' visible='true' lat='53.65428578054' lon='10.09142417072'>
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
-  </node>
-  <node id='-441616' action='modify' visible='true' lat='53.65428697276' lon='10.09141847103'>
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
-  </node>
-  <node id='-441617' action='modify' visible='true' lat='53.65415761724' lon='10.09137287247'>
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
-  </node>
-  <node id='-441618' action='modify' visible='true' lat='53.65416238613' lon='10.09134605038'>
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
-  </node>
-  <node id='-441619' action='modify' visible='true' lat='53.65446044067' lon='10.09140237744'>
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
-  </node>
-  <node id='-441620' action='modify' visible='true' lat='53.65445646662' lon='10.09141712959'>
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
-  </node>
-  <node id='-441621' action='modify' visible='true' lat='53.65431856678' lon='10.09143456394'>
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
-  </node>
-  <node id='-441622' action='modify' visible='true' lat='53.65433923192' lon='10.09133062835'>
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
   </node>
@@ -4089,6 +4037,8 @@
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
   </node>
+  <node id='-441791' action='modify' visible='true' lat='53.65436702463' lon='10.09130526399' />
+  <node id='-441792' action='modify' visible='true' lat='53.65430041665' lon='10.09158761669' />
   <node id='147062' visible='true' version='1' lat='48.1118298' lon='11.5451633' />
   <node id='13876639' visible='true' version='1' lat='48.1195264' lon='11.5804157' />
   <node id='13876640' visible='true' version='1' lat='48.1188511' lon='11.5777653' />
@@ -22250,6 +22200,7 @@
     <nd ref='-441238' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Flying Tiger' />
   </way>
   <way id='-443923' action='modify' visible='true'>
     <nd ref='-441376' />
@@ -22291,6 +22242,7 @@
     <nd ref='-441246' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Budnikowsky' />
   </way>
   <way id='-443925' action='modify' visible='true'>
     <nd ref='-441417' />
@@ -22334,6 +22286,7 @@
     <nd ref='-441259' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Deichmann' />
   </way>
   <way id='-443927' action='modify' visible='true'>
     <nd ref='-441278' />
@@ -22345,6 +22298,7 @@
     <nd ref='-441281' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Mobile Select' />
   </way>
   <way id='-443928' action='modify' visible='true'>
     <nd ref='-441284' />
@@ -22358,6 +22312,7 @@
     <nd ref='-441284' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Olymp &amp; Hades' />
   </way>
   <way id='-443929' action='modify' visible='true'>
     <nd ref='-441282' />
@@ -22372,6 +22327,7 @@
     <nd ref='-441282' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Sport Sperk' />
   </way>
   <way id='-443930' action='modify' visible='true'>
     <nd ref='-441299' />
@@ -22396,6 +22352,7 @@
     <nd ref='-441299' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='H&amp;M' />
   </way>
   <way id='-443931' action='modify' visible='true'>
     <nd ref='-441305' />
@@ -22408,6 +22365,7 @@
     <nd ref='-441305' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Wolfsdorf Tobacco' />
   </way>
   <way id='-443932' action='modify' visible='true'>
     <nd ref='-441316' />
@@ -22419,6 +22377,7 @@
     <nd ref='-441316' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Foot locker' />
   </way>
   <way id='-443933' action='modify' visible='true'>
     <nd ref='-441321' />
@@ -22429,17 +22388,7 @@
     <nd ref='-441321' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
-  </way>
-  <way id='-443934' action='modify' visible='true'>
-    <nd ref='-441326' />
-    <nd ref='-441325' />
-    <nd ref='-441328' />
-    <nd ref='-441342' />
-    <nd ref='-441330' />
-    <nd ref='-441327' />
-    <nd ref='-441326' />
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
+    <tag k='name' v='Hartfelder' />
   </way>
   <way id='-443935' action='modify' visible='true'>
     <nd ref='-441328' />
@@ -22449,6 +22398,7 @@
     <nd ref='-441328' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Fishers Sweet shop' />
   </way>
   <way id='-443936' action='modify' visible='true'>
     <nd ref='-441329' />
@@ -22458,6 +22408,7 @@
     <nd ref='-441329' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='ticketshop' />
   </way>
   <way id='-443937' action='modify' visible='true'>
     <nd ref='-441331' />
@@ -22469,6 +22420,7 @@
     <nd ref='-441331' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Violas' />
   </way>
   <way id='-443938' action='modify' visible='true'>
     <nd ref='-441338' />
@@ -22480,6 +22432,7 @@
     <nd ref='-441338' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Der Deutsches Reisebüro' />
   </way>
   <way id='-443939' action='modify' visible='true'>
     <nd ref='-441335' />
@@ -22492,6 +22445,7 @@
     <nd ref='-441335' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='apollo optik' />
   </way>
   <way id='-443940' action='modify' visible='true'>
     <nd ref='-441339' />
@@ -22504,6 +22458,7 @@
     <nd ref='-441339' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Blume 2000' />
   </way>
   <way id='-443941' action='modify' visible='true'>
     <nd ref='-441349' />
@@ -22517,6 +22472,7 @@
     <nd ref='-441349' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='RWS' />
   </way>
   <way id='-443942' action='modify' visible='true'>
     <nd ref='-441350' />
@@ -22528,6 +22484,7 @@
     <nd ref='-441350' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Multi Express' />
   </way>
   <way id='-443943' action='modify' visible='true'>
     <nd ref='-441352' />
@@ -22540,6 +22497,7 @@
     <nd ref='-441352' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='ECCO' />
   </way>
   <way id='-443944' action='modify' visible='true'>
     <nd ref='-441361' />
@@ -22553,6 +22511,7 @@
     <nd ref='-441361' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Studioline Photographie' />
   </way>
   <way id='-443945' action='modify' visible='true'>
     <nd ref='-441365' />
@@ -22566,6 +22525,7 @@
     <nd ref='-441365' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Falke' />
   </way>
   <way id='-443946' action='modify' visible='true'>
     <nd ref='-441370' />
@@ -22576,6 +22536,7 @@
     <nd ref='-441370' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='DEINSIM' />
   </way>
   <way id='-443947' action='modify' visible='true'>
     <nd ref='-441379' />
@@ -22590,6 +22551,7 @@
     <nd ref='-441379' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Betten Huntenburg' />
   </way>
   <way id='-443948' action='modify' visible='true'>
     <nd ref='-441375' />
@@ -22605,6 +22567,7 @@
     <nd ref='-441375' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Hagel' />
   </way>
   <way id='-443949' action='modify' visible='true'>
     <nd ref='-441409' />
@@ -22616,6 +22579,7 @@
     <nd ref='-441409' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Juwelier Rubin' />
   </way>
   <way id='-443950' action='modify' visible='true'>
     <nd ref='-441413' />
@@ -22627,6 +22591,7 @@
     <nd ref='-441413' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Smart Repair' />
   </way>
   <way id='-443951' action='modify' visible='true'>
     <nd ref='-441413' />
@@ -22638,6 +22603,7 @@
     <nd ref='-441413' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Sostrene Grene' />
   </way>
   <way id='-443952' action='modify' visible='true'>
     <nd ref='-441426' />
@@ -22665,6 +22631,7 @@
     <nd ref='-441426' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='REWE' />
   </way>
   <way id='-443953' action='modify' visible='true'>
     <nd ref='-441437' />
@@ -22675,6 +22642,7 @@
     <nd ref='-441437' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='TEE Geschwender' />
   </way>
   <way id='-443954' action='modify' visible='true'>
     <nd ref='-441457' />
@@ -22684,6 +22652,7 @@
     <nd ref='-441457' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Litraton Puzzle' />
   </way>
   <way id='-443955' action='modify' visible='true'>
     <nd ref='-441463' />
@@ -22694,6 +22663,7 @@
     <nd ref='-441463' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Del Vino' />
   </way>
   <way id='-443956' action='modify' visible='true'>
     <nd ref='-441468' />
@@ -22786,6 +22756,7 @@
     <nd ref='-441526' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Galeria Karstadt Kaufhof' />
   </way>
   <way id='-443958' action='modify' visible='true'>
     <nd ref='-441531' />
@@ -22797,6 +22768,7 @@
     <nd ref='-441531' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Reformhaus Engelhardt' />
   </way>
   <way id='-443959' action='modify' visible='true'>
     <nd ref='-441537' />
@@ -22814,6 +22786,7 @@
     <nd ref='-441537' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Party Fiesta' />
   </way>
   <way id='-443960' action='modify' visible='true'>
     <nd ref='-441534' />
@@ -22928,6 +22901,7 @@
     <nd ref='-441547' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Vodafone' />
   </way>
   <way id='-443962' action='modify' visible='true'>
     <nd ref='-441555' />
@@ -22939,6 +22913,7 @@
     <nd ref='-441555' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Innocigs' />
   </way>
   <way id='-443963' action='modify' visible='true'>
     <nd ref='-441558' />
@@ -22950,6 +22925,7 @@
     <nd ref='-441558' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Papeterie Bathelt' />
   </way>
   <way id='-443964' action='modify' visible='true'>
     <nd ref='-441559' />
@@ -22963,6 +22939,7 @@
     <nd ref='-441559' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='WMF' />
   </way>
   <way id='-443965' action='modify' visible='true'>
     <nd ref='-441569' />
@@ -22974,6 +22951,7 @@
     <nd ref='-441569' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='TUTTO' />
   </way>
   <way id='-443966' action='modify' visible='true'>
     <nd ref='-441568' />
@@ -22983,6 +22961,7 @@
     <nd ref='-441568' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Body attack' />
   </way>
   <way id='-443967' action='modify' visible='true'>
     <nd ref='-441571' />
@@ -22992,6 +22971,7 @@
     <nd ref='-441571' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Eydeler' />
   </way>
   <way id='-443968' action='modify' visible='true'>
     <nd ref='-441577' />
@@ -23001,6 +22981,7 @@
     <nd ref='-441577' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Hallmann' />
   </way>
   <way id='-443969' action='modify' visible='true'>
     <nd ref='-441575' />
@@ -23010,6 +22991,7 @@
     <nd ref='-441575' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Herzog und Bräuer' />
   </way>
   <way id='-443970' action='modify' visible='true'>
     <nd ref='-441581' />
@@ -23023,6 +23005,7 @@
     <nd ref='-441581' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Schuhkay' />
   </way>
   <way id='-443971' action='modify' visible='true'>
     <nd ref='-441582' />
@@ -23032,6 +23015,7 @@
     <nd ref='-441582' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Body Beach' />
   </way>
   <way id='-443972' action='modify' visible='true'>
     <nd ref='-441592' />
@@ -23043,12 +23027,14 @@
     <nd ref='-441595' />
     <nd ref='-441596' />
     <nd ref='-441593' />
+    <nd ref='-441791' />
     <nd ref='-441594' />
     <nd ref='-441600' />
     <nd ref='-441598' />
     <nd ref='-441592' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Ansons' />
   </way>
   <way id='-443973' action='modify' visible='true'>
     <nd ref='-441599' />
@@ -23059,6 +23045,7 @@
     <nd ref='-441599' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Sergent Major' />
   </way>
   <way id='-443974' action='modify' visible='true'>
     <nd ref='-441597' />
@@ -23068,39 +23055,17 @@
     <nd ref='-441597' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='HSV Fanshop' />
   </way>
   <way id='-443975' action='modify' visible='true'>
     <nd ref='-441603' />
     <nd ref='-441601' />
-    <nd ref='-441605' />
-    <nd ref='-441606' />
     <nd ref='-441594' />
     <nd ref='-441600' />
     <nd ref='-441603' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
-  </way>
-  <way id='-443976' action='modify' visible='true'>
-    <nd ref='-441604' />
-    <nd ref='-441609' />
-    <nd ref='-441610' />
-    <nd ref='-441607' />
-    <nd ref='-441608' />
-    <nd ref='-441613' />
-    <nd ref='-441614' />
-    <nd ref='-441611' />
-    <nd ref='-441612' />
-    <nd ref='-441617' />
-    <nd ref='-441618' />
-    <nd ref='-441615' />
-    <nd ref='-441616' />
-    <nd ref='-441621' />
-    <nd ref='-441622' />
-    <nd ref='-441619' />
-    <nd ref='-441620' />
-    <nd ref='-441604' />
-    <tag k='building' v='yes' />
-    <tag k='level' v='-1' />
+    <tag k='name' v='O2' />
   </way>
   <way id='-443977' action='modify' visible='true'>
     <nd ref='-441608' />
@@ -23118,9 +23083,11 @@
     <nd ref='-441631' />
     <nd ref='-441632' />
     <nd ref='-441613' />
+    <nd ref='-441792' />
     <nd ref='-441608' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Basic Bio für alle' />
   </way>
   <way id='-443978' action='modify' visible='true'>
     <nd ref='-441637' />
@@ -23318,6 +23285,7 @@
     <nd ref='-441209' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='TUI' />
   </way>
   <way id='-443995' action='modify' visible='true'>
     <nd ref='-441218' />
@@ -23330,6 +23298,7 @@
     <nd ref='-441218' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Tchibo' />
   </way>
   <way id='-443996' action='modify' visible='true'>
     <nd ref='-441218' />
@@ -23345,6 +23314,7 @@
     <nd ref='-441218' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Ulla Popken' />
   </way>
   <way id='-443997' action='modify' visible='true'>
     <nd ref='-441227' />
@@ -23354,6 +23324,7 @@
     <nd ref='-441227' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Hunkmöller' />
   </way>
   <way id='-443998' action='modify' visible='true'>
     <nd ref='-441228' />
@@ -23363,6 +23334,7 @@
     <nd ref='-441228' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Jack Wolfskin' />
   </way>
   <way id='-443999' action='modify' visible='true'>
     <nd ref='-441230' />
@@ -23372,6 +23344,7 @@
     <nd ref='-441230' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Ernstings family' />
   </way>
   <way id='-444000' action='modify' visible='true'>
     <nd ref='-441236' />
@@ -23386,6 +23359,19 @@
     <nd ref='-441236' />
     <tag k='building' v='yes' />
     <tag k='level' v='-1' />
+    <tag k='name' v='Nanu Nana' />
+  </way>
+  <way id='-445830' action='modify' visible='true'>
+    <nd ref='-441791' />
+    <nd ref='-441792' />
+    <nd ref='-441610' />
+    <nd ref='-441609' />
+    <nd ref='-441601' />
+    <nd ref='-441594' />
+    <nd ref='-441791' />
+    <tag k='building' v='yes' />
+    <tag k='level' v='0' />
+    <tag k='name' v='DEPOT' />
   </way>
   <way id='4211359' visible='true' version='1'>
     <nd ref='20925334' />
