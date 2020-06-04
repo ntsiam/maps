@@ -7,7 +7,8 @@
             "type":"Feature",
             "properties":{
                 "name":"E98",
-                "ref":"E98"
+                "ref":"E98",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -21,7 +22,8 @@
             "type":"Feature",
             "properties":{
                 "name":"E7E",
-                "ref":"E7E"
+                "ref":"E7E",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -35,7 +37,8 @@
             "type":"Feature",
             "properties":{
                 "name":"E80",
-                "ref":"E80"
+                "ref":"E80",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -49,7 +52,8 @@
             "type":"Feature",
             "properties":{
                 "name":"E66",
-                "ref":"1001"
+                "ref":"E66",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -63,7 +67,8 @@
             "type":"Feature",
             "properties":{
                 "name":"E92",
-                "ref":"E98"
+                "ref":"E92",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -77,7 +82,8 @@
             "type":"Feature",
             "properties":{
                 "name":"EA4",
-                "ref":"EA4"
+                "ref":"EA4",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -91,7 +97,8 @@
             "type":"Feature",
             "properties":{
                 "name":"E84",
-                "ref":"E84"
+                "ref":"E84",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -105,7 +112,8 @@
             "type":"Feature",
             "properties":{
                 "name":"EC0",
-                "ref":"EC0"
+                "ref":"EC0",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -119,7 +127,8 @@
             "type":"Feature",
             "properties":{
                 "name":"E7A",
-                "ref":"E7A"
+                "ref":"E7A",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -133,7 +142,8 @@
             "type":"Feature",
             "properties":{
                 "name":"198",
-                "ref":"198"
+                "ref":"198",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -147,7 +157,8 @@
             "type":"Feature",
             "properties":{
                 "name":"EA8",
-                "ref":"EA8"
+                "ref":"EA8",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -161,7 +172,8 @@
             "type":"Feature",
             "properties":{
                 "name":"E70",
-                "ref":"E70"
+                "ref":"E70",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
