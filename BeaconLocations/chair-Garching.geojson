@@ -230,8 +230,8 @@
         {
             "type":"Feature",
             "properties":{
-                "name":"E70",
-                "ref":"E70"
+                "name":"EAC",
+                "ref":"EAC"
             },
             "geometry":{
                 "type":"Point",
