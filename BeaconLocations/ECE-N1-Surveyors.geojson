@@ -51,7 +51,8 @@
             "properties":{
                 "height":"0",
                 "ref":"E82",
-                "name":"E82"
+                "name":"E82",
+                "building":"yes"
             },
             "geometry":{
                 "type":"Point",
@@ -94,7 +95,8 @@
             "properties":{
                 "name":"E70",
                 "ref":"E70",
-                "height":"0"
+                "height":"0",
+                "building":"yes"
             },
             "geometry":{
                 "type":"Point",
@@ -150,7 +152,8 @@
             "type":"Feature",
             "properties":{
                 "name":"E72",
-                "ref":"E72"
+                "ref":"E72",
+                "building":"yes"
             },
             "geometry":{
                 "type":"Point",
@@ -235,7 +238,8 @@
             "properties":{
                 "name":"E9A",
                 "ref":"E9A",
-                "height":"0"
+                "height":"0",
+                "building":"yes"
             },
             "geometry":{
                 "type":"Point",
