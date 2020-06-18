@@ -7,7 +7,9 @@
             "type":"Feature",
             "properties":{
                 "name":"E6E",
-                "ref":"E6E"
+                "ref":"E6E",
+                "IP":"5.7",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -21,7 +23,9 @@
             "type":"Feature",
             "properties":{
                 "name":"EB6",
-                "ref":"EB6"
+                "ref":"EB6",
+                "IP":"5.38",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -35,7 +39,9 @@
             "type":"Feature",
             "properties":{
                 "name":"EB2",
-                "ref":"EB2"
+                "ref":"EB2",
+                "IP":"5,37",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -49,7 +55,9 @@
             "type":"Feature",
             "properties":{
                 "name":"EA6",
-                "ref":"EA6"
+                "ref":"EA6",
+                "IP":"5.26",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -63,7 +71,9 @@
             "type":"Feature",
             "properties":{
                 "name":"EA0",
-                "ref":"EA0"
+                "ref":"EA0",
+                "IP":"5.36",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -78,13 +88,15 @@
             "properties":{
                 "name":"E64",
                 "ref":"E64",
-                "building":"yes"
+                "IP":"5.16",
+                "Channel":"2.4: 3 -- 5: 60",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    10.09040694645,
-                    53.65392721591
+                    10.09049740122,
+                    53.65393379607
                 ]
             }
         },
@@ -92,7 +104,9 @@
             "type":"Feature",
             "properties":{
                 "name":"E78",
-                "ref":"E78"
+                "ref":"E78",
+                "IP":"5.35",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -107,7 +121,8 @@
             "properties":{
                 "name":"E62",
                 "ref":"E62",
-                "building":"yes"
+                "IP":"5.20",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -122,7 +137,8 @@
             "properties":{
                 "name":"EB0",
                 "ref":"EB0",
-                "building":"yes"
+                "building":"yes",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -136,7 +152,9 @@
             "type":"Feature",
             "properties":{
                 "name":"E94",
-                "ref":"E94"
+                "ref":"E94",
+                "IP":"5.24",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -151,13 +169,16 @@
             "properties":{
                 "name":"E6C",
                 "ref":"E6C",
-                "building":"yes"
+                "building":"yes",
+                "highway":"corridor",
+                "Channel":"2.4: 3 -- 5: 60",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    10.09069251985,
-                    53.65417353944
+                    10.09062982195,
+                    53.65413405864
                 ]
             }
         },
@@ -165,7 +186,9 @@
             "type":"Feature",
             "properties":{
                 "name":"E74",
-                "ref":"E74"
+                "ref":"E74",
+                "IP":"5.33",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -179,7 +202,9 @@
             "type":"Feature",
             "properties":{
                 "name":"E8E",
-                "ref":"E8E"
+                "ref":"E8E",
+                "IP":"5,39",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -193,7 +218,10 @@
             "type":"Feature",
             "properties":{
                 "name":"E8A",
-                "ref":"E8A"
+                "ref":"E8A",
+                "IP":"5.41",
+                "building":"yes",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -207,7 +235,9 @@
             "type":"Feature",
             "properties":{
                 "name":"E7A",
-                "ref":"E7A"
+                "ref":"E7A",
+                "IP":"5.42",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -221,7 +251,9 @@
             "type":"Feature",
             "properties":{
                 "name":"EA4",
-                "ref":"EA4"
+                "ref":"EA4",
+                "IP":"5.49",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -236,7 +268,8 @@
             "properties":{
                 "height":"0",
                 "ref":"EA8",
-                "name":"EA8"
+                "name":"EA8",
+                "IP":"5.49"
             },
             "geometry":{
                 "type":"Point",
@@ -250,7 +283,9 @@
             "type":"Feature",
             "properties":{
                 "name":"EB4",
-                "ref":"EB4"
+                "ref":"EB4",
+                "IP":"5.19",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -264,7 +299,9 @@
             "type":"Feature",
             "properties":{
                 "name":"EAA",
-                "ref":"EAA"
+                "ref":"EAA",
+                "IP":"5.29",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -278,7 +315,9 @@
             "type":"Feature",
             "properties":{
                 "name":"EC4",
-                "ref":"EC4"
+                "ref":"EC4",
+                "IP":"5.40",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -292,7 +331,9 @@
             "type":"Feature",
             "properties":{
                 "name":"E9C",
-                "ref":"E9C"
+                "ref":"E9C",
+                "IP":"5.15",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -306,7 +347,9 @@
             "type":"Feature",
             "properties":{
                 "name":"E96",
-                "ref":"E96"
+                "ref":"E96",
+                "IP":"5.31",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -320,7 +363,9 @@
             "type":"Feature",
             "properties":{
                 "name":"E7C",
-                "ref":"E7C"
+                "ref":"E7C",
+                "IP":"5.32",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -334,7 +379,9 @@
             "type":"Feature",
             "properties":{
                 "name":"EBE",
-                "ref":"EBE"
+                "ref":"EBE",
+                "IP":"5.39",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
@@ -348,7 +395,10 @@
             "type":"Feature",
             "properties":{
                 "name":"E68",
-                "ref":"E68"
+                "ref":"E68",
+                "IP":"5.22",
+                "building":"yes",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
