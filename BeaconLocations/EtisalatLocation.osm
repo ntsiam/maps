@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-85051' action='modify' lat='25.21758469568' lon='55.40688388977'>
+    <tag k='name' v='43986' />
+    <tag k='ref' v='43986' />
+  </node>
+  <node id='-85069' action='modify' lat='25.21759455365' lon='55.40690689812'>
+    <tag k='name' v='44126' />
+    <tag k='ref' v='44126' />
+  </node>
+  <node id='-85082' action='modify' lat='25.21759387118' lon='55.40693602523'>
+    <tag k='name' v='44256' />
+    <tag k='ref' v='44256' />
+  </node>
+  <node id='-85100' action='modify' lat='25.21757271441' lon='55.40697160638'>
+    <tag k='name' v='43952' />
+    <tag k='ref' v='43952' />
+  </node>
+  <node id='-85114' action='modify' lat='25.21759144465' lon='55.40702512479'>
+    <tag k='name' v='44161' />
+    <tag k='ref' v='44161' />
+  </node>
+  <node id='-85127' action='modify' lat='25.21751220148' lon='55.40692630216'>
+    <tag k='name' v='42009' />
+    <tag k='ref' v='42009' />
+  </node>
+  <node id='-85140' action='modify' lat='25.21750522504' lon='55.4069573152'>
+    <tag k='name' v='43913' />
+    <tag k='ref' v='43913' />
+  </node>
+  <node id='-85153' action='modify' lat='25.21752550975' lon='55.40686494667'>
+    <tag k='name' v='44006' />
+    <tag k='ref' v='44006' />
+  </node>
+</osm>
