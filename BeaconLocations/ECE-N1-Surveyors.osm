@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-38980' action='modify' lat='53.65453038237' lon='10.09045654854'>
+    <tag k='name' v='EB8' />
+    <tag k='ref' v='EB8' />
+  </node>
+  <node id='-38982' action='modify' lat='53.65449663298' lon='10.09060903466'>
+    <tag k='name' v='EBC' />
+    <tag k='ref' v='EBC' />
+  </node>
+  <node id='-38984' action='modify' lat='53.65448354244' lon='10.09073006519'>
+    <tag k='name' v='E76' />
+    <tag k='ref' v='E76' />
+  </node>
+  <node id='-38986' action='modify' lat='53.65441213409' lon='10.09078699'>
+    <tag k='name' v='EC0' />
+    <tag k='ref' v='EC0' />
+  </node>
+  <node id='-38988' action='modify' lat='53.65424835582' lon='10.09068226765'>
+    <tag k='name' v='E90' />
+    <tag k='ref' v='E90' />
+  </node>
+  <node id='-38990' action='modify' lat='53.65435080045' lon='10.09067860412'>
+    <tag k='name' v='E86' />
+    <tag k='ref' v='E86' />
+  </node>
+  <node id='-38992' action='modify' lat='53.6541737139' lon='10.09057525735'>
+    <tag k='name' v='E88' />
+    <tag k='ref' v='E88' />
+  </node>
+  <node id='-38994' action='modify' lat='53.65401081213' lon='10.09047907351'>
+    <tag k='name' v='E80' />
+    <tag k='ref' v='E80' />
+  </node>
+  <node id='-38996' action='modify' lat='53.65407615233' lon='10.090597427'>
+    <tag k='name' v='EAC' />
+    <tag k='ref' v='EAC' />
+  </node>
+  <node id='-38998' action='modify' lat='53.65365131651' lon='10.09045527625'>
+    <tag k='name' v='E98' />
+    <tag k='ref' v='E98' />
+  </node>
+  <node id='-39000' action='modify' lat='53.65370929211' lon='10.09057271682'>
+    <tag k='name' v='EA2' />
+    <tag k='ref' v='EA2' />
+  </node>
+  <node id='-39002' action='modify' lat='53.65380727785' lon='10.09052492157'>
+    <tag k='name' v='E72' />
+    <tag k='ref' v='E72' />
+  </node>
+  <node id='-39004' action='modify' lat='53.65392774672' lon='10.09051751893'>
+    <tag k='name' v='E92' />
+    <tag k='ref' v='E92' />
+  </node>
+  <node id='-39006' action='modify' lat='53.65349222003' lon='10.0903096604'>
+    <tag k='name' v='EAE' />
+    <tag k='ref' v='EAE' />
+  </node>
+  <node id='-39008' action='modify' lat='53.65351733774' lon='10.09041385712'>
+    <tag k='name' v='EC2' />
+    <tag k='ref' v='EC2' />
+  </node>
+  <node id='-39010' action='modify' lat='53.6545628258' lon='10.09087499753'>
+    <tag k='height' v='0' />
+    <tag k='name' v='E7E' />
+    <tag k='ref' v='E7E' />
+  </node>
+  <node id='-39012' action='modify' lat='53.65470139409' lon='10.09088610028'>
+    <tag k='height' v='0' />
+    <tag k='name' v='E70' />
+    <tag k='ref' v='E70' />
+  </node>
+  <node id='-39014' action='modify' lat='53.65479583702' lon='10.09102847675'>
+    <tag k='height' v='0' />
+    <tag k='name' v='E82' />
+    <tag k='ref' v='E82' />
+  </node>
+  <node id='-39016' action='modify' lat='53.65507877749' lon='10.09127959487'>
+    <tag k='height' v='0' />
+    <tag k='name' v='E9A' />
+    <tag k='ref' v='E9A' />
+  </node>
+</osm>
