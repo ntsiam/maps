@@ -1,0 +1,172 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "685",
+                "ref": "685",
+                "height": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66728457871,
+                    48.26299837674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "8CB",
+                "ref": "8CB",
+                "height": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66716722782,
+                    48.26304129443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "56F",
+                "ref": "56F",
+                "height": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66718475614,
+                    48.26310893392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "867",
+                "ref": "867",
+                "height": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66715890930,
+                    48.26300450801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "6CD",
+                "ref": "6CD",
+                "height": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66728784670,
+                    48.26296772136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "6B9",
+                "ref": "6B9",
+                "height": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66731042526,
+                    48.26306304983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "80F",
+                "ref": "80F",
+                "height": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66721446515,
+                    48.26320801967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "6D5",
+                "ref": "6D5",
+                "height": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66720466147,
+                    48.26296060140
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "54D",
+                "ref": "54D",
+                "height": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66722783420,
+                    48.26305573211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "6EB",
+                "ref": "6EB",
+                "height": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66730180964,
+                    48.26303101006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "873",
+                "ref": "873",
+                "height": "0"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66724565961,
+                    48.26312297602
+                ]
+            }
+        }
+    ]
+}
