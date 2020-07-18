@@ -6,86 +6,43 @@
         {
             "type":"Feature",
             "properties":{
+                "name":"EC0",
+                "ref":"EC0"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    10.09078699000,
+                    53.65441213409
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "height":"0",
-                "name":"E7E",
-                "ref":"E7E"
+                "name":"E6A",
+                "ref":"E6A"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    10.09087499753,
-                    53.65456282580
+                    10.09093921390,
+                    53.65477452627
                 ]
             }
         },
         {
             "type":"Feature",
             "properties":{
-                "name":"E80",
-                "ref":"E80"
+                "name":"EB8",
+                "ref":"EB8"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    10.09047907351,
-                    53.65401081213
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "building":"yes",
-                "name":"E72",
-                "ref":"E72"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    10.09052492157,
-                    53.65380727785
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "name":"EAC",
-                "ref":"EAC"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    10.09059742700,
-                    53.65407615233
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "name":"E90",
-                "ref":"E90"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    10.09068226765,
-                    53.65424835582
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "name":"EA2",
-                "ref":"EA2"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    10.09057271682,
-                    53.65370929211
+                    10.09045654854,
+                    53.65453038237
                 ]
             }
         },
@@ -108,14 +65,29 @@
         {
             "type":"Feature",
             "properties":{
-                "name":"E98",
-                "ref":"E98"
+                "building":"yes",
+                "name":"E72",
+                "ref":"E72"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    10.09045527625,
-                    53.65365131651
+                    10.09052492157,
+                    53.65380727785
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"E80",
+                "ref":"E80"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    10.09047907351,
+                    53.65401081213
                 ]
             }
         },
@@ -136,29 +108,43 @@
         {
             "type":"Feature",
             "properties":{
-                "height":"0",
-                "name":"E9E",
-                "ref":"E9E"
+                "name":"EBC",
+                "ref":"EBC"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    10.09051751893,
-                    53.65392774672
+                    10.09060903466,
+                    53.65449663298
                 ]
             }
         },
         {
             "type":"Feature",
             "properties":{
-                "name":"E88",
-                "ref":"E88"
+                "name":"EBA",
+                "ref":"EBA",
+                "height":"0"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    10.09057525735,
-                    53.65417371390
+                    10.09112207000,
+                    53.65503403097
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"E90",
+                "ref":"E90"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    10.09068226765,
+                    53.65424835582
                 ]
             }
         },
@@ -179,14 +165,14 @@
         {
             "type":"Feature",
             "properties":{
-                "name":"EC0",
-                "ref":"EC0"
+                "name":"EC2",
+                "ref":"EC2"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    10.09078699000,
-                    53.65441213409
+                    10.09041385712,
+                    53.65351733774
                 ]
             }
         },
@@ -209,14 +195,103 @@
         {
             "type":"Feature",
             "properties":{
-                "name":"EBC",
-                "ref":"EBC"
+                "building":"yes",
+                "height":"0",
+                "name":"E9A",
+                "ref":"E9A"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    10.09060903466,
-                    53.65449663298
+                    10.09127959487,
+                    53.65507877749
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "height":"0",
+                "name":"E7E",
+                "ref":"E7E"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    10.09087499753,
+                    53.65456282580
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"E98",
+                "ref":"E98"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    10.09045527625,
+                    53.65365131651
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "height":"0",
+                "ref":"E84",
+                "name":"E84"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    10.09109518144,
+                    53.65493363794
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"EAC",
+                "ref":"EAC"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    10.09059742700,
+                    53.65407615233
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "name":"E88",
+                "ref":"E88"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    10.09057525735,
+                    53.65417371390
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "height":"0",
+                "name":"E9E",
+                "ref":"E9E"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    10.09051751893,
+                    53.65392774672
                 ]
             }
         },
@@ -237,59 +312,14 @@
         {
             "type":"Feature",
             "properties":{
-                "name":"EC2",
-                "ref":"EC2"
+                "name":"EA2",
+                "ref":"EA2"
             },
             "geometry":{
                 "type":"Point",
                 "coordinates":[
-                    10.09041385712,
-                    53.65351733774
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "name":"EB8",
-                "ref":"EB8"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    10.09045654854,
-                    53.65453038237
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "height":"0",
-                "name":"E6A",
-                "ref":"E6A"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    10.09093921390,
-                    53.65477452627
-                ]
-            }
-        },
-        {
-            "type":"Feature",
-            "properties":{
-                "building":"yes",
-                "height":"0",
-                "name":"E9A",
-                "ref":"E9A"
-            },
-            "geometry":{
-                "type":"Point",
-                "coordinates":[
-                    10.09127959487,
-                    53.65507877749
+                    10.09057271682,
+                    53.65370929211
                 ]
             }
         }
