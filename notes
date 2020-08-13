@@ -1,4 +1,4 @@
-1To change max zoom
+1. To change max zoom
   Change max zoom inside src/mod_tile/includes/render_config.h before compiling mod_tile
 
 2. Make transparent background for tiles
