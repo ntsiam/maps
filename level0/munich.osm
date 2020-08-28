@@ -66262,6 +66262,7 @@
     <nd ref='-133458' />
     <nd ref='-133459' />
     <nd ref='-133452' />
+    <tag k='building' v='yes' />
     <tag k='name' v='entrance' />
   </way>
   <way id='-110859' action='modify' visible='true'>
