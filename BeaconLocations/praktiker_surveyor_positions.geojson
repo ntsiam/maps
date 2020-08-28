@@ -6,7 +6,10 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "16f3"
+                "id": "16f3",
+                "ref": "16f3",
+                "name": "16f3",
+                "height": "0"
             },
             "geometry": {
                 "type": "Point",
@@ -19,7 +22,10 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "16cb"
+                "id": "16cb",
+                "height": "0",
+                "name": "16cb",
+                "ref": "16cb"
             },
             "geometry": {
                 "type": "Point",
@@ -32,7 +38,10 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "16dd"
+                "id": "16dd",
+                "height": "0",
+                "name": "16dd",
+                "ref": "16dd"
             },
             "geometry": {
                 "type": "Point",
@@ -45,7 +54,10 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "ceb9"
+                "id": "ceb9",
+                "ref": "ceb9",
+                "name": "ceb9",
+                "height": "0"
             },
             "geometry": {
                 "type": "Point",
@@ -58,7 +70,10 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "155F"
+                "id": "155f",
+                "ref": "155f",
+                "name": "155f",
+                "height": "0"
             },
             "geometry": {
                 "type": "Point",
@@ -71,7 +86,10 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "1851"
+                "id": "1851",
+                "height": "0",
+                "name": "1851",
+                "ref": "1851"
             },
             "geometry": {
                 "type": "Point",
@@ -84,7 +102,10 @@
         {
             "type": "Feature",
             "properties": {
-                "id": "1769"
+                "id": "1769",
+                "ref": "1769",
+                "name": "1769",
+                "height": "0"
             },
             "geometry": {
                 "type": "Point",
