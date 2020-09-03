@@ -6,6 +6,21 @@
         {
             "type":"Feature",
             "properties":{
+                "IP":"19",
+                "name":"C79042",
+                "ref":"C79042"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    12.92216662442,
+                    47.93372759578
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
                 "IP":"11",
                 "name":"E55DE6",
                 "ref":"E55DE6"
@@ -15,6 +30,21 @@
                 "coordinates":[
                     12.92201121523,
                     47.93386954927
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "IP":"23",
+                "name":"39A9F6",
+                "ref":"39A9F6"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    12.92243438781,
+                    47.93369740787
                 ]
             }
         },
@@ -51,8 +81,7 @@
             "type":"Feature",
             "properties":{
                 "IP":"24",
-                "ref":"9A8A73",
-                "name":"9A8A73"
+                "ref":"9A8A73"
             },
             "geometry":{
                 "type":"Point",
@@ -90,6 +119,10 @@
                     [
                         12.92221212328,
                         47.93378765714
+                    ],
+                    [
+                        12.92243438781,
+                        47.93369740787
                     ],
                     [
                         12.92283324458,
@@ -176,6 +209,21 @@
                 "coordinates":[
                     12.92265403949,
                     47.93360834706
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "IP":"20",
+                "ref":"DF5273",
+                "name":"DF5273"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    12.92196074490,
+                    47.93381329288
                 ]
             }
         },
