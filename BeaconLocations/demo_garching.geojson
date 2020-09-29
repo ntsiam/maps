@@ -1,0 +1,91 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "5",
+                "name": "5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66712842865,
+                    48.26290734308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "2",
+                "name": "2"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66718978418,
+                    48.26291571300
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "7",
+                "name": "7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66718224047,
+                    48.26290544590
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "3",
+                "name": "3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66715860300,
+                    48.26292531084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "6",
+                "name": "6"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66716380028,
+                    48.26290243273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "4",
+                "name": "4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66712457297,
+                    48.26292006536
+                ]
+            }
+        }
+    ]
+}
