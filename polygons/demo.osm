@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-111157' action='modify' visible='true' lat='48.26292531084' lon='11.667158603'>
+    <tag k='id' v='3' />
+    <tag k='name' v='3' />
+  </node>
+  <node id='-233823' action='modify' visible='true' lat='48.262915713' lon='11.66718978418'>
+    <tag k='id' v='2' />
+    <tag k='name' v='2' />
+  </node>
+  <node id='-233844' action='modify' visible='true' lat='48.26292006536' lon='11.66712457297'>
+    <tag k='id' v='4' />
+    <tag k='name' v='4' />
+  </node>
+  <node id='-233870' action='modify' visible='true' lat='48.26290734308' lon='11.66712842865'>
+    <tag k='id' v='5' />
+    <tag k='name' v='5' />
+  </node>
+  <node id='-233897' action='modify' visible='true' lat='48.26290243273' lon='11.66716380028'>
+    <tag k='id' v='6' />
+    <tag k='name' v='6' />
+  </node>
+  <node id='-233924' action='modify' visible='true' lat='48.2629054459' lon='11.66718224047'>
+    <tag k='id' v='7' />
+    <tag k='name' v='7' />
+  </node>
+</osm>
