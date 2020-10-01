@@ -6,30 +6,45 @@
         {
             "type": "Feature",
             "properties": {
-                "ref": "4381",
-                "name": "4381",
-                "IP": "3"
+                "IP": "4",
+                "name": "4323",
+                "ref": "4323"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.66716604036,
-                    48.26294702359
+                    11.66719618588,
+                    48.26291344829
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "41f9",
-                "ref": "41f9",
-                "IP": "2"
+                "IP": "5",
+                "name": "4277",
+                "ref": "4277"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.66718387631,
-                    48.26292896837
+                    11.66725137320,
+                    48.26284554326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "IP": "2",
+                "name": "41f9",
+                "ref": "41f9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.66718877337,
+                    48.26297861905
                 ]
             }
         },
@@ -37,29 +52,14 @@
             "type": "Feature",
             "properties": {
                 "IP": "7",
-                "ref": "4387",
-                "name": "4387"
+                "name": "4387",
+                "ref": "4387"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.66717348738,
-                    48.26290993393
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "IP": "4",
-                "ref": "4323",
-                "name": "4323"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.66713757437,
-                    48.26293713524
+                    11.66714252927,
+                    48.26291002142
                 ]
             }
         },
@@ -73,23 +73,23 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.66714030199,
-                    48.26294478133
+                    11.66715135886,
+                    48.26294363274
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "name": "4277",
-                "ref": "4277",
-                "IP": "5"
+                "IP": "3",
+                "name": "4381",
+                "ref": "4381"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.66713158690,
-                    48.26291098970
+                    11.66725449894,
+                    48.26289865956
                 ]
             }
         }
