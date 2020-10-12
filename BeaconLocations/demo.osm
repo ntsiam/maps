@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-231367' action='modify' visible='true' lat='48.12392842098' lon='11.60854160781'>
+    <tag k='IP' v='3' />
+    <tag k='id' v='4381' />
+    <tag k='name' v='4381' />
+    <tag k='ref' v='4381' />
+  </node>
+  <node id='-231487' action='modify' visible='true' lat='48.12390917386' lon='11.6085443738'>
+    <tag k='IP' v='2' />
+    <tag k='id' v='41F9' />
+    <tag k='name' v='41F9' />
+    <tag k='ref' v='41F9' />
+  </node>
+  <node id='-231583' action='modify' visible='true' lat='48.12388959105' lon='11.60857111199'>
+    <tag k='IP' v='5' />
+    <tag k='id' v='4277' />
+    <tag k='name' v='4277' />
+    <tag k='ref' v='4277' />
+  </node>
+  <node id='-231672' action='modify' visible='true' lat='48.12389048626' lon='11.60860866291'>
+    <tag k='IP' v='6' />
+    <tag k='id' v='42C3' />
+    <tag k='name' v='42C3' />
+    <tag k='ref' v='42C3' />
+  </node>
+  <node id='-231745' action='modify' visible='true' lat='48.1238660916' lon='11.6085478103'>
+    <tag k='IP' v='7' />
+    <tag k='id' v='4387' />
+    <tag k='name' v='4387' />
+    <tag k='ref' v='4387' />
+  </node>
+  <node id='-231835' action='modify' visible='true' lat='48.12387817703' lon='11.60850003345'>
+    <tag k='IP' v='4' />
+    <tag k='id' v='4323' />
+    <tag k='name' v='4323' />
+    <tag k='ref' v='4323' />
+  </node>
+</osm>
