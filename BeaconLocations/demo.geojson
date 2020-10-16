@@ -1,0 +1,103 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "IP": "21",
+                "id": "4189",
+                "name": "4189",
+                "ref": "4189"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60857111199,
+                    48.12388959105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "IP": "19",
+                "id": "4133",
+                "name": "4133",
+                "ref": "4133"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60854160781,
+                    48.12392842098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "IP": "24",
+                "id": "429b",
+                "name": "429b",
+                "ref": "429b"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60860866291,
+                    48.12389048626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "IP": "23",
+                "id": "42bb",
+                "name": "42bb",
+                "ref": "42bb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60850003345,
+                    48.12387817703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "IP": "22",
+                "id": "4117",
+                "name": "4117",
+                "ref": "4117"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60854781030,
+                    48.12386609160
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "IP": "20",
+                "id": "41e3",
+                "name": "41e3",
+                "ref": "41e3"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60854437380,
+                    48.12390917386
+                ]
+            }
+        }
+    ]
+}
