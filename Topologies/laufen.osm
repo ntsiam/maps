@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='false' generator='JOSM'>
-  <node id='-557855' lat='47.93387371202' lon='12.92212807643' />
+  <node id='-557855' action='modify' lat='47.93387371321' lon='12.92212807109' />
   <node id='-557856' lat='47.93386504198' lon='12.92213603987' />
   <node id='-557857' lat='47.93385797257' lon='12.92214400331' />
   <node id='-557858' lat='47.9338495693' lon='12.92215316126' />
@@ -196,13 +196,14 @@
     <nd ref='-557907' />
     <nd ref='-557908' />
     <nd ref='-557909' />
-    <tag k='1' v='0' />
     <tag k='highway' v='footway' />
     <tag k='level' v='0' />
   </way>
-  <way id='-504250'>
+  <way id='-504250' action='modify'>
     <nd ref='-557897' />
     <nd ref='-557910' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-504251' action='modify'>
     <nd ref='-557911' />
@@ -249,7 +250,6 @@
     <nd ref='-557952' />
     <nd ref='-557953' />
     <nd ref='-557855' />
-    <tag k='1' v='0' />
     <tag k='highway' v='footway' />
     <tag k='level' v='0' />
   </way>
@@ -296,7 +296,6 @@
     <nd ref='-557992' />
     <nd ref='-557993' />
     <nd ref='-557994' />
-    <tag k='1' v='0' />
     <tag k='highway' v='footway' />
     <tag k='level' v='0' />
   </way>
