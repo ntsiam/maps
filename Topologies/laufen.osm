@@ -140,7 +140,7 @@
   <node id='-557992' lat='47.93403017296' lon='12.92239644366' />
   <node id='-557993' lat='47.93404457851' lon='12.9223789241' />
   <node id='-557994' lat='47.93405791698' lon='12.9223661826' />
-  <way id='-504249'>
+  <way id='-504249' action='modify'>
     <nd ref='-557855' />
     <nd ref='-557856' />
     <nd ref='-557857' />
@@ -197,12 +197,13 @@
     <nd ref='-557908' />
     <nd ref='-557909' />
     <tag k='1' v='0' />
+    <tag k='pathway' v='footway' />
   </way>
   <way id='-504250'>
     <nd ref='-557897' />
     <nd ref='-557910' />
   </way>
-  <way id='-504251'>
+  <way id='-504251' action='modify'>
     <nd ref='-557911' />
     <nd ref='-557912' />
     <nd ref='-557913' />
@@ -248,8 +249,9 @@
     <nd ref='-557953' />
     <nd ref='-557855' />
     <tag k='1' v='0' />
+    <tag k='pathway' v='footway' />
   </way>
-  <way id='-504252'>
+  <way id='-504252' action='modify'>
     <nd ref='-557910' />
     <nd ref='-557954' />
     <nd ref='-557955' />
@@ -293,5 +295,6 @@
     <nd ref='-557993' />
     <nd ref='-557994' />
     <tag k='1' v='0' />
+    <tag k='pathway' v='footway' />
   </way>
 </osm>
