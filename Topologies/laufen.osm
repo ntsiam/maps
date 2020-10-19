@@ -198,6 +198,7 @@
     <nd ref='-557909' />
     <tag k='1' v='0' />
     <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-504250'>
     <nd ref='-557897' />
@@ -250,6 +251,7 @@
     <nd ref='-557855' />
     <tag k='1' v='0' />
     <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-504252' action='modify'>
     <nd ref='-557910' />
@@ -296,5 +298,6 @@
     <nd ref='-557994' />
     <tag k='1' v='0' />
     <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
 </osm>
