@@ -6,74 +6,10 @@
         {
             "type": "Feature",
             "properties": {
-                "IP": "21",
-                "id": "4189",
-                "name": "4189",
-                "ref": "4189"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.60857111199,
-                    48.12388959105
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "IP": "19",
-                "id": "4133",
-                "name": "4133",
-                "ref": "4133"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.60854160781,
-                    48.12392842098
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "IP": "24",
-                "id": "429b",
-                "name": "429b",
-                "ref": "429b"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.60860866291,
-                    48.12389048626
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "IP": "23",
-                "id": "42bb",
-                "name": "42bb",
-                "ref": "42bb"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.60850003345,
-                    48.12387817703
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "IP": "22",
-                "id": "4117",
-                "name": "4117",
-                "ref": "4117"
+                "IP": "28",
+                "id": "4399",
+                "name": "4399",
+                "ref": "4399"
             },
             "geometry": {
                 "type": "Point",
@@ -86,16 +22,80 @@
         {
             "type": "Feature",
             "properties": {
-                "IP": "20",
-                "id": "41e3",
-                "name": "41e3",
-                "ref": "41e3"
+                "IP": "30",
+                "id": "41db",
+                "name": "41db",
+                "ref": "41db"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60850003345,
+                    48.12387817703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "IP": "27",
+                "id": "4135",
+                "name": "4135",
+                "ref": "4135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60857111199,
+                    48.12388959105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "IP": "26",
+                "id": "4159",
+                "name": "4159",
+                "ref": "4159"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     11.60854437380,
                     48.12390917386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "IP": "29",
+                "id": "418f",
+                "name": "418f",
+                "ref": "418f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60860866291,
+                    48.12389048626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "IP": "25",
+                "id": "42a7",
+                "name": "42a7",
+                "ref": "42a7"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.60854160781,
+                    48.12392842098
                 ]
             }
         }
