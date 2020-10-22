@@ -6,96 +6,96 @@
         {
             "type": "Feature",
             "properties": {
-                "IP": "28",
-                "id": "4399",
-                "name": "4399",
-                "ref": "4399"
+                "IP": "22",
+                "id": "4117",
+                "name": "4117",
+                "ref": "4117"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.60854781030,
-                    48.12386609160
+                    11.60860246039,
+                    48.12374557276
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "IP": "30",
-                "id": "41db",
-                "name": "41db",
-                "ref": "41db"
+                "ref": "4189",
+                "name": "4189",
+                "id": "4189",
+                "IP": "21"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.60850003345,
-                    48.12387817703
+                    11.60856530237,
+                    48.12369969274
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "IP": "27",
-                "id": "4135",
-                "name": "4135",
-                "ref": "4135"
+                "IP": "20",
+                "id": "41e3",
+                "name": "41e3",
+                "ref": "41e3"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.60857111199,
-                    48.12388959105
+                    11.60839345768,
+                    48.12389415797
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "IP": "26",
-                "id": "4159",
-                "name": "4159",
-                "ref": "4159"
+                "IP": "24",
+                "id": "429b",
+                "name": "429b",
+                "ref": "429b"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.60854437380,
-                    48.12390917386
+                    11.60835345639,
+                    48.12386272830
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "IP": "29",
-                "id": "418f",
-                "name": "418f",
-                "ref": "418f"
+                "ref": "4133",
+                "name": "4133",
+                "id": "4133",
+                "IP": "19"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.60860866291,
-                    48.12389048626
+                    11.60843859410,
+                    48.12376991159
                 ]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "IP": "25",
-                "id": "42a7",
-                "name": "42a7",
-                "ref": "42a7"
+                "ref": "42bb",
+                "name": "42bb",
+                "id": "42bb",
+                "IP": "23"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.60854160781,
-                    48.12392842098
+                    11.60849886007,
+                    48.12383391966
                 ]
             }
         }
