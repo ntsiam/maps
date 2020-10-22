@@ -217,7 +217,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:09"
+        "name": "00_09"
       },
       "geometry": {
         "type": "LineString",
@@ -311,7 +311,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 08"
+        "name": "02_08"
       },
       "geometry": {
         "type": "LineString",
@@ -339,7 +339,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 15"
+        "name": "04_15"
       },
       "geometry": {
         "type": "LineString",
@@ -444,7 +444,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 04"
+        "name": "02_04"
       },
       "geometry": {
         "type": "LineString",
@@ -494,7 +494,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 10"
+        "name": "04_10"
       },
       "geometry": {
         "type": "LineString",
@@ -511,7 +511,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:02"
+        "name": "00_02"
       },
       "geometry": {
         "type": "LineString",
@@ -528,7 +528,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 09"
+        "name": "02_09"
       },
       "geometry": {
         "type": "LineString",
@@ -634,7 +634,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:00"
+        "name": "00_00"
       },
       "geometry": {
         "type": "LineString",
@@ -684,7 +684,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:15"
+        "name": "00_15"
       },
       "geometry": {
         "type": "LineString",
@@ -817,7 +817,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 16"
+        "name": "04_16"
       },
       "geometry": {
         "type": "LineString",
@@ -922,7 +922,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 00"
+        "name": "04_00"
       },
       "geometry": {
         "type": "LineString",
@@ -939,7 +939,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 16"
+        "name": "02_16"
       },
       "geometry": {
         "type": "LineString",
@@ -1017,7 +1017,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:16"
+        "name": "00_16"
       },
       "geometry": {
         "type": "LineString",
@@ -1134,7 +1134,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 02"
+        "name": "02_02"
       },
       "geometry": {
         "type": "LineString",
@@ -1173,7 +1173,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:11"
+        "name": "00_11"
       },
       "geometry": {
         "type": "LineString",
@@ -1267,7 +1267,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 17"
+        "name": "02_17"
       },
       "geometry": {
         "type": "LineString",
@@ -1284,7 +1284,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 14"
+        "name": "04_14"
       },
       "geometry": {
         "type": "LineString",
@@ -1539,7 +1539,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 12"
+        "name": "02_12"
       },
       "geometry": {
         "type": "LineString",
@@ -1611,7 +1611,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:14"
+        "name": "00_14"
       },
       "geometry": {
         "type": "LineString",
@@ -1722,7 +1722,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 09"
+        "name": "04_09"
       },
       "geometry": {
         "type": "LineString",
@@ -1816,7 +1816,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 13"
+        "name": "02_13"
       },
       "geometry": {
         "type": "LineString",
@@ -1988,7 +1988,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 00"
+        "name": "02_00"
       },
       "geometry": {
         "type": "LineString",
@@ -2049,7 +2049,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:08"
+        "name": "00_08"
       },
       "geometry": {
         "type": "LineString",
@@ -2143,7 +2143,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 05"
+        "name": "02_05"
       },
       "geometry": {
         "type": "LineString",
@@ -2182,7 +2182,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 02"
+        "name": "04_02"
       },
       "geometry": {
         "type": "LineString",
@@ -2243,7 +2243,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 12"
+        "name": "04_12"
       },
       "geometry": {
         "type": "LineString",
@@ -2388,7 +2388,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 07"
+        "name": "04_07"
       },
       "geometry": {
         "type": "LineString",
@@ -2405,7 +2405,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 06"
+        "name": "02_06"
       },
       "geometry": {
         "type": "LineString",
@@ -2510,7 +2510,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 03"
+        "name": "04_03"
       },
       "geometry": {
         "type": "LineString",
@@ -2599,7 +2599,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 06"
+        "name": "04_06"
       },
       "geometry": {
         "type": "LineString",
@@ -2644,7 +2644,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:06"
+        "name": "00_06"
       },
       "geometry": {
         "type": "LineString",
@@ -2694,7 +2694,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:03"
+        "name": "00_03"
       },
       "geometry": {
         "type": "LineString",
@@ -2722,7 +2722,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 14"
+        "name": "02_14"
       },
       "geometry": {
         "type": "LineString",
@@ -2800,7 +2800,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 11"
+        "name": "04_11"
       },
       "geometry": {
         "type": "LineString",
@@ -2878,7 +2878,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:12"
+        "name": "00_12"
       },
       "geometry": {
         "type": "LineString",
@@ -3088,7 +3088,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 05"
+        "name": "04_05"
       },
       "geometry": {
         "type": "LineString",
@@ -3127,7 +3127,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 15"
+        "name": "02_15"
       },
       "geometry": {
         "type": "LineString",
@@ -3144,7 +3144,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:07"
+        "name": "00_07"
       },
       "geometry": {
         "type": "LineString",
@@ -3294,7 +3294,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 08"
+        "name": "04_08"
       },
       "geometry": {
         "type": "LineString",
@@ -3383,7 +3383,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:13"
+        "name": "00_13"
       },
       "geometry": {
         "type": "LineString",
@@ -3455,7 +3455,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:10"
+        "name": "00_10"
       },
       "geometry": {
         "type": "LineString",
@@ -3610,7 +3610,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 04"
+        "name": "04_04"
       },
       "geometry": {
         "type": "LineString",
@@ -3666,7 +3666,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:04"
+        "name": "00_04"
       },
       "geometry": {
         "type": "LineString",
@@ -3727,7 +3727,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 10"
+        "name": "02_10"
       },
       "geometry": {
         "type": "LineString",
@@ -3816,7 +3816,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 13"
+        "name": "04_13"
       },
       "geometry": {
         "type": "LineString",
@@ -3844,7 +3844,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 03"
+        "name": "02_03"
       },
       "geometry": {
         "type": "LineString",
@@ -3977,7 +3977,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:17"
+        "name": "00_17"
       },
       "geometry": {
         "type": "LineString",
@@ -4160,7 +4160,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 01"
+        "name": "04_01"
       },
       "geometry": {
         "type": "LineString",
@@ -4199,7 +4199,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:05"
+        "name": "00_05"
       },
       "geometry": {
         "type": "LineString",
@@ -4227,7 +4227,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 07"
+        "name": "02_07"
       },
       "geometry": {
         "type": "LineString",
@@ -4277,7 +4277,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 11"
+        "name": "02_11"
       },
       "geometry": {
         "type": "LineString",
@@ -4477,7 +4477,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "00:01"
+        "name": "00_01"
       },
       "geometry": {
         "type": "LineString",
@@ -4582,7 +4582,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "02_ 01"
+        "name": "02_01"
       },
       "geometry": {
         "type": "LineString",
@@ -4610,7 +4610,7 @@
       "type": "Feature",
       "properties": {
         "building": "yes",
-        "name": "04_ 17"
+        "name": "04_17"
       },
       "geometry": {
         "type": "LineString",
