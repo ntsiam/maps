@@ -7,7 +7,8 @@
             "type": "Feature",
             "properties": {
                 "building": "yes",
-                "level": "0"
+                "level": "0",
+                "name": "ariadne_office"
             },
             "geometry": {
                 "type": "Polygon",
