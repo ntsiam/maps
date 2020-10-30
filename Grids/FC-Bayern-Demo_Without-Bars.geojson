@@ -1,0 +1,5587 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52580625666,
+                    48.12585585707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52548314271,
+                    48.12581991100
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 10"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52542928965,
+                        48.12581991148
+                    ],
+                    [
+                        11.52548314271,
+                        48.12581991100
+                    ],
+                    [
+                        11.52548321863,
+                        48.12581649596
+                    ],
+                    [
+                        11.52545613725,
+                        48.12581011489
+                    ],
+                    [
+                        11.52545254883,
+                        48.12581668913
+                    ],
+                    [
+                        11.52542929339,
+                        48.12581247239
+                    ],
+                    [
+                        11.52542928965,
+                        48.12581991148
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_02"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52503078414,
+                        48.12585134628
+                    ],
+                    [
+                        11.52502385663,
+                        48.12585578011
+                    ],
+                    [
+                        11.52505242421,
+                        48.12585583019
+                    ],
+                    [
+                        11.52505242072,
+                        48.12581989078
+                    ],
+                    [
+                        11.52499856951,
+                        48.12581988628
+                    ],
+                    [
+                        11.52498117873,
+                        48.12581993375
+                    ],
+                    [
+                        11.52503078414,
+                        48.12585134628
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52521396893,
+                    48.12585581735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510627315,
+                    48.12574801287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "03_ 05"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52516012275,
+                        48.12578396263
+                    ],
+                    [
+                        11.52521397581,
+                        48.12578396215
+                    ],
+                    [
+                        11.52521368918,
+                        48.12576316028
+                    ],
+                    [
+                        11.52518486006,
+                        48.12576860491
+                    ],
+                    [
+                        11.52517527476,
+                        48.12574798233
+                    ],
+                    [
+                        11.52516012111,
+                        48.12574801819
+                    ],
+                    [
+                        11.52516012275,
+                        48.12578396263
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569855349,
+                    48.12578397143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 04"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52510626745,
+                        48.12581987049
+                    ],
+                    [
+                        11.52516012052,
+                        48.12581987002
+                    ],
+                    [
+                        11.52516011703,
+                        48.12578393058
+                    ],
+                    [
+                        11.52510626581,
+                        48.12578392608
+                    ],
+                    [
+                        11.52510626745,
+                        48.12581987049
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52580626247,
+                    48.12585588866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52553699282,
+                    48.12585588863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52537543871,
+                    48.12581993093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 15"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52569855513,
+                        48.12581991585
+                    ],
+                    [
+                        11.52575240820,
+                        48.12581991537
+                    ],
+                    [
+                        11.52575240471,
+                        48.12578397594
+                    ],
+                    [
+                        11.52569855349,
+                        48.12578397143
+                    ],
+                    [
+                        11.52569855513,
+                        48.12581991585
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505241845,
+                    48.12571206888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52580626515,
+                    48.12578400173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559083595,
+                    48.12574803971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505242421,
+                    48.12585583019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52537544010,
+                    48.12574804760
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559085966,
+                    48.12585590512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559084370,
+                    48.12574806587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516012176,
+                    48.12574801640
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52499856772,
+                    48.12581986200
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575240746,
+                    48.12589179681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516011402,
+                    48.12574799024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "04_ 09"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52537543817,
+                        48.12574805303
+                    ],
+                    [
+                        11.52542929123,
+                        48.12574805255
+                    ],
+                    [
+                        11.52542928774,
+                        48.12571211307
+                    ],
+                    [
+                        11.52537543653,
+                        48.12571210857
+                    ],
+                    [
+                        11.52537543817,
+                        48.12574805303
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52542959528,
+                    48.12578279132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510626706,
+                    48.12571207241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_12"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52553699282,
+                        48.12585588863
+                    ],
+                    [
+                        11.52559084588,
+                        48.12585588816
+                    ],
+                    [
+                        11.52559084239,
+                        48.12581994875
+                    ],
+                    [
+                        11.52556493132,
+                        48.12581984760
+                    ],
+                    [
+                        11.52554663785,
+                        48.12584179126
+                    ],
+                    [
+                        11.52553689582,
+                        48.12583881993
+                    ],
+                    [
+                        11.52553699282,
+                        48.12585588863
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52494471692,
+                    48.12581985174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559084012,
+                    48.12571212684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "04_ 03"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52505242009,
+                        48.12574801334
+                    ],
+                    [
+                        11.52510627315,
+                        48.12574801287
+                    ],
+                    [
+                        11.52510626967,
+                        48.12571207338
+                    ],
+                    [
+                        11.52505241845,
+                        48.12571206888
+                    ],
+                    [
+                        11.52505242009,
+                        48.12574801334
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510627089,
+                    48.12585583916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569855638,
+                    48.12574806222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575241208,
+                    48.12578400221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505242009,
+                    48.12574801334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52548313839,
+                    48.12585585351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "00:04"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52510626672,
+                        48.12589175193
+                    ],
+                    [
+                        11.52516011978,
+                        48.12589175146
+                    ],
+                    [
+                        11.52516011629,
+                        48.12585581207
+                    ],
+                    [
+                        11.52510626507,
+                        48.12585580757
+                    ],
+                    [
+                        11.52510626672,
+                        48.12589175193
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "03_ 08"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52532158996,
+                        48.12578398887
+                    ],
+                    [
+                        11.52537544303,
+                        48.12578398839
+                    ],
+                    [
+                        11.52537543954,
+                        48.12574804893
+                    ],
+                    [
+                        11.52532158832,
+                        48.12574804443
+                    ],
+                    [
+                        11.52532158996,
+                        48.12578398887
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52499856896,
+                    48.12574800838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52542932645,
+                    48.12578396101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52548314038,
+                    48.12571211835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510627162,
+                    48.12578395767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52532167550,
+                    48.12581988476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569855047,
+                    48.12578401645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "03_ 11"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52548331720,
+                        48.12576606604
+                    ],
+                    [
+                        11.52553665349,
+                        48.12577949001
+                    ],
+                    [
+                        11.52553699452,
+                        48.12574806368
+                    ],
+                    [
+                        11.52548316080,
+                        48.12574802773
+                    ],
+                    [
+                        11.52548331720,
+                        48.12576606604
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52542928509,
+                    48.12574802627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52542929339,
+                    48.12581247239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52497366036,
+                    48.12585570543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "04_ 05"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52516011983,
+                        48.12574802183
+                    ],
+                    [
+                        11.52517527476,
+                        48.12574821230
+                    ],
+                    [
+                        11.52516436144,
+                        48.12572341467
+                    ],
+                    [
+                        11.52521396940,
+                        48.12571208187
+                    ],
+                    [
+                        11.52516011819,
+                        48.12571207737
+                    ],
+                    [
+                        11.52516011983,
+                        48.12574802183
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52537546758,
+                    48.12578395865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505242495,
+                    48.12578394871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505242063,
+                    48.12581989124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52499856608,
+                    48.12578391759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52553699063,
+                    48.12574806635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52548316080,
+                    48.12574802773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575241237,
+                    48.12578400255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52580626321,
+                    48.12578400717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_05"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52516012201,
+                        48.12585584412
+                    ],
+                    [
+                        11.52521397507,
+                        48.12585584364
+                    ],
+                    [
+                        11.52521397159,
+                        48.12581990423
+                    ],
+                    [
+                        11.52516012037,
+                        48.12581989973
+                    ],
+                    [
+                        11.52516012201,
+                        48.12585584412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52580625830,
+                    48.12589180143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52542946444,
+                    48.12574805422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52580626083,
+                    48.12581994427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "03_ 02"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52499857189,
+                        48.12578394918
+                    ],
+                    [
+                        11.52505242495,
+                        48.12578394871
+                    ],
+                    [
+                        11.52505242146,
+                        48.12574800925
+                    ],
+                    [
+                        11.52499857025,
+                        48.12574800474
+                    ],
+                    [
+                        11.52499857189,
+                        48.12578394918
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510626925,
+                    48.12581989477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52537544035,
+                    48.12585587532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569855057,
+                    48.12574803063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52499856731,
+                    48.12589173814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "00:13"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52559081824,
+                        48.12587619007
+                    ],
+                    [
+                        11.52561968983,
+                        48.12585589525
+                    ],
+                    [
+                        11.52559085966,
+                        48.12585590512
+                    ],
+                    [
+                        11.52559081824,
+                        48.12587619007
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52564469774,
+                    48.12578401163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510626507,
+                    48.12585580757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505241884,
+                    48.12581986696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52489086386,
+                    48.12581985222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516011620,
+                    48.12585581253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 12"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52556504117,
+                        48.12581995051
+                    ],
+                    [
+                        11.52559084245,
+                        48.12581991949
+                    ],
+                    [
+                        11.52559083896,
+                        48.12578398006
+                    ],
+                    [
+                        11.52556777373,
+                        48.12578417363
+                    ],
+                    [
+                        11.52558792843,
+                        48.12579144637
+                    ],
+                    [
+                        11.52556504117,
+                        48.12581995051
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_11"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52548314420,
+                        48.12585588510
+                    ],
+                    [
+                        11.52553699727,
+                        48.12585588462
+                    ],
+                    [
+                        11.52553690765,
+                        48.12583880264
+                    ],
+                    [
+                        11.52551618132,
+                        48.12583225145
+                    ],
+                    [
+                        11.52552096159,
+                        48.12582545300
+                    ],
+                    [
+                        11.52549753396,
+                        48.12581996250
+                    ],
+                    [
+                        11.52548314256,
+                        48.12581994071
+                    ],
+                    [
+                        11.52548314420,
+                        48.12585588510
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52564469357,
+                    48.12581992445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510627190,
+                    48.12581986649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52526782854,
+                    48.12578396698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_06"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52521397474,
+                        48.12585584894
+                    ],
+                    [
+                        11.52526782780,
+                        48.12585584847
+                    ],
+                    [
+                        11.52526782432,
+                        48.12581990906
+                    ],
+                    [
+                        11.52521397310,
+                        48.12581990455
+                    ],
+                    [
+                        11.52521397474,
+                        48.12585584894
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52489086803,
+                    48.12578393940
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575241134,
+                    48.12585588370
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559081824,
+                    48.12587619007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "03_ 13"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52559084468,
+                        48.12578401210
+                    ],
+                    [
+                        11.52564469774,
+                        48.12578401163
+                    ],
+                    [
+                        11.52564469426,
+                        48.12574807217
+                    ],
+                    [
+                        11.52559084304,
+                        48.12574806766
+                    ],
+                    [
+                        11.52559084468,
+                        48.12578401210
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52553699727,
+                    48.12585588462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52499857189,
+                    48.12578394918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52532167967,
+                    48.12578397194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52494471499,
+                    48.12581985718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52494471261,
+                    48.12585579425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52521397310,
+                    48.12581990455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "03_ 03"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52505242301,
+                        48.12578395414
+                    ],
+                    [
+                        11.52510627607,
+                        48.12578395366
+                    ],
+                    [
+                        11.52510627259,
+                        48.12574801420
+                    ],
+                    [
+                        11.52505242137,
+                        48.12574800970
+                    ],
+                    [
+                        11.52505242301,
+                        48.12578395414
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52580626098,
+                    48.12581991456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516012052,
+                    48.12581987002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510626870,
+                    48.12574801687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 01"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52494471499,
+                        48.12581985718
+                    ],
+                    [
+                        11.52494676936,
+                        48.12581979005
+                    ],
+                    [
+                        11.52496201428,
+                        48.12580771686
+                    ],
+                    [
+                        11.52498130762,
+                        48.12581979022
+                    ],
+                    [
+                        11.52499856805,
+                        48.12581985670
+                    ],
+                    [
+                        11.52499856456,
+                        48.12578391727
+                    ],
+                    [
+                        11.52494471335,
+                        48.12578391277
+                    ],
+                    [
+                        11.52494471499,
+                        48.12581985718
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52526782437,
+                    48.12581987980
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569854755,
+                    48.12574807565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "04_ 12"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52553699063,
+                        48.12574806635
+                    ],
+                    [
+                        11.52559084370,
+                        48.12574806587
+                    ],
+                    [
+                        11.52559084021,
+                        48.12571212639
+                    ],
+                    [
+                        11.52553698899,
+                        48.12571212188
+                    ],
+                    [
+                        11.52553699063,
+                        48.12574806635
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52542929090,
+                    48.12574805786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516011983,
+                    48.12574802183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516011978,
+                    48.12589175146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "03_ 06"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52521397548,
+                        48.12578396746
+                    ],
+                    [
+                        11.52526782854,
+                        48.12578396698
+                    ],
+                    [
+                        11.52526765280,
+                        48.12575308684
+                    ],
+                    [
+                        11.52521380158,
+                        48.12576297100
+                    ],
+                    [
+                        11.52521397548,
+                        48.12578396746
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516012275,
+                    48.12578396263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 02"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52499856772,
+                        48.12581986200
+                    ],
+                    [
+                        11.52505242078,
+                        48.12581986153
+                    ],
+                    [
+                        11.52505241729,
+                        48.12578392209
+                    ],
+                    [
+                        11.52499856608,
+                        48.12578391759
+                    ],
+                    [
+                        11.52499856772,
+                        48.12581986200
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559084468,
+                    48.12578401210
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52532167893,
+                    48.12585585343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559084662,
+                    48.12578400667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_13"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52559084394,
+                        48.12585589359
+                    ],
+                    [
+                        11.52564469700,
+                        48.12585589311
+                    ],
+                    [
+                        11.52564469352,
+                        48.12581995370
+                    ],
+                    [
+                        11.52559084230,
+                        48.12581994920
+                    ],
+                    [
+                        11.52559084394,
+                        48.12585589359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_03"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52505242227,
+                        48.12585583563
+                    ],
+                    [
+                        11.52510627533,
+                        48.12585583515
+                    ],
+                    [
+                        11.52510627185,
+                        48.12581989574
+                    ],
+                    [
+                        11.52505242063,
+                        48.12581989124
+                    ],
+                    [
+                        11.52505242227,
+                        48.12585583563
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569855439,
+                    48.12589179728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52526782780,
+                    48.12585584847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52499857222,
+                    48.12578394388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 14"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52564469324,
+                        48.12581992975
+                    ],
+                    [
+                        11.52569854630,
+                        48.12581992928
+                    ],
+                    [
+                        11.52569854282,
+                        48.12578398984
+                    ],
+                    [
+                        11.52564469160,
+                        48.12578398534
+                    ],
+                    [
+                        11.52564469324,
+                        48.12581992975
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505242301,
+                    48.12578395414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 09"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52537546922,
+                        48.12581990306
+                    ],
+                    [
+                        11.52542932228,
+                        48.12581990259
+                    ],
+                    [
+                        11.52542929057,
+                        48.12581247560
+                    ],
+                    [
+                        11.52541992382,
+                        48.12581072927
+                    ],
+                    [
+                        11.52542931880,
+                        48.12578396315
+                    ],
+                    [
+                        11.52537546758,
+                        48.12578395865
+                    ],
+                    [
+                        11.52537546922,
+                        48.12581990306
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569854973,
+                    48.12585589794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52549753778,
+                    48.12581994291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52526782587,
+                    48.12585585390
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575240553,
+                    48.12585585211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52553698482,
+                    48.12574803476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52489086729,
+                    48.12585582088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52532158996,
+                    48.12578398887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52526782661,
+                    48.12578397241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52521397548,
+                    48.12578396746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510626289,
+                    48.12574798528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510626745,
+                    48.12581987049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52564469449,
+                    48.12574807613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52489086729,
+                        48.12585582088
+                    ],
+                    [
+                        11.52497366036,
+                        48.12585570543
+                    ],
+                    [
+                        11.52493135165,
+                        48.12583169110
+                    ],
+                    [
+                        11.52494689706,
+                        48.12581985585
+                    ],
+                    [
+                        11.52489086565,
+                        48.12581987650
+                    ],
+                    [
+                        11.52489086729,
+                        48.12585582088
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559084230,
+                    48.12581994920
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559084051,
+                    48.12581992493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516011858,
+                    48.12581987545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "03_ 12"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52553664904,
+                        48.12577951557
+                    ],
+                    [
+                        11.52555054754,
+                        48.12578322501
+                    ],
+                    [
+                        11.52555343292,
+                        48.12577904245
+                    ],
+                    [
+                        11.52556777373,
+                        48.12578408739
+                    ],
+                    [
+                        11.52559084662,
+                        48.12578400667
+                    ],
+                    [
+                        11.52559084313,
+                        48.12574806721
+                    ],
+                    [
+                        11.52553699192,
+                        48.12574806271
+                    ],
+                    [
+                        11.52553664904,
+                        48.12577951557
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575241044,
+                    48.12574805777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 16"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52575240791,
+                        48.12581991503
+                    ],
+                    [
+                        11.52580626098,
+                        48.12581991456
+                    ],
+                    [
+                        11.52580625749,
+                        48.12578397512
+                    ],
+                    [
+                        11.52575240627,
+                        48.12578397062
+                    ],
+                    [
+                        11.52575240791,
+                        48.12581991503
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559084304,
+                    48.12574806766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505242137,
+                    48.12574800970
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52580626441,
+                    48.12585588322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "04_ 13"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52559084176,
+                        48.12574807130
+                    ],
+                    [
+                        11.52564469482,
+                        48.12574807083
+                    ],
+                    [
+                        11.52564469134,
+                        48.12571213134
+                    ],
+                    [
+                        11.52559084012,
+                        48.12571212684
+                    ],
+                    [
+                        11.52559084176,
+                        48.12574807130
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52580625904,
+                    48.12581991999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "03_ 14"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52564469741,
+                        48.12578401693
+                    ],
+                    [
+                        11.52569855047,
+                        48.12578401645
+                    ],
+                    [
+                        11.52569854699,
+                        48.12574807699
+                    ],
+                    [
+                        11.52564469577,
+                        48.12574807249
+                    ],
+                    [
+                        11.52564469741,
+                        48.12578401693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_08"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52532158922,
+                        48.12585587036
+                    ],
+                    [
+                        11.52537544229,
+                        48.12585586988
+                    ],
+                    [
+                        11.52537543880,
+                        48.12581993047
+                    ],
+                    [
+                        11.52532158758,
+                        48.12581992597
+                    ],
+                    [
+                        11.52532158922,
+                        48.12585587036
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569854630,
+                    48.12581992928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505241720,
+                    48.12578392255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52494471916,
+                    48.12578394436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "00:02"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52499856698,
+                        48.12589174344
+                    ],
+                    [
+                        11.52504668129,
+                        48.12589171271
+                    ],
+                    [
+                        11.52505242004,
+                        48.12588674116
+                    ],
+                    [
+                        11.52505241655,
+                        48.12585580358
+                    ],
+                    [
+                        11.52502437328,
+                        48.12585572271
+                    ],
+                    [
+                        11.52500094566,
+                        48.12587136056
+                    ],
+                    [
+                        11.52499873760,
+                        48.12587051707
+                    ],
+                    [
+                        11.52499856698,
+                        48.12589174344
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52494472109,
+                    48.12578393892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52537543454,
+                    48.12585584373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52548314256,
+                    48.12581994071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52542928727,
+                    48.12585584855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "03_ 15"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52569855930,
+                        48.12578400302
+                    ],
+                    [
+                        11.52575241237,
+                        48.12578400255
+                    ],
+                    [
+                        11.52575240888,
+                        48.12574806309
+                    ],
+                    [
+                        11.52569855766,
+                        48.12574805858
+                    ],
+                    [
+                        11.52569855930,
+                        48.12578400302
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52521397131,
+                    48.12581988028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559084245,
+                    48.12581991949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52529418104,
+                    48.12574791300
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52489086222,
+                    48.12578390781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52521397581,
+                    48.12578396215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52521397474,
+                    48.12585584894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575240627,
+                    48.12578397062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510626581,
+                    48.12578392608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 07"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52526782243,
+                        48.12581988524
+                    ],
+                    [
+                        11.52532167550,
+                        48.12581988476
+                    ],
+                    [
+                        11.52532167201,
+                        48.12578394533
+                    ],
+                    [
+                        11.52526782079,
+                        48.12578394082
+                    ],
+                    [
+                        11.52526782243,
+                        48.12581988524
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52564469285,
+                    48.12571213167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52494471335,
+                    48.12578391277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559084588,
+                    48.12585588816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52553698865,
+                    48.12589180140
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52548317818,
+                    48.12581645957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52537547175,
+                    48.12574801705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52542928965,
+                    48.12581991148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52532158704,
+                    48.12574804807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52580625740,
+                    48.12578397558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "00:14"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52561764737,
+                        48.12589158122
+                    ],
+                    [
+                        11.52569854556,
+                        48.12589181071
+                    ],
+                    [
+                        11.52569854208,
+                        48.12585587133
+                    ],
+                    [
+                        11.52564469086,
+                        48.12585586683
+                    ],
+                    [
+                        11.52563917636,
+                        48.12585595259
+                    ],
+                    [
+                        11.52564503314,
+                        48.12585940220
+                    ],
+                    [
+                        11.52565674695,
+                        48.12586627251
+                    ],
+                    [
+                        11.52561764737,
+                        48.12589158122
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52532167674,
+                    48.12574803114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "04_ 11"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52548316086,
+                        48.12574802598
+                    ],
+                    [
+                        11.52553699508,
+                        48.12574806234
+                    ],
+                    [
+                        11.52553699160,
+                        48.12571212285
+                    ],
+                    [
+                        11.52548314038,
+                        48.12571211835
+                    ],
+                    [
+                        11.52548316086,
+                        48.12574802598
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52564469086,
+                    48.12585586683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "03_ 07"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52526782661,
+                        48.12578397241
+                    ],
+                    [
+                        11.52532167967,
+                        48.12578397194
+                    ],
+                    [
+                        11.52532167618,
+                        48.12574803248
+                    ],
+                    [
+                        11.52529418104,
+                        48.12574791300
+                    ],
+                    [
+                        11.52526777944,
+                        48.12575373155
+                    ],
+                    [
+                        11.52526782661,
+                        48.12578397241
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510626672,
+                    48.12589175193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52564469577,
+                    48.12574807249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52553665349,
+                    48.12577949001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52553699192,
+                    48.12574806271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52556504117,
+                    48.12581995051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52537544229,
+                    48.12585586988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52564469482,
+                    48.12574807083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52499856930,
+                    48.12574800308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "03_ 10"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52542959528,
+                        48.12578279132
+                    ],
+                    [
+                        11.52543870051,
+                        48.12575562290
+                    ],
+                    [
+                        11.52547562119,
+                        48.12575997361
+                    ],
+                    [
+                        11.52547504765,
+                        48.12576404560
+                    ],
+                    [
+                        11.52548320856,
+                        48.12576611532
+                    ],
+                    [
+                        11.52548315686,
+                        48.12574802638
+                    ],
+                    [
+                        11.52542946444,
+                        48.12574805422
+                    ],
+                    [
+                        11.52542959528,
+                        48.12578279132
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52537547339,
+                    48.12578396149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52564469700,
+                    48.12585589311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52580626024,
+                    48.12589179599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52548316146,
+                    48.12574802684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569855692,
+                    48.12581994012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516011694,
+                    48.12578393104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "00:16"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52575240717,
+                        48.12589179647
+                    ],
+                    [
+                        11.52580626024,
+                        48.12589179599
+                    ],
+                    [
+                        11.52580625675,
+                        48.12585585661
+                    ],
+                    [
+                        11.52575240553,
+                        48.12585585211
+                    ],
+                    [
+                        11.52575240717,
+                        48.12589179647
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575240916,
+                    48.12574806141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569855275,
+                    48.12585585292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575240970,
+                    48.12581993931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575241163,
+                    48.12585588403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_15"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52569855856,
+                        48.12585588451
+                    ],
+                    [
+                        11.52575241163,
+                        48.12585588403
+                    ],
+                    [
+                        11.52575240814,
+                        48.12581994462
+                    ],
+                    [
+                        11.52569855692,
+                        48.12581994012
+                    ],
+                    [
+                        11.52569855856,
+                        48.12585588451
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510627607,
+                    48.12578395366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569854556,
+                    48.12589181071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52521397507,
+                    48.12585584364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52529331845,
+                    48.12574791664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569855856,
+                    48.12585588451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_07"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52526782587,
+                        48.12585585390
+                    ],
+                    [
+                        11.52532167893,
+                        48.12585585343
+                    ],
+                    [
+                        11.52532167544,
+                        48.12581991402
+                    ],
+                    [
+                        11.52526782423,
+                        48.12581990951
+                    ],
+                    [
+                        11.52526782587,
+                        48.12585585390
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52548316086,
+                    48.12574802598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52548331720,
+                    48.12576606604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516011784,
+                    48.12589175689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "04_ 08"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52532158704,
+                        48.12574804807
+                    ],
+                    [
+                        11.52537544010,
+                        48.12574804760
+                    ],
+                    [
+                        11.52537543662,
+                        48.12571210811
+                    ],
+                    [
+                        11.52532158540,
+                        48.12571210361
+                    ],
+                    [
+                        11.52532158704,
+                        48.12574804807
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52521396967,
+                    48.12578393587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52542929123,
+                    48.12574805255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52537544303,
+                    48.12578398839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52537546922,
+                    48.12581990306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52532158922,
+                    48.12585587036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559084394,
+                    48.12585589359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52499856951,
+                    48.12581988628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52499856315,
+                    48.12574797679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52526782006,
+                    48.12585582231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_14"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52564469667,
+                        48.12585589842
+                    ],
+                    [
+                        11.52569854973,
+                        48.12585589794
+                    ],
+                    [
+                        11.52569854625,
+                        48.12581995853
+                    ],
+                    [
+                        11.52564469503,
+                        48.12581995403
+                    ],
+                    [
+                        11.52564469667,
+                        48.12585589842
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52499856805,
+                    48.12581985670
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 00"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52489086386,
+                        48.12581985222
+                    ],
+                    [
+                        11.52494471692,
+                        48.12581985174
+                    ],
+                    [
+                        11.52494471344,
+                        48.12578391231
+                    ],
+                    [
+                        11.52489086222,
+                        48.12578390781
+                    ],
+                    [
+                        11.52489086386,
+                        48.12581985222
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575240717,
+                    48.12589179647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52499856698,
+                    48.12589174344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52548314614,
+                    48.12585587967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_04"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52510627089,
+                        48.12585583916
+                    ],
+                    [
+                        11.52516012395,
+                        48.12585583868
+                    ],
+                    [
+                        11.52516012046,
+                        48.12581989927
+                    ],
+                    [
+                        11.52510626925,
+                        48.12581989477
+                    ],
+                    [
+                        11.52510627089,
+                        48.12585583916
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52537543886,
+                    48.12581990122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52537543236,
+                    48.12574802144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559083887,
+                    48.12578398051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52489086565,
+                    48.12581987650
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 03"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52505241884,
+                        48.12581986696
+                    ],
+                    [
+                        11.52510627190,
+                        48.12581986649
+                    ],
+                    [
+                        11.52510626842,
+                        48.12578392705
+                    ],
+                    [
+                        11.52505241720,
+                        48.12578392255
+                    ],
+                    [
+                        11.52505241884,
+                        48.12581986696
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52561764737,
+                    48.12589158122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516012201,
+                    48.12585584412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52528263657,
+                    48.12571220213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52532158123,
+                    48.12574801648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52564469503,
+                    48.12581995403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52554663785,
+                    48.12584179126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_09"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52537544035,
+                        48.12585587532
+                    ],
+                    [
+                        11.52542929341,
+                        48.12585587484
+                    ],
+                    [
+                        11.52542928993,
+                        48.12581993543
+                    ],
+                    [
+                        11.52537543871,
+                        48.12581993093
+                    ],
+                    [
+                        11.52537544035,
+                        48.12585587532
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575240335,
+                    48.12574802982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52503078414,
+                    48.12585134628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52499873760,
+                    48.12587051707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52532158758,
+                    48.12581992597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52553698899,
+                    48.12571212188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569855513,
+                    48.12581991585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52559084176,
+                    48.12574807130
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52526782079,
+                    48.12578394082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52499857025,
+                    48.12574800474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 11"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52548314077,
+                        48.12581991644
+                    ],
+                    [
+                        11.52549753778,
+                        48.12581994291
+                    ],
+                    [
+                        11.52548317818,
+                        48.12581645957
+                    ],
+                    [
+                        11.52548314077,
+                        48.12581991644
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52542928926,
+                    48.12571211339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510627116,
+                    48.12589174792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505242203,
+                    48.12574800791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52526782243,
+                    48.12581988524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 06"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52521397131,
+                        48.12581988028
+                    ],
+                    [
+                        11.52526782437,
+                        48.12581987980
+                    ],
+                    [
+                        11.52526782089,
+                        48.12578394037
+                    ],
+                    [
+                        11.52521396967,
+                        48.12578393587
+                    ],
+                    [
+                        11.52521397131,
+                        48.12581988028
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52532158579,
+                    48.12581990169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52564469667,
+                    48.12585589842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52521397092,
+                    48.12571208219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "03_ 04"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52510627162,
+                        48.12578395767
+                    ],
+                    [
+                        11.52516012469,
+                        48.12578395720
+                    ],
+                    [
+                        11.52516012120,
+                        48.12574801774
+                    ],
+                    [
+                        11.52510626998,
+                        48.12574801323
+                    ],
+                    [
+                        11.52510627162,
+                        48.12578395767
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52537543817,
+                    48.12574805303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_10"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52542929308,
+                        48.12585588014
+                    ],
+                    [
+                        11.52548314614,
+                        48.12585587967
+                    ],
+                    [
+                        11.52548314266,
+                        48.12581994026
+                    ],
+                    [
+                        11.52542929144,
+                        48.12581993575
+                    ],
+                    [
+                        11.52542929308,
+                        48.12585588014
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510626998,
+                    48.12574801323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575240944,
+                    48.12574806175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52553664904,
+                    48.12577951557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516012037,
+                    48.12581989973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "00:03"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52505241810,
+                        48.12588680408
+                    ],
+                    [
+                        11.52506601761,
+                        48.12587550000
+                    ],
+                    [
+                        11.52509034962,
+                        48.12589205772
+                    ],
+                    [
+                        11.52510627116,
+                        48.12589174792
+                    ],
+                    [
+                        11.52510626768,
+                        48.12585580854
+                    ],
+                    [
+                        11.52505241646,
+                        48.12585580404
+                    ],
+                    [
+                        11.52505241810,
+                        48.12588680408
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52564469741,
+                    48.12578401693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 08"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52532158579,
+                        48.12581990169
+                    ],
+                    [
+                        11.52537543886,
+                        48.12581990122
+                    ],
+                    [
+                        11.52537543537,
+                        48.12578396178
+                    ],
+                    [
+                        11.52532158415,
+                        48.12578395728
+                    ],
+                    [
+                        11.52532158579,
+                        48.12581990169
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52489086148,
+                    48.12585578929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52542929341,
+                    48.12585587484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52537543653,
+                    48.12571210857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52521397164,
+                    48.12581987498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52532158832,
+                    48.12574804443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575240820,
+                    48.12581991537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505241428,
+                    48.12574798175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52510627533,
+                    48.12585583515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52542929308,
+                    48.12585588014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569855930,
+                    48.12578400302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516011819,
+                    48.12571207737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 05"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52516011858,
+                        48.12581987545
+                    ],
+                    [
+                        11.52521397164,
+                        48.12581987498
+                    ],
+                    [
+                        11.52521396816,
+                        48.12578393554
+                    ],
+                    [
+                        11.52516011694,
+                        48.12578393104
+                    ],
+                    [
+                        11.52516011858,
+                        48.12581987545
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516012111,
+                    48.12574801819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52564469160,
+                    48.12578398534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516436144,
+                    48.12572341467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52542929144,
+                    48.12581993575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "04_ 07"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52529331845,
+                        48.12574791664
+                    ],
+                    [
+                        11.52532167674,
+                        48.12574803114
+                    ],
+                    [
+                        11.52532167326,
+                        48.12571209165
+                    ],
+                    [
+                        11.52528263657,
+                        48.12571220213
+                    ],
+                    [
+                        11.52529331845,
+                        48.12574791664
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52532158415,
+                    48.12578395728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52553699508,
+                    48.12574806234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "04_ 04"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52510626870,
+                        48.12574801687
+                    ],
+                    [
+                        11.52516012176,
+                        48.12574801640
+                    ],
+                    [
+                        11.52516011828,
+                        48.12571207691
+                    ],
+                    [
+                        11.52510626706,
+                        48.12571207241
+                    ],
+                    [
+                        11.52510626870,
+                        48.12574801687
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52553699310,
+                    48.12589179740
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "03_ 09"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52537547339,
+                        48.12578396149
+                    ],
+                    [
+                        11.52542932645,
+                        48.12578396101
+                    ],
+                    [
+                        11.52542932297,
+                        48.12574802155
+                    ],
+                    [
+                        11.52537547175,
+                        48.12574801705
+                    ],
+                    [
+                        11.52537547339,
+                        48.12578396149
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52521380158,
+                    48.12576297100
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52532158341,
+                    48.12585583877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52548314077,
+                    48.12581991644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505241810,
+                    48.12588680408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505241646,
+                    48.12585580404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "04_ 10"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52542929090,
+                        48.12574805786
+                    ],
+                    [
+                        11.52548316146,
+                        48.12574802684
+                    ],
+                    [
+                        11.52548314047,
+                        48.12571211789
+                    ],
+                    [
+                        11.52542928926,
+                        48.12571211339
+                    ],
+                    [
+                        11.52542929090,
+                        48.12574805786
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52553698701,
+                    48.12585585704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52569855766,
+                    48.12574805858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "00:12"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52553698865,
+                        48.12589180140
+                    ],
+                    [
+                        11.52560610193,
+                        48.12589171277
+                    ],
+                    [
+                        11.52559102910,
+                        48.12588326137
+                    ],
+                    [
+                        11.52558517219,
+                        48.12588009931
+                    ],
+                    [
+                        11.52559102910,
+                        48.12587601737
+                    ],
+                    [
+                        11.52559083822,
+                        48.12585586154
+                    ],
+                    [
+                        11.52553698701,
+                        48.12585585704
+                    ],
+                    [
+                        11.52553698865,
+                        48.12589180140
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52564468868,
+                    48.12574804454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "00:15"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52569855439,
+                        48.12589179728
+                    ],
+                    [
+                        11.52575240746,
+                        48.12589179681
+                    ],
+                    [
+                        11.52575240397,
+                        48.12585585742
+                    ],
+                    [
+                        11.52569855275,
+                        48.12585585292
+                    ],
+                    [
+                        11.52569855439,
+                        48.12589179728
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516012469,
+                    48.12578395720
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52542932228,
+                    48.12581990259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52548314420,
+                    48.12585588510
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505242227,
+                    48.12585583563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505242078,
+                    48.12581986153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52526782423,
+                    48.12581990951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52532158540,
+                    48.12571210361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52564469324,
+                    48.12581992975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "02_ 13"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52559084051,
+                        48.12581992493
+                    ],
+                    [
+                        11.52564469357,
+                        48.12581992445
+                    ],
+                    [
+                        11.52564469009,
+                        48.12578398502
+                    ],
+                    [
+                        11.52559083887,
+                        48.12578398051
+                    ],
+                    [
+                        11.52559084051,
+                        48.12581992493
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52575240791,
+                    48.12581991503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52505242004,
+                    48.12588674116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52547562119,
+                    48.12575997361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "name": "01_16"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        11.52575241134,
+                        48.12585588370
+                    ],
+                    [
+                        11.52580626441,
+                        48.12585588322
+                    ],
+                    [
+                        11.52580626092,
+                        48.12581994381
+                    ],
+                    [
+                        11.52575240970,
+                        48.12581993931
+                    ],
+                    [
+                        11.52575241134,
+                        48.12585588370
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "building": "yes",
+                "id": "GRID"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.52516012395,
+                    48.12585583868
+                ]
+            }
+        }
+    ]
+}
