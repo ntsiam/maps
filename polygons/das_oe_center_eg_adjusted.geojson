@@ -8,6 +8,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Cafe im Ö"
             },
             "geometry": {
@@ -59,6 +60,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "BOX"
             },
             "geometry": {
@@ -138,6 +140,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "22:00",
                 "name": "REWE"
             },
             "geometry": {
@@ -237,6 +240,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Favors! by cbr"
             },
             "geometry": {
@@ -272,6 +276,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Hintereingang"
             },
             "geometry": {
@@ -327,6 +332,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Parfümerie Akzente"
             },
             "geometry": {
@@ -390,6 +396,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Tally Weijl"
             },
             "geometry": {
@@ -433,6 +440,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Bruzzes Weinwelt"
             },
             "geometry": {
@@ -476,6 +484,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Takko Fashion"
             },
             "geometry": {
@@ -519,6 +528,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Optikwelt"
             },
             "geometry": {
@@ -554,6 +564,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Woll-Studio"
             },
             "geometry": {
@@ -601,6 +612,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Kinderbetreuung"
             },
             "geometry": {
@@ -644,6 +656,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Setzer"
             },
             "geometry": {
@@ -679,6 +692,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Haupteingang"
             },
             "geometry": {
@@ -758,6 +772,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Toni Tänzer Platform"
             },
             "geometry": {
@@ -809,6 +824,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Trendstore"
             },
             "geometry": {
@@ -856,6 +872,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Alona Schmuck"
             },
             "geometry": {
@@ -891,6 +908,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Penny"
             },
             "geometry": {
@@ -930,6 +948,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Sparkasse"
             },
             "geometry": {
@@ -965,6 +984,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Kamps"
             },
             "geometry": {
@@ -1000,6 +1020,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Grabert"
             },
             "geometry": {
@@ -1239,6 +1260,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Telekom Shop"
             },
             "geometry": {
@@ -1290,6 +1312,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Quickschuh"
             },
             "geometry": {
@@ -1329,6 +1352,7 @@
             "properties": {
                 "building": "yes",
                 "level": "0",
+		"closingHour": "19:00",
                 "name": "Schlüsseldienst Phonerep"
             },
             "geometry": {
