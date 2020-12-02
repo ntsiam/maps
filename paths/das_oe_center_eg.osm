@@ -80,6 +80,8 @@
     <nd ref='-559862' />
     <nd ref='-559863' />
     <nd ref='-559864' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-505857' action='modify' visible='true'>
     <nd ref='-559851' />
@@ -89,43 +91,61 @@
     <nd ref='-559868' />
     <nd ref='-559869' />
     <nd ref='-559852' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-505866' action='modify' visible='true'>
     <nd ref='-559871' />
     <nd ref='-559872' />
     <nd ref='-559874' />
     <nd ref='-559873' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-505869' action='modify' visible='true'>
     <nd ref='-559874' />
     <nd ref='-559875' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-505870' action='modify' visible='true'>
     <nd ref='-559876' />
     <nd ref='-559877' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-505872' action='modify' visible='true'>
     <nd ref='-559878' />
     <nd ref='-559877' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-505873' action='modify' visible='true'>
     <nd ref='-559879' />
     <nd ref='-559880' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-505875' action='modify' visible='true'>
     <nd ref='-559881' />
     <nd ref='-559882' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-505877' action='modify' visible='true'>
     <nd ref='-559883' />
     <nd ref='-559884' />
     <nd ref='-559885' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-505880' action='modify' visible='true'>
     <nd ref='-559848' />
     <nd ref='-559886' />
     <nd ref='-559887' />
     <nd ref='-559859' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-505883' action='modify' visible='true'>
     <nd ref='-559855' />
@@ -134,23 +154,33 @@
     <nd ref='-559895' />
     <nd ref='-559890' />
     <nd ref='-559889' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-505886' action='modify' visible='true'>
     <nd ref='-559890' />
     <nd ref='-559891' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-505887' action='modify' visible='true'>
     <nd ref='-559892' />
     <nd ref='-559893' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-505889' action='modify' visible='true'>
     <nd ref='-559894' />
     <nd ref='-559898' />
     <nd ref='-559895' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
   <way id='-505891' action='modify' visible='true'>
     <nd ref='-559896' />
     <nd ref='-559897' />
     <nd ref='-559898' />
+    <tag k='highway' v='footway' />
+    <tag k='level' v='0' />
   </way>
 </osm>
