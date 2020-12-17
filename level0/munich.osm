@@ -32396,6 +32396,53 @@
   <node id='-585033' action='modify' lat='1.36260076842' lon='103.99004696657' />
   <node id='-585034' action='modify' lat='1.36154721003' lon='103.99190208196' />
   <node id='-585035' action='modify' lat='1.35659691039' lon='103.98719161951' />
+  <node id='-585036' action='modify' lat='48.11537156759' lon='11.59734627568' />
+  <node id='-585037' action='modify' lat='48.11536165733' lon='11.59761776131' />
+  <node id='-585038' action='modify' lat='48.11532579185' lon='11.59721115965' />
+  <node id='-585039' action='modify' lat='48.11543849611' lon='11.59744182937' />
+  <node id='-585040' action='modify' lat='48.1154366938' lon='11.59747849228' />
+  <node id='-585041' action='modify' lat='48.11527623005' lon='11.59731952103' />
+  <node id='-585042' action='modify' lat='48.11536977686' lon='11.59741802477' />
+  <node id='-585043' action='modify' lat='48.11538902722' lon='11.59732900895' />
+  <node id='-585044' action='modify' lat='48.1154449875' lon='11.59722339697' />
+  <node id='-585045' action='modify' lat='48.11536283778' lon='11.59757543691' />
+  <node id='-585046' action='modify' lat='48.11539283252' lon='11.59721937366' />
+  <node id='-585047' action='modify' lat='48.11538544575' lon='11.59743780606' />
+  <node id='-585048' action='modify' lat='48.11538432655' lon='11.59747485407' />
+  <node id='-585049' action='modify' lat='48.11532993308' lon='11.59732364454' />
+  <node id='-585050' action='modify' lat='48.11525091696' lon='11.59760997035' />
+  <node id='-585051' action='modify' lat='48.11526009448' lon='11.59731794484' />
+  <node id='-585052' action='modify' lat='48.11532635162' lon='11.59741534256' />
+  <node id='-585053' action='modify' lat='48.11531157808' lon='11.59732297398' />
+  <node id='-585054' action='modify' lat='48.11538522175' lon='11.59757761645' />
+  <node id='-585055' action='modify' lat='48.11531532725' lon='11.59721417713' />
+  <node id='-585056' action='modify' lat='48.1153743655' lon='11.59721820036' />
+  <node id='-585057' action='modify' lat='48.11532859004' lon='11.59734459929' />
+  <node id='-585058' action='modify' lat='48.11529523763' lon='11.59727871754' />
+  <node id='-585059' action='modify' lat='48.11533189153' lon='11.59722448687' />
+  <node id='-585060' action='modify' lat='48.11531952428' lon='11.597201269' />
+  <node id='-585061' action='modify' lat='48.11531734183' lon='11.59720084991' />
+  <node id='-585062' action='modify' lat='48.11543200495' lon='11.59762271051' />
+  <node id='-585063' action='modify' lat='48.11534588162' lon='11.59721719462' />
+  <node id='-585064' action='modify' lat='48.11531695011' lon='11.59721451241' />
+  <node id='-585065' action='modify' lat='48.11532702298' lon='11.59722088266' />
+  <node id='-585066' action='modify' lat='48.11532892563' lon='11.59722398396' />
+  <node id='-585067' action='modify' lat='48.11532467108' lon='11.59750305397' />
+  <node id='-585068' action='modify' lat='48.11532394516' lon='11.59720596287' />
+  <node id='-585069' action='modify' lat='48.11528583628' lon='11.59727368839' />
+  <node id='-585070' action='modify' lat='48.11532198654' lon='11.59720319684' />
+  <node id='-585071' action='modify' lat='48.11544230141' lon='11.59733236172' />
+  <node id='-585072' action='modify' lat='48.11537425358' lon='11.5972289292' />
+  <node id='-585073' action='modify' lat='48.1152746442' lon='11.59726597704' />
+  <node id='-585074' action='modify' lat='48.11531336881' lon='11.59728508778' />
+  <node id='-585075' action='modify' lat='48.11532601569' lon='11.59721644025' />
+  <node id='-585076' action='modify' lat='48.11533222729' lon='11.59721585351' />
+  <node id='-585077' action='modify' lat='48.11532142711' lon='11.59761365839' />
+  <node id='-585078' action='modify' lat='48.11530508667' lon='11.5972834114' />
+  <node id='-585079' action='modify' lat='48.11536574772' lon='11.59750603475' />
+  <node id='-585080' action='modify' lat='48.11538096893' lon='11.59757744856' />
+  <node id='-585081' action='modify' lat='48.11538385615' lon='11.59761932307' />
+  <node id='-585082' action='modify' lat='48.1153454899' lon='11.59722733672' />
   <node id='146726392' action='delete' timestamp='2012-09-03T11:56:19Z' uid='338611' user='marek kleciak' version='11' changeset='12965566' lat='48.2612337' lon='11.6689448' />
   <node id='214052676' action='delete' timestamp='2013-01-11T10:51:24Z' uid='118863' user='bstegmaier' version='10' changeset='14608381' lat='48.2620264' lon='11.6660662' />
   <node id='214052682' action='delete' timestamp='2013-01-11T10:51:24Z' uid='118863' user='bstegmaier' version='10' changeset='14608381' lat='48.2616818' lon='11.6659791' />
@@ -79893,6 +79940,124 @@
     <nd ref='-582914' />
     <tag k='building' v='yes' />
     <tag k='level' v='0' />
+  </way>
+  <way id='-517522' action='modify'>
+    <nd ref='-585036' />
+    <nd ref='-585057' />
+    <nd ref='-585052' />
+    <nd ref='-585042' />
+    <nd ref='-585036' />
+    <tag k='building' v='yes' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Connected Breakroom' />
+  </way>
+  <way id='-517523' action='modify'>
+    <nd ref='-585039' />
+    <nd ref='-585040' />
+    <nd ref='-585048' />
+    <nd ref='-585047' />
+    <nd ref='-585039' />
+    <tag k='building' v='yes' />
+  </way>
+  <way id='-517524' action='modify'>
+    <nd ref='-585079' />
+    <nd ref='-585067' />
+    <nd ref='-585077' />
+    <nd ref='-585037' />
+    <nd ref='-585079' />
+    <tag k='building' v='yes' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Stairs' />
+  </way>
+  <way id='-517525' action='modify'>
+    <nd ref='-585040' />
+    <nd ref='-585048' />
+    <nd ref='-585080' />
+    <nd ref='-585054' />
+    <nd ref='-585081' />
+    <nd ref='-585062' />
+    <nd ref='-585040' />
+    <tag k='building' v='yes' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Office 1' />
+  </way>
+  <way id='-517526' action='modify'>
+    <nd ref='-585053' />
+    <nd ref='-585041' />
+    <nd ref='-585051' />
+    <nd ref='-585050' />
+    <nd ref='-585077' />
+    <nd ref='-585067' />
+    <nd ref='-585049' />
+    <nd ref='-585053' />
+    <tag k='building' v='yes' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Connected Warehouse' />
+  </way>
+  <way id='-517527' action='modify'>
+    <nd ref='-585044' />
+    <nd ref='-585040' />
+    <nd ref='-585062' />
+    <nd ref='-585081' />
+    <nd ref='-585037' />
+    <nd ref='-585050' />
+    <nd ref='-585051' />
+    <nd ref='-585041' />
+    <nd ref='-585073' />
+    <nd ref='-585069' />
+    <nd ref='-585058' />
+    <nd ref='-585078' />
+    <nd ref='-585074' />
+    <nd ref='-585055' />
+    <nd ref='-585064' />
+    <nd ref='-585061' />
+    <nd ref='-585060' />
+    <nd ref='-585070' />
+    <nd ref='-585068' />
+    <nd ref='-585038' />
+    <nd ref='-585075' />
+    <nd ref='-585065' />
+    <nd ref='-585066' />
+    <nd ref='-585059' />
+    <nd ref='-585076' />
+    <nd ref='-585063' />
+    <nd ref='-585082' />
+    <nd ref='-585072' />
+    <nd ref='-585056' />
+    <nd ref='-585044' />
+    <tag k='building' v='yes' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Nokia Office' />
+  </way>
+  <way id='-517528' action='modify'>
+    <nd ref='-585071' />
+    <nd ref='-585039' />
+    <nd ref='-585047' />
+    <nd ref='-585043' />
+    <nd ref='-585071' />
+    <tag k='building' v='yes' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Curated Demos' />
+  </way>
+  <way id='-517529' action='modify'>
+    <nd ref='-585054' />
+    <nd ref='-585045' />
+    <nd ref='-585037' />
+    <nd ref='-585081' />
+    <nd ref='-585054' />
+    <tag k='building' v='yes' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Small Office' />
+  </way>
+  <way id='-517530' action='modify'>
+    <nd ref='-585044' />
+    <nd ref='-585046' />
+    <nd ref='-585043' />
+    <nd ref='-585071' />
+    <nd ref='-585044' />
+    <tag k='building' v='yes' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Collaboration Room' />
   </way>
   <way id='22757641' action='delete' timestamp='2015-09-11T11:04:29Z' uid='2385132' user='MENTZ_TU' version='10' changeset='33954623'>
     <tag k='amenity' v='parking' />
