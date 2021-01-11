@@ -7,7 +7,7 @@
             "type": "Feature",
             "properties": {
                 "building": "yes",
-                "closingHour": "19:00",
+                "closingHour": "19:30",
                 "level": "0",
                 "name": "Setzer"
             },
@@ -295,7 +295,7 @@
             "type": "Feature",
             "properties": {
                 "building": "yes",
-                "closingHour": "22:00",
+                "closingHour": "20:00",
                 "level": "0",
                 "name": "REWE"
             },
@@ -1143,7 +1143,7 @@
             "type": "Feature",
             "properties": {
                 "building": "yes",
-                "closingHour": "19:00",
+                "closingHour": "18:00",
                 "level": "0",
                 "name": "Schlüsseldienst Phonerep"
             },
