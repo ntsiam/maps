@@ -8,7 +8,8 @@
             "properties": {
                 "building": "yes",
                 "level": "1",
-                "name": "Intersport Grabert"
+                "name": "Intersport Grabert",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -110,16 +111,12 @@
                             49.20512226055
                         ],
                         [
-                            9.48816619746,
-                            49.20510824112
+                            9.48804333672,
+                            49.20504573768
                         ],
                         [
-                            9.48804315146,
-                            49.20504537245
-                        ],
-                        [
-                            9.48804658833,
-                            49.20504110070
+                            9.48804553663,
+                            49.20504106639
                         ],
                         [
                             9.48801121621,
@@ -141,26 +138,6 @@
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [
-                        9.48816217415,
-                        49.20500440956
-                    ],
-                    [
-                        9.48810953613,
-                        49.20498798027
-                    ],
-                    [
-                        9.48804658833,
-                        49.20504110070
-                    ],
-                    [
-                        9.48804315146,
-                        49.20504537245
-                    ],
-                    [
-                        9.48816619746,
-                        49.20510824112
-                    ],
                     [
                         9.48819838397,
                         49.20512226055
@@ -374,8 +351,8 @@
                         49.20503684376
                     ],
                     [
-                        9.48816217415,
-                        49.20500440956
+                        9.48819838397,
+                        49.20512226055
                     ]
                 ]
             }
@@ -385,7 +362,8 @@
             "properties": {
                 "building": "yes",
                 "level": "1",
-                "name": "Injoy"
+                "name": "Injoy",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -420,7 +398,8 @@
             "properties": {
                 "building": "yes",
                 "level": "1",
-                "name": "Vielseitig Bücher"
+                "name": "Vielseitig Bücher",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -535,7 +514,8 @@
             "properties": {
                 "building": "yes",
                 "level": "1",
-                "name": "Brautmoden Fabian"
+                "name": "Brautmoden Fabian",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -744,7 +724,8 @@
             "properties": {
                 "building": "yes",
                 "level": "1",
-                "name": "Shoetown Werdich"
+                "name": "Shoetown Werdich",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -851,7 +832,8 @@
             "properties": {
                 "building": "yes",
                 "level": "1",
-                "name": "Modehaus Bär"
+                "name": "Modehaus Bär",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -970,16 +952,12 @@
                             49.20512226055
                         ],
                         [
-                            9.48816619746,
-                            49.20510824112
+                            9.48804333672,
+                            49.20504573768
                         ],
                         [
-                            9.48804315146,
-                            49.20504537245
-                        ],
-                        [
-                            9.48804658833,
-                            49.20504110070
+                            9.48804553663,
+                            49.20504106639
                         ],
                         [
                             9.48801121621,
@@ -1030,7 +1008,8 @@
             "properties": {
                 "building": "yes",
                 "level": "1",
-                "name": "Haucks Schnitzelwelt"
+                "name": "Haucks Schnitzelwelt",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1057,8 +1036,8 @@
                             49.20473060403
                         ],
                         [
-                            9.48816217415,
-                            49.20500440956
+                            9.48816433164,
+                            49.20500154012
                         ],
                         [
                             9.48826664587,
@@ -1077,7 +1056,8 @@
             "properties": {
                 "building": "yes",
                 "level": "1",
-                "name": "Team 5"
+                "name": "Team 5",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",

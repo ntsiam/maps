@@ -9,7 +9,8 @@
                 "building": "yes",
                 "closingHour": "19:30",
                 "level": "0",
-                "name": "Setzer"
+                "name": "Setzer",
+                "state": "open"
             },
             "geometry": {
                 "type": "Polygon",
@@ -89,7 +90,8 @@
                 "building": "yes",
                 "closingHour": "19:00",
                 "level": "0",
-                "name": "Optikwelt"
+                "name": "Optikwelt",
+                "state": "open"
             },
             "geometry": {
                 "type": "Polygon",
@@ -125,7 +127,8 @@
                 "building": "yes",
                 "closingHour": "19:00",
                 "level": "0",
-                "name": "Bruzzes Weinwelt"
+                "name": "Bruzzes Weinwelt",
+                "state": "open"
             },
             "geometry": {
                 "type": "Polygon",
@@ -176,8 +179,8 @@
                 "coordinates": [
                     [
                         [
-                            9.48857991134,
-                            49.20505008219
+                            9.48856561194,
+                            49.20503930230
                         ],
                         [
                             9.48859438673,
@@ -224,20 +227,20 @@
                             49.20515874670
                         ],
                         [
-                            9.48844152001,
-                            49.20513664798
+                            9.48841415866,
+                            49.20513754630
                         ],
                         [
-                            9.48845577183,
-                            49.20510834640
+                            9.48843322278,
+                            49.20510583110
                         ],
                         [
-                            9.48849816804,
-                            49.20506954299
+                            9.48848620604,
+                            49.20505858344
                         ],
                         [
-                            9.48857991134,
-                            49.20505008219
+                            9.48856561194,
+                            49.20503930230
                         ]
                     ]
                 ]
@@ -249,7 +252,8 @@
                 "building": "yes",
                 "closingHour": "19:00",
                 "level": "0",
-                "name": "Woll-Studio"
+                "name": "Woll-Studio",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -297,7 +301,9 @@
                 "building": "yes",
                 "closingHour": "20:00",
                 "level": "0",
-                "name": "REWE"
+                "name": "REWE",
+                "state": "open",
+                "openingHour": "06:00"
             },
             "geometry": {
                 "type": "Polygon",
@@ -473,7 +479,8 @@
                 "building": "yes",
                 "closingHour": "19:00",
                 "level": "0",
-                "name": "Kamps"
+                "name": "Kamps",
+                "state": "open"
             },
             "geometry": {
                 "type": "Polygon",
@@ -513,7 +520,8 @@
                 "building": "yes",
                 "closingHour": "19:00",
                 "level": "0",
-                "name": "Takko Fashion"
+                "name": "Takko Fashion",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -557,7 +565,8 @@
                 "building": "yes",
                 "closingHour": "19:00",
                 "level": "0",
-                "name": "Toni Tänzer Platform"
+                "name": "Toni Tänzer Platform",
+                "state": "open"
             },
             "geometry": {
                 "type": "Polygon",
@@ -605,7 +614,8 @@
                 "building": "yes",
                 "closingHour": "19:00",
                 "level": "0",
-                "name": "Quickschuh"
+                "name": "Quickschuh",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -645,7 +655,8 @@
                 "building": "yes",
                 "closingHour": "19:00",
                 "level": "0",
-                "name": "Trendstore"
+                "name": "Trendstore",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -745,7 +756,8 @@
                 "building": "yes",
                 "closingHour": "19:00",
                 "level": "0",
-                "name": "Alona Schmuck"
+                "name": "Alona Schmuck",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -781,7 +793,8 @@
                 "building": "yes",
                 "closingHour": "22:00",
                 "level": "0",
-                "name": "REWE2"
+                "name": "REWE2",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -871,9 +884,10 @@
             "type": "Feature",
             "properties": {
                 "building": "yes",
-                "closingHour": "19:00",
+                "closingHour": "17:00",
                 "level": "0",
-                "name": "Grabert"
+                "name": "Grabert",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1025,7 +1039,8 @@
                 "building": "yes",
                 "closingHour": "19:00",
                 "level": "0",
-                "name": "Tally Weijl"
+                "name": "Tally Weijl",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1069,7 +1084,8 @@
                 "building": "yes",
                 "closingHour": "19:00",
                 "level": "0",
-                "name": "Favors! by cbr"
+                "name": "Favors! by cbr",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1105,7 +1121,8 @@
                 "building": "yes",
                 "closingHour": "19:00",
                 "level": "0",
-                "name": "Sparkasse"
+                "name": "Sparkasse",
+                "state": "open"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1145,7 +1162,8 @@
                 "building": "yes",
                 "closingHour": "18:00",
                 "level": "0",
-                "name": "Schlüsseldienst Phonerep"
+                "name": "Schlüsseldienst Phonerep",
+                "state": "open"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1221,7 +1239,8 @@
                 "building": "yes",
                 "closingHour": "19:00",
                 "level": "0",
-                "name": "Parfümerie Akzente"
+                "name": "Parfümerie Akzente",
+                "state": "closed"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1285,7 +1304,8 @@
                 "building": "yes",
                 "closingHour": "19:00",
                 "level": "0",
-                "name": "BOX"
+                "name": "BOX",
+                "state": "open"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1300,20 +1320,20 @@
                             49.20505992777
                         ],
                         [
-                            9.48857991134,
-                            49.20505008219
+                            9.48856561194,
+                            49.20503930230
                         ],
                         [
-                            9.48849901603,
-                            49.20506965000
+                            9.48848691654,
+                            49.20505922945
                         ],
                         [
-                            9.48845577183,
-                            49.20510834640
+                            9.48843322278,
+                            49.20510583110
                         ],
                         [
-                            9.48844227780,
-                            49.20513688682
+                            9.48841532893,
+                            49.20513760548
                         ],
                         [
                             9.48843340826,
