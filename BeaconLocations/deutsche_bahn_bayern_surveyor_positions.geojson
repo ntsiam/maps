@@ -1,0 +1,112 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "156f",
+                "name": "156f",
+                "id": "156f"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64822147720,
+                    48.09283777906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "16d1",
+                "name": "16d1",
+                "id": "16d1"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74520009622,
+                    48.02393475425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "17ef",
+                "name": "17ef",
+                "ref": "17ef"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83176570863,
+                    47.95335333133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "16b9",
+                "name": "16b9",
+                "id": "16b9"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.83184751801,
+                    47.95340632288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "16d5",
+                "name": "16d5",
+                "ref": "16d5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74509683117,
+                    48.02404507992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "1839",
+                "name": "1839",
+                "ref": "1839"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.64825031094,
+                    48.09291436631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref": "18cb",
+                "name": "18cb",
+                "id": "18cb"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.74503379926,
+                    48.02388183372
+                ]
+            }
+        }
+    ]
+}
