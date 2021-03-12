@@ -231,7 +231,7 @@
                 "building": "yes",
                 "level": "1",
                 "name": "Modehaus Bär",
-                "state": "closed"
+                "state": "open"
             },
             "geometry": {
                 "type": "Polygon",
@@ -869,7 +869,7 @@
                 "building": "yes",
                 "level": "1",
                 "name": "Intersport Grabert",
-                "state": "closed"
+                "state": "open"
             },
             "geometry": {
                 "type": "Polygon",
